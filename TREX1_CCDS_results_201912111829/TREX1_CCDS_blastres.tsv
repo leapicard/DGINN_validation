@@ -1,0 +1,77 @@
+# BLASTN 2.10.0+
+# Query: homSap_TREX1_CCDS2769
+# Database: nt_v5					
+# Fields: subject id, ?
+# 345 hits found
+gi|1676336633|ref|NM_001271023.2| Homo sapiens ATR interacting protein (ATRIP), transcript variant 4, mRNA
+gi|1675002435|ref|NM_032166.4| Homo sapiens ATR interacting protein (ATRIP), transcript variant 2, mRNA
+gi|1519312741|ref|NM_033629.6| Homo sapiens three prime repair exonuclease 1 (TREX1), transcript variant 4, mRNA
+gi|1519311650|ref|NM_130384.3| Homo sapiens ATR interacting protein (ATRIP), transcript variant 1, mRNA
+gi|1335348724|ref|NR_153405.1| Homo sapiens ATRIP-TREX1 readthrough (ATRIP-TREX1), long non-coding RNA
+gi|1023301093|ref|NG_009820.2| Homo sapiens three prime repair exonuclease 1 (TREX1), RefSeqGene on chromosome 3
+gi|699964221|ref|NG_041782.1| Homo sapiens ATR interacting protein (ATRIP), RefSeqGene on chromosome 3
+gi|164693998|dbj|AK315196.1| Homo sapiens cDNA, FLJ96181, Homo sapiens three prime repair exonuclease 1 (TREX1), transcriptvariant 1, mRNA
+gi|24942951|gb|AC134772.2| Homo sapiens chromosome 3 clone RP13-794C1, complete sequence
+gi|442565707|ref|NG_033100.1| Homo sapiens shisa family member 5 (SHISA5), RefSeqGene on chromosome 3
+gi|183583660|gb|AC216093.4| Homo sapiens FOSMID clone ABC11-49468000E5 from chromosome 3, complete sequence
+gi|182888322|gb|BC160084.1| Synthetic construct Homo sapiens clone IMAGE:100064020, MGC:193199 three prime repair exonuclease 1 (TREX1) mRNA, encodes complete protein
+gi|23272144|gb|BC023630.1| Homo sapiens three prime repair exonuclease 1, mRNA (cDNA clone IMAGE:4843138), complete cds
+gi|19774522|gb|AC104448.2| Homo sapiens chromosome 3 clone RP11-24C3, complete sequence
+gi|18921086|gb|AF483777.1| Homo sapiens three prime repair exonuclease 1 (TREX1) gene, complete cds
+gi|17865432|gb|AF151105.3|AF151105 Homo sapiens 3'-5' exonuclease TREX1 mRNA, complete cds
+gi|12751314|gb|AF319569.1|AF319569 Homo sapiens clone T1P1 3'-5' exonuclease TREX1 (TREX1) mRNA, complete cds
+gi|12751312|gb|AF319568.1|AF319568 Homo sapiens clone T1P2 3'-5' exonuclease TREX1-like protein (TREX1) mRNA, complete cds
+gi|12751310|gb|AF319567.1|AF319567 Homo sapiens clone T1P3 3'-5' exonuclease TREX1 (TREX1) mRNA, complete cds
+gi|12751308|gb|AF319566.1|AF319566 Homo sapiens clone T1P4 3'-5' exonuclease TREX1 (TREX1) mRNA, complete cds
+gi|6808326|emb|AL137745.1| Homo sapiens mRNA; cDNA DKFZp434J0310 (from clone DKFZp434J0310)
+gi|649106957|gb|KJ893273.1| Synthetic construct Homo sapiens clone ccsbBroadEn_02667 TREX1 gene, encodes complete protein
+gi|823672647|gb|KR711153.1| Synthetic construct Homo sapiens clone CCSBHm_00020857 TREX1 (TREX1) mRNA, encodes complete protein
+gi|823672645|gb|KR711152.1| Synthetic construct Homo sapiens clone CCSBHm_00020848 TREX1 (TREX1) mRNA, encodes complete protein
+gi|823672643|gb|KR711151.1| Synthetic construct Homo sapiens clone CCSBHm_00020846 TREX1 (TREX1) mRNA, encodes complete protein
+gi|1674995326|ref|NM_007248.5| Homo sapiens three prime repair exonuclease 1 (TREX1), transcript variant 5, mRNA
+gi|5524926|emb|AJ243797.1| Homo sapiens mRNA for deoxyribonuclease III (drn3 gene)
+gi|1384965610|ref|XM_008971723.2| PREDICTED: Pan paniscus three prime repair exonuclease 1 (TREX1), mRNA
+gi|1367271054|ref|XM_024355459.1| PREDICTED: Pan troglodytes three prime repair exonuclease 1 (TREX1), transcript variant X2, mRNA
+gi|152013338|gb|AC191234.2| Pan troglodytes BAC clone CH251-456N17 from chromosome 3, complete sequence
+gi|1753067542|ref|XM_031009822.1| PREDICTED: Gorilla gorilla gorilla three prime repair exonuclease 1 (TREX1), mRNA
+gi|1753067540|ref|XM_019023468.2| PREDICTED: Gorilla gorilla gorilla ATR interacting protein (ATRIP), mRNA
+gi|54696967|gb|BT020053.1| Homo sapiens three prime repair exonuclease 1 mRNA, complete cds >gi|61358089|gb|AY888559.1| Synthetic construct Homo sapiens clone FLH008934.01X three prime repair exonuclease 1 (TREX1) mRNA, complete cds
+gi|54696965|gb|BT020052.1| Homo sapiens three prime repair exonuclease 1 mRNA, complete cds >gi|61358084|gb|AY888558.1| Synthetic construct Homo sapiens clone FLH008933.01X three prime repair exonuclease 1 (TREX1) mRNA, complete cds
+gi|48146354|emb|CR457119.1| Homo sapiens full open reading frame cDNA clone RZPDo834B0212D for gene TREX1, three prime repair exonuclease 1; complete cds, incl. stopcodon
+gi|1351492397|ref|XM_002813784.3| PREDICTED: Pongo abelii three prime repair exonuclease 1 (TREX1), mRNA
+gi|1743211546|ref|XM_012497073.2| PREDICTED: Nomascus leucogenys three prime repair exonuclease 1 (TREX1), mRNA
+gi|1411137651|ref|XM_025377286.1| PREDICTED: Theropithecus gelada three prime repair exonuclease 1 (TREX1), transcript variant X1, mRNA
+gi|1411137649|ref|XM_025377285.1| PREDICTED: Theropithecus gelada ATR interacting protein (ATRIP), transcript variant X4, mRNA
+gi|1411137647|ref|XM_025377284.1| PREDICTED: Theropithecus gelada ATR interacting protein (ATRIP), transcript variant X3, mRNA
+gi|1411137645|ref|XM_025377283.1| PREDICTED: Theropithecus gelada ATR interacting protein (ATRIP), transcript variant X2, mRNA
+gi|1411137643|ref|XM_025377282.1| PREDICTED: Theropithecus gelada ATR interacting protein (ATRIP), transcript variant X1, mRNA
+gi|795140722|ref|XM_011980989.1| PREDICTED: Mandrillus leucophaeus three prime repair exonuclease 1 (TREX1), transcript variant X1, mRNA
+gi|1622906704|ref|XM_002802809.3| PREDICTED: Macaca mulatta three prime repair exonuclease 1 (TREX1), mRNA
+gi|982234454|ref|XM_005547019.2| PREDICTED: Macaca fascicularis three prime repair exonuclease 1 (TREX1), mRNA
+gi|1059100725|ref|XM_017868164.1| PREDICTED: Rhinopithecus bieti three prime repair exonuclease 1 (TREX1), mRNA
+gi|795460742|ref|XM_012033552.1| PREDICTED: Cercocebus atys three prime repair exonuclease 1 (TREX1), mRNA
+gi|635118549|ref|XM_007984121.1| PREDICTED: Chlorocebus sabaeus three prime repair exonuclease 1 (TREX1), mRNA
+gi|22507477|gb|BC019863.1| Homo sapiens, clone IMAGE:5109215, mRNA
+gi|1751186270|ref|XM_010370420.2| PREDICTED: Rhinopithecus roxellana three prime repair exonuclease 1 (TREX1), mRNA
+gi|1482592520|ref|XM_023231427.2| PREDICTED: Piliocolobus tephrosceles three prime repair exonuclease 1 (TREX1), mRNA
+gi|795150769|ref|XM_011939170.1| PREDICTED: Colobus angolensis palliatus ATR interacting protein (ATRIP), transcript variant X3, mRNA
+gi|795150765|ref|XM_011939169.1| PREDICTED: Colobus angolensis palliatus ATR interacting protein (ATRIP), transcript variant X2, mRNA
+gi|795150758|ref|XM_011939168.1| PREDICTED: Colobus angolensis palliatus ATR interacting protein (ATRIP), transcript variant X1, mRNA
+gi|795150750|ref|XM_011939166.1| PREDICTED: Colobus angolensis palliatus three prime repair exonuclease 1 (TREX1), transcript variant X2, mRNA
+gi|1411137653|ref|XM_025377287.1| PREDICTED: Theropithecus gelada three prime repair exonuclease 1 (TREX1), transcript variant X2, mRNA
+gi|795140727|ref|XM_011980990.1| PREDICTED: Mandrillus leucophaeus three prime repair exonuclease 1 (TREX1), transcript variant X2, mRNA
+gi|1381521010|ref|XM_011739222.2| PREDICTED: Macaca nemestrina three prime repair exonuclease 1 (TREX1), mRNA
+gi|795150753|ref|XM_011939167.1| PREDICTED: Colobus angolensis palliatus three prime repair exonuclease 1 (TREX1), transcript variant X3, mRNA
+gi|168743034|emb|CU692815.1| Synthetic construct Homo sapiens gateway clone IMAGE:100021943 3' read TREX1 mRNA
+gi|1367271051|ref|XM_024355458.1| PREDICTED: Pan troglodytes three prime repair exonuclease 1 (TREX1), transcript variant X1, mRNA
+gi|1212394748|ref|XM_012467648.2| PREDICTED: Aotus nancymaae three prime repair exonuclease 1 (TREX1), mRNA
+gi|1060954201|ref|XM_008981595.2| PREDICTED: Callithrix jacchus three prime repair exonuclease 1 (TREX1), mRNA
+gi|1044331435|ref|XM_017515007.1| PREDICTED: Cebus capucinus imitator three prime repair exonuclease 1 (TREX1), mRNA
+gi|725564248|ref|XM_010337062.1| PREDICTED: Saimiri boliviensis boliviensis three prime repair exonuclease 1 (TREX1), mRNA
+gi|795150745|ref|XM_011939165.1| PREDICTED: Colobus angolensis palliatus three prime repair exonuclease 1 (TREX1), transcript variant X1, mRNA
+gi|1149780018|ref|XM_012771177.2| PREDICTED: Microcebus murinus three prime repair exonuclease 1 (TREX1), mRNA
+gi|168743033|emb|CU692814.1| Synthetic construct Homo sapiens gateway clone IMAGE:100021943 5' read TREX1 mRNA
+gi|826264567|ref|XM_012648359.1| PREDICTED: Propithecus coquereli three prime repair exonuclease 1 (TREX1), mRNA
+gi|640800398|ref|XM_008058257.1| PREDICTED: Carlito syrichta three prime repair exonuclease 1 (TREX1), mRNA
+gi|1327819243|ref|XM_003800560.3| PREDICTED: Otolemur garnettii three prime repair exonuclease 1 (TREX1), mRNA
+gi|1751186263|ref|XR_004052920.1| PREDICTED: Rhinopithecus roxellana ATR interacting protein (ATRIP), transcript variant X2, misc_RNA

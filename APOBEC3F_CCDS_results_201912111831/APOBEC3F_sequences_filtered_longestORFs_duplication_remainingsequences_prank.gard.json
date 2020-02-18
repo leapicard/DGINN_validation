@@ -1,0 +1,27 @@
+{
+ "rateMatrix":[
+  [-0.9930736316062371, 0.2251461050361831, 0.5618103117760089, 0.206117214794045],
+  [0.2144387172546742, -0.9763092846915515, 0.2097251389378143, 0.5521454284990631],
+  [0.5744370141216961, 0.2251461050361831, -1.005700333951924, 0.206117214794045],
+  [0.2144387172546742, 0.6031198935242449, 0.2097251389378143, -1.027283749716733]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas",
+   "number of sequences":10,
+   "number of sites":1470,
+   "partition count":2
+  },
+ "timeElapsed":20,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":1095,
+ "likelihoodScores":[
+  [-3140.899625813182, -3284.927913030849],
+  [-429.6477044586649, -428.59750144635]
+  ],
+ "pairwiseP":[
+  [0, 0.0001],
+  [0.257, 0]
+  ],
+ "singleTreeAICc":7242.002380680614
+}

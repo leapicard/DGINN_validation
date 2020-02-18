@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-1.000212773952284, 0.1851960309217983, 0.6329095592558972, 0.1821071837745889],
+  [0.1839143961628469, -0.9945177580808985, 0.1839149714028644, 0.6266883905151871],
+  [0.6329075796731414, 0.1851960309217983, -1.000210794369529, 0.1821071837745889],
+  [0.1839143961628469, 0.6373180900531696, 0.1839149714028644, -1.005147457618881]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_prank_mincov_prank.best.fas",
+   "number of sequences":187,
+   "number of sites":10251,
+   "partition count":2
+  },
+ "timeElapsed":50,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":10235
+}

@@ -1,0 +1,161 @@
+2019-12-11 18:27:26,212 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2019-12-11 18:27:26,213 - main - INFO - Reading input file /home/lpicard/2019_validation/21genes_GBP5_CCDS.fasta
+2019-12-11 18:27:26,213 - main - INFO - Output directory: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/
+2019-12-11 18:27:26,213 - main - INFO - Analysis will begin at the blast step
+2019-12-11 18:27:26,232 - main - INFO - Running Blast
+2019-12-11 18:27:26,232 - main - INFO - Database search on nr will be limited to Primates[Organism]
+2019-12-11 19:27:12,699 - main - INFO - Blast results written to: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/21genes_GBP5_CCDS_blastres.tsv, 233 sequences retrieved.
+2019-12-11 19:27:12,708 - main - INFO - Extracted gene accessions from blast results
+2019-12-11 19:27:12,724 - main - INFO - Wrote all accessions to /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_accns.txt
+2019-12-11 19:27:20,615 - main - INFO - Remote option on, downloaded gene IDs and sequences from NCBI databases (27 different species represented in the retrieved sequences).
+2019-12-11 19:27:20,616 - main - INFO - Deleted 0 sequences due to excessive length.
+2019-12-11 19:27:20,870 - main - INFO - Deleted 32 sequences as duplicates
+2019-12-11 19:27:20,875 - main - INFO - Extracted longest ORFs: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs.fasta
+2019-12-11 19:27:20,875 - main - INFO - Started Prank codon alignment
+2019-12-11 20:53:30,411 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_prank.best.fas
+2019-12-11 20:53:30,543 - main - INFO - Discarding sequences with less than 50% coverage of query.
+2019-12-11 20:53:30,585 - main - INFO - Discarded 6 sequences
+2019-12-11 20:53:30,585 - main - INFO - Started Prank codon alignment
+2019-12-11 22:05:07,819 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-12-11 22:05:07,894 - main - INFO - Running PhyML to produce gene phylogenetic tree
+2019-12-11 22:15:31,369 - main - INFO - Reconstructed tree using PhyML: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_prank_mincov_prank.phylip_phyml_tree.txt
+2019-12-11 22:15:31,579 - main - INFO - Looking for long branches.
+2019-12-11 22:15:31,591 - main - INFO - No long branches found.
+2019-12-11 22:15:31,857 - main - INFO - Cleaning the tree
+2019-12-11 22:15:31,858 - main - INFO - Running Treerecs
+2019-12-11 22:15:37,050 - main - INFO - 90 duplications detected by Treerecs, extracting 4 groups of at least 8 orthologs.
+2019-12-11 22:15:37,050 - main - INFO - Started Prank codon alignment
+2019-12-11 22:25:51,155 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D487gp1_prank.best.fas
+2019-12-11 22:26:32,653 - main - INFO - Started Prank codon alignment
+2019-12-11 22:32:16,591 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D487gp2_prank.best.fas
+2019-12-11 22:32:32,795 - main - INFO - Started Prank codon alignment
+2019-12-11 22:41:17,536 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-11 22:41:37,531 - main - INFO - Started Prank codon alignment
+2019-12-11 22:50:23,354 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-11 22:50:42,842 - main - INFO - Started Prank codon alignment
+2019-12-11 22:59:27,453 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-11 22:59:47,691 - main - INFO - Started Prank codon alignment
+2019-12-11 23:08:47,736 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-11 23:09:07,985 - main - INFO - Started Prank codon alignment
+2019-12-11 23:18:04,519 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-11 23:18:23,983 - main - INFO - Started Prank codon alignment
+2019-12-11 23:27:10,053 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-11 23:27:29,745 - main - INFO - Started Prank codon alignment
+2019-12-11 23:36:16,669 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-11 23:36:36,664 - main - INFO - Started Prank codon alignment
+2019-12-11 23:45:26,767 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-11 23:45:46,403 - main - INFO - Started Prank codon alignment
+2019-12-11 23:54:31,758 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-11 23:54:51,266 - main - INFO - Started Prank codon alignment
+2019-12-12 00:03:37,052 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:03:57,090 - main - INFO - Started Prank codon alignment
+2019-12-12 00:12:42,751 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:13:02,805 - main - INFO - Started Prank codon alignment
+2019-12-12 00:21:51,460 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:22:11,446 - main - INFO - Started Prank codon alignment
+2019-12-12 00:30:56,533 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:31:16,434 - main - INFO - Started Prank codon alignment
+2019-12-12 00:40:02,043 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:40:21,648 - main - INFO - Started Prank codon alignment
+2019-12-12 00:49:07,462 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:49:26,931 - main - INFO - Started Prank codon alignment
+2019-12-12 00:58:12,302 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:58:32,423 - main - INFO - Started Prank codon alignment
+2019-12-12 01:07:19,023 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:07:39,322 - main - INFO - Started Prank codon alignment
+2019-12-12 01:16:25,709 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:16:46,544 - main - INFO - Started Prank codon alignment
+2019-12-12 01:25:36,629 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:25:56,953 - main - INFO - Started Prank codon alignment
+2019-12-12 01:34:49,953 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:35:09,366 - main - INFO - Started Prank codon alignment
+2019-12-12 01:43:53,949 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:44:13,568 - main - INFO - Started Prank codon alignment
+2019-12-12 01:52:58,532 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:53:18,304 - main - INFO - Started Prank codon alignment
+2019-12-12 02:02:04,669 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:02:24,225 - main - INFO - Started Prank codon alignment
+2019-12-12 02:11:13,815 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:11:33,672 - main - INFO - Started Prank codon alignment
+2019-12-12 02:20:18,409 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:20:37,969 - main - INFO - Started Prank codon alignment
+2019-12-12 02:29:24,102 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:29:43,578 - main - INFO - Started Prank codon alignment
+2019-12-12 02:38:29,408 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:38:48,846 - main - INFO - Started Prank codon alignment
+2019-12-12 02:53:27,461 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D760gp1_prank.best.fas
+2019-12-12 02:54:49,652 - main - INFO - Started Prank codon alignment
+2019-12-12 03:01:35,897 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D760gp2_prank.best.fas
+2019-12-12 03:02:06,490 - main - INFO - Started Prank codon alignment
+2019-12-12 03:10:51,650 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:11:11,096 - main - INFO - Started Prank codon alignment
+2019-12-12 03:19:59,669 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:20:19,540 - main - INFO - Started Prank codon alignment
+2019-12-12 03:29:10,484 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:29:29,837 - main - INFO - Started Prank codon alignment
+2019-12-12 03:38:14,335 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:38:33,703 - main - INFO - Started Prank codon alignment
+2019-12-12 03:47:19,374 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:47:38,776 - main - INFO - Started Prank codon alignment
+2019-12-12 03:56:22,795 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:56:42,216 - main - INFO - Started Prank codon alignment
+2019-12-12 04:05:30,692 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:05:50,034 - main - INFO - Started Prank codon alignment
+2019-12-12 04:14:34,476 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:14:54,273 - main - INFO - Started Prank codon alignment
+2019-12-12 04:23:42,687 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:24:02,133 - main - INFO - Started Prank codon alignment
+2019-12-12 04:32:50,855 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:33:10,794 - main - INFO - Started Prank codon alignment
+2019-12-12 04:41:59,964 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:42:19,452 - main - INFO - Started Prank codon alignment
+2019-12-12 04:51:07,134 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:51:26,480 - main - INFO - Started Prank codon alignment
+2019-12-12 05:00:11,445 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 05:00:30,814 - main - INFO - Started Prank codon alignment
+2019-12-12 05:09:15,653 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 05:09:35,063 - main - INFO - Started Prank codon alignment
+2019-12-12 05:18:20,281 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 05:18:39,753 - main - INFO - Started Prank codon alignment
+2019-12-12 05:27:26,001 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 05:27:45,505 - main - INFO - Started Prank codon alignment
+2019-12-12 05:36:32,517 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 05:36:51,992 - main - INFO - Started Prank codon alignment
+2019-12-12 05:45:44,259 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 05:46:03,918 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-12-12 07:36:51,944 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-12 07:43:03,922 - main - INFO - Extracted GARD results.
+2019-12-12 07:43:03,923 - main - INFO - There are 1 significant breakpoints in alignement /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_prank_mincov_prank.best.fas at positions [1316]
+2019-12-12 07:43:03,980 - main - INFO - Parsed GARD results.
+2019-12-12 07:43:03,980 - main - INFO - Running Phyml on fragment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_prank_mincov_prank_frag0to1317.best.fas
+2019-12-12 07:46:25,699 - main - INFO - Running Phyml on fragment: /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_prank_mincov_prank_frag1316to5382.best.fas
+2019-12-12 07:57:46,042 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D487gp1_prank.best.fas
+2019-12-12 07:59:26,845 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-12 07:59:33,761 - main - INFO - Extracted GARD results.
+2019-12-12 07:59:33,762 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D487gp1_prank.best.fas.
+2019-12-12 07:59:33,762 - main - INFO - Parsed GARD results.
+2019-12-12 07:59:33,762 - main - INFO - No fragments of recombination identified.
+2019-12-12 07:59:33,763 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D487gp2_prank.best.fas
+2019-12-12 08:00:35,571 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-12 08:00:43,287 - main - INFO - Extracted GARD results.
+2019-12-12 08:00:43,287 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D487gp2_prank.best.fas.
+2019-12-12 08:00:43,288 - main - INFO - Parsed GARD results.
+2019-12-12 08:00:43,288 - main - INFO - No fragments of recombination identified.
+2019-12-12 08:00:43,288 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 08:01:36,486 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-12 08:01:39,493 - main - INFO - Extracted GARD results.
+2019-12-12 08:01:39,494 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas.
+2019-12-12 08:01:39,494 - main - INFO - Parsed GARD results.
+2019-12-12 08:01:39,494 - main - INFO - No fragments of recombination identified.
+2019-12-12 08:01:39,494 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D760gp1_prank.best.fas
+2019-12-12 08:29:00,773 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-12 08:29:30,331 - main - INFO - Extracted GARD results.
+2019-12-12 08:29:30,332 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D760gp1_prank.best.fas.
+2019-12-12 08:29:30,332 - main - INFO - Parsed GARD results.
+2019-12-12 08:29:30,332 - main - INFO - No fragments of recombination identified.
+2019-12-12 08:29:30,333 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D760gp2_prank.best.fas
+2019-12-12 08:31:39,922 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-12 08:31:56,366 - main - INFO - Extracted GARD results.
+2019-12-12 08:31:56,367 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D760gp2_prank.best.fas.
+2019-12-12 08:31:56,367 - main - INFO - Parsed GARD results.
+2019-12-12 08:31:56,367 - main - INFO - No fragments of recombination identified.

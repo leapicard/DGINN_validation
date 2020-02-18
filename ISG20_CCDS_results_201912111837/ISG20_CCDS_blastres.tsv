@@ -1,0 +1,94 @@
+# BLASTN 2.10.0+
+# Query: homSap_ISG20_CCDS10345
+# Database: nt_v5					
+# Fields: subject id, ?
+# 169 hits found
+gi|1675178762|ref|NM_001303234.2| Homo sapiens interferon stimulated exonuclease gene 20 (ISG20), transcript variant 3, mRNA
+gi|1674985907|ref|NM_001303233.2| Homo sapiens interferon stimulated exonuclease gene 20 (ISG20), transcript variant 2, mRNA
+gi|1519246336|ref|NM_002201.6| Homo sapiens interferon stimulated exonuclease gene 20 (ISG20), transcript variant 1, mRNA
+gi|1034590489|ref|XM_006720488.3| PREDICTED: Homo sapiens interferon stimulated exonuclease gene 20 (ISG20), transcript variant X2, mRNA
+gi|1034590488|ref|XM_005254899.2| PREDICTED: Homo sapiens interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|92447030|gb|BC094819.1| Homo sapiens cDNA clone IMAGE:6110617, **** WARNING: chimeric clone ****
+gi|1367185595|ref|XM_016927381.2| PREDICTED: Pan troglodytes interferon stimulated exonuclease gene 20 (ISG20), transcript variant X4, mRNA
+gi|1367185591|ref|XM_016927379.2| PREDICTED: Pan troglodytes interferon stimulated exonuclease gene 20 (ISG20), transcript variant X2, mRNA
+gi|1034108343|ref|XM_016927380.1| PREDICTED: Pan troglodytes interferon stimulated exonuclease gene 20 (ISG20), transcript variant X3, mRNA
+gi|1034108339|ref|XM_016927378.1| PREDICTED: Pan troglodytes interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|33871974|gb|BC007922.2| Homo sapiens interferon stimulated exonuclease gene 20kDa, mRNA (cDNA clone MGC:14105 IMAGE:4309120), complete cds
+gi|6759540|emb|X89773.2| H.sapiens mRNA for gpISG20 protein
+gi|2062679|gb|U88964.1|HSU88964 Human HEM45 mRNA, complete cds
+gi|649101009|gb|KJ891489.1| Synthetic construct Homo sapiens clone ccsbBroadEn_00883 ISG20 gene, encodes complete protein
+gi|30582742|gb|BT006952.1| Homo sapiens interferon stimulated gene 20kDa mRNA, complete cds >gi|60656376|gb|AY889961.1| Synthetic construct Homo sapiens clone FLH023861.01X interferon stimulated gene (ISG20) mRNA, complete cds
+gi|931595657|ref|XM_014341574.1| PREDICTED: Pan paniscus interferon stimulated exonuclease gene 20 (ISG20), transcript variant X3, mRNA
+gi|931595651|ref|XM_014341572.1| PREDICTED: Pan paniscus interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA >gi|931595654|ref|XM_014341573.1| PREDICTED: Pan paniscus interferon stimulated exonuclease gene 20 (ISG20), transcript variant X2, mRNA
+gi|48146000|emb|CR456942.1| Homo sapiens full open reading frame cDNA clone RZPDo834A085D for gene ISG20, interferon stimulated gene 20kDa; complete cds, incl. stopcodon
+gi|1753044069|ref|XM_004056725.3| PREDICTED: Gorilla gorilla gorilla interferon stimulated exonuclease gene 20 (ISG20), transcript variant X3, mRNA
+gi|1753044068|ref|XM_004056726.3| PREDICTED: Gorilla gorilla gorilla interferon stimulated exonuclease gene 20 (ISG20), transcript variant X2, mRNA
+gi|1753044067|ref|XM_004056724.3| PREDICTED: Gorilla gorilla gorilla interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|164693332|dbj|AK307769.1| Homo sapiens cDNA, FLJ97717
+gi|1351444181|ref|XM_024232592.1| PREDICTED: Pongo abelii interferon stimulated exonuclease gene 20 (ISG20), transcript variant X3, mRNA
+gi|1351444177|ref|XM_024232591.1| PREDICTED: Pongo abelii interferon stimulated exonuclease gene 20 (ISG20), transcript variant X2, mRNA
+gi|1351444174|ref|XM_002825792.4| PREDICTED: Pongo abelii interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|1743219662|ref|XM_030814975.1| PREDICTED: Nomascus leucogenys interferon stimulated exonuclease gene 20 (ISG20), transcript variant X4, mRNA
+gi|1743219660|ref|XM_030814974.1| PREDICTED: Nomascus leucogenys interferon stimulated exonuclease gene 20 (ISG20), transcript variant X3, mRNA
+gi|1743219658|ref|XM_030814973.1| PREDICTED: Nomascus leucogenys interferon stimulated exonuclease gene 20 (ISG20), transcript variant X2, mRNA
+gi|1743219656|ref|XM_030814972.1| PREDICTED: Nomascus leucogenys interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|795199411|ref|XM_011948331.1| PREDICTED: Colobus angolensis palliatus interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X3, mRNA
+gi|795199404|ref|XM_011948330.1| PREDICTED: Colobus angolensis palliatus interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X2, mRNA
+gi|795199396|ref|XM_011948329.1| PREDICTED: Colobus angolensis palliatus interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X1, mRNA
+gi|1297710846|ref|XM_023187233.1| PREDICTED: Piliocolobus tephrosceles interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|795166508|ref|XM_011986301.1| PREDICTED: Mandrillus leucophaeus interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X4, mRNA
+gi|795166503|ref|XM_011986300.1| PREDICTED: Mandrillus leucophaeus interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X3, mRNA
+gi|795166498|ref|XM_011986299.1| PREDICTED: Mandrillus leucophaeus interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X2, mRNA
+gi|795166493|ref|XM_011986297.1| PREDICTED: Mandrillus leucophaeus interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X1, mRNA
+gi|1751279250|ref|XM_030930682.1| PREDICTED: Rhinopithecus roxellana interferon stimulated exonuclease gene 20 (ISG20), transcript variant X2, mRNA
+gi|1751279249|ref|XM_010362302.2| PREDICTED: Rhinopithecus roxellana interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|982259542|ref|XM_005560454.2| PREDICTED: Macaca fascicularis interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X2, mRNA
+gi|982259541|ref|XM_005560453.2| PREDICTED: Macaca fascicularis interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X1, mRNA
+gi|685552249|ref|XM_003901350.2| PREDICTED: Papio anubis interferon stimulated exonuclease gene 20 (ISG20), transcript variant X3, mRNA
+gi|1381442850|ref|XM_011752296.2| PREDICTED: Macaca nemestrina interferon stimulated exonuclease gene 20 (ISG20), transcript variant X2, mRNA
+gi|1059162162|ref|XM_017882053.1| PREDICTED: Rhinopithecus bieti interferon stimulated exonuclease gene 20 (ISG20), transcript variant X3, mRNA
+gi|1059162160|ref|XM_017882052.1| PREDICTED: Rhinopithecus bieti interferon stimulated exonuclease gene 20 (ISG20), transcript variant X2, mRNA
+gi|1059162158|ref|XM_017882051.1| PREDICTED: Rhinopithecus bieti interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|795379241|ref|XM_011752297.1| PREDICTED: Macaca nemestrina interferon stimulated exonuclease gene 20 (ISG20), transcript variant X3, mRNA
+gi|795379233|ref|XM_011752295.1| PREDICTED: Macaca nemestrina interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|795341077|ref|XM_012074399.1| PREDICTED: Cercocebus atys interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X3, mRNA
+gi|795341071|ref|XM_012074398.1| PREDICTED: Cercocebus atys interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X2, mRNA
+gi|795341065|ref|XM_012074397.1| PREDICTED: Cercocebus atys interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X1, mRNA
+gi|384475638|ref|NM_001258053.1| Macaca mulatta interferon stimulated exonuclease gene 20 (ISG20), mRNA
+gi|1411170119|ref|XM_025391987.1| PREDICTED: Theropithecus gelada interferon stimulated exonuclease gene 20 (ISG20), transcript variant X3, mRNA
+gi|1411170117|ref|XM_025391986.1| PREDICTED: Theropithecus gelada interferon stimulated exonuclease gene 20 (ISG20), transcript variant X2, mRNA
+gi|1411170115|ref|XM_025391985.1| PREDICTED: Theropithecus gelada interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|635140869|ref|XM_007990328.1| PREDICTED: Chlorocebus sabaeus interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X2, mRNA
+gi|635140867|ref|XM_007990327.1| PREDICTED: Chlorocebus sabaeus interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X1, mRNA
+gi|62255580|gb|AY968222.1| Cercopithecus aethiops interferon-stimulated protein mRNA, complete cds
+gi|1061002894|ref|XM_002749142.3| PREDICTED: Callithrix jacchus interferon stimulated exonuclease gene 20 (ISG20), mRNA
+gi|1044420186|ref|XM_017506122.1| PREDICTED: Cebus capucinus imitator interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|725553141|ref|XM_003921639.2| PREDICTED: Saimiri boliviensis boliviensis interferon stimulated exonuclease gene 20kDa (ISG20), mRNA
+gi|1743219666|ref|XM_030814977.1| PREDICTED: Nomascus leucogenys interferon stimulated exonuclease gene 20 (ISG20), transcript variant X6, mRNA
+gi|982259543|ref|XM_005560455.2| PREDICTED: Macaca fascicularis interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X3, mRNA
+gi|1751279252|ref|XM_010362303.2| PREDICTED: Rhinopithecus roxellana interferon stimulated exonuclease gene 20 (ISG20), transcript variant X3, mRNA
+gi|1622949953|ref|XM_015142943.2| PREDICTED: Macaca mulatta interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|795379244|ref|XM_011752298.1| PREDICTED: Macaca nemestrina interferon stimulated exonuclease gene 20 (ISG20), transcript variant X4, mRNA
+gi|795341098|ref|XM_012074404.1| PREDICTED: Cercocebus atys interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X7, mRNA
+gi|1059162164|ref|XM_017882054.1| PREDICTED: Rhinopithecus bieti interferon stimulated exonuclease gene 20 (ISG20), transcript variant X4, mRNA
+gi|795341083|ref|XM_012074400.1| PREDICTED: Cercocebus atys interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X4, mRNA
+gi|635140871|ref|XM_007990329.1| PREDICTED: Chlorocebus sabaeus interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X3, mRNA
+gi|1327796212|ref|XM_003788659.3| PREDICTED: Otolemur garnettii interferon stimulated exonuclease gene 20 (ISG20), mRNA
+gi|1214046840|ref|XM_008070608.2| PREDICTED: Carlito syrichta interferon stimulated exonuclease gene 20 (ISG20), transcript variant X1, mRNA
+gi|1149886156|ref|XM_012788871.2| PREDICTED: Microcebus murinus interferon stimulated exonuclease gene 20 (ISG20), mRNA
+gi|826292265|ref|XM_012643798.1| PREDICTED: Propithecus coquereli interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X2, mRNA
+gi|826292262|ref|XM_012643797.1| PREDICTED: Propithecus coquereli interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X1, mRNA
+gi|1676452821|ref|NR_130134.2| Homo sapiens interferon stimulated exonuclease gene 20 (ISG20), transcript variant 7, non-coding RNA
+gi|1675178274|ref|NM_001303235.2| Homo sapiens interferon stimulated exonuclease gene 20 (ISG20), transcript variant 4, mRNA
+gi|1675172884|ref|NM_001303236.2| Homo sapiens interferon stimulated exonuclease gene 20 (ISG20), transcript variant 5, mRNA
+gi|1034590490|ref|XM_017022147.1| PREDICTED: Homo sapiens interferon stimulated exonuclease gene 20 (ISG20), transcript variant X3, mRNA
+gi|62088857|dbj|AB209639.1| Homo sapiens mRNA for interferon stimulated gene 20kDa variant protein
+gi|1034590494|ref|XM_011521521.2| PREDICTED: Homo sapiens interferon stimulated exonuclease gene 20 (ISG20), transcript variant X5, mRNA
+gi|1367185598|ref|XM_016927382.2| PREDICTED: Pan troglodytes interferon stimulated exonuclease gene 20 (ISG20), transcript variant X5, mRNA
+gi|34527989|dbj|AK122793.1| Homo sapiens cDNA FLJ16358 fis, clone THYMU2026182, weakly  similar to Mus musculus DnaQL mRNA
+gi|16740975|gb|BC016341.1| Homo sapiens interferon stimulated exonuclease gene 20kDa, mRNA (cDNA clone IMAGE:3930220), complete cds
+gi|1753044071|ref|XM_019011144.2| PREDICTED: Gorilla gorilla gorilla interferon stimulated exonuclease gene 20 (ISG20), transcript variant X5, mRNA
+gi|1753044070|ref|XM_019011143.2| PREDICTED: Gorilla gorilla gorilla interferon stimulated exonuclease gene 20 (ISG20), transcript variant X4, mRNA
+gi|1214046843|ref|XM_021718841.1| PREDICTED: Carlito syrichta interferon stimulated exonuclease gene 20 (ISG20), transcript variant X3, mRNA
+gi|826292268|ref|XM_012643799.1| PREDICTED: Propithecus coquereli interferon stimulated exonuclease gene 20kDa (ISG20), transcript variant X3, mRNA
+gi|1044420188|ref|XM_017506123.1| PREDICTED: Cebus capucinus imitator interferon stimulated exonuclease gene 20 (ISG20), transcript variant X2, mRNA

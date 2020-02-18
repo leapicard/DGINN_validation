@@ -1,0 +1,68 @@
+2020-01-23 18:39:32,458 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2020-01-23 18:39:32,459 - main - INFO - Reading input file /home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas
+2020-01-23 18:39:32,459 - main - INFO - Output directory: /home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank_results_202001231839/
+2020-01-23 18:39:32,459 - main - INFO - Analysis will begin at the positiveSelection step
+2020-01-23 18:39:32,459 - main - WARNING - queryName is not provided, coverage check will not run.
+2020-01-23 18:39:32,459 - main.positiveSelection - INFO - Starting positive selection analyses.
+2020-01-23 18:39:32,459 - main.positiveSelection - INFO - Alignement file: /home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas
+2020-01-23 18:39:32,459 - main.positiveSelection - INFO - Gene Tree file: /home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.phylip_phyml_tree.txt
+2020-01-23 18:39:32,463 - main.positiveSelection - INFO - Location of entry files: /home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank_results_202001231839/positive_selection_results_202001231839/
+2020-01-23 18:39:32,463 - main.positiveSelection - INFO - Alignement: /home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas
+2020-01-23 18:39:32,463 - main.positiveSelection - INFO - Alignement is in Fasta format.
+2020-01-23 18:39:32,463 - main.positiveSelection - INFO - Tree: /home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.phylip_phyml_tree.txt
+2020-01-23 18:39:32,463 - main.positiveSelection - INFO - There are 64 nodes in the provided tree.
+2020-01-23 18:39:32,464 - main.positiveSelection - INFO - POSITIVE SELECTION ANALYSIS: 
+2020-01-23 18:39:32,464 - main.positiveSelection - INFO - Analysis to be run:
+2020-01-23 18:39:32,464 - main.positiveSelection - INFO - Site (Optimization)
+2020-01-23 18:39:32,464 - main.positiveSelection - INFO - Site (Results)
+2020-01-23 18:39:32,464 - main.positiveSelection - INFO - Site (codeml)
+2020-01-23 18:39:32,464 - main.positiveSelection - INFO - Whole-Gene
+2020-01-23 18:39:32,464 - main.positiveSelection - INFO - Branch-site
+2020-01-23 18:39:32,464 - main.positiveSelection - INFO - Whole Gene (BUSTED, HYPHY)
+2020-01-23 18:39:32,478 - main.positiveSelection - INFO - Batch file: /home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank_results_202001231839/positive_selection_results_202001231839/busted/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank_busted.bf
+2020-01-23 18:45:54,722 - main.positiveSelection - INFO - PAML codeml
+2020-01-23 18:45:54,723 - main.positiveSelection - INFO - Running M0
+2020-01-23 19:08:19,183 - main.positiveSelection - INFO - Running M1
+2020-01-23 19:34:40,075 - main.positiveSelection - INFO - Running M2
+2020-01-23 20:27:31,732 - main.positiveSelection - INFO - Running M7
+2020-01-23 22:10:30,198 - main.positiveSelection - INFO - Running M8
+2020-01-24 00:40:53,961 - main.positiveSelection - INFO - LRT of M1 vs M2 = 1
+2020-01-24 00:40:53,962 - main.positiveSelection - INFO - LRT of M7 vs M8 = 0.7781468650975053
+2020-01-24 00:40:53,962 - main.positiveSelection - INFO - /home/lpicard
+2020-01-24 00:40:53,962 - main.positiveSelection - INFO - Bio++ Site Analysis
+2020-01-24 00:40:53,962 - main.positiveSelection - INFO - Models to be run: M0, M1, M2, M7, M8
+2020-01-24 00:40:53,962 - main.positiveSelection - INFO - Bppml parameter file: /home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/bppml_params.bpp
+2020-01-24 00:40:53,962 - main.positiveSelection - INFO - Bppmixedlikelihood parameter file: /home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/mixedlikelihood_params.bpp
+2020-01-24 00:40:53,963 - main.positiveSelection - INFO - There are 64 nodes in the provided tree.
+2020-01-24 00:40:54,133 - main.positiveSelection - INFO - Running M0 optimization
+2020-01-24 00:45:29,512 - main.positiveSelection - INFO - Log Likelihood = -3035.377456693768
+2020-01-24 00:45:29,513 - main.positiveSelection - INFO - Optimization for model M1 uses optimized parameters from model M0
+2020-01-24 00:45:29,515 - main.positiveSelection - INFO - Running M1 optimization
+2020-01-24 00:51:52,433 - main.positiveSelection - INFO - Log Likelihood = -3027.297496934911
+2020-01-24 00:51:52,434 - main.positiveSelection - INFO - Optimization for model M2 uses optimized parameters from model M1
+2020-01-24 00:51:52,435 - main.positiveSelection - INFO - Optimization for model M2 uses optimized parameters from model M0
+2020-01-24 00:51:52,437 - main.positiveSelection - INFO - Running M2 optimization
+2020-01-24 01:08:36,891 - main.positiveSelection - INFO - Log Likelihood = -3027.2974975503753
+2020-01-24 01:08:36,892 - main.positiveSelection - INFO - Optimization for model M7 uses optimized parameters from model M2
+2020-01-24 01:08:36,894 - main.positiveSelection - INFO - Optimization for model M7 uses optimized parameters from model M1
+2020-01-24 01:08:36,895 - main.positiveSelection - INFO - Optimization for model M7 uses optimized parameters from model M0
+2020-01-24 01:08:36,897 - main.positiveSelection - INFO - Running M7 optimization
+2020-01-24 01:15:22,290 - main.positiveSelection - INFO - Log Likelihood = -3027.1201684350276
+2020-01-24 01:15:22,291 - main.positiveSelection - INFO - Optimization for model M8 uses optimized parameters from model M7
+2020-01-24 01:15:22,292 - main.positiveSelection - INFO - Optimization for model M8 uses optimized parameters from model M2
+2020-01-24 01:15:22,293 - main.positiveSelection - INFO - Optimization for model M8 uses optimized parameters from model M1
+2020-01-24 01:15:22,294 - main.positiveSelection - INFO - Optimization for model M8 uses optimized parameters from model M0
+2020-01-24 01:15:22,296 - main.positiveSelection - INFO - Running M8 optimization
+2020-01-24 01:44:04,047 - main.positiveSelection - INFO - Log Likelihood = -3025.842148973026
+2020-01-24 01:44:04,049 - main.positiveSelection - INFO - LRT of M1 vs M2: 0.9999993845360298
+2020-01-24 01:44:04,050 - main.positiveSelection - INFO - LRT of M7 vs M8: 0.27858850955676984
+2020-01-24 01:44:04,051 - main.positiveSelection - INFO - M0 is not a mixed model, skipping.
+2020-01-24 01:44:04,051 - main.positiveSelection - INFO - Running mixed likelihoods with model M1
+2020-01-24 01:44:04,154 - main.positiveSelection - INFO - Running mixed likelihoods with model M2
+2020-01-24 01:44:04,191 - main.positiveSelection - INFO - Running mixed likelihoods with model M7
+2020-01-24 01:44:04,228 - main.positiveSelection - INFO - Running mixed likelihoods with model M8
+2020-01-24 01:44:04,266 - main.positiveSelection - INFO - Episodic selection (MEME, HYPHY)
+2020-01-24 01:44:04,326 - main.positiveSelection - INFO - MEME batch file: /home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank_results_202001231839/positive_selection_results_202001231839/meme/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank_meme.bf
+2020-01-24 02:30:14,037 - main.positiveSelection - INFO - End analysis
+2020-01-24 02:30:14,037 - main.positiveSelection - INFO -  Ouput in file /home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank_results_202001231839/files_list.txt
+2020-01-24 02:30:14,038 - main.positiveSelection - INFO - Finished positive selection analyses.

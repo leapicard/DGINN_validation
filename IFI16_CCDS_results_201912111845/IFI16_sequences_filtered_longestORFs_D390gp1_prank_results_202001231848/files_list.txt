@@ -1,0 +1,1 @@
+/home/lpicard/2019_validation/20191211/21genes_IFI16_CCDS_results_201912111845/IFI16_sequences_filtered_longestORFs_D390gp1_prank.best.fas	/home/lpicard/2019_validation/20191211/21genes_IFI16_CCDS_results_201912111845/IFI16_sequences_filtered_longestORFs_D390gp1_prank.phylip_phyml_tree.txt

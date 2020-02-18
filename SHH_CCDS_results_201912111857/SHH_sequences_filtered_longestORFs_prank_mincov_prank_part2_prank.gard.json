@@ -1,0 +1,27 @@
+{
+ "rateMatrix":[
+  [-1.175315756195911, 0.2469359860421806, 0.7762855888851444, 0.1520941812685861],
+  [0.1656284183525939, -0.8822831541541962, 0.2566908512612202, 0.4599638845403821],
+  [0.5008941831982736, 0.2469359860421806, -0.8999243505090403, 0.1520941812685861],
+  [0.1656284183525939, 0.7467848830600227, 0.2566908512612202, -1.169104152673837]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_SHH_CCDS_results_201912111857/SHH_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas",
+   "number of sequences":22,
+   "number of sites":2193,
+   "partition count":2
+  },
+ "timeElapsed":63,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":1591,
+ "likelihoodScores":[
+  [-3228.088216689901, -3267.984658745215],
+  [-1815.746420084121, -1798.578826839768]
+  ],
+ "pairwiseP":[
+  [0, 0.0007],
+  [0.0168, 0]
+  ],
+ "singleTreeAICc":10276.93431764675
+}

@@ -1,0 +1,47 @@
+2019-12-11 18:47:26,100 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2019-12-11 18:47:26,101 - main - INFO - Reading input file /home/lpicard/2019_validation/21genes_GMPR_CCDS.fasta
+2019-12-11 18:47:26,101 - main - INFO - Output directory: /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/
+2019-12-11 18:47:26,101 - main - INFO - Analysis will begin at the blast step
+2019-12-11 18:47:26,124 - main - INFO - Running Blast
+2019-12-11 18:47:26,124 - main - INFO - Database search on nr will be limited to Primates[Organism]
+2019-12-11 19:55:13,542 - main - INFO - Blast results written to: /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/21genes_GMPR_CCDS_blastres.tsv, 257 sequences retrieved.
+2019-12-11 19:55:13,558 - main - INFO - Extracted gene accessions from blast results
+2019-12-11 19:55:13,559 - main - INFO - Wrote all accessions to /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/GMPR_accns.txt
+2019-12-11 19:55:20,469 - main - INFO - Remote option on, downloaded gene IDs and sequences from NCBI databases (26 different species represented in the retrieved sequences).
+2019-12-11 19:55:20,469 - main - INFO - Deleted 3 sequences due to excessive length.
+2019-12-11 19:55:20,638 - main - INFO - Deleted 92 sequences as duplicates
+2019-12-11 19:55:20,640 - main - INFO - Extracted longest ORFs: /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs.fasta
+2019-12-11 19:55:20,640 - main - INFO - Started Prank codon alignment
+2019-12-11 20:47:37,578 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank.best.fas
+2019-12-11 20:47:37,695 - main - INFO - Discarding sequences with less than 50% coverage of query.
+2019-12-11 20:47:37,726 - main - INFO - Discarded 1 sequences
+2019-12-11 20:47:37,726 - main - INFO - Started Prank codon alignment
+2019-12-11 21:39:19,048 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-12-11 21:39:19,170 - main - INFO - Running PhyML to produce gene phylogenetic tree
+2019-12-11 21:42:50,406 - main - INFO - Reconstructed tree using PhyML: /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank.phylip_phyml_tree.txt
+2019-12-11 21:42:50,424 - main - INFO - Looking for long branches.
+2019-12-11 21:42:50,442 - main - INFO - 1 long branches found, separating alignments.
+2019-12-11 21:42:50,519 - main - INFO - Reconstructing alignments and phylogenies following long branch parsing.
+2019-12-11 21:42:50,521 - main - INFO - Started Prank codon alignment
+2019-12-11 22:25:07,617 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas
+2019-12-11 22:25:50,606 - main - INFO - Reconstructing alignments and phylogenies following long branch parsing.
+2019-12-11 22:25:50,606 - main - INFO - Started Prank codon alignment
+2019-12-11 22:29:43,007 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas
+2019-12-11 22:30:00,342 - main - INFO - Cleaning the tree
+2019-12-11 22:30:00,342 - main - INFO - Running Treerecs
+2019-12-11 22:30:01,149 - main - INFO - 73 duplications detected by Treerecs, extracting 0 groups of at least 8 orthologs.
+2019-12-11 22:30:01,177 - main - INFO - Cleaning the tree
+2019-12-11 22:30:01,177 - main - INFO - Running Treerecs
+2019-12-11 22:30:01,547 - main - INFO - 12 duplications detected by Treerecs, extracting 0 groups of at least 8 orthologs.
+2019-12-11 22:30:01,547 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas
+2019-12-11 22:37:53,418 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-11 22:38:23,007 - main - INFO - Extracted GARD results.
+2019-12-11 22:38:23,008 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas.
+2019-12-11 22:38:23,008 - main - INFO - Parsed GARD results.
+2019-12-11 22:38:23,008 - main - INFO - No fragments of recombination identified.
+2019-12-11 22:38:23,008 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas
+2019-12-11 22:39:13,684 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-11 22:39:18,143 - main - INFO - Extracted GARD results.
+2019-12-11 22:39:18,143 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas.
+2019-12-11 22:39:18,143 - main - INFO - Parsed GARD results.
+2019-12-11 22:39:18,144 - main - INFO - No fragments of recombination identified.

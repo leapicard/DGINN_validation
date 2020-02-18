@@ -1,0 +1,300 @@
+2019-12-11 18:31:26,221 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2019-12-11 18:31:26,222 - main - INFO - Reading input file /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS.fasta
+2019-12-11 18:31:26,222 - main - INFO - Output directory: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/
+2019-12-11 18:31:26,222 - main - INFO - Analysis will begin at the blast step
+2019-12-11 18:31:26,249 - main - INFO - Running Blast
+2019-12-11 18:31:26,250 - main - INFO - Database search on nr will be limited to Primates[Organism]
+2019-12-11 18:39:12,818 - main - INFO - Blast results written to: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/21genes_APOBEC3F_CCDS_blastres.tsv, 259 sequences retrieved.
+2019-12-11 18:39:12,845 - main - INFO - Extracted gene accessions from blast results
+2019-12-11 18:39:12,845 - main - INFO - Wrote all accessions to /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_accns.txt
+2019-12-11 18:39:24,065 - main - INFO - Remote option on, downloaded gene IDs and sequences from NCBI databases (39 different species represented in the retrieved sequences).
+2019-12-11 18:39:24,066 - main - INFO - Deleted 4 sequences due to excessive length.
+2019-12-11 18:39:24,486 - main - INFO - Deleted 22 sequences as duplicates
+2019-12-11 18:39:24,490 - main - INFO - Extracted longest ORFs: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs.fasta
+2019-12-11 18:39:24,490 - main - INFO - Started Prank codon alignment
+2019-12-11 21:31:47,131 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_prank.best.fas
+2019-12-11 21:31:47,289 - main - INFO - Discarding sequences with less than 50% coverage of query.
+2019-12-11 21:31:47,333 - main - INFO - Discarded 4 sequences
+2019-12-11 21:31:47,334 - main - INFO - Started Prank codon alignment
+2019-12-11 23:34:44,420 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-12-11 23:34:44,511 - main - INFO - Running PhyML to produce gene phylogenetic tree
+2019-12-12 00:04:26,349 - main - INFO - Reconstructed tree using PhyML: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_prank_mincov_prank.phylip_phyml_tree.txt
+2019-12-12 00:04:26,381 - main - INFO - Looking for long branches.
+2019-12-12 00:04:26,433 - main - INFO - No long branches found.
+2019-12-12 00:04:26,749 - main - INFO - Cleaning the tree
+2019-12-12 00:04:26,749 - main - INFO - Running Treerecs
+2019-12-12 00:04:31,819 - main - INFO - 126 duplications detected by Treerecs, extracting 4 groups of at least 8 orthologs.
+2019-12-12 00:04:31,819 - main - INFO - Started Prank codon alignment
+2019-12-12 00:08:15,629 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D180gp2_prank.best.fas
+2019-12-12 00:08:21,401 - main - INFO - Started Prank codon alignment
+2019-12-12 00:10:44,513 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:10:47,987 - main - INFO - Started Prank codon alignment
+2019-12-12 00:13:10,193 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:13:13,092 - main - INFO - Started Prank codon alignment
+2019-12-12 00:15:36,017 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:15:38,755 - main - INFO - Started Prank codon alignment
+2019-12-12 00:18:00,378 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:18:04,125 - main - INFO - Started Prank codon alignment
+2019-12-12 00:20:26,395 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:20:29,186 - main - INFO - Started Prank codon alignment
+2019-12-12 00:22:51,436 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:22:54,224 - main - INFO - Started Prank codon alignment
+2019-12-12 00:25:16,392 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:25:19,085 - main - INFO - Started Prank codon alignment
+2019-12-12 00:27:40,800 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:27:43,579 - main - INFO - Started Prank codon alignment
+2019-12-12 00:30:05,554 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:30:08,236 - main - INFO - Started Prank codon alignment
+2019-12-12 00:32:30,907 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:32:33,760 - main - INFO - Started Prank codon alignment
+2019-12-12 00:34:56,049 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:34:58,859 - main - INFO - Started Prank codon alignment
+2019-12-12 00:37:20,633 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:37:23,418 - main - INFO - Started Prank codon alignment
+2019-12-12 00:39:45,461 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:39:48,237 - main - INFO - Started Prank codon alignment
+2019-12-12 00:42:10,238 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:42:13,106 - main - INFO - Started Prank codon alignment
+2019-12-12 00:44:35,620 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:44:38,835 - main - INFO - Started Prank codon alignment
+2019-12-12 00:47:01,709 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:47:04,471 - main - INFO - Started Prank codon alignment
+2019-12-12 00:49:26,657 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:49:30,273 - main - INFO - Started Prank codon alignment
+2019-12-12 00:51:52,592 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:51:55,452 - main - INFO - Started Prank codon alignment
+2019-12-12 00:54:17,427 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:54:20,201 - main - INFO - Started Prank codon alignment
+2019-12-12 00:56:42,212 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:56:44,958 - main - INFO - Started Prank codon alignment
+2019-12-12 00:59:06,782 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 00:59:09,520 - main - INFO - Started Prank codon alignment
+2019-12-12 01:01:31,447 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:01:34,062 - main - INFO - Started Prank codon alignment
+2019-12-12 01:03:56,317 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:03:59,280 - main - INFO - Started Prank codon alignment
+2019-12-12 01:06:21,423 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:06:24,336 - main - INFO - Started Prank codon alignment
+2019-12-12 01:08:46,627 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:08:49,379 - main - INFO - Started Prank codon alignment
+2019-12-12 01:11:11,488 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:11:14,317 - main - INFO - Started Prank codon alignment
+2019-12-12 01:13:36,213 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:13:38,939 - main - INFO - Started Prank codon alignment
+2019-12-12 01:16:00,758 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:16:03,523 - main - INFO - Started Prank codon alignment
+2019-12-12 01:18:25,822 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:18:28,557 - main - INFO - Started Prank codon alignment
+2019-12-12 01:20:51,313 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:20:54,134 - main - INFO - Started Prank codon alignment
+2019-12-12 01:23:16,197 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:23:18,966 - main - INFO - Started Prank codon alignment
+2019-12-12 01:25:41,481 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:25:44,356 - main - INFO - Started Prank codon alignment
+2019-12-12 01:28:06,431 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:28:09,140 - main - INFO - Started Prank codon alignment
+2019-12-12 01:30:31,835 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:30:35,147 - main - INFO - Started Prank codon alignment
+2019-12-12 01:32:57,499 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:33:00,215 - main - INFO - Started Prank codon alignment
+2019-12-12 01:35:22,193 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:35:24,925 - main - INFO - Started Prank codon alignment
+2019-12-12 01:37:48,140 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:37:51,037 - main - INFO - Started Prank codon alignment
+2019-12-12 01:40:12,923 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:40:15,647 - main - INFO - Started Prank codon alignment
+2019-12-12 01:42:39,438 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:42:43,181 - main - INFO - Started Prank codon alignment
+2019-12-12 01:45:05,754 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:45:08,709 - main - INFO - Started Prank codon alignment
+2019-12-12 01:47:30,657 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:47:33,418 - main - INFO - Started Prank codon alignment
+2019-12-12 01:49:56,218 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 01:49:58,958 - main - INFO - Started Prank codon alignment
+2019-12-12 02:13:41,698 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D426gp1_prank.best.fas
+2019-12-12 02:14:55,102 - main - INFO - Started Prank codon alignment
+2019-12-12 02:17:45,902 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D426gp2_prank.best.fas
+2019-12-12 02:17:51,452 - main - INFO - Started Prank codon alignment
+2019-12-12 02:20:14,977 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:20:17,813 - main - INFO - Started Prank codon alignment
+2019-12-12 02:22:39,785 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:22:42,561 - main - INFO - Started Prank codon alignment
+2019-12-12 02:25:04,921 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:25:07,725 - main - INFO - Started Prank codon alignment
+2019-12-12 02:27:29,822 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:27:32,633 - main - INFO - Started Prank codon alignment
+2019-12-12 02:29:55,349 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:29:58,182 - main - INFO - Started Prank codon alignment
+2019-12-12 02:32:20,077 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:32:22,859 - main - INFO - Started Prank codon alignment
+2019-12-12 02:34:44,903 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:34:47,740 - main - INFO - Started Prank codon alignment
+2019-12-12 02:37:09,582 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:37:12,354 - main - INFO - Started Prank codon alignment
+2019-12-12 02:39:34,709 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:39:37,359 - main - INFO - Started Prank codon alignment
+2019-12-12 02:41:59,230 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:42:01,929 - main - INFO - Started Prank codon alignment
+2019-12-12 02:44:23,883 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:44:26,632 - main - INFO - Started Prank codon alignment
+2019-12-12 02:46:49,000 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:46:51,632 - main - INFO - Started Prank codon alignment
+2019-12-12 02:49:13,814 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:49:16,450 - main - INFO - Started Prank codon alignment
+2019-12-12 02:51:38,362 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:51:41,041 - main - INFO - Started Prank codon alignment
+2019-12-12 02:54:02,903 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:54:05,530 - main - INFO - Started Prank codon alignment
+2019-12-12 02:56:28,132 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:56:30,743 - main - INFO - Started Prank codon alignment
+2019-12-12 02:58:52,868 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 02:58:55,530 - main - INFO - Started Prank codon alignment
+2019-12-12 03:01:17,693 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:01:20,397 - main - INFO - Started Prank codon alignment
+2019-12-12 03:03:42,349 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:03:44,967 - main - INFO - Started Prank codon alignment
+2019-12-12 03:06:07,119 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:06:09,778 - main - INFO - Started Prank codon alignment
+2019-12-12 03:08:31,769 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:08:34,466 - main - INFO - Started Prank codon alignment
+2019-12-12 03:10:56,358 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:10:59,081 - main - INFO - Started Prank codon alignment
+2019-12-12 03:13:21,039 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:13:23,653 - main - INFO - Started Prank codon alignment
+2019-12-12 03:15:45,466 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:15:48,182 - main - INFO - Started Prank codon alignment
+2019-12-12 03:18:10,202 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:18:12,915 - main - INFO - Started Prank codon alignment
+2019-12-12 03:20:35,286 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:20:37,923 - main - INFO - Started Prank codon alignment
+2019-12-12 03:23:00,376 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:23:03,006 - main - INFO - Started Prank codon alignment
+2019-12-12 03:25:25,066 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:25:27,769 - main - INFO - Started Prank codon alignment
+2019-12-12 03:27:50,403 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:27:53,091 - main - INFO - Started Prank codon alignment
+2019-12-12 03:30:14,831 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:30:17,470 - main - INFO - Started Prank codon alignment
+2019-12-12 03:32:40,073 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:32:42,699 - main - INFO - Started Prank codon alignment
+2019-12-12 03:35:04,589 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:35:07,253 - main - INFO - Started Prank codon alignment
+2019-12-12 03:37:29,649 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:37:32,304 - main - INFO - Started Prank codon alignment
+2019-12-12 03:39:55,282 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:39:57,927 - main - INFO - Started Prank codon alignment
+2019-12-12 03:42:19,729 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:42:22,364 - main - INFO - Started Prank codon alignment
+2019-12-12 03:44:44,556 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:44:47,217 - main - INFO - Started Prank codon alignment
+2019-12-12 03:47:09,486 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:47:12,176 - main - INFO - Started Prank codon alignment
+2019-12-12 03:49:34,521 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:49:37,165 - main - INFO - Started Prank codon alignment
+2019-12-12 03:51:59,034 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:52:01,726 - main - INFO - Started Prank codon alignment
+2019-12-12 03:54:23,850 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:54:26,558 - main - INFO - Started Prank codon alignment
+2019-12-12 03:56:48,552 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:56:51,287 - main - INFO - Started Prank codon alignment
+2019-12-12 03:59:13,192 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 03:59:15,816 - main - INFO - Started Prank codon alignment
+2019-12-12 04:01:37,880 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:01:40,610 - main - INFO - Started Prank codon alignment
+2019-12-12 04:04:03,409 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:04:06,094 - main - INFO - Started Prank codon alignment
+2019-12-12 04:06:28,342 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:06:30,971 - main - INFO - Started Prank codon alignment
+2019-12-12 04:08:52,528 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:08:55,204 - main - INFO - Started Prank codon alignment
+2019-12-12 04:11:17,412 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:11:20,063 - main - INFO - Started Prank codon alignment
+2019-12-12 04:13:42,046 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:13:44,703 - main - INFO - Started Prank codon alignment
+2019-12-12 04:16:09,018 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:16:11,688 - main - INFO - Started Prank codon alignment
+2019-12-12 04:18:33,630 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:18:36,330 - main - INFO - Started Prank codon alignment
+2019-12-12 04:20:58,242 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:21:00,862 - main - INFO - Started Prank codon alignment
+2019-12-12 04:23:22,636 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:23:25,288 - main - INFO - Started Prank codon alignment
+2019-12-12 04:25:47,387 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:25:50,054 - main - INFO - Started Prank codon alignment
+2019-12-12 04:28:12,061 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:28:14,698 - main - INFO - Started Prank codon alignment
+2019-12-12 04:30:36,970 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:30:39,639 - main - INFO - Started Prank codon alignment
+2019-12-12 04:33:01,597 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:33:04,227 - main - INFO - Started Prank codon alignment
+2019-12-12 04:35:26,013 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:35:28,639 - main - INFO - Started Prank codon alignment
+2019-12-12 04:37:50,852 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:37:53,477 - main - INFO - Started Prank codon alignment
+2019-12-12 04:40:15,420 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:40:18,101 - main - INFO - Started Prank codon alignment
+2019-12-12 04:42:40,198 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:42:42,820 - main - INFO - Started Prank codon alignment
+2019-12-12 04:45:05,278 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:45:07,935 - main - INFO - Started Prank codon alignment
+2019-12-12 04:47:31,268 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:47:33,925 - main - INFO - Started Prank codon alignment
+2019-12-12 04:49:56,386 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:49:59,082 - main - INFO - Started Prank codon alignment
+2019-12-12 04:52:20,618 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:52:23,278 - main - INFO - Started Prank codon alignment
+2019-12-12 04:54:44,975 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:54:47,614 - main - INFO - Started Prank codon alignment
+2019-12-12 04:57:09,843 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:57:12,579 - main - INFO - Started Prank codon alignment
+2019-12-12 04:59:34,391 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 04:59:37,071 - main - INFO - Started Prank codon alignment
+2019-12-12 05:01:59,337 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 05:02:02,048 - main - INFO - Started Prank codon alignment
+2019-12-12 05:04:24,552 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 05:04:27,187 - main - INFO - Started Prank codon alignment
+2019-12-12 05:06:49,382 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 05:06:52,006 - main - INFO - Started Prank codon alignment
+2019-12-12 05:32:37,134 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D834gp2_prank.best.fas
+2019-12-12 05:35:26,453 - main - INFO - Started Prank codon alignment
+2019-12-12 05:37:48,119 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 05:37:50,753 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-12-12 05:39:27,134 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-12 05:49:04,389 - main - INFO - Extracted GARD results.
+2019-12-12 05:49:04,390 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_prank_mincov_prank.best.fas.
+2019-12-12 05:49:04,390 - main - INFO - Parsed GARD results.
+2019-12-12 05:49:04,390 - main - INFO - No fragments of recombination identified.
+2019-12-12 05:49:04,390 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D180gp2_prank.best.fas
+2019-12-12 05:49:49,950 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-12 05:49:54,100 - main - INFO - Extracted GARD results.
+2019-12-12 05:49:54,100 - main - INFO - There are 1 significant breakpoints in alignement /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D180gp2_prank.best.fas at positions [571]
+2019-12-12 05:49:54,104 - main - INFO - Parsed GARD results.
+2019-12-12 05:49:54,104 - main - INFO - Running Phyml on fragment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D180gp2_prank_frag0to573.best.fas
+2019-12-12 05:49:54,721 - main - INFO - Running Phyml on fragment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D180gp2_prank_frag572to2094.best.fas
+2019-12-12 05:50:01,477 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas
+2019-12-12 05:50:23,384 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-12 05:50:26,159 - main - INFO - Extracted GARD results.
+2019-12-12 05:50:26,160 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas.
+2019-12-12 05:50:26,160 - main - INFO - Parsed GARD results.
+2019-12-12 05:50:26,160 - main - INFO - No fragments of recombination identified.
+2019-12-12 05:50:26,160 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D426gp1_prank.best.fas
+2019-12-12 06:20:00,158 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-12 06:20:44,795 - main - INFO - Extracted GARD results.
+2019-12-12 06:20:44,796 - main - INFO - There are 2 significant breakpoints in alignement /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D426gp1_prank.best.fas at positions [480, 1464]
+2019-12-12 06:20:44,827 - main - INFO - Parsed GARD results.
+2019-12-12 06:20:44,827 - main - INFO - Running Phyml on fragment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D426gp1_prank_frag0to480.best.fas
+2019-12-12 06:20:56,704 - main - INFO - Running Phyml on fragment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D426gp1_prank_frag479to1464.best.fas
+2019-12-12 06:21:18,484 - main - INFO - Running Phyml on fragment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D426gp1_prank_frag1463to3426.best.fas
+2019-12-12 06:21:47,813 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D426gp2_prank.best.fas
+2019-12-12 06:22:12,001 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-12 06:22:13,512 - main - INFO - Extracted GARD results.
+2019-12-12 06:22:13,512 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D426gp2_prank.best.fas.
+2019-12-12 06:22:13,512 - main - INFO - Parsed GARD results.
+2019-12-12 06:22:13,513 - main - INFO - No fragments of recombination identified.
+2019-12-12 06:22:13,513 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D834gp2_prank.best.fas
+2019-12-12 06:48:13,487 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-12 06:49:31,625 - main - INFO - Extracted GARD results.
+2019-12-12 06:49:31,626 - main - INFO - There are 1 significant breakpoints in alignement /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D834gp2_prank.best.fas at positions [1002]
+2019-12-12 06:49:31,664 - main - INFO - Parsed GARD results.
+2019-12-12 06:49:31,664 - main - INFO - Running Phyml on fragment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D834gp2_prank_frag0to1002.best.fas
+2019-12-12 06:50:05,804 - main - INFO - Running Phyml on fragment: /home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D834gp2_prank_frag1001to4737.best.fas

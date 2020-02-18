@@ -1,0 +1,66 @@
+
+Analysis Description
+--------------------
+BUSTED (branch-site unrestricted statistical test of episodic
+diversification) uses a random effects branch-site model fitted jointly
+to all or a subset of tree branches in order to test for alignment-wide
+evidence of episodic diversifying selection. Assuming there is evidence
+of positive selection (i.e. there is an omega > 1), BUSTED will also
+perform a quick evidence-ratio style analysis to explore which
+individual sites may have been subject to selection.
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree (optionally annotated
+with {})
+
+- __Citation__: *Gene-wide identification of episodic selection*, Mol Biol Evol.
+32(5):1365-71
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 1.2
+
+
+>Loaded a multiple sequence alignment with **51** sequences, **491** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_RSAD2_CCDS_results_201912111841/RSAD2_sequences_filtered_longestORFs_prank.best.fas`
+
+
+### Branches to test for selection in the BUSTED analysis
+* Selected 99 branches to test in the BUSTED analysis: `homSap_RSAD2_AK300085, homSap_RSAD2_AK312670, Node11, homSap_RSAD2_CCDS1656, homSap_cig5_AF026941, Node14, Node10, homSap_RSAD2_XM_011510415, Node9, homSap_RSAD2_BC017969, Node8, panPan_RSAD2_XM_008964447, panTro_RSAD2_XM_016942853, panPan_RSAD2_XM_003812050, Node23, panTro_RSAD2_JQ437821, Node22, Node20, panTro_RSAD2_XM_009441955, Node19, Node7, gorGorGor_RSAD2_XM_019020595, gorGor_RSAD2_JQ437822, Node28, Node6, ponAbe_RSAD2_XM_009237560, ponAbe_DKFZp468O0611_CR858150, ponPyg_RSAD2_JQ437823, Node33, Node31, Node5, symSyn_RSAD2_JQ437824, hylAgi_RSAD2_JQ437825, Node37, nomLeu_RSAD2_XM_003276541, Node36, Node4, colAngPal_RSAD2_XM_011960946, colGueKik_RSAD2_JQ437832, Node45, pilTep_RSAD2_XM_023198869, pilTep_RSAD2_XM_023198876, Node49, pilTep_RSAD2_XM_023198882, Node48, Node44, rhiBie_RSAD2_XM_017896627, rhiRox_RSAD2_XM_010359224, Node53, Node43, traFra_RSAD2_JQ437831, Node42, chlSab_RSAD2_XM_007971581, chlAet_RSAD2_JQ437826, chlSab_RSAD2_XM_007971580, Node60, Node58, eryPat_RSAD2_JQ437828, papAnu_RSAD2_JQ437829, Node65, macNem_RSAD2_XM_011749452, macFas_RSAD2_XM_005576618, macMul_RSAD2_JQ437830, Node71, Node69, macNem_RSAD2_XM_011749454, Node68, Node64, theGel_RSAD2_XM_025354794, manLeu_RSAD2_XM_011993644, Node75, Node63, Node57, Node41, Node3, aotTri_RSAD2_JQ437836, aotNan_RSAD2_XM_012441947, aotNan_RSAD2_XM_012441946, Node82, Node80, cebCapImi_RSAD2_XM_017542000, cebCapImi_RSAD2_XM_017541999, Node86, calJac_RSAD2_XM_008981185, calJac_RSAD2_XM_002758049, Node90, saiBolBol_RSAD2_XM_003927233, Node89, Node85, Node79, ateGeo_RSAD2_JQ437834, lagLag_RSAD2_JQ437833, Node94, Node78, Node2, carSyr_RSAD2_XM_008051837, Node1, micMur_RSAD2_XM_012763351, otoGar_RSAD2_XM_003803558`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -5055.30, AIC-c = 10324.92 (107 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -4877.81, AIC-c =  9984.68 (114 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.2638
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -4877.81, AIC-c =  9984.68 (114 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.2638
+
+### Performing the full (dN/dS > 1 allowed) branch-site model fit
+* Log(L) = -4860.66, AIC-c =  9958.44 (118 estimated parameters)
+* For *test* branches, the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.140     |   83.456    |                                   |
+|        Negative selection         |     0.224     |   14.013    |                                   |
+|      Diversifying selection       |     7.079     |    2.531    |                                   |
+
+
+### Performing the constrained (dN/dS > 1 not allowed) model fit
+* Log(L) = -4865.25, AIC-c =  9965.61 (117 estimated parameters)
+* For *test* branches under the null (no dN/dS > 1 model), the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.000     |   45.974    |                                   |
+|        Negative selection         |     0.000     |   27.101    |       Collapsed rate class        |
+|         Neutral evolution         |     1.000     |   26.925    |                                   |
+
+----
+## Branch-site unrestricted statistical test of episodic diversification [BUSTED]
+Likelihood ratio test for episodic diversifying positive selection, **p =   0.0101**.

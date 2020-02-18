@@ -1,0 +1,242 @@
+# BLASTN 2.10.0+
+# Query: homSap_IFI16_CCDS1180
+# Database: nt_v5					
+# Fields: subject id, ?
+# 448 hits found
+gi|1776842973|ref|NM_001376589.1| Homo sapiens interferon gamma inducible protein 16 (IFI16), transcript variant 6, mRNA
+gi|1776842971|ref|NM_001376588.1| Homo sapiens interferon gamma inducible protein 16 (IFI16), transcript variant 5, mRNA
+gi|1677538550|ref|NM_005531.3| Homo sapiens interferon gamma inducible protein 16 (IFI16), transcript variant 2, mRNA
+gi|16877621|gb|BC017059.1| Homo sapiens interferon, gamma-inducible protein 16, mRNA (cDNA clone MGC:9466 IMAGE:3914632), complete cds
+gi|62087557|dbj|AB208989.1| Homo sapiens mRNA for Interferon, gamma-inducible protein 16 variant protein
+gi|649119402|gb|KJ897030.1| Synthetic construct Homo sapiens clone ccsbBroadEn_06424 IFI16 gene, encodes complete protein
+gi|123995132|gb|DQ894242.2| Synthetic construct Homo sapiens clone IMAGE:100008702; FLH168962.01L; RZPDo839F0193D interferon, gamma-inducible protein 16 (IFI16) gene, encodes complete protein
+gi|164694114|dbj|AK307957.1| Homo sapiens cDNA, FLJ97905
+gi|22531286|gb|AY138863.1| Homo sapiens interferon-inducible IFI 16 mRNA, complete cds
+gi|184568|gb|M63838.1|HUMIFI16A Human interferon-gamma induced protein (IFI 16) gene, complete cds
+gi|168277381|dbj|AB384813.1| Synthetic construct DNA, clone: pF1KB3482, Homo sapiens IFI16 gene for gamma-interferon-inducible protein Ifi-16, complete cds, without stop codon, in Flexi system
+gi|123980317|gb|DQ891062.2| Synthetic construct clone IMAGE:100003692; FLH168966.01X; RZPDo839F0194D interferon, gamma-inducible protein 16 (IFI16) gene, encodes complete protein
+gi|1367109315|ref|XM_016929973.2| PREDICTED: Pan troglodytes interferon gamma inducible protein 16 (IFI16), transcript variant X3, mRNA
+gi|1367109314|ref|XM_009435199.3| PREDICTED: Pan troglodytes interferon gamma inducible protein 16 (IFI16), transcript variant X2, mRNA
+gi|1367109313|ref|XM_009435194.3| PREDICTED: Pan troglodytes interferon gamma inducible protein 16 (IFI16), transcript variant X1, mRNA
+gi|1753024411|ref|XM_019025086.2| PREDICTED: Gorilla gorilla gorilla interferon gamma inducible protein 16 (IFI16), transcript variant X3, mRNA
+gi|1753024413|ref|XM_019025080.2| PREDICTED: Gorilla gorilla gorilla interferon gamma inducible protein 16 (IFI16), transcript variant X4, mRNA
+gi|931564838|ref|XM_003820981.3| PREDICTED: Pan paniscus interferon gamma inducible protein 16 (IFI16), transcript variant X2, mRNA
+gi|675761662|ref|XM_008974464.1| PREDICTED: Pan paniscus interferon gamma inducible protein 16 (IFI16), transcript variant X3, mRNA
+gi|675761655|ref|XM_008974463.1| PREDICTED: Pan paniscus interferon gamma inducible protein 16 (IFI16), transcript variant X1, mRNA
+gi|1743151058|ref|XM_003258677.2| PREDICTED: Nomascus leucogenys interferon gamma inducible protein 16 (IFI16), transcript variant X1, mRNA
+gi|1461085483|gb|MH445452.1| Homo sapiens IFI16 beta isoform (IFI16) mRNA, complete cds
+gi|1059148534|ref|XM_017875523.1| PREDICTED: Rhinopithecus bieti interferon gamma inducible protein 16 (IFI16), transcript variant X2, mRNA
+gi|1059148532|ref|XM_017875522.1| PREDICTED: Rhinopithecus bieti interferon gamma inducible protein 16 (IFI16), transcript variant X1, mRNA
+gi|1751297535|ref|XM_030937108.1| PREDICTED: Rhinopithecus roxellana interferon gamma inducible protein 16 (IFI16), transcript variant X2, mRNA
+gi|1751297534|ref|XM_010356742.2| PREDICTED: Rhinopithecus roxellana interferon gamma inducible protein 16 (IFI16), transcript variant X1, mRNA
+gi|1482604848|ref|XM_023214174.2| PREDICTED: Piliocolobus tephrosceles interferon gamma inducible protein 16 (IFI16), transcript variant X1, mRNA
+gi|543869134|gb|KF154420.1| Chlorocebus aethiops gamma-interferon-inducible protein 16 (IFI16) mRNA, complete cds
+gi|6644296|gb|AF208043.1|AF208043 Homo sapiens IFI16b (IFI16b) mRNA, complete cds
+gi|795271496|ref|XM_011957168.1| PREDICTED: Colobus angolensis palliatus interferon, gamma-inducible protein 16 (IFI16), mRNA
+gi|985482395|ref|NM_001319449.1| Macaca fascicularis interferon gamma inducible protein 16 (IFI16), mRNA >gi|543869132|gb|KF154419.1| Macaca fascicularis gamma-interferon-inducible protein 16 (IFI16) mRNA, complete cds
+gi|635103855|ref|XM_007976589.1| PREDICTED: Chlorocebus sabaeus interferon, gamma-inducible protein 16 (IFI16), mRNA
+gi|795429115|ref|XM_012093304.1| PREDICTED: Cercocebus atys interferon, gamma-inducible protein 16 (IFI16), transcript variant X2, mRNA
+gi|982224955|ref|XM_005541319.2| PREDICTED: Macaca fascicularis interferon, gamma-inducible protein 16 (IFI16), mRNA
+gi|795070615|ref|XM_011978622.1| PREDICTED: Mandrillus leucophaeus interferon, gamma-inducible protein 16 (IFI16), mRNA
+gi|1381466172|ref|XM_011770007.2| PREDICTED: Macaca nemestrina interferon gamma inducible protein 16 (IFI16), transcript variant X1, mRNA
+gi|387763635|ref|NM_001261661.1| Macaca mulatta interferon gamma inducible protein 16 (IFI16), mRNA
+gi|1411076990|ref|XM_025383436.1| PREDICTED: Theropithecus gelada interferon gamma inducible protein 16 (IFI16), mRNA
+gi|1777247139|ref|XM_003892880.5| PREDICTED: Papio anubis interferon gamma inducible protein 16 (IFI16), transcript variant X1, mRNA
+gi|795429111|ref|XM_012093303.1| PREDICTED: Cercocebus atys interferon, gamma-inducible protein 16 (IFI16), transcript variant X1, mRNA
+gi|795429119|ref|XM_012093305.1| PREDICTED: Cercocebus atys interferon, gamma-inducible protein 16 (IFI16), transcript variant X3, mRNA
+gi|1777247141|ref|XM_021925422.2| PREDICTED: Papio anubis interferon gamma inducible protein 16 (IFI16), transcript variant X2, mRNA
+gi|1776842969|ref|NM_001376587.1| Homo sapiens interferon gamma inducible protein 16 (IFI16), transcript variant 4, mRNA
+gi|1677498904|ref|NM_001364867.2| Homo sapiens interferon gamma inducible protein 16 (IFI16), transcript variant 3, mRNA
+gi|1370452961|ref|XM_017001150.2| PREDICTED: Homo sapiens interferon gamma inducible protein 16 (IFI16), transcript variant X4, mRNA
+gi|1753024409|ref|XM_019025077.2| PREDICTED: Gorilla gorilla gorilla interferon gamma inducible protein 16 (IFI16), transcript variant X2, mRNA
+gi|1753024407|ref|XM_019025071.2| PREDICTED: Gorilla gorilla gorilla interferon gamma inducible protein 16 (IFI16), transcript variant X1, mRNA
+gi|197102615|ref|NM_001131692.1| Pongo abelii interferon gamma inducible protein 16 (IFI16), mRNA >gi|55727173|emb|CR858104.1| Pongo abelii mRNA; cDNA DKFZp468E1111 (from clone DKFZp468E1111)
+gi|1776842977|ref|NM_001376592.1| Homo sapiens interferon gamma inducible protein 16 (IFI16), transcript variant 9, mRNA
+gi|1776842975|ref|NM_001376591.1| Homo sapiens interferon gamma inducible protein 16 (IFI16), transcript variant 8, mRNA
+gi|1482604850|ref|XM_023214176.2| PREDICTED: Piliocolobus tephrosceles interferon gamma inducible protein 16 (IFI16), transcript variant X2, mRNA
+gi|1753024417|ref|XM_019025089.2| PREDICTED: Gorilla gorilla gorilla interferon gamma inducible protein 16 (IFI16), transcript variant X6, mRNA
+gi|1753024415|ref|XM_019025088.2| PREDICTED: Gorilla gorilla gorilla interferon gamma inducible protein 16 (IFI16), transcript variant X5, mRNA
+gi|1367109316|ref|XM_009435204.3| PREDICTED: Pan troglodytes interferon gamma inducible protein 16 (IFI16), transcript variant X4, mRNA
+gi|1034075215|ref|XM_016929981.1| PREDICTED: Pan troglodytes interferon gamma inducible protein 16 (IFI16), transcript variant X5, mRNA
+gi|795429122|ref|XM_012093306.1| PREDICTED: Cercocebus atys interferon, gamma-inducible protein 16 (IFI16), transcript variant X4, mRNA
+gi|1384946124|ref|XM_024930013.1| PREDICTED: Pan paniscus interferon gamma inducible protein 16 (IFI16), transcript variant X4, mRNA
+gi|1777247146|ref|XM_021925429.2| PREDICTED: Papio anubis interferon gamma inducible protein 16 (IFI16), transcript variant X4, mRNA
+gi|795429129|ref|XM_012093308.1| PREDICTED: Cercocebus atys interferon, gamma-inducible protein 16 (IFI16), transcript variant X6, mRNA
+gi|795429126|ref|XM_012093307.1| PREDICTED: Cercocebus atys interferon, gamma-inducible protein 16 (IFI16), transcript variant X5, mRNA
+gi|1777247143|ref|XM_021925425.2| PREDICTED: Papio anubis interferon gamma inducible protein 16 (IFI16), transcript variant X3, mRNA
+gi|1381466173|ref|XM_024798062.1| PREDICTED: Macaca nemestrina interferon gamma inducible protein 16 (IFI16), transcript variant X2, mRNA
+gi|1777247148|ref|XM_021925430.2| PREDICTED: Papio anubis interferon gamma inducible protein 16 (IFI16), transcript variant X5, mRNA
+gi|1743151061|ref|XM_030824152.1| PREDICTED: Nomascus leucogenys interferon gamma inducible protein 16 (IFI16), transcript variant X3, mRNA
+gi|1743151059|ref|XM_030824150.1| PREDICTED: Nomascus leucogenys interferon gamma inducible protein 16 (IFI16), transcript variant X2, mRNA
+gi|1060960524|ref|XM_008984687.2| PREDICTED: Callithrix jacchus interferon gamma inducible protein 16 (IFI16), mRNA
+gi|1044415262|ref|XM_017503683.1| PREDICTED: Cebus capucinus imitator interferon gamma inducible protein 16 (IFI16), transcript variant X1, mRNA
+gi|725592395|ref|XM_010348618.1| PREDICTED: Saimiri boliviensis boliviensis uncharacterized LOC101044662 (LOC101044662), mRNA
+gi|725592395|ref|XM_010348618.1| PREDICTED: Saimiri boliviensis boliviensis uncharacterized LOC101044662 (LOC101044662), mRNA
+gi|1212393923|ref|XM_021667378.1| PREDICTED: Aotus nancymaae gamma-interferon-inducible protein 16 (LOC105715504), mRNA
+gi|1099065575|ref|XM_019025055.1| PREDICTED: Gorilla gorilla gorilla pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|1034075208|ref|XM_525227.6| PREDICTED: Pan troglodytes pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|1034075204|ref|XM_016929958.1| PREDICTED: Pan troglodytes pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|675761670|ref|XM_003820982.2| PREDICTED: Pan paniscus pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|1622829551|ref|XM_028827246.1| PREDICTED: Macaca mulatta pyrin and HIN domain family member 1 (PYHIN1), transcript variant X4, mRNA
+gi|1622829549|ref|XM_015112719.2| PREDICTED: Macaca mulatta pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|675761673|ref|XM_003820983.2| PREDICTED: Pan paniscus pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|1743151068|ref|XM_003258676.4| PREDICTED: Nomascus leucogenys pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|1675018151|ref|NM_198928.5| Homo sapiens pyrin and HIN domain family member 1 (PYHIN1), transcript variant 2, mRNA
+gi|649114909|gb|KJ895635.1| Synthetic construct Homo sapiens clone ccsbBroadEn_05029 PYHIN1 gene, encodes complete protein
+gi|141797020|gb|BC139741.1| Homo sapiens pyrin and HIN domain family, member 1, mRNA (cDNA clone MGC:149091 IMAGE:40033401), complete cds
+gi|37731972|gb|AY185345.1| Homo sapiens interferon-inducible protein X alpha 2 isoform (IFIX) mRNA, complete cds
+gi|1743151070|ref|XM_004089848.3| PREDICTED: Nomascus leucogenys pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|1675095601|ref|NM_198930.4| Homo sapiens pyrin and HIN domain family member 1 (PYHIN1), transcript variant 4, mRNA
+gi|982224960|ref|XM_015455117.1| PREDICTED: Macaca fascicularis pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|635103861|ref|XM_007976592.1| PREDICTED: Chlorocebus sabaeus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X3, mRNA
+gi|37731976|gb|AY185347.1| Homo sapiens interferon-inducible protein X beta 2 isoform (IFIX) mRNA, complete cds
+gi|1044415264|ref|XM_017503684.1| PREDICTED: Cebus capucinus imitator interferon gamma inducible protein 16 (IFI16), transcript variant X2, mRNA
+gi|635103865|ref|XM_007976594.1| PREDICTED: Chlorocebus sabaeus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X5, mRNA
+gi|90441813|gb|BC114470.1| Homo sapiens cDNA clone IMAGE:40033390, containing frame-shift errors
+gi|1777247130|ref|XM_003892882.5| PREDICTED: Papio anubis pyrin and HIN domain family member 1 (PYHIN1), transcript variant X5, mRNA
+gi|795472834|ref|XM_011769981.1| PREDICTED: Macaca nemestrina pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|795429101|ref|XM_012093301.1| PREDICTED: Cercocebus atys pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X7, mRNA
+gi|795429097|ref|XM_012093299.1| PREDICTED: Cercocebus atys pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X6, mRNA
+gi|795070628|ref|XM_011978650.1| PREDICTED: Mandrillus leucophaeus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X3, mRNA
+gi|1777247134|ref|XM_031654297.1| PREDICTED: Papio anubis pyrin and HIN domain family member 1 (PYHIN1), transcript variant X8, mRNA
+gi|1777247133|ref|XM_009184327.4| PREDICTED: Papio anubis pyrin and HIN domain family member 1 (PYHIN1), transcript variant X7, mRNA
+gi|1777247127|ref|XM_021925396.2| PREDICTED: Papio anubis pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|1411076994|ref|XM_025383456.1| PREDICTED: Theropithecus gelada pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|795070638|ref|XM_011978668.1| PREDICTED: Mandrillus leucophaeus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X5, mRNA
+gi|1411076998|ref|XM_025383473.1| PREDICTED: Theropithecus gelada pyrin and HIN domain family member 1 (PYHIN1), transcript variant X4, mRNA
+gi|1099065568|ref|XM_019025052.1| PREDICTED: Gorilla gorilla gorilla pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|795271517|ref|XM_011957171.1| PREDICTED: Colobus angolensis palliatus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X2, mRNA
+gi|1099065581|ref|XM_004027055.2| PREDICTED: Gorilla gorilla gorilla pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|795271534|ref|XM_011957173.1| PREDICTED: Colobus angolensis palliatus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X4, mRNA
+gi|675761667|ref|XM_008974466.1| PREDICTED: Pan paniscus pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|1622829547|ref|XM_015112717.2| PREDICTED: Macaca mulatta pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|1622829545|ref|XM_028827240.1| PREDICTED: Macaca mulatta pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|1743151066|ref|XM_030824154.1| PREDICTED: Nomascus leucogenys pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|1653961058|ref|NM_152501.5| Homo sapiens pyrin and HIN domain family member 1 (PYHIN1), transcript variant 1, mRNA
+gi|1034555957|ref|XM_011509242.2| PREDICTED: Homo sapiens pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|37731970|gb|AY185344.1| Homo sapiens interferon-inducible protein X alpha 1 isoform (IFIX) mRNA, complete cds
+gi|1059148542|ref|XM_017875527.1| PREDICTED: Rhinopithecus bieti pyrin and HIN domain family member 1 (PYHIN1), transcript variant X4, mRNA
+gi|1059148540|ref|XM_017875526.1| PREDICTED: Rhinopithecus bieti pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|1034555961|ref|XM_011509243.2| PREDICTED: Homo sapiens pyrin and HIN domain family member 1 (PYHIN1), transcript variant X4, mRNA
+gi|1034555958|ref|XM_017000463.1| PREDICTED: Homo sapiens pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|49117500|gb|BC073133.1| Homo sapiens cDNA clone IMAGE:5757344, containing frame-shift errors
+gi|1674986800|ref|NM_198929.5| Homo sapiens pyrin and HIN domain family member 1 (PYHIN1), transcript variant 3, mRNA
+gi|982224959|ref|XM_005541320.2| PREDICTED: Macaca fascicularis pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|982224957|ref|XM_015455114.1| PREDICTED: Macaca fascicularis pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|635103859|ref|XM_007976591.1| PREDICTED: Chlorocebus sabaeus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X2, mRNA
+gi|635103857|ref|XM_007976590.1| PREDICTED: Chlorocebus sabaeus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X1, mRNA
+gi|37731974|gb|AY185346.1| Homo sapiens interferon-inducible protein X beta 1 isoform (IFIX) mRNA, complete cds
+gi|60552344|gb|BC090944.1| Homo sapiens pyrin and HIN domain family, member 1, mRNA (cDNA clone MGC:105044 IMAGE:5212268), complete cds
+gi|635103863|ref|XM_007976593.1| PREDICTED: Chlorocebus sabaeus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X4, mRNA
+gi|1751297546|ref|XM_030937113.1| PREDICTED: Rhinopithecus roxellana pyrin and HIN domain family member 1 (PYHIN1), transcript variant X5, mRNA
+gi|1751297544|ref|XM_030937112.1| PREDICTED: Rhinopithecus roxellana pyrin and HIN domain family member 1 (PYHIN1), transcript variant X4, mRNA
+gi|1351349603|ref|XM_024243948.1| PREDICTED: Pongo abelii pyrin and HIN domain-containing protein 1-like (LOC100444957), mRNA
+gi|1777247129|ref|XM_021925397.2| PREDICTED: Papio anubis pyrin and HIN domain family member 1 (PYHIN1), transcript variant X4, mRNA
+gi|795472828|ref|XM_011769980.1| PREDICTED: Macaca nemestrina pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|795472824|ref|XM_011769979.1| PREDICTED: Macaca nemestrina pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|795429083|ref|XR_001020435.1| PREDICTED: Cercocebus atys pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X3, misc_RNA
+gi|795429076|ref|XM_012093297.1| PREDICTED: Cercocebus atys pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X2, mRNA
+gi|795429070|ref|XM_012093296.1| PREDICTED: Cercocebus atys pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X1, mRNA
+gi|795070623|ref|XM_011978644.1| PREDICTED: Mandrillus leucophaeus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X2, mRNA
+gi|795070620|ref|XM_011978636.1| PREDICTED: Mandrillus leucophaeus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X1, mRNA
+gi|1777247132|ref|XM_009184326.4| PREDICTED: Papio anubis pyrin and HIN domain family member 1 (PYHIN1), transcript variant X6, mRNA
+gi|1777247125|ref|XM_021925395.2| PREDICTED: Papio anubis pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|1777247122|ref|XM_021925393.2| PREDICTED: Papio anubis pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|1482604686|ref|XM_023214171.2| PREDICTED: Piliocolobus tephrosceles pyrin and HIN domain-containing protein 1 (LOC111543843), transcript variant X4, mRNA
+gi|1482604684|ref|XM_023214170.2| PREDICTED: Piliocolobus tephrosceles pyrin and HIN domain-containing protein 1 (LOC111543843), transcript variant X3, mRNA
+gi|1482604682|ref|XM_023214169.2| PREDICTED: Piliocolobus tephrosceles pyrin and HIN domain-containing protein 1 (LOC111543843), transcript variant X2, mRNA
+gi|1482604680|ref|XM_023214168.2| PREDICTED: Piliocolobus tephrosceles pyrin and HIN domain-containing protein 1 (LOC111543843), transcript variant X1, mRNA
+gi|1411076992|ref|XM_025383448.1| PREDICTED: Theropithecus gelada pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|795429105|ref|XM_012093302.1| PREDICTED: Cercocebus atys pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X8, mRNA
+gi|795429093|ref|XR_001020436.1| PREDICTED: Cercocebus atys pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X5, misc_RNA
+gi|795429087|ref|XM_012093298.1| PREDICTED: Cercocebus atys pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X4, mRNA
+gi|795070633|ref|XM_011978661.1| PREDICTED: Mandrillus leucophaeus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X4, mRNA
+gi|21754136|dbj|AK094968.1| Homo sapiens cDNA FLJ37649 fis, clone BRHIP2000534, moderately similar to GAMMA-INTERFERON-INDUCIBLE PROTEIN IFI-16
+gi|1482604688|ref|XM_026457030.1| PREDICTED: Piliocolobus tephrosceles pyrin and HIN domain-containing protein 1 (LOC111543843), transcript variant X5, mRNA
+gi|1411076996|ref|XM_025383465.1| PREDICTED: Theropithecus gelada pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|795271508|ref|XM_011957170.1| PREDICTED: Colobus angolensis palliatus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X1, mRNA
+gi|1351366482|ref|XM_009242389.2| PREDICTED: Pongo abelii pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|795271525|ref|XM_011957172.1| PREDICTED: Colobus angolensis palliatus pyrin and HIN domain family, member 1 (PYHIN1), transcript variant X3, mRNA
+gi|1351366489|ref|XM_003775530.3| PREDICTED: Pongo abelii pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|1059148538|ref|XM_017875525.1| PREDICTED: Rhinopithecus bieti pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|1059148536|ref|XM_017875524.1| PREDICTED: Rhinopithecus bieti pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|1751297542|ref|XM_030937111.1| PREDICTED: Rhinopithecus roxellana pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|1751297540|ref|XM_030937110.1| PREDICTED: Rhinopithecus roxellana pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|1751297538|ref|XM_030937109.1| PREDICTED: Rhinopithecus roxellana pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|817270201|ref|XM_012449737.1| PREDICTED: Aotus nancymaae pyrin and HIN domain family member 1 (PYHIN1), transcript variant X5, mRNA
+gi|817270199|ref|XM_012449736.1| PREDICTED: Aotus nancymaae pyrin and HIN domain family member 1 (PYHIN1), transcript variant X4, mRNA
+gi|817270197|ref|XM_012449735.1| PREDICTED: Aotus nancymaae pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|817270196|ref|XR_001107033.1| PREDICTED: Aotus nancymaae pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, misc_RNA
+gi|817270194|ref|XM_012449734.1| PREDICTED: Aotus nancymaae pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|1044415260|ref|XM_017503682.1| PREDICTED: Cebus capucinus imitator pyrin and HIN domain family member 1 (PYHIN1), transcript variant X3, mRNA
+gi|1044415258|ref|XM_017503681.1| PREDICTED: Cebus capucinus imitator pyrin and HIN domain family member 1 (PYHIN1), transcript variant X2, mRNA
+gi|1044415256|ref|XM_017503679.1| PREDICTED: Cebus capucinus imitator pyrin and HIN domain family member 1 (PYHIN1), transcript variant X1, mRNA
+gi|1060960522|ref|XM_008984685.2| PREDICTED: Callithrix jacchus pyrin and HIN domain-containing protein 1-like (LOC103789035), transcript variant X3, mRNA
+gi|1060960521|ref|XM_008984684.2| PREDICTED: Callithrix jacchus pyrin and HIN domain-containing protein 1-like (LOC103789035), transcript variant X2, mRNA
+gi|1060960520|ref|XM_008984683.2| PREDICTED: Callithrix jacchus pyrin and HIN domain-containing protein 1-like (LOC103789035), transcript variant X1, mRNA
+gi|1214038444|ref|XM_021715795.1| PREDICTED: Carlito syrichta gamma-interferon-inducible protein 16 (LOC103266950), mRNA
+gi|826336533|ref|XM_012659444.1| PREDICTED: Propithecus coquereli pyrin and HIN domain-containing protein 1-like (LOC105822461), partial mRNA
+gi|1149850295|ref|XM_020284897.1| PREDICTED: Microcebus murinus interferon gamma inducible protein 16 (IFI16), transcript variant X10, mRNA
+gi|829984898|ref|XM_012752359.1| PREDICTED: Microcebus murinus interferon gamma inducible protein 16 (IFI16), transcript variant X3, mRNA
+gi|1149850294|ref|XM_012752363.2| PREDICTED: Microcebus murinus interferon gamma inducible protein 16 (IFI16), transcript variant X9, mRNA
+gi|1149850293|ref|XM_012752361.2| PREDICTED: Microcebus murinus interferon gamma inducible protein 16 (IFI16), transcript variant X8, mRNA
+gi|1149850292|ref|XM_012752362.2| PREDICTED: Microcebus murinus interferon gamma inducible protein 16 (IFI16), transcript variant X7, mRNA
+gi|1149850288|ref|XM_020284868.1| PREDICTED: Microcebus murinus interferon gamma inducible protein 16 (IFI16), transcript variant X4, mRNA
+gi|829984893|ref|XM_012752358.1| PREDICTED: Microcebus murinus interferon gamma inducible protein 16 (IFI16), transcript variant X2, mRNA
+gi|829984888|ref|XM_012752357.1| PREDICTED: Microcebus murinus interferon gamma inducible protein 16 (IFI16), transcript variant X1, mRNA
+gi|829984906|ref|XM_012752360.1| PREDICTED: Microcebus murinus interferon gamma inducible protein 16 (IFI16), transcript variant X5, mRNA
+gi|1149850307|ref|XM_012752382.2| PREDICTED: Microcebus murinus pyrin and HIN domain-containing protein 1-like (LOC105864482), transcript variant X2, mRNA
+gi|1149850306|ref|XM_012752381.2| PREDICTED: Microcebus murinus pyrin and HIN domain-containing protein 1-like (LOC105864482), transcript variant X1, mRNA
+gi|1327808663|ref|XM_023516423.1| PREDICTED: Otolemur garnettii interferon gamma inducible protein 16 (IFI16), mRNA
+gi|1149850290|ref|XM_020284874.1| PREDICTED: Microcebus murinus interferon gamma inducible protein 16 (IFI16), transcript variant X6, mRNA
+gi|817270203|ref|XM_012449738.1| PREDICTED: Aotus nancymaae myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|826336536|ref|XM_012659445.1| PREDICTED: Propithecus coquereli myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|1044415274|ref|XM_017503689.1| PREDICTED: Cebus capucinus imitator myeloid cell nuclear differentiation antigen (MNDA), transcript variant X2, mRNA
+gi|1044415272|ref|XM_017503688.1| PREDICTED: Cebus capucinus imitator myeloid cell nuclear differentiation antigen (MNDA), transcript variant X1, mRNA
+gi|1149850319|ref|XM_012752377.2| PREDICTED: Microcebus murinus myeloid cell nuclear differentiation antigen (LOC105864479), transcript variant X9, mRNA
+gi|1149850317|ref|XM_012752375.2| PREDICTED: Microcebus murinus myeloid cell nuclear differentiation antigen (LOC105864479), transcript variant X7, mRNA
+gi|1149850315|ref|XM_020284914.1| PREDICTED: Microcebus murinus myeloid cell nuclear differentiation antigen (LOC105864479), transcript variant X6, mRNA
+gi|1149850313|ref|XM_020284912.1| PREDICTED: Microcebus murinus myeloid cell nuclear differentiation antigen (LOC105864479), transcript variant X5, mRNA
+gi|1149850311|ref|XM_020284911.1| PREDICTED: Microcebus murinus myeloid cell nuclear differentiation antigen (LOC105864479), transcript variant X4, mRNA
+gi|1149850309|ref|XM_020284910.1| PREDICTED: Microcebus murinus myeloid cell nuclear differentiation antigen (LOC105864479), transcript variant X3, mRNA
+gi|1149850308|ref|XM_012752373.2| PREDICTED: Microcebus murinus myeloid cell nuclear differentiation antigen (LOC105864479), transcript variant X1, mRNA
+gi|829984970|ref|XM_012752374.1| PREDICTED: Microcebus murinus myeloid cell nuclear differentiation antigen (LOC105864479), transcript variant X2, mRNA
+gi|1149850318|ref|XM_012752376.2| PREDICTED: Microcebus murinus myeloid cell nuclear differentiation antigen (LOC105864479), transcript variant X8, mRNA
+gi|1099065556|ref|XM_004027053.2| PREDICTED: Gorilla gorilla gorilla myeloid cell nuclear differentiation antigen (MNDA), transcript variant X1, mRNA
+gi|1777247119|ref|XM_031654287.1| PREDICTED: Papio anubis myeloid cell nuclear differentiation antigen (MNDA), transcript variant X2, mRNA
+gi|1777247116|ref|XM_031654285.1| PREDICTED: Papio anubis myeloid cell nuclear differentiation antigen (MNDA), transcript variant X1, mRNA
+gi|1777234520|ref|XM_009184310.4| PREDICTED: Papio anubis myeloid cell nuclear differentiation antigen (LOC100999874), transcript variant X2, mRNA
+gi|1777234518|ref|XM_003892879.4| PREDICTED: Papio anubis myeloid cell nuclear differentiation antigen (LOC100999874), transcript variant X1, mRNA
+gi|795271487|ref|XM_011957167.1| PREDICTED: Colobus angolensis palliatus myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|1622829555|ref|XM_001117129.4| PREDICTED: Macaca mulatta myeloid cell nuclear differentiation antigen (MNDA), transcript variant X2, mRNA
+gi|1622829553|ref|XM_015112693.2| PREDICTED: Macaca mulatta myeloid cell nuclear differentiation antigen (MNDA), transcript variant X1, mRNA
+gi|795158940|ref|XM_011984763.1| PREDICTED: Mandrillus leucophaeus myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|1482604768|ref|XM_023214167.2| PREDICTED: Piliocolobus tephrosceles myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|1381466155|ref|XM_011769995.2| PREDICTED: Macaca nemestrina myeloid cell nuclear differentiation antigen (MNDA), transcript variant X2, mRNA
+gi|1381466154|ref|XM_011769993.2| PREDICTED: Macaca nemestrina myeloid cell nuclear differentiation antigen (MNDA), transcript variant X1, mRNA
+gi|1351362795|ref|XM_002809962.3| PREDICTED: Pongo abelii myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|982224205|ref|XM_015452188.1| PREDICTED: Macaca fascicularis myeloid cell nuclear differentiation antigen (MNDA), transcript variant X2, mRNA
+gi|982224203|ref|XM_015452181.1| PREDICTED: Macaca fascicularis myeloid cell nuclear differentiation antigen (MNDA), transcript variant X1, mRNA
+gi|795429066|ref|XM_012093295.1| PREDICTED: Cercocebus atys myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|1034075200|ref|XM_525225.5| PREDICTED: Pan troglodytes myeloid cell nuclear differentiation antigen (MNDA), transcript variant X1, mRNA
+gi|675761676|ref|XM_003820984.2| PREDICTED: Pan paniscus myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|1751295020|ref|XM_010356740.2| PREDICTED: Rhinopithecus roxellana myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|1411079959|ref|XM_025397036.1| PREDICTED: Theropithecus gelada myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|1059148544|ref|XM_017875528.1| PREDICTED: Rhinopithecus bieti myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|635103871|ref|XM_007976599.1| PREDICTED: Chlorocebus sabaeus myeloid cell nuclear differentiation antigen (MNDA), transcript variant X2, mRNA
+gi|635103869|ref|XM_007976596.1| PREDICTED: Chlorocebus sabaeus myeloid cell nuclear differentiation antigen (MNDA), transcript variant X1, mRNA
+gi|548961469|ref|NM_001285254.1| Macaca fascicularis myeloid cell nuclear differentiation antigen (MNDA), mRNA >gi|19716075|dbj|AB072022.1| Macaca fascicularis MNDA mRNA for myeloid cell nuclear differentiation factor, complete cds
+gi|1519314020|ref|NM_002432.3| Homo sapiens myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|308219207|gb|GQ900945.1| Homo sapiens clone HEL-T-57 epididymis secretory sperm binding protein mRNA, complete cds
+gi|649148911|gb|KJ904504.1| Synthetic construct Homo sapiens clone ccsbBroadEn_13898 MNDA gene, encodes complete protein
+gi|158261806|dbj|AK290392.1| Homo sapiens cDNA FLJ78191 complete cds, highly similar to Homo sapiens myeloid cell nuclear differentiation antigen, mRNA
+gi|21595360|gb|BC032319.1| Homo sapiens myeloid cell nuclear differentiation antigen, mRNA (cDNA clone MGC:40350 IMAGE:5223430), complete cds
+gi|895928|gb|M81750.1|HUMMCNDA H.sapiens myeloid cell nuclear differentiation antigen mRNA, complete cds
+gi|164693009|dbj|AK313210.1| Homo sapiens cDNA, FLJ93711, highly similar to Homo sapiens myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|1149850304|ref|XM_012752386.2| PREDICTED: Microcebus murinus pyrin and HIN domain-containing protein 1-like (LOC105864483), transcript variant X3, mRNA
+gi|1149850303|ref|XM_012752385.2| PREDICTED: Microcebus murinus pyrin and HIN domain-containing protein 1-like (LOC105864483), transcript variant X2, mRNA
+gi|1149850302|ref|XM_012752383.2| PREDICTED: Microcebus murinus pyrin and HIN domain-containing protein 1-like (LOC105864483), transcript variant X1, mRNA
+gi|1743148640|ref|XM_003258675.3| PREDICTED: Nomascus leucogenys myeloid cell nuclear differentiation antigen (MNDA), mRNA
+gi|1044415276|ref|XR_001817804.1| PREDICTED: Cebus capucinus imitator myeloid cell nuclear differentiation antigen (MNDA), transcript variant X3, misc_RNA
+gi|1149850320|ref|XM_012752378.2| PREDICTED: Microcebus murinus myeloid cell nuclear differentiation antigen-like (LOC105864480), transcript variant X1, mRNA
+gi|829984994|ref|XM_012752379.1| PREDICTED: Microcebus murinus myeloid cell nuclear differentiation antigen-like (LOC105864480), transcript variant X2, mRNA

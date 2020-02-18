@@ -1,0 +1,251 @@
+# BLASTN 2.10.0+
+# Query: homSap_MX1_CCDS13673
+# Database: nt_v5					
+# Fields: subject id, ?
+# 970 hits found
+gi|1519315249|ref|NM_002462.5| Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant 2, mRNA
+gi|1370481400|ref|XM_017028349.2| PREDICTED: Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant X5, mRNA
+gi|1034627218|ref|XM_005260982.2| PREDICTED: Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant X8, mRNA
+gi|1034627217|ref|XM_005260981.2| PREDICTED: Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant X7, mRNA
+gi|1034627215|ref|XM_017028350.1| PREDICTED: Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant X6, mRNA
+gi|1034627212|ref|XM_005260980.2| PREDICTED: Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant X4, mRNA
+gi|1034627211|ref|XM_005260979.2| PREDICTED: Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant X3, mRNA
+gi|1034627210|ref|XM_011529568.2| PREDICTED: Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|1034627209|ref|XM_005260978.4| PREDICTED: Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|544711181|ref|NM_001178046.2| Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant 3, mRNA
+gi|544711167|ref|NM_001144925.2| Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant 1, mRNA
+gi|190135|gb|M33882.1|HUMPMX1A Human p78 protein mRNA, complete cds
+gi|21619146|gb|BC032602.1| Homo sapiens myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse), mRNA (cDNA clone MGC:44833 IMAGE:5535278), complete cds
+gi|261858633|dbj|AB527675.1| Synthetic construct DNA, clone: pF1KB6193, Homo sapiens MX1 gene for myxovirus (influenza virus) resistance 1, interferon-inducible protein p78, without stop codon, in Flexi system
+gi|325464350|gb|JF432729.1| Synthetic construct Homo sapiens clone IMAGE:100073972 myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse) (MX1) gene, encodes complete protein
+gi|649120027|gb|KJ897213.1| Synthetic construct Homo sapiens clone ccsbBroadEn_06607 MX1 gene, encodes complete protein
+gi|164695655|dbj|AK315465.1| Homo sapiens cDNA, FLJ96524, highly similar to Homo sapiens myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse) (MX1), mRNA
+gi|188900|gb|M30817.1|HUMMXA Human interferon-induced cellular resistance mediator protein (MxA) mRNA, complete cds
+gi|21755829|dbj|AK096355.1| Homo sapiens cDNA FLJ39036 fis, clone NT2RP7008360, highly similar to Interferon-induced GTP-binding protein Mx1
+gi|1384960872|ref|XM_008977601.3| PREDICTED: Pan paniscus MX dynamin like GTPase 1 (MX1), transcript variant X4, mRNA
+gi|1384960871|ref|XM_008977600.3| PREDICTED: Pan paniscus MX dynamin like GTPase 1 (MX1), transcript variant X3, mRNA
+gi|1384960870|ref|XM_008977598.3| PREDICTED: Pan paniscus MX dynamin like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|1384960869|ref|XM_003823901.4| PREDICTED: Pan paniscus MX dynamin like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|675776795|ref|XM_008977605.1| PREDICTED: Pan paniscus MX dynamin like GTPase 1 (MX1), transcript variant X7, mRNA
+gi|675776792|ref|XM_008977603.1| PREDICTED: Pan paniscus MX dynamin like GTPase 1 (MX1), transcript variant X6, mRNA
+gi|675776782|ref|XM_008977599.1| PREDICTED: Pan paniscus MX dynamin like GTPase 1 (MX1), transcript variant X5, mRNA
+gi|110624321|dbj|AK225885.1| Homo sapiens mRNA for myxovirus resistance protein 1 variant, clone: FCC122B03
+gi|1367238133|ref|XM_009438930.3| PREDICTED: Pan troglodytes MX dynamin like GTPase 1 (MX1), transcript variant X10, mRNA
+gi|1367238130|ref|XM_009438452.3| PREDICTED: Pan troglodytes MX dynamin like GTPase 1 (MX1), transcript variant X9, mRNA
+gi|1367238127|ref|XM_009437396.3| PREDICTED: Pan troglodytes MX dynamin like GTPase 1 (MX1), transcript variant X8, mRNA
+gi|1367238124|ref|XM_009437900.2| PREDICTED: Pan troglodytes MX dynamin like GTPase 1 (MX1), transcript variant X7, mRNA
+gi|1367238121|ref|XM_009433909.3| PREDICTED: Pan troglodytes MX dynamin like GTPase 1 (MX1), transcript variant X6, mRNA
+gi|1367238119|ref|XM_009435429.3| PREDICTED: Pan troglodytes MX dynamin like GTPase 1 (MX1), transcript variant X5, mRNA
+gi|1367238117|ref|XM_016938404.2| PREDICTED: Pan troglodytes MX dynamin like GTPase 1 (MX1), transcript variant X4, mRNA
+gi|1367238115|ref|XM_009434398.3| PREDICTED: Pan troglodytes MX dynamin like GTPase 1 (MX1), transcript variant X3, mRNA
+gi|1367238112|ref|XM_009434930.3| PREDICTED: Pan troglodytes MX dynamin like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|1367238110|ref|XM_009433454.3| PREDICTED: Pan troglodytes MX dynamin like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|683523965|ref|NM_001301762.1| Pan paniscus MX dynamin like GTPase 1 (MX1), mRNA >gi|408689538|gb|JX297241.1| Pan paniscus myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|525345364|ref|NM_001279836.1| Pan troglodytes MX dynamin like GTPase 1 (MX1), mRNA >gi|408689540|gb|JX297242.1| Pan troglodytes myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|525344602|ref|NM_001279761.1| Gorilla gorilla MX dynamin like GTPase 1 (MX1), mRNA >gi|408689524|gb|JX297234.1| Gorilla gorilla myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|1753056057|ref|XM_019017591.2| PREDICTED: Gorilla gorilla gorilla MX dynamin like GTPase 1 (MX1), transcript variant X7, mRNA
+gi|1753056056|ref|XM_019017590.2| PREDICTED: Gorilla gorilla gorilla MX dynamin like GTPase 1 (MX1), transcript variant X6, mRNA
+gi|1753056055|ref|XM_019017589.2| PREDICTED: Gorilla gorilla gorilla MX dynamin like GTPase 1 (MX1), transcript variant X5, mRNA
+gi|1753056054|ref|XM_019017588.2| PREDICTED: Gorilla gorilla gorilla MX dynamin like GTPase 1 (MX1), transcript variant X4, mRNA
+gi|1753056053|ref|XM_019017587.2| PREDICTED: Gorilla gorilla gorilla MX dynamin like GTPase 1 (MX1), transcript variant X3, mRNA
+gi|1753056052|ref|XM_019017586.2| PREDICTED: Gorilla gorilla gorilla MX dynamin like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|1753056051|ref|XM_019017585.2| PREDICTED: Gorilla gorilla gorilla MX dynamin like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|408689544|gb|JX297244.1| Pongo pygmaeus myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|1467672400|ref|NM_001134146.2| Pongo abelii MX dynamin like GTPase 1 (MX1), mRNA
+gi|55732606|emb|CR860897.1| Pongo abelii mRNA; cDNA DKFZp469O2020 (from clone DKFZp469O2020)
+gi|1743201963|ref|XM_030805970.1| PREDICTED: Nomascus leucogenys MX dynamin like GTPase 1 (MX1), transcript variant X4, mRNA
+gi|1743201961|ref|XM_030805969.1| PREDICTED: Nomascus leucogenys MX dynamin like GTPase 1 (MX1), transcript variant X3, mRNA
+gi|1743201959|ref|XM_030805968.1| PREDICTED: Nomascus leucogenys MX dynamin like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|1743201958|ref|XM_012501726.2| PREDICTED: Nomascus leucogenys MX dynamin like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|408689550|gb|JX297247.1| Symphalangus syndactylus myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|408689526|gb|JX297235.1| Hylobates agilis myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|525342471|ref|NM_001280102.1| Nomascus leucogenys MX dynamin like GTPase 1 (MX1), mRNA >gi|408689536|gb|JX297240.1| Nomascus leucogenys myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|408689532|gb|JX297238.1| Macaca sylvanus myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|408689520|gb|JX297232.1| Chlorocebus tantalus myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|408689552|gb|JX297248.1| Trachypithecus francoisi myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|548961399|ref|NM_001285184.1| Macaca fascicularis MX dynamin like GTPase 1 (MX1), mRNA >gi|408689530|gb|JX297237.1| Macaca fascicularis myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|1622919056|ref|XM_015132840.2| PREDICTED: Macaca mulatta MX dynamin like GTPase 1 (MX1), transcript variant X4, mRNA
+gi|1622919053|ref|XM_015132839.2| PREDICTED: Macaca mulatta MX dynamin like GTPase 1 (MX1), transcript variant X3, mRNA
+gi|1622919050|ref|XM_015132838.2| PREDICTED: Macaca mulatta MX dynamin like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|1622919047|ref|XM_015132837.2| PREDICTED: Macaca mulatta MX dynamin like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|982236902|ref|XM_015446625.1| PREDICTED: Macaca fascicularis MX dynamin-like GTPase 1 (MX1), transcript variant X3, mRNA
+gi|982236900|ref|XM_015446624.1| PREDICTED: Macaca fascicularis MX dynamin-like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|982236898|ref|XM_015446623.1| PREDICTED: Macaca fascicularis MX dynamin-like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|408689522|gb|JX297233.1| Colobus guereza myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|402746546|ref|NM_001079693.2| Macaca mulatta MX dynamin like GTPase 1 (MX1), mRNA
+gi|118500894|gb|EF101561.1| Macaca mulatta myxovirus resistance 1 (MX1) mRNA, complete cds
+gi|1381486853|ref|XR_981666.2| PREDICTED: Macaca nemestrina MX dynamin like GTPase 1 (MX1), transcript variant X4, misc_RNA
+gi|1381486852|ref|XM_011725993.2| PREDICTED: Macaca nemestrina MX dynamin like GTPase 1 (MX1), transcript variant X3, mRNA
+gi|1381486851|ref|XM_011725991.2| PREDICTED: Macaca nemestrina MX dynamin like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|795586317|ref|XM_011725992.1| PREDICTED: Macaca nemestrina MX dynamin like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|635023644|ref|XM_007968734.1| PREDICTED: Chlorocebus sabaeus myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse) (MX1), transcript variant X6, mRNA
+gi|635023642|ref|XM_007968723.1| PREDICTED: Chlorocebus sabaeus myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse) (MX1), transcript variant X5, mRNA
+gi|635023640|ref|XM_007968715.1| PREDICTED: Chlorocebus sabaeus myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse) (MX1), transcript variant X4, mRNA
+gi|635023638|ref|XM_007968708.1| PREDICTED: Chlorocebus sabaeus myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse) (MX1), transcript variant X3, mRNA
+gi|635023636|ref|XM_007968698.1| PREDICTED: Chlorocebus sabaeus myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse) (MX1), transcript variant X2, mRNA
+gi|635023634|ref|XM_007968690.1| PREDICTED: Chlorocebus sabaeus myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse) (MX1), transcript variant X1, mRNA
+gi|408689534|gb|JX297239.1| Miopithecus talapoin myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|795480132|ref|XM_012037327.1| PREDICTED: Cercocebus atys MX dynamin-like GTPase 1 (MX1), mRNA
+gi|795156098|ref|XM_011984185.1| PREDICTED: Mandrillus leucophaeus MX dynamin-like GTPase 1 (MX1), mRNA
+gi|795245737|ref|XM_011954059.1| PREDICTED: Colobus angolensis palliatus MX dynamin-like GTPase 1 (MX1), mRNA
+gi|806638706|ref|NM_001305954.1| Cercocebus atys MX dynamin like GTPase 1 (MX1), mRNA >gi|408689518|gb|JX297231.1| Cercocebus atys myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|1482598971|ref|XM_023191869.2| PREDICTED: Piliocolobus tephrosceles MX dynamin like GTPase 1 (MX1), transcript variant X6, mRNA
+gi|1482598970|ref|XM_023191847.2| PREDICTED: Piliocolobus tephrosceles MX dynamin like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|1297601292|ref|XM_023191875.1| PREDICTED: Piliocolobus tephrosceles MX dynamin like GTPase 1 (MX1), transcript variant X7, mRNA
+gi|1297601285|ref|XM_023191860.1| PREDICTED: Piliocolobus tephrosceles MX dynamin like GTPase 1 (MX1), transcript variant X5, mRNA
+gi|1297601281|ref|XM_023191853.1| PREDICTED: Piliocolobus tephrosceles MX dynamin like GTPase 1 (MX1), transcript variant X4, mRNA
+gi|1297601277|ref|XM_023191852.1| PREDICTED: Piliocolobus tephrosceles MX dynamin like GTPase 1 (MX1), transcript variant X3, mRNA
+gi|1297601269|ref|XM_023191838.1| PREDICTED: Piliocolobus tephrosceles MX dynamin like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|40225573|gb|BC014222.2| Homo sapiens myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse), mRNA (cDNA clone IMAGE:4336669), partial cds
+gi|1411147698|ref|XM_025380298.1| PREDICTED: Theropithecus gelada MX dynamin like GTPase 1 (MX1), mRNA
+gi|1751211092|ref|XM_030914603.1| PREDICTED: Rhinopithecus roxellana MX dynamin like GTPase 1 (MX1), mRNA
+gi|1059158631|ref|XM_017880224.1| PREDICTED: Rhinopithecus bieti MX dynamin like GTPase 1 (MX1), mRNA
+gi|21751731|dbj|AK093008.1| Homo sapiens cDNA FLJ35689 fis, clone SPLEN2019379, highly similar to INTERFERON-REGULATED RESISTANCE GTP-BINDING PROTEIN MXA
+gi|408689512|gb|JX297228.1| Alouatta sara myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|1212438274|ref|XM_012445105.2| PREDICTED: Aotus nancymaae MX dynamin like GTPase 1 (MX1), mRNA
+gi|408689514|gb|JX297229.1| Aotus trivirgatus myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|408689528|gb|JX297236.1| Lagothrix lagotricha myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|1060969800|ref|XM_017967161.1| PREDICTED: Callithrix jacchus MX dynamin like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|1060969798|ref|XM_008986719.2| PREDICTED: Callithrix jacchus MX dynamin like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|1044377918|ref|XM_017538618.1| PREDICTED: Cebus capucinus imitator MX dynamin like GTPase 1 (MX1), transcript variant X3, mRNA
+gi|408689516|gb|JX297230.1| Callicebus moloch myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|408689542|gb|JX297243.1| Pithecia pithecia myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|408689546|gb|JX297245.1| Saguinus midas myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|408689548|gb|JX297246.1| Saimiri sciureus myxovirus (influenza virus) resistance 1 (MxA) mRNA, complete cds
+gi|725567265|ref|XM_003927592.2| PREDICTED: Saimiri boliviensis boliviensis MX dynamin-like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|1060969803|ref|XM_017967162.1| PREDICTED: Callithrix jacchus MX dynamin like GTPase 1 (MX1), transcript variant X3, mRNA
+gi|1044377916|ref|XM_017538617.1| PREDICTED: Cebus capucinus imitator MX dynamin like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|1044377914|ref|XM_017538616.1| PREDICTED: Cebus capucinus imitator MX dynamin like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|725567266|ref|XM_010338252.1| PREDICTED: Saimiri boliviensis boliviensis MX dynamin-like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|544711184|ref|NM_001282920.1| Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant 4, mRNA
+gi|1370481402|ref|XM_011529570.3| PREDICTED: Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant X11, mRNA
+gi|1370481401|ref|XM_017028351.2| PREDICTED: Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant X9, mRNA
+gi|1034627221|ref|XM_017028352.1| PREDICTED: Homo sapiens MX dynamin like GTPase 1 (MX1), transcript variant X10, mRNA
+gi|826281789|ref|XM_012640117.1| PREDICTED: Propithecus coquereli MX dynamin-like GTPase 1 (MX1), transcript variant X1, mRNA
+gi|1753056058|ref|XM_031005077.1| PREDICTED: Gorilla gorilla gorilla MX dynamin like GTPase 1 (MX1), transcript variant X8, mRNA
+gi|1214044056|ref|XM_008068564.2| PREDICTED: Carlito syrichta interferon-induced GTP-binding protein Mx1-like (LOC103271092), partial mRNA
+gi|826281792|ref|XM_012640118.1| PREDICTED: Propithecus coquereli MX dynamin-like GTPase 1 (MX1), transcript variant X2, mRNA
+gi|1149867242|ref|XM_020284695.1| PREDICTED: Microcebus murinus MX dynamin like GTPase 1 (MX1), mRNA
+gi|1214052468|ref|XM_021707336.1| PREDICTED: Carlito syrichta interferon-induced GTP-binding protein Mx1-like (LOC103277220), mRNA
+gi|948542512|gb|KT698239.1| Hylobates agilis myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|1743202643|ref|XM_030806261.1| PREDICTED: Nomascus leucogenys MX dynamin like GTPase 2 (MX2), mRNA
+gi|948542536|gb|KT698251.1| Symphalangus syndactylus myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542524|gb|KT698245.1| Nomascus leucogenys myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|627527977|gb|KJ650327.1| Aotus trivirgatus myxovirus resistance 2 (MX2) mRNA, partial cds
+gi|1044377912|ref|XM_017538615.1| PREDICTED: Cebus capucinus imitator MX dynamin like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|1044377910|ref|XM_017538614.1| PREDICTED: Cebus capucinus imitator MX dynamin like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|948542494|gb|KT698230.1| Aotus trivirgatus myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|1753056672|ref|XM_019017900.2| PREDICTED: Gorilla gorilla gorilla MX dynamin like GTPase 2 (MX2), transcript variant X3, mRNA
+gi|1753056670|ref|XM_004062835.3| PREDICTED: Gorilla gorilla gorilla MX dynamin like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|1753056668|ref|XM_019017898.2| PREDICTED: Gorilla gorilla gorilla MX dynamin like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|1519241871|ref|NM_002463.2| Homo sapiens MX dynamin like GTPase 2 (MX2), mRNA
+gi|1370481406|ref|XM_011529572.2| PREDICTED: Homo sapiens MX dynamin like GTPase 2 (MX2), transcript variant X5, mRNA
+gi|1370481404|ref|XM_024452080.1| PREDICTED: Homo sapiens MX dynamin like GTPase 2 (MX2), transcript variant X3, mRNA
+gi|1370481403|ref|XM_005260983.5| PREDICTED: Homo sapiens MX dynamin like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|948542534|gb|KT698250.1| Saimiri sciureus myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542532|gb|KT698249.1| Saguinus midas myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542510|gb|KT698238.1| Gorilla gorilla myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|768020789|ref|XM_011529571.1| PREDICTED: Homo sapiens MX dynamin like GTPase 2 (MX2), transcript variant X4, mRNA
+gi|725567268|ref|XM_010338253.1| PREDICTED: Saimiri boliviensis boliviensis MX dynamin-like GTPase 2 (MX2), mRNA
+gi|627527975|gb|KJ650326.1| Saimiri boliviensis myxovirus resistance 2 (MX2) mRNA, partial cds
+gi|530418929|ref|XM_005260984.1| PREDICTED: Homo sapiens MX dynamin like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|123997270|gb|DQ895311.2| Synthetic construct Homo sapiens clone IMAGE:100009771; FLH183171.01L; RZPDo839G09139D myxovirus (influenza virus) resistance 2 (mouse) (MX2) gene, encodes complete protein
+gi|123982601|gb|DQ892116.2| Synthetic construct clone IMAGE:100004746; FLH183175.01X; RZPDo839G09140D myxovirus (influenza virus) resistance 2 (mouse) (MX2) gene, encodes complete protein
+gi|23271333|gb|BC035293.1| Homo sapiens myxovirus (influenza virus) resistance 2 (mouse), mRNA (cDNA clone MGC:34215 IMAGE:5182160), complete cds
+gi|190137|gb|M33883.1|HUMPMX1B Human p78-related protein mRNA, complete cds
+gi|188902|gb|M30818.1|HUMMXB Human interferon-induced cellular resistance mediator protein (MxB) mRNA, complete cds
+gi|795245732|ref|XM_011954058.1| PREDICTED: Colobus angolensis palliatus MX dynamin-like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|795245726|ref|XM_011954057.1| PREDICTED: Colobus angolensis palliatus MX dynamin-like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|1212438275|ref|XM_021669412.1| PREDICTED: Aotus nancymaae MX dynamin like GTPase 2 (MX2), mRNA
+gi|1060969791|ref|XR_001908637.1| PREDICTED: Callithrix jacchus MX dynamin like GTPase 2 (MX2), transcript variant X2, misc_RNA
+gi|1060969789|ref|XR_001908636.1| PREDICTED: Callithrix jacchus MX dynamin like GTPase 2 (MX2), transcript variant X1, misc_RNA
+gi|948542506|gb|KT698236.1| Colobus guereza myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542492|gb|KT698229.1| Alouatta sara myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542526|gb|KT698246.1| Pan paniscus myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|675776810|ref|XM_008977609.1| PREDICTED: Pan paniscus MX dynamin like GTPase 2 (MX2), transcript variant X5, mRNA
+gi|675776807|ref|XM_008977608.1| PREDICTED: Pan paniscus MX dynamin like GTPase 2 (MX2), transcript variant X4, mRNA
+gi|675776804|ref|XM_008977607.1| PREDICTED: Pan paniscus MX dynamin like GTPase 2 (MX2), transcript variant X3, mRNA
+gi|675776801|ref|XM_008977606.1| PREDICTED: Pan paniscus MX dynamin like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|397506902|ref|XM_003823906.1| PREDICTED: Pan paniscus MX dynamin like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|1060969793|ref|XM_017967160.1| PREDICTED: Callithrix jacchus MX dynamin like GTPase 2 (MX2), transcript variant X3, mRNA
+gi|1351480926|ref|XM_024239517.1| PREDICTED: Pongo abelii MX dynamin like GTPase 2 (MX2), transcript variant X5, mRNA
+gi|1351480922|ref|XM_024239516.1| PREDICTED: Pongo abelii MX dynamin like GTPase 2 (MX2), transcript variant X4, mRNA
+gi|1351480918|ref|XM_024239515.1| PREDICTED: Pongo abelii MX dynamin like GTPase 2 (MX2), transcript variant X3, mRNA
+gi|1351480915|ref|XM_009233982.2| PREDICTED: Pongo abelii MX dynamin like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|1351480914|ref|XM_002830701.2| PREDICTED: Pongo abelii MX dynamin like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|948542504|gb|KT698235.1| Chlorocebus tantalus myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|635023630|ref|XM_007968671.1| PREDICTED: Chlorocebus sabaeus myxovirus (influenza virus) resistance 2 (mouse) (MX2), transcript variant X4, mRNA
+gi|635023628|ref|XM_007968661.1| PREDICTED: Chlorocebus sabaeus myxovirus (influenza virus) resistance 2 (mouse) (MX2), transcript variant X3, mRNA
+gi|635023626|ref|XM_007968659.1| PREDICTED: Chlorocebus sabaeus myxovirus (influenza virus) resistance 2 (mouse) (MX2), transcript variant X2, mRNA
+gi|635023624|ref|XM_007968650.1| PREDICTED: Chlorocebus sabaeus myxovirus (influenza virus) resistance 2 (mouse) (MX2), transcript variant X1, mRNA
+gi|627537014|gb|KF925356.1| Chlorocebus aethiops cell-line Vero myxovirus resistance 2 (MX2) mRNA, complete cds
+gi|627527973|gb|KJ650325.1| Chlorocebus aethiops myxovirus resistance 2 (MX2) mRNA, partial cds
+gi|1367240084|ref|XM_009429306.3| PREDICTED: Pan troglodytes MX dynamin like GTPase 2 (MX2), transcript variant X9, mRNA
+gi|1367240080|ref|XM_001171751.6| PREDICTED: Pan troglodytes MX dynamin like GTPase 2 (MX2), transcript variant X8, mRNA
+gi|1367240076|ref|XM_009429049.3| PREDICTED: Pan troglodytes MX dynamin like GTPase 2 (MX2), transcript variant X7, mRNA
+gi|1367240072|ref|XM_016938561.2| PREDICTED: Pan troglodytes MX dynamin like GTPase 2 (MX2), transcript variant X6, mRNA
+gi|1367240068|ref|XM_016938560.2| PREDICTED: Pan troglodytes MX dynamin like GTPase 2 (MX2), transcript variant X5, mRNA
+gi|1367240064|ref|XM_016938559.2| PREDICTED: Pan troglodytes MX dynamin like GTPase 2 (MX2), transcript variant X4, mRNA
+gi|1367240061|ref|XM_016938558.2| PREDICTED: Pan troglodytes MX dynamin like GTPase 2 (MX2), transcript variant X3, mRNA
+gi|1367240057|ref|XM_016938557.2| PREDICTED: Pan troglodytes MX dynamin like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|1367240053|ref|XM_016938556.2| PREDICTED: Pan troglodytes MX dynamin like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|948542528|gb|KT698247.1| Pan troglodytes myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542514|gb|KT698240.1| Lagothrix lagotricha myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542508|gb|KT698237.1| Erythrocebus patas myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|1622919226|ref|XM_015132843.2| PREDICTED: Macaca mulatta MX dynamin like GTPase 2 (MX2), transcript variant X3, mRNA
+gi|1622919224|ref|XM_015132842.2| PREDICTED: Macaca mulatta MX dynamin like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|1622919222|ref|XM_015132841.2| PREDICTED: Macaca mulatta MX dynamin like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|982237467|ref|XM_005548648.2| PREDICTED: Macaca fascicularis MX dynamin-like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|982237466|ref|XM_005548647.2| PREDICTED: Macaca fascicularis MX dynamin-like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|948542520|gb|KT698243.1| Mandrillus sphinx myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542516|gb|KT698241.1| Macaca fascicularis myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|119226190|ref|NM_001079696.1| Macaca mulatta MX dynamin like GTPase 2 (MX2), mRNA >gi|118500896|gb|EF101562.1| Macaca mulatta myxovirus resistance 2 (MX2) mRNA, complete cds
+gi|948542496|gb|KT698231.1| Callicebus moloch myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|795156108|ref|XM_011984187.1| PREDICTED: Mandrillus leucophaeus MX dynamin-like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|795156103|ref|XM_011984186.1| PREDICTED: Mandrillus leucophaeus MX dynamin-like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|1411145521|ref|XM_025379145.1| PREDICTED: Theropithecus gelada MX dynamin like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|1411145519|ref|XM_025379144.1| PREDICTED: Theropithecus gelada MX dynamin like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|1381486855|ref|XM_011726003.2| PREDICTED: Macaca nemestrina MX dynamin like GTPase 2 (MX2), transcript variant X4, mRNA
+gi|1381486854|ref|XM_011726001.2| PREDICTED: Macaca nemestrina MX dynamin like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|948542538|gb|KT698252.1| Trachypithecus francoisi myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542502|gb|KT698234.1| Cercopithecus petaurista myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542490|gb|KT698228.1| Allenopithecus nigroviridis myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|795586373|ref|XM_011726002.1| PREDICTED: Macaca nemestrina MX dynamin like GTPase 2 (MX2), transcript variant X3, mRNA
+gi|795586363|ref|XM_011726000.1| PREDICTED: Macaca nemestrina MX dynamin like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|627527981|gb|KJ650329.1| Macaca nemestrina myxovirus resistance 2 variant 2 (MX2) mRNA, partial cds
+gi|1482598972|ref|XM_023191796.2| PREDICTED: Piliocolobus tephrosceles MX dynamin like GTPase 2 (MX2), transcript variant X3, mRNA
+gi|1297601258|ref|XM_023191806.1| PREDICTED: Piliocolobus tephrosceles MX dynamin like GTPase 2 (MX2), transcript variant X4, mRNA
+gi|1297601251|ref|XM_023191786.1| PREDICTED: Piliocolobus tephrosceles MX dynamin like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|1297601248|ref|XM_023191778.1| PREDICTED: Piliocolobus tephrosceles MX dynamin like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|948542530|gb|KT698248.1| Pygathrix nemaeus myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542498|gb|KT698232.1| Cercocebus atys myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|795480105|ref|XM_012037321.1| PREDICTED: Cercocebus atys MX dynamin-like GTPase 2 (MX2), transcript variant X3, mRNA
+gi|795480100|ref|XM_012037320.1| PREDICTED: Cercocebus atys MX dynamin-like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|795480095|ref|XM_012037318.1| PREDICTED: Cercocebus atys MX dynamin-like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|627527979|gb|KJ650328.1| Macaca nemestrina myxovirus resistance 2 variant 1 (MX2) mRNA, partial cds
+gi|1059158629|ref|XM_017880222.1| PREDICTED: Rhinopithecus bieti MX dynamin like GTPase 2 (MX2), transcript variant X5, mRNA
+gi|1059158627|ref|XM_017880221.1| PREDICTED: Rhinopithecus bieti MX dynamin like GTPase 2 (MX2), transcript variant X4, mRNA
+gi|1059158625|ref|XM_017880220.1| PREDICTED: Rhinopithecus bieti MX dynamin like GTPase 2 (MX2), transcript variant X3, mRNA
+gi|1059158623|ref|XM_017880219.1| PREDICTED: Rhinopithecus bieti MX dynamin like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|1059158621|ref|XM_017880218.1| PREDICTED: Rhinopithecus bieti MX dynamin like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|948542522|gb|KT698244.1| Miopithecus talapoin myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542518|gb|KT698242.1| Macaca sylvanus myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|948542500|gb|KT698233.1| Cercopithecus cephus myxovirus resistance 2 protein (Mx2) mRNA, partial cds
+gi|1367240095|ref|XR_001712511.2| PREDICTED: Pan troglodytes MX dynamin like GTPase 2 (MX2), transcript variant X12, misc_RNA
+gi|1751211090|ref|XM_030914602.1| PREDICTED: Rhinopithecus roxellana MX dynamin like GTPase 2 (MX2), transcript variant X7, mRNA
+gi|1751211088|ref|XM_030914601.1| PREDICTED: Rhinopithecus roxellana MX dynamin like GTPase 2 (MX2), transcript variant X6, mRNA
+gi|1751211086|ref|XM_030914600.1| PREDICTED: Rhinopithecus roxellana MX dynamin like GTPase 2 (MX2), transcript variant X5, mRNA
+gi|1751211084|ref|XM_030914599.1| PREDICTED: Rhinopithecus roxellana MX dynamin like GTPase 2 (MX2), transcript variant X4, mRNA
+gi|1751211082|ref|XM_030914597.1| PREDICTED: Rhinopithecus roxellana MX dynamin like GTPase 2 (MX2), transcript variant X3, mRNA
+gi|1751211080|ref|XM_030914596.1| PREDICTED: Rhinopithecus roxellana MX dynamin like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|1751211078|ref|XM_010354512.2| PREDICTED: Rhinopithecus roxellana MX dynamin like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|1297601262|ref|XM_023191812.1| PREDICTED: Piliocolobus tephrosceles MX dynamin like GTPase 2 (MX2), transcript variant X5, mRNA
+gi|635023632|ref|XM_007968678.1| PREDICTED: Chlorocebus sabaeus myxovirus (influenza virus) resistance 2 (mouse) (MX2), transcript variant X5, mRNA
+gi|1214036144|ref|XM_021714946.1| PREDICTED: Carlito syrichta interferon-induced GTP-binding protein Mx2-like (LOC103265222), mRNA
+gi|826281650|ref|XM_012640069.1| PREDICTED: Propithecus coquereli MX dynamin-like GTPase 2 (MX2), transcript variant X2, mRNA
+gi|826281647|ref|XM_012640068.1| PREDICTED: Propithecus coquereli MX dynamin-like GTPase 2 (MX2), transcript variant X1, mRNA
+gi|1149867309|ref|XM_012749835.2| PREDICTED: Microcebus murinus MX dynamin like GTPase 2 (MX2), mRNA
+gi|1370481407|ref|XM_011529573.2| PREDICTED: Homo sapiens MX dynamin like GTPase 2 (MX2), transcript variant X6, mRNA
+gi|1367240091|ref|XM_016938564.2| PREDICTED: Pan troglodytes MX dynamin like GTPase 2 (MX2), transcript variant X11, mRNA
+gi|1367240088|ref|XM_016938563.2| PREDICTED: Pan troglodytes MX dynamin like GTPase 2 (MX2), transcript variant X10, mRNA
+gi|34528397|dbj|AK122952.1| Homo sapiens cDNA FLJ16669 fis, clone THYMU3000306, highly  similar to INTERFERON-REGULATED RESISTANCE GTP-BINDING PROTEIN MXB

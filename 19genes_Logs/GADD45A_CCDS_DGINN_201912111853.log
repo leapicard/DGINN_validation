@@ -1,0 +1,45 @@
+2019-12-11 18:53:28,874 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2019-12-11 18:53:28,875 - main - INFO - Reading input file /home/lpicard/2019_validation/21genes_GADD45A_CCDS.fasta
+2019-12-11 18:53:28,875 - main - INFO - Output directory: /home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/
+2019-12-11 18:53:28,875 - main - INFO - Analysis will begin at the blast step
+2019-12-11 18:53:28,889 - main - INFO - Running Blast
+2019-12-11 18:53:28,890 - main - INFO - Database search on nr will be limited to Primates[Organism]
+2019-12-11 20:03:17,495 - main - INFO - Blast results written to: /home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/21genes_GADD45A_CCDS_blastres.tsv, 46 sequences retrieved.
+2019-12-11 20:03:17,509 - main - INFO - Extracted gene accessions from blast results
+2019-12-11 20:03:17,509 - main - INFO - Wrote all accessions to /home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/GADD45A_accns.txt
+2019-12-11 20:03:19,795 - main - INFO - Remote option on, downloaded gene IDs and sequences from NCBI databases (26 different species represented in the retrieved sequences).
+2019-12-11 20:03:19,796 - main - INFO - Deleted 0 sequences due to excessive length.
+2019-12-11 20:03:19,866 - main - INFO - Deleted 6 sequences as duplicates
+2019-12-11 20:03:19,867 - main - INFO - Extracted longest ORFs: /home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs.fasta
+2019-12-11 20:03:19,868 - main - INFO - Started Prank codon alignment
+2019-12-11 20:10:17,743 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs_prank.best.fas
+2019-12-11 20:10:17,814 - main - INFO - Discarding sequences with less than 50% coverage of query.
+2019-12-11 20:10:17,816 - main - INFO - Discarded 0 sequences
+2019-12-11 20:10:17,817 - main - INFO - Running PhyML to produce gene phylogenetic tree
+2019-12-11 20:10:38,653 - main - INFO - Reconstructed tree using PhyML: /home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs_prank.phylip_phyml_tree.txt
+2019-12-11 20:10:38,654 - main - INFO - Looking for long branches.
+2019-12-11 20:10:38,657 - main - INFO - 1 long branches found, separating alignments.
+2019-12-11 20:10:38,679 - main - INFO - Reconstructing alignments and phylogenies following long branch parsing.
+2019-12-11 20:10:38,679 - main - INFO - Started Prank codon alignment
+2019-12-11 20:16:41,797 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs_prank_part1_prank.best.fas
+2019-12-11 20:16:45,804 - main - INFO - Reconstructing alignments and phylogenies following long branch parsing.
+2019-12-11 20:16:45,805 - main - INFO - Started Prank codon alignment
+2019-12-11 20:17:21,471 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs_prank_part2_prank.best.fas
+2019-12-11 20:17:21,588 - main - INFO - Cleaning the tree
+2019-12-11 20:17:21,588 - main - INFO - Running Treerecs
+2019-12-11 20:17:21,847 - main - INFO - 6 duplications detected by Treerecs, extracting 0 groups of at least 8 orthologs.
+2019-12-11 20:17:21,854 - main - INFO - Cleaning the tree
+2019-12-11 20:17:21,855 - main - INFO - Running Treerecs
+2019-12-11 20:17:21,882 - main - INFO - 0 duplications detected by Treerecs, extracting 0 groups of at least 8 orthologs.
+2019-12-11 20:17:21,882 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs_prank_part1_prank.best.fas
+2019-12-11 20:17:46,568 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-11 20:17:50,623 - main - INFO - Extracted GARD results.
+2019-12-11 20:17:50,623 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs_prank_part1_prank.best.fas.
+2019-12-11 20:17:50,624 - main - INFO - Parsed GARD results.
+2019-12-11 20:17:50,624 - main - INFO - No fragments of recombination identified.
+2019-12-11 20:17:50,624 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs_prank_part2_prank.best.fas
+2019-12-11 20:17:53,306 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-11 20:17:54,289 - main - INFO - Extracted GARD results.
+2019-12-11 20:17:54,290 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs_prank_part2_prank.best.fas.
+2019-12-11 20:17:54,290 - main - INFO - Parsed GARD results.
+2019-12-11 20:17:54,290 - main - INFO - No fragments of recombination identified.

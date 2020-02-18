@@ -1,0 +1,65 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.0.1
+
+
+>Loaded a multiple sequence alignment with **57** sequences, **1871** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_SMC6_CCDS_results_201912111851/SMC6_sequences_filtered_longestORFs_prank_mincov_prank.best.fas`
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 0.1
+
+
+### Branches to include in the MEME analysis
+Selected 111 branches to include in the MEME analysis: `papAnu_SMC6_XR_001893895, papAnu_SMC6_XM_017947301, papAnu_SMC6_XM_009183732, Node12, Node10, papAnu_SMC6_XM_021924604, Node9, theGel_SMC6_XM_025354290, Node8, manLeu_SMC6_XM_011971451, Node7, macNem_SMC6_XM_011738227, macMul_SMC6_XR_001438932, macMul_SMC6_XM_015111754, macMul_SMC6_XM_015111757, Node23, Node21, macFas_SMC6_XR_001484641, macFas_SMC6_XM_015433967, macFas_SMC6_XM_005576497, macFas_SMC6_XM_015433966, Node30, Node28, Node26, Node20, Node18, Node6, chlSab_SMC6_XM_007971394, Node5, colAngPal_SMC6_XM_011951319, pilTep_SMC6_XM_023199444, pilTep_SMC6_XM_023199436, pilTep_SMC6_XM_023199441, Node39, Node37, Node35, rhiRox_SMC6_XM_030921041, rhiRox_SMC6_XM_030921040, rhiBie_SMC6_XM_017871423, Node45, rhiRox_SMC6_XR_004054311, Node44, Node42, Node34, Node4, nomLeu_SMC6_XM_030799869, nomLeu_SMC6_XM_030799870, nomLeu_SMC6_XM_003275952, Node52, Node50, ponAbe_SMC6_XM_024242304, ponAbe_SMC6_XM_002812267, Node56, gorGorGor_SMC6_XM_031008069, homSap_SMC6_XR_939716, homSap_SMC6_BC032675, homSap_SMC6_AJ310551, Node69, homSap_SMC6_MF624761, Node68, homSap_SMC6_XM_017004916, Node67, homSap_SMC6_CCDS1690, Node66, homSap_SMC6_XM_017004913, homSap_SMC6_XM_011533108, Node75, Node65, homSap_SMC6_AK292421, Node64, Node62, panPan_SMC6_XM_008952337, panTro_SMC6_XM_001136387, panTro_SMC6_XM_016947646, panTro_SMC6_XM_016947633, Node83, Node81, Node79, Node61, Node59, Node55, Node49, Node3, aotNan_SMC6_XM_021669007, aotNan_SMC6_XR_002478238, aotNan_SMC6_XM_021669006, aotNan_SMC6_XM_021669005, Node93, Node91, Node89, aotNan_SMC6_XM_021669009, Node88, aotTri_SMC6_MF624756, Node87, calJac_SMC6_XM_008981110, sagOed_SMC6_MF624760, Node99, cebCapImi_SMC6_XM_017526160, cebCapImi_SMC6_XM_017526152, cebCapImi_SMC6_XM_017526170, Node105, Node103, saiBolBol_SMC6_XM_003935220, Node102, Node98, Node86, Node2, carSyr_SMC6_XM_008057485, Node1, otoGar_SMC6_XM_023511860, micMur_SMC6_XM_012755434`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -12796.91, AIC-c = 25831.91 (119 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -12262.57, AIC-c = 24777.44 (126 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.1643
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -12262.57
+* non-synonymous/synonymous rate ratio for *test* =   0.1642
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|
+|    247     |     1      |    0.000   |    5.294   |    0.687   |    3.210   |      Yes, p =  0.0956      |     0      |
+|    388     |     1      |    0.000   |   52.894   |    0.088   |    4.008   |      Yes, p =  0.0630      |     2      |
+|    469     |     1      |    0.000   |   15.072   |    0.170   |    4.753   |      Yes, p =  0.0428      |     2      |
+|    535     |     1      |    0.000   |  242.156   |    0.028   |    3.292   |      Yes, p =  0.0916      |     1      |
+|    561     |     1      |    0.000   |    2.520   |    1.000   |    3.491   |      Yes, p =  0.0825      |     1      |
+|    579     |     1      |    0.000   |   85.592   |    0.064   |    5.068   |      Yes, p =  0.0364      |     2      |
+|    598     |     1      |    0.816   |   72.238   |    0.063   |    4.477   |      Yes, p =  0.0494      |     1      |
+|    834     |     1      |    0.000   |   10.542   |    0.110   |    3.972   |      Yes, p =  0.0642      |     1      |
+|    1289    |     1      |    0.000   |   49.886   |    0.097   |    3.363   |      Yes, p =  0.0882      |     2      |
+|    1457    |     1      |    0.000   |   59.144   |    0.128   |    8.443   |      Yes, p =  0.0065      |     1      |
+|    1518    |     1      |    0.000   |  1267.073  |    0.022   |   17.976   |      Yes, p =  0.0001      |     1      |
+
+### ** Found _11_ sites under episodic diversifying positive selection at p <= 0.1**

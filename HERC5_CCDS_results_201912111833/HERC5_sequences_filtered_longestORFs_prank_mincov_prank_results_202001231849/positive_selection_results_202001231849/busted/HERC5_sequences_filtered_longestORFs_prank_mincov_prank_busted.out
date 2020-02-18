@@ -1,0 +1,66 @@
+
+Analysis Description
+--------------------
+BUSTED (branch-site unrestricted statistical test of episodic
+diversification) uses a random effects branch-site model fitted jointly
+to all or a subset of tree branches in order to test for alignment-wide
+evidence of episodic diversifying selection. Assuming there is evidence
+of positive selection (i.e. there is an omega > 1), BUSTED will also
+perform a quick evidence-ratio style analysis to explore which
+individual sites may have been subject to selection.
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree (optionally annotated
+with {})
+
+- __Citation__: *Gene-wide identification of episodic selection*, Mol Biol Evol.
+32(5):1365-71
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 1.2
+
+
+>Loaded a multiple sequence alignment with **59** sequences, **2019** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_prank_mincov_prank.best.fas`
+
+
+### Branches to test for selection in the BUSTED analysis
+* Selected 115 branches to test in the BUSTED analysis: `homSap_Ceb1_AB027289, homSap_HERC5_AY337518, Node12, homSap_HERC5_BC140716, Node11, homSap_HERC5_CCDS3630, homSap_HERC5_XM_011532022, Node17, homSap_HERC5_AK302142, Node16, Node10, panPan_HERC5_XM_008963661, panTro_HERC5_XM_024356173, panTro_HERC5_XM_024356172, panTro_HERC5_XM_024356171, Node25, Node23, Node21, Node9, gorGorGor_HERC5_XM_019025377, Node8, ponAbe_HERC5_XM_024246044, Node7, nomLeu_HERC5_XM_012499355, Node6, rhiRox_HERC5_XM_010356902, colAngPal_HERC5_XM_011932393, pilTep_HERC5_XR_002727109, pilTep_HERC5_XM_023195421, Node36, Node34, Node32, chlSab_HERC5_XM_007999226, theGel_HERC5_XM_025386515, macNem_HERC5_XM_011737802, macFas_HERC5_XM_005555394, macMul_HERC5_XM_015138772, Node46, Node44, macFas_HERC5_AB168451, Node43, Node41, Node39, Node31, Node5, aotNan_HERC5_XM_021673251, aotNan_HERC5_XM_021673250, Node52, cebCapImi_HERC5_XM_017545101, cebCapImi_HERC5_XM_017545100, Node56, saiBolBol_HERC5_XM_003924006, Node55, Node51, calJac_HERC5_XM_017970425, calJac_HERC5_XM_002745602, Node60, Node50, Node4, carSyr_HERC5_XM_021712041, Node3, otoGar_HERC5_XM_012805298, Node2, otoGar_HERC6_XM_012805332, Node1, ponAbe_HERC6_XM_024246004, nomLeu_HERC6_XM_003265890, Node69, gorGorGor_HERC6_XM_019025378, panTro_HERC6_XM_001160851, panTro_HERC6_XM_016951853, Node76, panPan_HERC6_XM_008963658, panPan_HERC6_XM_008963657, Node79, Node75, homSap_HERC6_XM_017008333, homSap_HERC6_AK097168, homSap_DKFZp686G2453_BX647121, homSap_HERC6_AK295832, Node87, homSap_DKFZp686G2453_AF336798, homSap_HERC6_XM_005263083, Node90, Node86, Node84, Node82, Node74, Node72, Node68, chlSab_HERC6_XM_007999221, macFas_HERC6_XM_015450598, macMul_HERC6_XM_028848618, Node98, macNem_HERC6_XM_011737721, macNem_HERC6_XM_024792195, Node101, Node97, manLeu_HERC6_XM_011990765, theGel_HERC6_XM_025386516, Node104, Node96, Node94, pilTep_HERC6_XM_026448058, Node93, Node67, cebCapImi_HERC6_XM_017545102, aotNan_HERC6_XM_012437683, calJac_HERC6_XM_008992998, Node111, Node109, saiBolBol_HERC6_XM_003924004, Node108, Node66, carSyr_HERC6_XM_008057501`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -23388.35, AIC-c = 47022.79 (123 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -23023.46, AIC-c = 46307.20 (130 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.5053
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -23023.46, AIC-c = 46307.20 (130 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.5055
+
+### Performing the full (dN/dS > 1 allowed) branch-site model fit
+* Log(L) = -22915.56, AIC-c = 46099.42 (134 estimated parameters)
+* For *test* branches, the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.019     |   62.410    |                                   |
+|        Negative selection         |     0.828     |   22.607    |                                   |
+|      Diversifying selection       |     2.693     |   14.984    |                                   |
+
+
+### Performing the constrained (dN/dS > 1 not allowed) model fit
+* Log(L) = -22939.23, AIC-c = 46144.75 (133 estimated parameters)
+* For *test* branches under the null (no dN/dS > 1 model), the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.000     |   51.281    |                                   |
+|        Negative selection         |     0.846     |    0.000    |       Not supported by data       |
+|         Neutral evolution         |     1.000     |   48.719    |                                   |
+
+----
+## Branch-site unrestricted statistical test of episodic diversification [BUSTED]
+Likelihood ratio test for episodic diversifying positive selection, **p =   0.0000**.

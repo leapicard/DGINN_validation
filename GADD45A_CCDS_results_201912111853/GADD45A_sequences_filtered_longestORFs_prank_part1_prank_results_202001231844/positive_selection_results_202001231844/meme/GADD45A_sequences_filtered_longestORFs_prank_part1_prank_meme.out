@@ -1,0 +1,55 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.0.1
+
+
+>Loaded a multiple sequence alignment with **30** sequences, **171** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs_prank_part1_prank.best.fas`
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 0.1
+
+
+### Branches to include in the MEME analysis
+Selected 57 branches to include in the MEME analysis: `panTro_GADD45A_XM_513476, panPan_GADD45A_XM_003807870, homSap_GADD45A_DQ008445, panTro_GADD45A_XM_001164496, Node15, Node13, Node11, homSap_GADD45A_CCDS640, Node10, gorGorGor_GADD45A_XM_004025945, Node9, nomLeu_GADD45A_XM_003260166, Node8, ponAbe_GADD45A_XM_002810715, Node7, chlSab_GADD45A_XM_007978352, macFas_GADD45A_XM_005543072, macNem_GADD45A_XM_011770509, theGel_GADD45A_XM_025364922, theGel_GADD45A_XM_025364933, papAnu_GADD45A_XM_003892033, Node33, Node31, Node29, Node27, manLeu_GADD45A_XM_011994991, manLeu_GADD45A_XM_011994990, Node36, Node26, macMul_GADD45A_NM_001261305, Node25, pilTep_GADD45A_XM_023209754, rhiRox_GADD45A_XM_010357070, rhiBie_GADD45A_XM_017877148, Node43, Node41, colAngPal_GADD45A_XM_011936879, colAngPal_GADD45A_XM_011936878, Node46, Node40, Node24, Node22, Node6, cebCapImi_GADD45A_XM_017532269, Node5, aotNan_GADD45A_XM_012442688, Node4, saiBolBol_GADD45A_XM_003921437, Node3, calJac_GADD45A_XM_009001461, calJac_GADD45A_XM_002750938, Node52, Node2, micMur_GADD45A_XM_012767243, Node1, otoGar_GADD45A_XM_003784233, carSyr_LOC103266579_XM_021715630`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -1378.63, AIC-c =  2887.82 (65 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -1279.72, AIC-c =  2705.51 (72 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.0910
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -1279.72
+* non-synonymous/synonymous rate ratio for *test* =   0.0911
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|
+|     15     |     1      |    0.000   |   28.800   |    0.266   |    4.546   |      Yes, p =  0.0477      |     5      |
+
+### ** Found _1_ sites under episodic diversifying positive selection at p <= 0.1**

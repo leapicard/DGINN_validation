@@ -1,0 +1,32 @@
+2019-12-11 18:37:26,730 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2019-12-11 18:37:26,730 - main - INFO - Reading input file /home/lpicard/2019_validation/21genes_ISG20_CCDS.fasta
+2019-12-11 18:37:26,731 - main - INFO - Output directory: /home/lpicard/2019_validation/21genes_ISG20_CCDS_results_201912111837/
+2019-12-11 18:37:26,731 - main - INFO - Analysis will begin at the blast step
+2019-12-11 18:37:26,765 - main - INFO - Running Blast
+2019-12-11 18:37:26,765 - main - INFO - Database search on nr will be limited to Primates[Organism]
+2019-12-11 19:39:12,861 - main - INFO - Blast results written to: /home/lpicard/2019_validation/21genes_ISG20_CCDS_results_201912111837/21genes_ISG20_CCDS_blastres.tsv, 89 sequences retrieved.
+2019-12-11 19:39:12,874 - main - INFO - Extracted gene accessions from blast results
+2019-12-11 19:39:12,875 - main - INFO - Wrote all accessions to /home/lpicard/2019_validation/21genes_ISG20_CCDS_results_201912111837/ISG20_accns.txt
+2019-12-11 19:39:16,205 - main - INFO - Remote option on, downloaded gene IDs and sequences from NCBI databases (26 different species represented in the retrieved sequences).
+2019-12-11 19:39:16,205 - main - INFO - Deleted 5 sequences due to excessive length.
+2019-12-11 19:39:16,403 - main - INFO - Deleted 33 sequences as duplicates
+2019-12-11 19:39:16,404 - main - INFO - Extracted longest ORFs: /home/lpicard/2019_validation/21genes_ISG20_CCDS_results_201912111837/ISG20_sequences_filtered_longestORFs.fasta
+2019-12-11 19:39:16,405 - main - INFO - Started Prank codon alignment
+2019-12-11 19:55:54,112 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_ISG20_CCDS_results_201912111837/ISG20_sequences_filtered_longestORFs_prank.best.fas
+2019-12-11 19:55:54,150 - main - INFO - Discarding sequences with less than 50% coverage of query.
+2019-12-11 19:55:54,163 - main - INFO - Discarded 1 sequences
+2019-12-11 19:55:54,163 - main - INFO - Started Prank codon alignment
+2019-12-11 20:10:53,915 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_ISG20_CCDS_results_201912111837/ISG20_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-12-11 20:10:54,004 - main - INFO - Running PhyML to produce gene phylogenetic tree
+2019-12-11 20:11:05,345 - main - INFO - Reconstructed tree using PhyML: /home/lpicard/2019_validation/21genes_ISG20_CCDS_results_201912111837/ISG20_sequences_filtered_longestORFs_prank_mincov_prank.phylip_phyml_tree.txt
+2019-12-11 20:11:05,345 - main - INFO - Looking for long branches.
+2019-12-11 20:11:05,348 - main - INFO - No long branches found.
+2019-12-11 20:11:05,396 - main - INFO - Cleaning the tree
+2019-12-11 20:11:05,396 - main - INFO - Running Treerecs
+2019-12-11 20:11:05,916 - main - INFO - 21 duplications detected by Treerecs, extracting 0 groups of at least 8 orthologs.
+2019-12-11 20:11:05,917 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_ISG20_CCDS_results_201912111837/ISG20_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-12-11 20:12:12,292 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-11 20:12:16,324 - main - INFO - Extracted GARD results.
+2019-12-11 20:12:16,325 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_ISG20_CCDS_results_201912111837/ISG20_sequences_filtered_longestORFs_prank_mincov_prank.best.fas.
+2019-12-11 20:12:16,325 - main - INFO - Parsed GARD results.
+2019-12-11 20:12:16,325 - main - INFO - No fragments of recombination identified.

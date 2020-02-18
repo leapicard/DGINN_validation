@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9881708662598918, 0.1755646937354896, 0.6437815455652085, 0.1688246269591938],
+  [0.1806689518470536, -0.9839769136180997, 0.172220458731657, 0.6310875030393891],
+  [0.6753630661091859, 0.1755646937354896, -1.019752386803869, 0.1688246269591938],
+  [0.1806689518470536, 0.6562827129372873, 0.172220458731657, -1.009172123515998]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank.best.fas",
+   "number of sequences":58,
+   "number of sites":6291,
+   "partition count":2
+  },
+ "timeElapsed":65,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":5931
+}

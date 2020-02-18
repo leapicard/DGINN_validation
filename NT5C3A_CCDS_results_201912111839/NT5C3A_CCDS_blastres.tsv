@@ -1,0 +1,151 @@
+# BLASTN 2.10.0+
+# Query: homSap_NT5C3A_CCDS34616
+# Database: nt_v5					
+# Fields: subject id, ?
+# 213 hits found
+gi|1779541914|ref|NM_001002010.5| Homo sapiens 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant 1, mRNA
+gi|158261258|dbj|AK290118.1| Homo sapiens cDNA FLJ76348 complete cds
+gi|47940471|gb|BC071652.1| Homo sapiens 5'-nucleotidase, cytosolic III, mRNA (cDNA clone MGC:87828 IMAGE:3892369), complete cds
+gi|649140693|gb|KJ902574.1| Synthetic construct Homo sapiens clone ccsbBroadEn_11968 NT5C3 gene, encodes complete protein
+gi|1367315963|ref|XM_001167622.6| PREDICTED: Pan troglodytes 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|675715723|ref|XM_003811965.2| PREDICTED: Pan paniscus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|164697058|dbj|AK314109.1| Homo sapiens cDNA, FLJ94799, Homo sapiens 5'-nucleotidase, cytosolic III (NT5C3), mRNA
+gi|49065461|emb|CR533518.1| Homo sapiens full open reading frame cDNA clone RZPDo834C1119D for gene NT5C3, 5'-nucleotidase, cytosolic III; complete cds, incl. stopcodon
+gi|12052950|emb|AL136716.1| Homo sapiens mRNA; cDNA DKFZp566B1046 (from clone DKFZp566B1046)
+gi|823674761|gb|KR712210.1| Synthetic construct Homo sapiens clone CCSBHm_00900163 NT5C3A (NT5C3A) mRNA, encodes complete protein
+gi|823673169|gb|KR711414.1| Synthetic construct Homo sapiens clone CCSBHm_00023463 NT5C3A (NT5C3A) mRNA, encodes complete protein
+gi|823673167|gb|KR711413.1| Synthetic construct Homo sapiens clone CCSBHm_00023459 NT5C3A (NT5C3A) mRNA, encodes complete protein
+gi|823673165|gb|KR711412.1| Synthetic construct Homo sapiens clone CCSBHm_00023457 NT5C3A (NT5C3A) mRNA, encodes complete protein
+gi|823673163|gb|KR711411.1| Synthetic construct Homo sapiens clone CCSBHm_00023456 NT5C3A (NT5C3A) mRNA, encodes complete protein
+gi|261859675|dbj|AB528196.1| Synthetic construct DNA, clone: pF1KE0431, Homo sapiens NT5C3 gene for 5'-nucleotidase, cytosolic III, without stop codon, in Flexi system
+gi|117645781|emb|AM393481.1| Synthetic construct Homo sapiens clone IMAGE:100001782 for hypothetical protein (NT5C3 gene)
+gi|1099290242|ref|XM_019030892.1| PREDICTED: Gorilla gorilla gorilla 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1351509522|ref|XM_002818071.4| PREDICTED: Pongo abelii 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|11245473|gb|AF312735.1|AF312735 Homo sapiens pyrimidine 5'-nucleotidase mRNA, complete cds
+gi|38014066|gb|BC013292.2| Homo sapiens 5'-nucleotidase, cytosolic III, mRNA (cDNA clone IMAGE:3533195), partial cds
+gi|1743169698|ref|XM_004090973.3| PREDICTED: Nomascus leucogenys 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1220204139|ref|XM_003896120.4| PREDICTED: Papio anubis 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|1751252347|ref|XM_010383454.2| PREDICTED: Rhinopithecus roxellana 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1381509333|ref|XM_011731394.2| PREDICTED: Macaca nemestrina 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1297713462|ref|XM_023188401.1| PREDICTED: Piliocolobus tephrosceles 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1059143086|ref|XM_017864657.1| PREDICTED: Rhinopithecus bieti 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|982239796|ref|XM_005549835.2| PREDICTED: Macaca fascicularis 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|795293283|ref|XM_011966341.1| PREDICTED: Mandrillus leucophaeus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|387762889|ref|NM_001261493.1| Macaca mulatta 5'-nucleotidase, cytosolic IIIA (NT5C3A), mRNA
+gi|795244703|ref|XM_011953920.1| PREDICTED: Colobus angolensis palliatus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|795207337|ref|XM_012083587.1| PREDICTED: Cercocebus atys 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|635113768|ref|XM_007981650.1| PREDICTED: Chlorocebus sabaeus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1411145443|ref|XM_025379104.1| PREDICTED: Theropithecus gelada 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1367281595|ref|XR_002943471.1| PREDICTED: Pan troglodytes cytosolic 5'-nucleotidase 3A pseudogene (LOC739661), misc_RNA
+gi|89941548|gb|AC161479.5| Pan troglodytes BAC clone CH251-168J1 from chromosome unknown, complete sequence
+gi|1779541968|ref|NG_000948.8| Homo sapiens NT5C3A pseudogene 1 (NT5C3AP1) on chromosome 4
+gi|15638867|gb|AC092661.2| Homo sapiens BAC clone RP11-510D4 from 4, complete sequence
+gi|1384971901|ref|XM_008964338.2| PREDICTED: Pan paniscus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|675793891|ref|XR_158265.2| PREDICTED: Pan paniscus cytosolic 5'-nucleotidase 3A pseudogene (LOC100987871), misc_RNA
+gi|817292740|ref|XM_012461316.1| PREDICTED: Aotus nancymaae 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1099290254|ref|XM_019030895.1| PREDICTED: Gorilla gorilla gorilla 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|1747201123|ref|NM_001002009.3| Homo sapiens 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant 2, mRNA
+gi|1044354104|ref|XM_017527140.1| PREDICTED: Cebus capucinus imitator 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|7106855|gb|AF151067.1|AF151067 Homo sapiens HSPC233 mRNA, complete cds
+gi|1384971900|ref|XM_003811966.3| PREDICTED: Pan paniscus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|694920501|ref|XM_001167567.4| PREDICTED: Pan troglodytes 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|44890745|gb|BC066914.1| Homo sapiens 5'-nucleotidase, cytosolic III, mRNA (cDNA clone MGC:87109 IMAGE:5264738), complete cds
+gi|1099290246|ref|XM_019030893.1| PREDICTED: Gorilla gorilla gorilla 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|725574740|ref|XM_003930726.2| PREDICTED: Saimiri boliviensis boliviensis 5'-nucleotidase, cytosolic IIIA (NT5C3A), mRNA
+gi|1351509523|ref|XM_003777057.3| PREDICTED: Pongo abelii 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|1743169700|ref|XM_003279184.4| PREDICTED: Nomascus leucogenys 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|1061013157|ref|XM_002751314.3| PREDICTED: Callithrix jacchus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1411145449|ref|XM_025379108.1| PREDICTED: Theropithecus gelada 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|1220204141|ref|XM_003896121.4| PREDICTED: Papio anubis 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|1622918671|ref|XM_015133736.2| PREDICTED: Macaca mulatta 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|1297713475|ref|XM_023188404.1| PREDICTED: Piliocolobus tephrosceles 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|1059143088|ref|XM_017864658.1| PREDICTED: Rhinopithecus bieti 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|795615407|ref|XM_011731397.1| PREDICTED: Macaca nemestrina 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|795293291|ref|XM_011966343.1| PREDICTED: Mandrillus leucophaeus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|724923494|ref|XM_010383455.1| PREDICTED: Rhinopithecus roxellana 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|544420590|ref|XM_005549838.1| PREDICTED: Macaca fascicularis 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|795244710|ref|XM_011953921.1| PREDICTED: Colobus angolensis palliatus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|795207350|ref|XM_012083602.1| PREDICTED: Cercocebus atys 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|90083361|dbj|AB173701.1| Macaca fascicularis brain cDNA clone: QflA-23807, similar to human 5'-nucleotidase, cytosolic III (NT5C3), mRNA, RefSeq: NM_016489.10
+gi|635113770|ref|XM_007981651.1| PREDICTED: Chlorocebus sabaeus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|1411145445|ref|XM_025379106.1| PREDICTED: Theropithecus gelada 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|817292750|ref|XM_012461321.1| PREDICTED: Aotus nancymaae 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X5, mRNA
+gi|1677529811|ref|NM_016489.13| Homo sapiens 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant 3, mRNA
+gi|1044354110|ref|XM_017527144.1| PREDICTED: Cebus capucinus imitator 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|1747201034|ref|NM_001374337.1| Homo sapiens 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant 8, mRNA
+gi|1747200676|ref|NM_001166118.3| Homo sapiens 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant 4, mRNA
+gi|1747199314|ref|NM_001374336.1| Homo sapiens 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant 7, mRNA
+gi|1677498408|ref|NM_001356996.2| Homo sapiens 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant 5, mRNA
+gi|1367315964|ref|XM_001167593.6| PREDICTED: Pan troglodytes 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|675715729|ref|XM_003811967.2| PREDICTED: Pan paniscus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|16198394|gb|BC015856.1| Homo sapiens 5'-nucleotidase, cytosolic III, mRNA (cDNA clone MGC:27337 IMAGE:4669009), complete cds
+gi|649125456|gb|KJ898867.1| Synthetic construct Homo sapiens clone ccsbBroadEn_08261 NT5C3 gene, encodes complete protein
+gi|123986513|gb|DQ892843.2| Synthetic construct clone IMAGE:100005473; FLH190214.01X; RZPDo839F1075D 5'-nucleotidase, cytosolic III (NT5C3) gene, encodes complete protein
+gi|1367315966|ref|XM_016957253.2| PREDICTED: Pan troglodytes 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X6, mRNA
+gi|1367315965|ref|XM_527718.7| PREDICTED: Pan troglodytes 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X5, mRNA
+gi|157928483|gb|EU176737.1| Synthetic construct Homo sapiens clone IMAGE:100011517; FLH190213.01L; RZPDo839B10255D 5'-nucleotidase, cytosolic III (NT5C3) gene, encodes complete protein
+gi|117645099|emb|AM393138.1| Synthetic construct Homo sapiens clone IMAGE:100002363 for hypothetical protein (NT5C3 gene) >gi|117645455|emb|AM393316.1| Synthetic construct Homo sapiens clone IMAGE:100002364 for hypothetical protein (NT5C3 gene)
+gi|1753081049|ref|XM_019030894.2| PREDICTED: Gorilla gorilla gorilla 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|1747199316|ref|NM_001374339.1| Homo sapiens 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant 10, mRNA
+gi|1149760287|ref|XM_012741272.2| PREDICTED: Microcebus murinus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1061013159|ref|XM_009002012.2| PREDICTED: Callithrix jacchus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|795244718|ref|XM_011953922.1| PREDICTED: Colobus angolensis palliatus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|1751252349|ref|XM_030922429.1| PREDICTED: Rhinopithecus roxellana 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|1751252348|ref|XM_010383456.2| PREDICTED: Rhinopithecus roxellana 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|1297713469|ref|XM_023188403.1| PREDICTED: Piliocolobus tephrosceles 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|1059143090|ref|XM_017864659.1| PREDICTED: Rhinopithecus bieti 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|1751252351|ref|XM_030922430.1| PREDICTED: Rhinopithecus roxellana 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X5, mRNA
+gi|1297713480|ref|XM_023188405.1| PREDICTED: Piliocolobus tephrosceles 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X5, mRNA
+gi|1059143092|ref|XM_017864660.1| PREDICTED: Rhinopithecus bieti 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|1622918669|ref|XM_015133735.2| PREDICTED: Macaca mulatta 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|982239798|ref|XM_005549837.2| PREDICTED: Macaca fascicularis 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|795615404|ref|XM_011731396.1| PREDICTED: Macaca nemestrina 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|795293300|ref|XM_011966344.1| PREDICTED: Mandrillus leucophaeus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|982239797|ref|XM_005549836.2| PREDICTED: Macaca fascicularis 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|795293308|ref|XM_011966345.1| PREDICTED: Mandrillus leucophaeus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|795207343|ref|XM_012083595.1| PREDICTED: Cercocebus atys 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|795207357|ref|XM_012083603.1| PREDICTED: Cercocebus atys 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|635113772|ref|XM_007981652.1| PREDICTED: Chlorocebus sabaeus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|1411145447|ref|XM_025379107.1| PREDICTED: Theropithecus gelada 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|1327795675|ref|XM_003788566.3| PREDICTED: Otolemur garnettii 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1411145453|ref|XM_025379110.1| PREDICTED: Theropithecus gelada 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X6, mRNA
+gi|1411145451|ref|XM_025379109.1| PREDICTED: Theropithecus gelada 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X5, mRNA
+gi|1212438095|ref|XM_012461322.2| PREDICTED: Aotus nancymaae 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X6, mRNA
+gi|817292746|ref|XM_012461319.1| PREDICTED: Aotus nancymaae 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|817292744|ref|XM_012461318.1| PREDICTED: Aotus nancymaae 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|817292742|ref|XM_012461317.1| PREDICTED: Aotus nancymaae 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|1212438096|ref|XM_021669366.1| PREDICTED: Aotus nancymaae 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X7, mRNA
+gi|1044354116|ref|XM_017527147.1| PREDICTED: Cebus capucinus imitator 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X7, mRNA
+gi|1044354112|ref|XM_017527145.1| PREDICTED: Cebus capucinus imitator 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X5, mRNA
+gi|1044354108|ref|XM_017527143.1| PREDICTED: Cebus capucinus imitator 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|168148691|emb|CU677475.1| Synthetic construct Homo sapiens gateway clone IMAGE:100018073 5' read NT5C3 mRNA
+gi|168148692|emb|CU677476.1| Synthetic construct Homo sapiens gateway clone IMAGE:100018073 3' read NT5C3 mRNA
+gi|1149760292|ref|XM_012741274.2| PREDICTED: Microcebus murinus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|1061013162|ref|XM_009002010.2| PREDICTED: Callithrix jacchus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X5, mRNA
+gi|1061013160|ref|XM_017975109.1| PREDICTED: Callithrix jacchus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|1061013158|ref|XM_009002009.2| PREDICTED: Callithrix jacchus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|1061013164|ref|XM_009002014.2| PREDICTED: Callithrix jacchus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X7, mRNA
+gi|1747199748|ref|NM_001374335.1| Homo sapiens 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant 6, mRNA
+gi|1327795676|ref|XM_023512472.1| PREDICTED: Otolemur garnettii 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|1214020345|ref|XM_008051195.2| PREDICTED: Carlito syrichta 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|1214020343|ref|XM_021709181.1| PREDICTED: Carlito syrichta 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1149760299|ref|XM_012741276.2| PREDICTED: Microcebus murinus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X5, mRNA
+gi|1149760295|ref|XM_012741275.2| PREDICTED: Microcebus murinus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|1149760289|ref|XM_012741273.2| PREDICTED: Microcebus murinus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|1214020346|ref|XM_021709182.1| PREDICTED: Carlito syrichta 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|1149760302|ref|XM_012741277.2| PREDICTED: Microcebus murinus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X6, mRNA
+gi|1747199294|ref|NM_001374338.1| Homo sapiens 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant 9, mRNA
+gi|1327795680|ref|XM_023512474.1| PREDICTED: Otolemur garnettii 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X5, mRNA
+gi|1327795678|ref|XM_023512473.1| PREDICTED: Otolemur garnettii 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|831223716|ref|XM_003788567.2| PREDICTED: Otolemur garnettii 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X3, mRNA
+gi|1367315962|ref|XM_016957251.2| PREDICTED: Pan troglodytes 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X1, mRNA
+gi|1297713485|ref|XM_023188407.1| PREDICTED: Piliocolobus tephrosceles 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X6, mRNA
+gi|1297713466|ref|XM_023188402.1| PREDICTED: Piliocolobus tephrosceles 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X2, mRNA
+gi|826277872|ref|XM_012638757.1| PREDICTED: Propithecus coquereli 5'-nucleotidase, cytosolic IIIA (NT5C3A), mRNA
+gi|6690230|gb|AF090932.1|AF090932 Homo sapiens clone HQ0484
+gi|1044354114|ref|XM_017527146.1| PREDICTED: Cebus capucinus imitator 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X6, mRNA
+gi|1061013163|ref|XM_009002013.2| PREDICTED: Callithrix jacchus 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X6, mRNA
+gi|640787231|ref|XM_008051196.1| PREDICTED: Carlito syrichta 5'-nucleotidase, cytosolic IIIA (NT5C3A), transcript variant X4, mRNA
+gi|1004170712|ref|NG_012156.2| Homo sapiens CD96 molecule (CD96), RefSeqGene on chromosome 3
+gi|22380663|gb|AC055748.21| Homo sapiens 3 BAC RP11-402J7 (Roswell Park Cancer Institute Human BAC Library) complete sequence
+gi|302486597|ref|NG_025725.1| Homo sapiens NT5C3A pseudogene 2 (NT5C3AP2) on chromosome 3

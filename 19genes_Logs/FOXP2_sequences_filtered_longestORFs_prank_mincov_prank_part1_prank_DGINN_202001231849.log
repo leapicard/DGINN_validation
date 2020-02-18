@@ -1,0 +1,28 @@
+2020-01-23 18:49:01,913 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2020-01-23 18:49:01,913 - main - INFO - Reading input file /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas
+2020-01-23 18:49:01,913 - main - INFO - Output directory: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank_results_202001231849/
+2020-01-23 18:49:01,913 - main - INFO - Analysis will begin at the positiveSelection step
+2020-01-23 18:49:01,913 - main - WARNING - queryName is not provided, coverage check will not run.
+2020-01-23 18:49:01,914 - main.positiveSelection - INFO - Starting positive selection analyses.
+2020-01-23 18:49:01,914 - main.positiveSelection - INFO - Alignement file: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas
+2020-01-23 18:49:01,914 - main.positiveSelection - INFO - Gene Tree file: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.phylip_phyml_tree.txt
+2020-01-23 18:49:01,917 - main.positiveSelection - INFO - Location of entry files: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank_results_202001231849/positive_selection_results_202001231849/
+2020-01-23 18:49:01,917 - main.positiveSelection - INFO - Alignement: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas
+2020-01-23 18:49:01,917 - main.positiveSelection - INFO - Alignement is in Fasta format.
+2020-01-23 18:49:01,917 - main.positiveSelection - INFO - Tree: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.phylip_phyml_tree.txt
+2020-01-23 18:49:01,917 - main.positiveSelection - INFO - There are 150 nodes in the provided tree.
+2020-01-23 18:49:01,918 - main.positiveSelection - INFO - POSITIVE SELECTION ANALYSIS: 
+2020-01-23 18:49:01,918 - main.positiveSelection - INFO - Analysis to be run:
+2020-01-23 18:49:01,918 - main.positiveSelection - INFO - Site (Optimization)
+2020-01-23 18:49:01,918 - main.positiveSelection - INFO - Site (Results)
+2020-01-23 18:49:01,918 - main.positiveSelection - INFO - Site (codeml)
+2020-01-23 18:49:01,918 - main.positiveSelection - INFO - Whole-Gene
+2020-01-23 18:49:01,918 - main.positiveSelection - INFO - Branch-site
+2020-01-23 18:49:01,918 - main.positiveSelection - INFO - Whole Gene (BUSTED, HYPHY)
+2020-01-23 18:49:01,928 - main.positiveSelection - INFO - Batch file: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank_results_202001231849/positive_selection_results_202001231849/busted/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank_busted.bf
+2020-01-23 18:59:42,220 - main.positiveSelection - INFO - PAML codeml
+2020-01-23 18:59:42,220 - main.positiveSelection - INFO - Running M0
+2020-01-23 22:23:51,687 - main.positiveSelection - INFO - Running M1
+2020-01-24 07:50:17,002 - main.positiveSelection - INFO - Running M2
+2020-01-24 20:50:01,592 - main.positiveSelection - INFO - Running M7
+2020-01-26 11:46:47,976 - main.positiveSelection - INFO - Running M8

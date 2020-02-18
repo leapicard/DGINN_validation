@@ -1,0 +1,71 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.0.1
+
+
+>Loaded a multiple sequence alignment with **55** sequences, **1239** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_MX1_CCDS_results_201912111855/MX1_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas`
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 0.1
+
+
+### Branches to include in the MEME analysis
+Selected 107 branches to include in the MEME analysis: `homSap_MX1_NM_001282920, homSap_MX1_AK093008, Node17, homSap_MX1_AK225885, Node16, homSap_MX1_XM_011529570, Node15, homSap_MX1_XM_017028352, Node14, homSap_MX1_CCDS13673, Node13, homSap_MX1_M33882, Node12, homSap_MX1_AK315465, homSap_MX1_BC032602, homSap_MX1_M30817, homSap_MX1_AK096355, homSap_MX1_BC014222, Node31, Node29, Node27, Node25, Node11, panTro_MxA_JX297242, panTro_MX1_XM_009433454, Node37, panPan_MX1_XM_008977603, Node36, panPan_MxA_JX297241, Node35, gorGor_MxA_JX297234, gorGorGor_MX1_XM_019017591, gorGorGor_MX1_XM_031005077, Node44, Node42, Node34, Node10, hylAgi_MxA_JX297235, symSyn_MxA_JX297247, Node48, nomLeu_MxA_JX297240, nomLeu_MX1_XM_012501726, Node51, Node47, Node9, ponAbe_DKFZp469O2020_CR860897, ponPyg_MxA_JX297244, Node54, Node8, rhiBie_MX1_XM_017880224, rhiRox_MX1_XM_030914603, Node61, traFra_MxA_JX297248, Node60, colAngPal_MX1_XM_011954059, colGue_MxA_JX297233, Node65, Node59, pilTep_MX1_XM_023191852, Node58, macFas_MX1_XM_015446625, macFas_MxA_JX297237, Node73, macMul_MX1_NM_001079693, macMul_MX1_XM_015132840, Node76, Node72, macNem_MX1_XM_011725992, Node71, macSyl_MxA_JX297238, theGel_MX1_XM_025380298, manLeu_MX1_XM_011984185, Node82, Node80, Node70, chlSab_MX1_XM_007968723, Node69, Node57, Node7, micMur_MX1_XM_020284695, carSyr_LOC103271092_XM_008068564, Node86, Node6, pitPit_MxA_JX297243, aloSar_MxA_JX297228, Node89, Node5, lagLag_MxA_JX297236, aotTri_MxA_JX297229, Node93, aotNan_MX1_XM_012445105, Node92, Node4, sagMid_MxA_JX297245, calJac_MX1_XM_017967162, calJac_MX1_XM_017967161, Node99, Node97, Node3, cebCapImi_MX1_XM_017538618, cebCapImi_MX1_XM_017538617, Node102, Node2, saiSci_MxA_JX297246, Node1, saiBolBol_MX1_XM_010338252, saiBolBol_MX1_XM_003927592`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -11583.94, AIC-c = 23398.00 (115 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -11242.05, AIC-c = 22728.55 (122 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.2708
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -11242.05
+* non-synonymous/synonymous rate ratio for *test* =   0.2708
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|
+|     26     |     1      |    0.000   |   30.244   |    0.385   |   11.213   |      Yes, p =  0.0016      |     3      |
+|     30     |     1      |    0.000   |   30.697   |    0.034   |    3.242   |      Yes, p =  0.0940      |     0      |
+|     79     |     1      |    0.000   |  416.416   |    0.014   |    3.709   |      Yes, p =  0.0736      |     1      |
+|    186     |     1      |    0.000   |    2.110   |    1.000   |    3.939   |      Yes, p =  0.0653      |     0      |
+|    233     |     1      |    0.852   |   21.218   |    0.129   |    9.593   |      Yes, p =  0.0036      |     3      |
+|    240     |     1      |    0.000   |    2.278   |    1.000   |    3.679   |      Yes, p =  0.0748      |     1      |
+|    338     |     1      |    0.000   |    4.481   |    0.690   |    5.511   |      Yes, p =  0.0290      |     1      |
+|    341     |     1      |    0.000   |  807.028   |    0.027   |    9.842   |      Yes, p =  0.0032      |     2      |
+|    477     |     1      |    1.282   |   38.806   |    0.030   |    3.887   |      Yes, p =  0.0671      |     1      |
+|    626     |     1      |    0.000   |   12.815   |    0.051   |    5.115   |      Yes, p =  0.0355      |     1      |
+|    688     |     1      |    0.723   |   42.343   |    0.080   |    3.644   |      Yes, p =  0.0762      |     2      |
+|    743     |     1      |    0.818   |   15.506   |    0.143   |    4.149   |      Yes, p =  0.0586      |     3      |
+|    744     |     1      |    0.000   |  259.397   |    0.061   |    5.560   |      Yes, p =  0.0283      |     1      |
+|    746     |     1      |    0.000   |    5.984   |    1.000   |    3.548   |      Yes, p =  0.0801      |     0      |
+|    760     |     1      |    1.850   |   18.472   |    0.175   |    4.464   |      Yes, p =  0.0497      |     3      |
+|    781     |     1      |    0.000   |    1.631   |    1.000   |    3.453   |      Yes, p =  0.0842      |     0      |
+|    910     |     1      |    0.728   |   73.851   |    0.022   |    4.832   |      Yes, p =  0.0411      |     1      |
+
+### ** Found _17_ sites under episodic diversifying positive selection at p <= 0.1**

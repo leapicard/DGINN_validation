@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9586036221370572, 0.1472995877281882, 0.6607478171998917, 0.1505562172089774],
+  [0.1985251115354527, -0.9752523119290833, 0.1617657315591619, 0.6149614688344688],
+  [0.8108950693209169, 0.1472995877281882, -1.108750874258082, 0.1505562172089774],
+  [0.1985251115354527, 0.6016594499203247, 0.1617657315591619, -0.9619502930149394]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas",
+   "number of sequences":24,
+   "number of sites":1962,
+   "partition count":2
+  },
+ "timeElapsed":52,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":1798
+}

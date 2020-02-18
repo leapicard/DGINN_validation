@@ -1,0 +1,66 @@
+
+Analysis Description
+--------------------
+BUSTED (branch-site unrestricted statistical test of episodic
+diversification) uses a random effects branch-site model fitted jointly
+to all or a subset of tree branches in order to test for alignment-wide
+evidence of episodic diversifying selection. Assuming there is evidence
+of positive selection (i.e. there is an omega > 1), BUSTED will also
+perform a quick evidence-ratio style analysis to explore which
+individual sites may have been subject to selection.
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree (optionally annotated
+with {})
+
+- __Citation__: *Gene-wide identification of episodic selection*, Mol Biol Evol.
+32(5):1365-71
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 1.2
+
+
+>Loaded a multiple sequence alignment with **24** sequences, **654** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_duplication_remainingsequences_prank.best.fas`
+
+
+### Branches to test for selection in the BUSTED analysis
+* Selected 45 branches to test in the BUSTED analysis: `homSap_GBP5_AY358953, homSap_GBP5_AF288815, homSap_FLJ00401_BC033761, Node11, homSap_GBP5_CCDS722, Node10, Node8, homSap_FLJ00401_AK090479, Node7, homSap_GBP5_AF328727, Node6, panTro_GBP5_XM_003308206, panTro_GBP5_XM_016922023, Node18, panPan_GBP5_XM_024928888, Node17, Node5, gorGorGor_GBP5_XM_004026101, gorGorGor_GBP5_XM_019027239, Node23, gorGorGor_GBP5_XM_019027285, Node22, Node4, ponAbe_GBP5_XM_009248130, ponAbe_GBP5_XR_656340, Node27, Node3, calJac_GBP5_XM_009001646, calJac_GBP5_XM_017974906, Node31, aotNan_GBP5_XM_012464816, aotNan_GBP5_XM_012464819, Node35, saiBolBol_GBP5_XM_003943256, cebCapImi_GBP5_XM_017498361, cebCapImi_GBP5_XM_017498360, Node40, Node38, Node34, Node30, Node2, carSyr_LOC103267819_XM_008065396, Node1, otoGar_GBP5_XM_012801702, micMur_GBP5_XM_012749233`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -6659.71, AIC-c = 13425.54 (53 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -6503.81, AIC-c = 13128.09 (60 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.4748
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -6503.81, AIC-c = 13128.09 (60 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.4749
+
+### Performing the full (dN/dS > 1 allowed) branch-site model fit
+* Log(L) = -6484.79, AIC-c = 13098.12 (64 estimated parameters)
+* For *test* branches, the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.264     |   76.387    |                                   |
+|        Negative selection         |     0.552     |   20.034    |                                   |
+|      Diversifying selection       |     7.572     |    3.579    |                                   |
+
+
+### Performing the constrained (dN/dS > 1 not allowed) model fit
+* Log(L) = -6491.30, AIC-c = 13109.11 (63 estimated parameters)
+* For *test* branches under the null (no dN/dS > 1 model), the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.000     |   35.536    |                                   |
+|        Negative selection         |     0.000     |   17.760    |       Collapsed rate class        |
+|         Neutral evolution         |     1.000     |   46.705    |                                   |
+
+----
+## Branch-site unrestricted statistical test of episodic diversification [BUSTED]
+Likelihood ratio test for episodic diversifying positive selection, **p =   0.0015**.

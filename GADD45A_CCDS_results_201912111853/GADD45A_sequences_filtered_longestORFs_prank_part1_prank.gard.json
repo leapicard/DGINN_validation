@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-1.143414246082357, 0.2241699245025547, 0.7568997741301368, 0.1623445474496659],
+  [0.1754718535362381, -0.914482774258725, 0.2526477094806832, 0.4863632112418038],
+  [0.5256909179219366, 0.2241699245025547, -0.9122053898741571, 0.1623445474496659],
+  [0.1754718535362381, 0.6715840233482357, 0.2526477094806832, -1.099703586365157]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs_prank_part1_prank.best.fas",
+   "number of sequences":30,
+   "number of sites":513,
+   "partition count":2
+  },
+ "timeElapsed":23,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":247
+}

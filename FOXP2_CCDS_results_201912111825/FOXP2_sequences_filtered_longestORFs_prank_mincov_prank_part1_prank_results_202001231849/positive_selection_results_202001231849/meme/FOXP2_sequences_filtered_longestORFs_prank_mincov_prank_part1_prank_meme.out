@@ -1,0 +1,55 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.0.1
+
+
+>Loaded a multiple sequence alignment with **77** sequences, **1153** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas`
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 0.1
+
+
+### Branches to include in the MEME analysis
+Selected 151 branches to include in the MEME analysis: `papAnu_FOXP2_NM_001168922, macMul_FOXP2_XM_028844760, macMul_FOXP2_XM_028844761, theGel_FOXP2_XM_025380562, macMul_FOXP2_XM_015134718, theGel_FOXP2_XM_025380565, Node21, macMul_FOXP2_XM_015134717, Node20, theGel_FOXP2_XM_025380564, Node19, Node17, Node15, Node13, Node11, theGel_FOXP2_XM_025380561, Node10, macMul_FOXP2_XM_015134716, Node9, theGel_FOXP2_XM_025380560, Node8, macNem_FOXP2_XM_011731314, Node7, macFas_FOXP2_XM_015447961, Node6, manLeu_FOXP2_XM_011967097, manLeu_FOXP2_XM_011967099, manLeu_FOXP2_XM_011967098, manLeu_FOXP2_XM_011967100, manLeu_FOXP2_XM_011967102, Node37, Node35, Node33, Node31, Node5, colAngPal_FOXP2_XM_011955953, pilTep_FOXP2_XM_023228234, pilTep_FOXP2_XM_023228233, pilTep_FOXP2_XM_023228235, pilTep_FOXP2_XM_023228239, Node49, Node47, Node45, pilTep_FOXP2_XM_023228236, Node44, pilTep_FOXP2_XM_023228238, pilTep_FOXP2_XM_023228237, Node53, Node43, rhiBie_FOXP2_XM_017864605, rhiRox_FOXP2_XM_030933310, Node56, Node42, Node40, Node4, chlSab_FOXP2_XM_007982645, chlSab_FOXP2_XM_007982646, chlSab_FOXP2_XM_007982648, chlSab_FOXP2_XM_007982650, chlSab_FOXP2_XM_007982649, chlSab_FOXP2_XM_007982653, chlSab_FOXP2_XM_007982659, chlSab_FOXP2_XM_007982654, Node72, Node70, Node68, Node66, chlSab_FOXP2_XM_007982643, Node65, Node63, Node61, Node59, Node3, ponAbe_FOXP2_XM_024250289, ponPyg_FOXP2_AY143181, ponPyg_FOXP2_AF512949, Node80, Node78, ponPyg_FOXP2_AY064615, Node77, nomLeu_FOXP2_XM_030826322, nomLeu_FOXP2_XM_003261215, Node85, gorGorGor_FOXP2_XM_031012626, gorGorGor_FOXP2_XM_031012627, gorGorGor_FOXP2_XM_031012628, gorGor_FOXP2_AY143180, gorGorGor_FOXP2_XM_031012629, gorGorGor_FOXP2_XM_031012630, Node98, Node96, Node94, Node92, Node90, gorGor_FOXP2_AF512948, gorGor_FOXP2_AY064598, Node101, Node89, homSap_FOXP2_CCDS43635, homSap_FOXP2_AK296957, homSap_FOXP2_AF337817, homSap_FOXP2_NM_001172766, homSap_FOXP2_NM_001172767, homSap_FOXP2_KJ535086, Node116, homSap_FOXP2_AY144615, homSap_FOXP2_AF467259, homSap_FOXP2_NR_033767, Node121, Node119, Node115, Node113, Node111, Node109, homSap_FOXP2_BC143867, Node108, Node106, homSap_FOXP2_KJ535079, Node105, panTro_FOXP2_AY143178, panPan_FOXP2_XM_024929371, panPan_FOXP2_AY143179, Node129, panTro_FOXP2_XM_009454010, panTro_FOXP2_XM_016956790, panTro_FOXP2_XM_009454011, panTro_FOXP2_AY064549, panTro_FOXP2_XM_009454013, Node138, Node136, Node134, Node132, Node128, Node126, Node104, Node88, Node84, Node76, Node2, calJac_FOXP2_XM_017975473, saiBolBol_FOXP2_XM_003921067, saiBolBol_FOXP2_XM_003921068, Node145, Node143, aotNan_FOXP2_XM_012456997, Node142, cebCapImi_FOXP2_XM_017535042, Node141, Node1, micMur_FOXP2_XM_020289760, otoGar_FOXP2_XM_023513202`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -6116.37, AIC-c = 12550.92 (159 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -5826.26, AIC-c = 11985.15 (166 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.0389
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -5826.26
+* non-synonymous/synonymous rate ratio for *test* =   0.0389
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|
+|    601     |     1      |    3.243   |   85.246   |    0.103   |    4.573   |      Yes, p =  0.0470      |     2      |
+
+### ** Found _1_ sites under episodic diversifying positive selection at p <= 0.1**

@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9704736103707884, 0.1216301039276364, 0.7305789600647673, 0.1182645463783848],
+  [0.1550522548738618, -0.9495600450360931, 0.1300291435114561, 0.6644786466507753],
+  [0.8711732774850044, 0.1216301039276364, -1.111067927791026, 0.1182645463783848],
+  [0.1550522548738618, 0.6833882961952542, 0.1300291435114561, -0.9684696945805722]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_GBP5_CCDS_results_201912111827/GBP5_sequences_filtered_longestORFs_D487gp1_prank.best.fas",
+   "number of sequences":48,
+   "number of sites":2577,
+   "partition count":2
+  },
+ "timeElapsed":97,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":1932
+}

@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9556656348148825, 0.1119513686108989, 0.7472916384402176, 0.09642262776376591],
+  [0.1134996935771385, -0.9395261872400756, 0.09912772857046988, 0.7268987650924673],
+  [0.8556371985808778, 0.1119513686108989, -1.064011194955543, 0.09642262776376591],
+  [0.1134996935771385, 0.8439648812833365, 0.09912772857046988, -1.056592303430945]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas",
+   "number of sequences":59,
+   "number of sites":4392,
+   "partition count":2
+  },
+ "timeElapsed":109,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":3354
+}

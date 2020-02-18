@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-1.074794440520235, 0.1795122895178158, 0.7437537691126263, 0.1515283818897929],
+  [0.1590979000864129, -0.9413690545101359, 0.1904187752176459, 0.5918523792060771],
+  [0.6214180440553959, 0.1795122895178158, -0.9524587154630046, 0.1515283818897929],
+  [0.1590979000864129, 0.701154294151452, 0.1904187752176459, -1.050670969455511]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_ISG20_CCDS_results_201912111837/ISG20_sequences_filtered_longestORFs_prank_mincov_prank.best.fas",
+   "number of sequences":41,
+   "number of sites":1353,
+   "partition count":2
+  },
+ "timeElapsed":64,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":1204
+}

@@ -1,0 +1,1 @@
+/home/lpicard/2019_validation/20191211/21genes_RSAD2_CCDS_results_201912111841/RSAD2_sequences_filtered_longestORFs_prank.best.fas	/home/lpicard/2019_validation/20191211/21genes_RSAD2_CCDS_results_201912111841/RSAD2_sequences_filtered_longestORFs_prank.phylip_phyml_tree.txt

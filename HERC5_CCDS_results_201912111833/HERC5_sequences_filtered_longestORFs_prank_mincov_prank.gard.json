@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9696068073186825, 0.1686284712916711, 0.6111997704187716, 0.1897785656082399],
+  [0.2037271264856472, -1.029357336839404, 0.1795262384643041, 0.6461039718894531],
+  [0.693592056521933, 0.1686284712916711, -1.051999093421844, 0.1897785656082399],
+  [0.2037271264856472, 0.5740981586935593, 0.1795262384643041, -0.9573515236435107]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_prank_mincov_prank.best.fas",
+   "number of sequences":59,
+   "number of sites":6057,
+   "partition count":2
+  },
+ "timeElapsed":263,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":5698
+}

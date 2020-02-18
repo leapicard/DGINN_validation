@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.8775509643356726, 0.142088758704343, 0.5805664323953886, 0.1548957732359409],
+  [0.2504969119264874, -0.9968568319753824, 0.1510628825559807, 0.5952970374929144],
+  [0.9627123223292751, 0.142088758704343, -1.259696854269559, 0.1548957732359409],
+  [0.2504969119264874, 0.5460769868064704, 0.1510628825559807, -0.9476367812889385]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_IFI16_CCDS_results_201912111845/IFI16_sequences_filtered_longestORFs_D390gp2_prank.best.fas",
+   "number of sequences":26,
+   "number of sites":1458,
+   "partition count":2
+  },
+ "timeElapsed":36,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":664
+}

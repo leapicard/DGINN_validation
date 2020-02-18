@@ -1,0 +1,55 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.0.1
+
+
+>Loaded a multiple sequence alignment with **41** sequences, **451** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_ISG20_CCDS_results_201912111837/ISG20_sequences_filtered_longestORFs_prank_mincov_prank.best.fas`
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 0.1
+
+
+### Branches to include in the MEME analysis
+Selected 79 branches to include in the MEME analysis: `macNem_ISG20_XM_011752295, macNem_ISG20_XM_011752298, macMul_ISG20_XM_015142943, Node12, Node10, macMul_ISG20_NM_001258053, Node9, macFas_ISG20_XM_005560454, Node8, macFas_ISG20_XM_005560455, Node7, manLeu_ISG20_XM_011986299, chlSab_ISG20_XM_007990328, chlAet_ISG20_AY968222, chlSab_ISG20_XM_007990329, Node23, Node21, Node19, theGel_ISG20_XM_025391985, papAnu_ISG20_XM_003901350, Node26, Node18, Node6, colAngPal_ISG20_XM_011948330, pilTep_ISG20_XM_023187233, rhiBie_ISG20_XM_017882054, rhiBie_ISG20_XM_017882052, Node34, rhiRox_ISG20_XM_010362302, rhiRox_ISG20_XM_010362303, Node37, Node33, Node31, Node29, Node5, nomLeu_ISG20_XM_030814973, nomLeu_ISG20_XM_030814977, Node41, ponAbe_ISG20_XM_024232592, homSap_ISG20_CR456942, panTro_ISG20_XM_016927379, homSap_isg20_X89773, gorGorGor_ISG20_XM_004056726, gorGorGor_ISG20_XM_019011143, Node54, panPan_ISG20_XM_014341574, homSap_ISG20_AK307769, homSap_ISG20_AK122793, Node60, Node58, homSap_ISG20_BC016341, Node57, Node53, Node51, Node49, homSap_HEM45_U88964, homSap_ISG20_CCDS10345, homSap_ISG20_XM_011521521, Node66, Node64, Node48, Node46, Node44, Node40, Node4, saiBolBol_ISG20_XM_003921639, calJac_ISG20_XM_002749142, cebCapImi_ISG20_XM_017506122, cebCapImi_ISG20_XM_017506123, Node73, Node71, Node69, Node3, otoGar_ISG20_XM_003788659, Node2, micMur_ISG20_XM_012788871, Node1, carSyr_ISG20_XM_021718841, carSyr_ISG20_XM_008070608`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -3130.75, AIC-c =  6435.78 (87 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -3031.70, AIC-c =  6252.37 (94 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.2124
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -3031.70
+* non-synonymous/synonymous rate ratio for *test* =   0.2125
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|
+|    404     |     1      |    0.000   |    5.484   |    0.501   |    3.760   |      Yes, p =  0.0717      |     0      |
+
+### ** Found _1_ sites under episodic diversifying positive selection at p <= 0.1**

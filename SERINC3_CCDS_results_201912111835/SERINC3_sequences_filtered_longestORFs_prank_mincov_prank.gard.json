@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9666632628272865, 0.1497129152174753, 0.6467515827545161, 0.1701987648552953],
+  [0.1401613992710084, -1.075727527865035, 0.138018489653105, 0.7975476389409221],
+  [0.6567932097174128, 0.1497129152174753, -0.9767048897901832, 0.1701987648552953],
+  [0.1401613992710084, 0.7015514016930593, 0.138018489653105, -0.9797312906171727]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_SERINC3_CCDS_results_201912111835/SERINC3_sequences_filtered_longestORFs_prank_mincov_prank.best.fas",
+   "number of sequences":35,
+   "number of sites":1866,
+   "partition count":2
+  },
+ "timeElapsed":66,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":1775
+}

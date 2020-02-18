@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9922179485496951, 0.1736663039580326, 0.6543368382107656, 0.1642148063808969],
+  [0.1679874629768124, -0.9838915283789778, 0.1651083303115084, 0.650795735090657],
+  [0.6657470593755607, 0.1736663039580326, -1.00362816971449, 0.1642148063808969],
+  [0.1679874629768124, 0.6882527369833631, 0.1651083303115084, -1.021348530271684]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_APOBEC3F_CCDS_results_201912111831/APOBEC3F_sequences_filtered_longestORFs_D426gp2_prank.best.fas",
+   "number of sequences":16,
+   "number of sites":2112,
+   "partition count":2
+  },
+ "timeElapsed":22,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":1257
+}

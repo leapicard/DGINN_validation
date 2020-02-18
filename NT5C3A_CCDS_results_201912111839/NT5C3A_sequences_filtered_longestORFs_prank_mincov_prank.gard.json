@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9582606865141569, 0.1055227026413135, 0.722087971053642, 0.1306500128192014],
+  [0.1429083487601733, -1.056659996716657, 0.1186529450048526, 0.795098702951631],
+  [0.8696994381272161, 0.1055227026413135, -1.105872153587731, 0.1306500128192014],
+  [0.1429083487601733, 0.6421810621493349, 0.1186529450048526, -0.9037423559143608]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_NT5C3A_CCDS_results_201912111839/NT5C3A_sequences_filtered_longestORFs_prank_mincov_prank.best.fas",
+   "number of sequences":74,
+   "number of sites":2214,
+   "partition count":2
+  },
+ "timeElapsed":368,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":2116
+}

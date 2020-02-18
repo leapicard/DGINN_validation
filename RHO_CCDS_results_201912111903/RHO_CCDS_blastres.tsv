@@ -1,0 +1,36 @@
+# BLASTN 2.10.0+
+# Query: homSap_RHO_CCDS3063
+# Database: nt_v5					
+# Fields: subject id, ?
+# 403 hits found
+gi|169808383|ref|NM_000539.3| Homo sapiens rhodopsin (RHO), mRNA
+gi|85567016|gb|BC112106.1| Homo sapiens rhodopsin, mRNA (cDNA clone MGC:138311 IMAGE:8327574), complete cds >gi|85567191|gb|BC112104.1| Homo sapiens rhodopsin, mRNA (cDNA clone MGC:138309 IMAGE:8327572), complete cds
+gi|31873263|emb|BX537381.1| Homo sapiens mRNA; cDNA DKFZp686B2082 (from clone DKFZp686B2082); complete cds
+gi|208967305|dbj|AB464154.1| Synthetic construct DNA, clone: pF1KB8342, Homo sapiens RHO gene for rhodopsin, without stop codon, in Flexi system
+gi|117644327|emb|AM392780.1| Synthetic construct Homo sapiens clone IMAGE:100002303 for hypothetical protein (RHO gene)
+gi|109939746|gb|BC111451.3| Synthetic construct Homo sapiens clone IMAGE:40080645, MGC:133433 RHO protein (RHO) mRNA, encodes complete protein
+gi|1753067279|ref|XM_004036292.3| PREDICTED: Gorilla gorilla gorilla rhodopsin (RHO), mRNA
+gi|1367276456|ref|XM_516740.7| PREDICTED: Pan troglodytes rhodopsin (RHO), mRNA
+gi|931568888|ref|XM_003829435.3| PREDICTED: Pan paniscus rhodopsin (RHO), mRNA
+gi|1743191187|ref|XM_003265030.4| PREDICTED: Nomascus leucogenys rhodopsin (RHO), mRNA
+gi|1351495862|ref|XM_002813145.4| PREDICTED: Pongo abelii rhodopsin (RHO), mRNA
+gi|1751185526|ref|XM_010381505.2| PREDICTED: Rhinopithecus roxellana rhodopsin (RHO), mRNA
+gi|1482627137|ref|XM_023215965.2| PREDICTED: Piliocolobus tephrosceles rhodopsin (RHO), mRNA
+gi|1059168485|ref|XM_017885138.1| PREDICTED: Rhinopithecus bieti rhodopsin (RHO), mRNA
+gi|635120977|ref|XM_007985378.1| PREDICTED: Chlorocebus sabaeus rhodopsin (RHO), mRNA
+gi|1212385517|ref|XM_012472901.2| PREDICTED: Aotus nancymaae rhodopsin (RHO), mRNA
+gi|795598746|ref|XM_012060295.1| PREDICTED: Cercocebus atys rhodopsin (RHO), mRNA
+gi|795103080|ref|XM_011974200.1| PREDICTED: Mandrillus leucophaeus rhodopsin (RHO), mRNA
+gi|795222564|ref|XM_011950692.1| PREDICTED: Colobus angolensis palliatus rhodopsin (RHO), mRNA
+gi|725563864|ref|XM_003926159.2| PREDICTED: Saimiri boliviensis boliviensis rhodopsin (RHO), mRNA
+gi|1411137559|ref|XM_025377237.1| PREDICTED: Theropithecus gelada rhodopsin (RHO), mRNA
+gi|795626625|ref|XM_011734526.1| PREDICTED: Macaca nemestrina rhodopsin (RHO), mRNA
+gi|545687338|ref|NM_001283360.1| Macaca fascicularis rhodopsin (RHO), mRNA >gi|913368|gb|S76579.1| Macaca fascicularis opsin mRNA, complete cds
+gi|1060955209|ref|XM_008982215.2| PREDICTED: Callithrix jacchus rhodopsin (RHO), mRNA
+gi|1622908734|ref|XM_001094250.3| PREDICTED: Macaca mulatta rhodopsin (RHO), mRNA
+gi|1044418101|ref|XM_017505088.1| PREDICTED: Cebus capucinus imitator rhodopsin (RHO), mRNA
+gi|1214015638|ref|XM_008047820.2| PREDICTED: Carlito syrichta rhodopsin (RHO), mRNA
+gi|1149857949|ref|XM_012785306.2| PREDICTED: Microcebus murinus rhodopsin (RHO), mRNA
+gi|826324509|ref|XM_012655172.1| PREDICTED: Propithecus coquereli rhodopsin (RHO), mRNA
+gi|1327810653|ref|XM_003796229.3| PREDICTED: Otolemur garnettii rhodopsin (RHO), mRNA
+gi|38524479|dbj|AB112591.1| Otolemur crassicaudatus RH1 mRNA for rod visual pigment, complete cds

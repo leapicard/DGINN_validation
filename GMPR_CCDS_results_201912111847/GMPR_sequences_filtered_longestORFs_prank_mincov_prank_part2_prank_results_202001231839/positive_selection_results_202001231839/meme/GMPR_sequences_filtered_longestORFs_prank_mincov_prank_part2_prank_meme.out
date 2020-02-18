@@ -1,0 +1,55 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.0.1
+
+
+>Loaded a multiple sequence alignment with **34** sequences, **428** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas`
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 0.1
+
+
+### Branches to include in the MEME analysis
+Selected 65 branches to include in the MEME analysis: `macMul_GMPR_XM_015135594, macNem_GMPR_XM_011742596, macFas_GMPR_XM_005553978, Node8, Node6, chlSab_GMPR_XM_007973621, manLeu_GMPR_XM_011967936, manLeu_GMPR_XM_011967934, Node14, Node12, theGel_GMPR_XM_025381670, theGel_GMPR_XM_025381668, theGel_GMPR_XM_025381669, Node19, Node17, Node11, Node5, rhiRox_GMPR_XM_010376389, rhiBie_GMPR_XR_001888194, rhiBie_GMPR_XM_017887088, Node26, Node24, rhiRox_GMPR_XM_010376390, Node23, colAngPal_GMPR_XM_011962740, pilTep_GMPR_XM_023209813, Node30, Node22, Node4, nomLeu_GMPR_XM_003263539, ponAbe_DKFZp468N2123_CR858142, gorGorGor_GMPR_XM_004043308, gorGorGor_GMPR_XM_019030109, Node39, panTro_GMPR_XM_518253, panPan_GMPR_XM_008976819, Node42, Node38, homSap_GMPR_CCDS4537, homSap_GMPR_BC008281, Node46, homSap_GMPR_XM_011514508, Node45, Node37, Node35, Node33, Node3, cebCapImi_GMPR_XM_017521621, cebCapImi_GMPR_XM_017521620, Node51, aotNan_GMPR_XM_021665334, aotNan_GMPR_XM_012476587, Node56, saiBolBol_GMPR_XM_003927327, Node55, calJac_GMPR_XM_002806679, Node54, Node50, Node2, otoGar_GMPR_XM_003788321, micMur_GMPR_XM_012753650, Node61, Node1, carSyr_GMPR_XM_008066217, carSyr_GMPR_XM_008066216`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -3690.56, AIC-c =  7527.36 (73 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -3399.55, AIC-c =  6960.00 (80 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.0556
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -3399.55
+* non-synonymous/synonymous rate ratio for *test* =   0.0556
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|
+|    368     |     1      |    0.000   |  127.724   |    0.065   |   18.993   |      Yes, p =  0.0000      |     2      |
+
+### ** Found _1_ sites under episodic diversifying positive selection at p <= 0.1**

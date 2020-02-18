@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9372469565037089, 0.1255386148218477, 0.6643717514621963, 0.147336590219665],
+  [0.1692544040238939, -1.039444721272493, 0.1327352264910924, 0.7374550907575067],
+  [0.8471590233930159, 0.1255386148218477, -1.120034228434529, 0.147336590219665],
+  [0.1692544040238939, 0.6283509781853284, 0.1327352264910924, -0.9303406087003145]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_SAMHD1_CCDS_results_201912111901/SAMHD1_sequences_filtered_longestORFs_prank_mincov_prank.best.fas",
+   "number of sequences":82,
+   "number of sites":2223,
+   "partition count":2
+  },
+ "timeElapsed":335,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":1945
+}

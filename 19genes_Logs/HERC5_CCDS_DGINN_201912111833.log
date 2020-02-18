@@ -1,0 +1,49 @@
+2019-12-11 18:33:26,584 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2019-12-11 18:33:26,585 - main - INFO - Reading input file /home/lpicard/2019_validation/21genes_HERC5_CCDS.fasta
+2019-12-11 18:33:26,585 - main - INFO - Output directory: /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/
+2019-12-11 18:33:26,585 - main - INFO - Analysis will begin at the blast step
+2019-12-11 18:33:26,618 - main - INFO - Running Blast
+2019-12-11 18:33:26,618 - main - INFO - Database search on nr will be limited to Primates[Organism]
+2019-12-11 19:33:14,370 - main - INFO - Blast results written to: /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/21genes_HERC5_CCDS_blastres.tsv, 71 sequences retrieved.
+2019-12-11 19:33:14,445 - main - INFO - Extracted gene accessions from blast results
+2019-12-11 19:33:14,446 - main - INFO - Wrote all accessions to /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_accns.txt
+2019-12-11 19:33:17,751 - main - INFO - Remote option on, downloaded gene IDs and sequences from NCBI databases (24 different species represented in the retrieved sequences).
+2019-12-11 19:33:17,751 - main - INFO - Deleted 0 sequences due to excessive length.
+2019-12-11 19:33:17,861 - main - INFO - Deleted 3 sequences as duplicates
+2019-12-11 19:33:17,864 - main - INFO - Extracted longest ORFs: /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs.fasta
+2019-12-11 19:33:17,864 - main - INFO - Started Prank codon alignment
+2019-12-11 20:43:59,764 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_prank.best.fas
+2019-12-11 20:43:59,855 - main - INFO - Discarding sequences with less than 50% coverage of query.
+2019-12-11 20:43:59,882 - main - INFO - Discarded 2 sequences
+2019-12-11 20:43:59,882 - main - INFO - Started Prank codon alignment
+2019-12-11 21:40:29,396 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-12-11 21:40:29,487 - main - INFO - Running PhyML to produce gene phylogenetic tree
+2019-12-11 21:44:11,975 - main - INFO - Reconstructed tree using PhyML: /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_prank_mincov_prank.phylip_phyml_tree.txt
+2019-12-11 21:44:12,000 - main - INFO - Looking for long branches.
+2019-12-11 21:44:12,005 - main - INFO - No long branches found.
+2019-12-11 21:44:12,066 - main - INFO - Cleaning the tree
+2019-12-11 21:44:12,066 - main - INFO - Running Treerecs
+2019-12-11 21:44:13,018 - main - INFO - Ignoring remaining sequences [] as they do not compose a group of enough orthologs.
+2019-12-11 21:44:13,019 - main - INFO - 22 duplications detected by Treerecs, extracting 2 groups of at least 8 orthologs.
+2019-12-11 21:44:13,019 - main - INFO - Started Prank codon alignment
+2019-12-11 22:07:40,292 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_D300gp1_prank.best.fas
+2019-12-11 22:08:07,403 - main - INFO - Started Prank codon alignment
+2019-12-11 22:27:41,672 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_D300gp2_prank.best.fas
+2019-12-11 22:28:03,052 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-12-11 22:32:39,930 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-11 22:33:20,764 - main - INFO - Extracted GARD results.
+2019-12-11 22:33:20,765 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_prank_mincov_prank.best.fas.
+2019-12-11 22:33:20,765 - main - INFO - Parsed GARD results.
+2019-12-11 22:33:20,765 - main - INFO - No fragments of recombination identified.
+2019-12-11 22:33:20,765 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_D300gp1_prank.best.fas
+2019-12-11 22:34:32,884 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-11 22:34:41,008 - main - INFO - Extracted GARD results.
+2019-12-11 22:34:41,009 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_D300gp1_prank.best.fas.
+2019-12-11 22:34:41,009 - main - INFO - Parsed GARD results.
+2019-12-11 22:34:41,009 - main - INFO - No fragments of recombination identified.
+2019-12-11 22:34:41,009 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_D300gp2_prank.best.fas
+2019-12-11 22:36:19,643 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-11 22:36:27,589 - main - INFO - Extracted GARD results.
+2019-12-11 22:36:27,590 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_D300gp2_prank.best.fas.
+2019-12-11 22:36:27,590 - main - INFO - Parsed GARD results.
+2019-12-11 22:36:27,590 - main - INFO - No fragments of recombination identified.

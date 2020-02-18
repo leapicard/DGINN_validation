@@ -1,0 +1,2 @@
+> family 1 tree 1 re-rooting (total cost = 14, duplications = 0, losses = 14, contraction threshold = 0.8)
+((cebCapImi_GADD45B_XM_017507472:0.0180214[&&NHX:S=cebCap:D=N:ND=1],saiBolBol_GADD45B_XM_003928609:0.00865178[&&NHX:S=saiBol:D=N:ND=7]):0.00138437[&&NHX:S=108:D=N:ND=10],(calJac_Gadd45b_AB863011:0.0283124[&&NHX:S=calJac:D=N:ND=11],aotNan_GADD45B_XM_012436386:0.0179733[&&NHX:S=aotNan:D=N:ND=28]):0.00138437[&&NHX:S=99:D=N:ND=33])[&&NHX:S=109:D=N:ND=34];

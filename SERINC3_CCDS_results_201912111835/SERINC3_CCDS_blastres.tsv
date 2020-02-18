@@ -1,0 +1,65 @@
+# BLASTN 2.10.0+
+# Query: homSap_SERINC3_CCDS13333
+# Database: nt_v5					
+# Fields: subject id, ?
+# 265 hits found
+gi|1519312161|ref|NM_006811.4| Homo sapiens serine incorporator 3 (SERINC3), transcript variant 1, mRNA
+gi|1016470333|ref|NM_198941.2| Homo sapiens serine incorporator 3 (SERINC3), transcript variant 2, mRNA
+gi|4545218|gb|AF112227.1|AF112227 Homo sapiens TDE homolog mRNA, complete cds
+gi|13543883|gb|BC006088.1| Homo sapiens serine incorporator 3, mRNA (cDNA clone MGC:12658 IMAGE:3641108), complete cds
+gi|649106649|gb|KJ893178.1| Synthetic construct Homo sapiens clone ccsbBroadEn_02572 SERINC3 gene, encodes complete protein
+gi|124000408|gb|DQ896714.2| Synthetic construct Homo sapiens clone IMAGE:100011174; FLH199373.01L; RZPDo839B1181D serine incorporator 3 (SERINC3) gene, encodes complete protein
+gi|123993432|gb|DQ893392.2| Synthetic construct clone IMAGE:100006022; FLH199467.01X; RZPDo839B1182D serine incorporator 3 (SERINC3) gene, encodes complete protein
+gi|62897404|dbj|AK222923.1| Homo sapiens mRNA for tumor differentially expressed protein 1 variant, clone: HRC08488
+gi|1367230986|ref|XM_009437223.2| PREDICTED: Pan troglodytes serine incorporator 3 (SERINC3), transcript variant X1, mRNA
+gi|931609573|ref|XM_008951316.2| PREDICTED: Pan paniscus serine incorporator 3 (SERINC3), transcript variant X2, mRNA
+gi|675783523|ref|XM_008951317.1| PREDICTED: Pan paniscus serine incorporator 3 (SERINC3), transcript variant X3, mRNA
+gi|675783520|ref|XM_003825928.2| PREDICTED: Pan paniscus serine incorporator 3 (SERINC3), transcript variant X1, mRNA
+gi|525342799|ref|NM_001280388.1| Pan troglodytes serine incorporator 3 (SERINC3), mRNA >gi|343960808|dbj|AK305000.1| Pan troglodytes mRNA for serine incorporator 3, complete cds, clone: PtsC-2-5_H01
+gi|207080241|ref|NM_001135261.1| Pongo abelii serine incorporator 3 (SERINC3), mRNA >gi|55732882|emb|CR861044.1| Pongo abelii mRNA; cDNA DKFZp459N1015 (from clone DKFZp459N1015)
+gi|1099201721|ref|XR_002003855.1| PREDICTED: Gorilla gorilla gorilla serine incorporator 3 (SERINC3), transcript variant X4, misc_RNA
+gi|1099201711|ref|XR_002003854.1| PREDICTED: Gorilla gorilla gorilla serine incorporator 3 (SERINC3), transcript variant X2, misc_RNA
+gi|1099201705|ref|XM_004062198.2| PREDICTED: Gorilla gorilla gorilla serine incorporator 3 (SERINC3), transcript variant X1, mRNA
+gi|426391785|ref|XM_004062199.1| PREDICTED: Gorilla gorilla gorilla serine incorporator 3 (SERINC3), transcript variant X3, mRNA
+gi|4960203|gb|AF153979.1|AF153979 Homo sapiens transmembrane protein SBBI99 mRNA, complete cds
+gi|1293562|gb|U49188.1|HSU49188 Human placenta (Diff33) mRNA, complete cds
+gi|194373996|dbj|AK300618.1| Homo sapiens cDNA FLJ50869 complete cds, highly similar to Serine incorporator 3
+gi|164690865|dbj|AK309993.1| Homo sapiens cDNA, FLJ17035
+gi|1743157367|ref|XM_030826655.1| PREDICTED: Nomascus leucogenys serine incorporator 3 (SERINC3), transcript variant X2, mRNA
+gi|1743157365|ref|XM_030826652.1| PREDICTED: Nomascus leucogenys serine incorporator 3 (SERINC3), transcript variant X1, mRNA
+gi|966966139|ref|XR_001447470.1| PREDICTED: Macaca mulatta serine incorporator 3 (SERINC3), transcript variant X1, misc_RNA
+gi|1777283877|ref|XR_652310.4| PREDICTED: Papio anubis serine incorporator 3 (SERINC3), transcript variant X2, misc_RNA
+gi|1777283876|ref|XM_003904707.4| PREDICTED: Papio anubis serine incorporator 3 (SERINC3), transcript variant X1, mRNA
+gi|1059154345|ref|XM_017878010.1| PREDICTED: Rhinopithecus bieti serine incorporator 3 (SERINC3), mRNA
+gi|795239389|ref|XM_011997640.1| PREDICTED: Mandrillus leucophaeus serine incorporator 3 (SERINC3), transcript variant X2, mRNA
+gi|795239380|ref|XM_011997639.1| PREDICTED: Mandrillus leucophaeus serine incorporator 3 (SERINC3), transcript variant X1, mRNA
+gi|386781596|ref|NM_001260972.1| Macaca mulatta serine incorporator 3 (SERINC3), mRNA
+gi|1751210950|ref|XM_010384274.2| PREDICTED: Rhinopithecus roxellana serine incorporator 3 (SERINC3), mRNA
+gi|1411088237|ref|XM_025399647.1| PREDICTED: Theropithecus gelada serine incorporator 3 (SERINC3), transcript variant X2, mRNA
+gi|1411088235|ref|XM_025399646.1| PREDICTED: Theropithecus gelada serine incorporator 3 (SERINC3), transcript variant X1, mRNA
+gi|795271923|ref|XM_012065744.1| PREDICTED: Cercocebus atys serine incorporator 3 (SERINC3), mRNA
+gi|1297691699|ref|XR_002734884.1| PREDICTED: Piliocolobus tephrosceles serine incorporator 3 (SERINC3), transcript variant X2, misc_RNA
+gi|1297691697|ref|XM_023227994.1| PREDICTED: Piliocolobus tephrosceles serine incorporator 3 (SERINC3), transcript variant X1, mRNA
+gi|982277614|ref|XR_281514.2| PREDICTED: Macaca fascicularis serine incorporator 3 (SERINC3), transcript variant X2, misc_RNA
+gi|982277609|ref|XM_005569083.2| PREDICTED: Macaca fascicularis serine incorporator 3 (SERINC3), transcript variant X1, mRNA
+gi|635084113|ref|XM_007972183.1| PREDICTED: Chlorocebus sabaeus serine incorporator 3-like (LOC103221298), mRNA
+gi|1482628981|ref|XR_002727450.2| PREDICTED: Piliocolobus tephrosceles serine incorporator 3 pseudogene (LOC111529521), misc_RNA
+gi|194379191|dbj|AK295120.1| Homo sapiens cDNA FLJ51844 complete cds, highly similar to Serine incorporator 3
+gi|795329657|ref|XR_001004233.1| PREDICTED: Colobus angolensis palliatus serine incorporator 3-like (LOC105527484), misc_RNA
+gi|795455468|ref|XM_011766801.1| PREDICTED: Macaca nemestrina serine incorporator 3 (SERINC3), mRNA
+gi|635020744|ref|XM_008016564.1| PREDICTED: Chlorocebus sabaeus serine incorporator 3 (SERINC3), transcript variant X4, mRNA
+gi|725588325|ref|XM_003936404.2| PREDICTED: Saimiri boliviensis boliviensis serine incorporator 3 (SERINC3), mRNA
+gi|1212437299|ref|XM_012467237.2| PREDICTED: Aotus nancymaae serine incorporator 3 (SERINC3), mRNA
+gi|1044383249|ref|XM_017541180.1| PREDICTED: Cebus capucinus imitator serine incorporator 3 (SERINC3), mRNA
+gi|1060993080|ref|XM_002747577.4| PREDICTED: Callithrix jacchus serine incorporator 3 (SERINC3), mRNA
+gi|90075263|dbj|AB170249.1| Macaca fascicularis brain cDNA clone: QbsB-10993, similar to human tumor differentially expressed 1 (TDE1), transcriptvariant 1, mRNA, RefSeq: NM_006811.2
+gi|795351286|ref|XM_011928996.1| PREDICTED: Colobus angolensis palliatus serine incorporator 3 (SERINC3), transcript variant X2, mRNA
+gi|795351280|ref|XM_011928995.1| PREDICTED: Colobus angolensis palliatus serine incorporator 3 (SERINC3), transcript variant X1, mRNA
+gi|826332266|ref|XM_012657929.1| PREDICTED: Propithecus coquereli serine incorporator 3 (SERINC3), mRNA
+gi|1149824872|ref|XM_012780823.2| PREDICTED: Microcebus murinus serine incorporator 3 (SERINC3), mRNA
+gi|640803312|ref|XM_008059822.1| PREDICTED: Carlito syrichta serine incorporator 3 (SERINC3), mRNA
+gi|1149871774|ref|XR_002223657.1| PREDICTED: Microcebus murinus serine incorporator 3 pseudogene (LOC105881582), misc_RNA
+gi|635020740|ref|XM_008016549.1| PREDICTED: Chlorocebus sabaeus serine incorporator 3 (SERINC3), transcript variant X2, mRNA
+gi|635020738|ref|XM_008016540.1| PREDICTED: Chlorocebus sabaeus serine incorporator 3 (SERINC3), transcript variant X1, mRNA >gi|635020742|ref|XM_008016556.1| PREDICTED: Chlorocebus sabaeus serine incorporator 3 (SERINC3), transcript variant X3, mRNA
+gi|168145375|emb|CU675238.1| Synthetic construct Homo sapiens gateway clone IMAGE:100019562 3' read SERINC3 mRNA
+gi|1327793928|ref|XM_012803803.2| PREDICTED: Otolemur garnettii serine incorporator 3 (SERINC3), mRNA

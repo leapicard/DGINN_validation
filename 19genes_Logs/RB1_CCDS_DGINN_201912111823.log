@@ -1,0 +1,30 @@
+2019-12-11 18:23:26,530 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2019-12-11 18:23:26,531 - main - INFO - Reading input file /home/lpicard/2019_validation/21genes_RB1_CCDS.fasta
+2019-12-11 18:23:26,531 - main - INFO - Output directory: /home/lpicard/2019_validation/21genes_RB1_CCDS_results_201912111823/
+2019-12-11 18:23:26,531 - main - INFO - Analysis will begin at the blast step
+2019-12-11 18:23:26,566 - main - INFO - Running Blast
+2019-12-11 18:23:26,566 - main - INFO - Database search on nr will be limited to Primates[Organism]
+2019-12-11 18:24:35,337 - main - INFO - Blast results written to: /home/lpicard/2019_validation/21genes_RB1_CCDS_results_201912111823/21genes_RB1_CCDS_blastres.tsv, 50 sequences retrieved.
+2019-12-11 18:24:35,338 - main - INFO - Extracted gene accessions from blast results
+2019-12-11 18:24:35,354 - main - INFO - Wrote all accessions to /home/lpicard/2019_validation/21genes_RB1_CCDS_results_201912111823/RB1_accns.txt
+2019-12-11 18:24:37,911 - main - INFO - Remote option on, downloaded gene IDs and sequences from NCBI databases (25 different species represented in the retrieved sequences).
+2019-12-11 18:24:37,912 - main - INFO - Deleted 0 sequences due to excessive length.
+2019-12-11 18:24:38,035 - main - INFO - Deleted 6 sequences as duplicates
+2019-12-11 18:24:38,037 - main - INFO - Extracted longest ORFs: /home/lpicard/2019_validation/21genes_RB1_CCDS_results_201912111823/RB1_sequences_filtered_longestORFs.fasta
+2019-12-11 18:24:38,037 - main - INFO - Started Prank codon alignment
+2019-12-11 18:35:17,309 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_RB1_CCDS_results_201912111823/RB1_sequences_filtered_longestORFs_prank.best.fas
+2019-12-11 18:35:19,919 - main - INFO - Discarding sequences with less than 50% coverage of query.
+2019-12-11 18:35:19,929 - main - INFO - Discarded 0 sequences
+2019-12-11 18:35:19,929 - main - INFO - Running PhyML to produce gene phylogenetic tree
+2019-12-11 18:35:49,002 - main - INFO - Reconstructed tree using PhyML: /home/lpicard/2019_validation/21genes_RB1_CCDS_results_201912111823/RB1_sequences_filtered_longestORFs_prank.phylip_phyml_tree.txt
+2019-12-11 18:35:49,003 - main - INFO - Looking for long branches.
+2019-12-11 18:35:49,006 - main - INFO - No long branches found.
+2019-12-11 18:35:49,033 - main - INFO - Cleaning the tree
+2019-12-11 18:35:49,033 - main - INFO - Running Treerecs
+2019-12-11 18:35:49,530 - main - INFO - 14 duplications detected by Treerecs, extracting 0 groups of at least 8 orthologs.
+2019-12-11 18:35:49,530 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_RB1_CCDS_results_201912111823/RB1_sequences_filtered_longestORFs_prank.best.fas
+2019-12-11 18:37:30,227 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-11 18:37:35,939 - main - INFO - Extracted GARD results.
+2019-12-11 18:37:35,939 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_RB1_CCDS_results_201912111823/RB1_sequences_filtered_longestORFs_prank.best.fas.
+2019-12-11 18:37:35,940 - main - INFO - Parsed GARD results.
+2019-12-11 18:37:35,940 - main - INFO - No fragments of recombination identified.

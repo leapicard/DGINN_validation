@@ -1,0 +1,32 @@
+2019-09-30 15:00:03,690 - main - INFO - Starting /home/lpicard/DGINN/src/Init.py (v1.0)
+2019-09-30 15:00:03,690 - main - INFO - Reading input file /home/lpicard/2019_validation/21genes_ZC3HAV1_CCDS.fasta
+2019-09-30 15:00:03,691 - main - INFO - Output directory: /home/lpicard/2019_validation/21genes_ZC3HAV1_CCDS_results_201909301500/
+2019-09-30 15:00:03,691 - main - INFO - Analysis will begin at the blast step
+2019-09-30 15:00:04,377 - main - INFO - Running Blast
+2019-09-30 15:00:04,377 - main - INFO - Database search on nr will be limited to Primates[Organism]
+2019-09-30 15:41:50,406 - main - INFO - Blast results written to: /home/lpicard/2019_validation/21genes_ZC3HAV1_CCDS_results_201909301500/21genes_ZC3HAV1_CCDS_blastres.tsv
+2019-09-30 15:41:50,407 - main - INFO - Extracted gene accessions from blast results
+2019-09-30 15:41:50,408 - main - INFO - Wrote all accessions to /home/lpicard/2019_validation/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_accns.txt
+2019-09-30 15:41:53,273 - main - INFO - Remote option on, downloaded gene IDs and sequences from NCBI databases.
+2019-09-30 15:41:53,274 - main - INFO - Deleted 0 sequences due to excessive length.
+2019-09-30 15:41:53,635 - main - INFO - Deleted 4 sequences as duplicates
+2019-09-30 15:41:53,637 - main - INFO - Extracted longest ORFs: /home/lpicard/2019_validation/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs.fasta
+2019-09-30 15:41:53,638 - main - INFO - Started Prank codon alignment
+2019-09-30 16:44:42,821 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank.best.fas
+2019-09-30 16:44:42,951 - main - INFO - Discarding sequences with less than 50% coverage of query.
+2019-09-30 16:44:42,968 - main - INFO - Discarded 2 sequences
+2019-09-30 16:44:42,968 - main - INFO - Started Prank codon alignment
+2019-09-30 17:34:59,137 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-09-30 17:34:59,181 - main - INFO - Running PhyML to produce gene phylogenetic tree
+2019-09-30 17:37:24,239 - main - INFO - Reconstructed tree using PhyML: /home/lpicard/2019_validation/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank.phylip_phyml_tree.txt
+2019-09-30 17:37:24,240 - main - INFO - Looking for long branches.
+2019-09-30 17:37:24,357 - main - INFO - No long branches found.
+2019-09-30 17:37:24,468 - main - INFO - Cleaning the tree
+2019-09-30 17:37:24,468 - main - INFO - Running Treerecs
+2019-09-30 17:37:25,376 - main - INFO - 32 duplications detected by Treerecs, extracting 0 groups of at least 8 orthologs.
+2019-09-30 17:37:25,377 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-09-30 17:38:37,637 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-09-30 17:38:55,877 - main - INFO - Extracted GARD results.
+2019-09-30 17:38:55,878 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank.best.fas.
+2019-09-30 17:38:55,878 - main - INFO - Parsed GARD results.
+2019-09-30 17:38:55,878 - main - INFO - No fragments of recombination identified.

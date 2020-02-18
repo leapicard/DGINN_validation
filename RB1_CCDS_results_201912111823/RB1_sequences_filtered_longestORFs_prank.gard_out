@@ -1,0 +1,981 @@
+Initialized GARD on 2 MPI nodes.
+Population size is 2 models
+
+Please enter a 6 character model designation (e.g:010010 defines HKY85):010010
+There are 2018 potential breakpoints. Bit size of the sample is 11.
+
+Fitting a baseline nucleotide model...
+Done with single partition analysis. Log(L) = -7583.53496030806, c-AIC  = 15316.74725213416
+Starting the GA...
+
+GENERATION 2 with 1 breakpoints (~0% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000       1997 
+GA has considered        1/        2018 (1 over all runs) unique models
+Total run time           0 hrs 0 mins 1 seconds
+Throughput                1.00 models/second
+Allocated time remaining 999 hrs 59 mins 59 seconds (approx. 3599999 more models.)
+
+GENERATION 3 with 1 breakpoints (~2% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        2/        2018 (2 over all runs) unique models
+Total run time           0 hrs 0 mins 1 seconds
+Throughput                2.00 models/second
+Allocated time remaining 999 hrs 59 mins 59 seconds (approx. 7199998 more models.)
+
+GENERATION 4 with 1 breakpoints (~4% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        3/        2018 (3 over all runs) unique models
+Total run time           0 hrs 0 mins 2 seconds
+Throughput                1.50 models/second
+Allocated time remaining 999 hrs 59 mins 58 seconds (approx. 5399997 more models.)
+
+GENERATION 5 with 1 breakpoints (~6% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        4/        2018 (4 over all runs) unique models
+Total run time           0 hrs 0 mins 2 seconds
+Throughput                2.00 models/second
+Allocated time remaining 999 hrs 59 mins 58 seconds (approx. 7199996 more models.)
+
+GENERATION 6 with 1 breakpoints (~8% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        5/        2018 (5 over all runs) unique models
+Total run time           0 hrs 0 mins 4 seconds
+Throughput                1.25 models/second
+Allocated time remaining 999 hrs 59 mins 56 seconds (approx. 4499995 more models.)
+
+GENERATION 7 with 1 breakpoints (~10% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        6/        2018 (6 over all runs) unique models
+Total run time           0 hrs 0 mins 5 seconds
+Throughput                1.20 models/second
+Allocated time remaining 999 hrs 59 mins 55 seconds (approx. 4319994 more models.)
+
+GENERATION 8 with 1 breakpoints (~12% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        7/        2018 (7 over all runs) unique models
+Total run time           0 hrs 0 mins 6 seconds
+Throughput                1.17 models/second
+Allocated time remaining 999 hrs 59 mins 54 seconds (approx. 4199993 more models.)
+
+GENERATION 9 with 1 breakpoints (~14% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        8/        2018 (8 over all runs) unique models
+Total run time           0 hrs 0 mins 6 seconds
+Throughput                1.33 models/second
+Allocated time remaining 999 hrs 59 mins 54 seconds (approx. 4799992 more models.)
+
+GENERATION 10 with 1 breakpoints (~16% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        9/        2018 (9 over all runs) unique models
+Total run time           0 hrs 0 mins 7 seconds
+Throughput                1.29 models/second
+Allocated time remaining 999 hrs 59 mins 53 seconds (approx. 4628562.428571429 more models.)
+
+GENERATION 11 with 1 breakpoints (~18% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        10/        2018 (10 over all runs) unique models
+Total run time           0 hrs 0 mins 8 seconds
+Throughput                1.25 models/second
+Allocated time remaining 999 hrs 59 mins 52 seconds (approx. 4499990 more models.)
+
+GENERATION 12 with 1 breakpoints (~20% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        11/        2018 (11 over all runs) unique models
+Total run time           0 hrs 0 mins 8 seconds
+Throughput                1.38 models/second
+Allocated time remaining 999 hrs 59 mins 52 seconds (approx. 4949989 more models.)
+
+GENERATION 13 with 1 breakpoints (~22% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        12/        2018 (12 over all runs) unique models
+Total run time           0 hrs 0 mins 10 seconds
+Throughput                1.20 models/second
+Allocated time remaining 999 hrs 59 mins 50 seconds (approx. 4319988 more models.)
+
+GENERATION 14 with 1 breakpoints (~24% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        13/        2018 (13 over all runs) unique models
+Total run time           0 hrs 0 mins 11 seconds
+Throughput                1.18 models/second
+Allocated time remaining 999 hrs 59 mins 49 seconds (approx. 4254532.454545455 more models.)
+
+GENERATION 15 with 1 breakpoints (~26% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        14/        2018 (14 over all runs) unique models
+Total run time           0 hrs 0 mins 11 seconds
+Throughput                1.27 models/second
+Allocated time remaining 999 hrs 59 mins 49 seconds (approx. 4581804.181818182 more models.)
+
+GENERATION 16 with 1 breakpoints (~28% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        15/        2018 (15 over all runs) unique models
+Total run time           0 hrs 0 mins 12 seconds
+Throughput                1.25 models/second
+Allocated time remaining 999 hrs 59 mins 48 seconds (approx. 4499985 more models.)
+
+GENERATION 17 with 1 breakpoints (~30% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        16/        2018 (16 over all runs) unique models
+Total run time           0 hrs 0 mins 13 seconds
+Throughput                1.23 models/second
+Allocated time remaining 999 hrs 59 mins 47 seconds (approx. 4430753.230769231 more models.)
+
+GENERATION 18 with 1 breakpoints (~32% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        17/        2018 (17 over all runs) unique models
+Total run time           0 hrs 0 mins 15 seconds
+Throughput                1.13 models/second
+Allocated time remaining 999 hrs 59 mins 45 seconds (approx. 4079983 more models.)
+
+GENERATION 19 with 1 breakpoints (~34% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        18/        2018 (18 over all runs) unique models
+Total run time           0 hrs 0 mins 16 seconds
+Throughput                1.12 models/second
+Allocated time remaining 999 hrs 59 mins 44 seconds (approx. 4049982 more models.)
+
+GENERATION 20 with 1 breakpoints (~36% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        19/        2018 (19 over all runs) unique models
+Total run time           0 hrs 0 mins 19 seconds
+Throughput                1.00 models/second
+Allocated time remaining 999 hrs 59 mins 41 seconds (approx. 3599981 more models.)
+
+GENERATION 21 with 1 breakpoints (~38% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        20/        2018 (20 over all runs) unique models
+Total run time           0 hrs 0 mins 19 seconds
+Throughput                1.05 models/second
+Allocated time remaining 999 hrs 59 mins 41 seconds (approx. 3789453.684210526 more models.)
+
+GENERATION 22 with 1 breakpoints (~40% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        21/        2018 (21 over all runs) unique models
+Total run time           0 hrs 0 mins 19 seconds
+Throughput                1.11 models/second
+Allocated time remaining 999 hrs 59 mins 41 seconds (approx. 3978926.368421053 more models.)
+
+GENERATION 23 with 1 breakpoints (~42% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        23/        2018 (23 over all runs) unique models
+Total run time           0 hrs 0 mins 21 seconds
+Throughput                1.10 models/second
+Allocated time remaining 999 hrs 59 mins 39 seconds (approx. 3942834.142857143 more models.)
+
+GENERATION 24 with 1 breakpoints (~44% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        24/        2018 (24 over all runs) unique models
+Total run time           0 hrs 0 mins 22 seconds
+Throughput                1.09 models/second
+Allocated time remaining 999 hrs 59 mins 38 seconds (approx. 3927248.727272727 more models.)
+
+GENERATION 25 with 1 breakpoints (~46% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        25/        2018 (25 over all runs) unique models
+Total run time           0 hrs 0 mins 22 seconds
+Throughput                1.14 models/second
+Allocated time remaining 999 hrs 59 mins 38 seconds (approx. 4090884.090909091 more models.)
+
+GENERATION 26 with 1 breakpoints (~48% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        26/        2018 (26 over all runs) unique models
+Total run time           0 hrs 0 mins 24 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 59 mins 36 seconds (approx. 3899974 more models.)
+
+GENERATION 27 with 1 breakpoints (~50% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        27/        2018 (27 over all runs) unique models
+Total run time           0 hrs 0 mins 24 seconds
+Throughput                1.12 models/second
+Allocated time remaining 999 hrs 59 mins 36 seconds (approx. 4049973 more models.)
+
+GENERATION 28 with 1 breakpoints (~52% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        28/        2018 (28 over all runs) unique models
+Total run time           0 hrs 0 mins 25 seconds
+Throughput                1.12 models/second
+Allocated time remaining 999 hrs 59 mins 35 seconds (approx. 4031972 more models.)
+
+GENERATION 29 with 1 breakpoints (~54% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        29/        2018 (29 over all runs) unique models
+Total run time           0 hrs 0 mins 26 seconds
+Throughput                1.12 models/second
+Allocated time remaining 999 hrs 59 mins 34 seconds (approx. 4015355.615384615 more models.)
+
+GENERATION 30 with 1 breakpoints (~56% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        30/        2018 (30 over all runs) unique models
+Total run time           0 hrs 0 mins 27 seconds
+Throughput                1.11 models/second
+Allocated time remaining 999 hrs 59 mins 33 seconds (approx. 3999970 more models.)
+
+GENERATION 31 with 1 breakpoints (~58% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        31/        2018 (31 over all runs) unique models
+Total run time           0 hrs 0 mins 27 seconds
+Throughput                1.15 models/second
+Allocated time remaining 999 hrs 59 mins 33 seconds (approx. 4133302.333333333 more models.)
+
+GENERATION 32 with 1 breakpoints (~60% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        32/        2018 (32 over all runs) unique models
+Total run time           0 hrs 0 mins 29 seconds
+Throughput                1.10 models/second
+Allocated time remaining 999 hrs 59 mins 31 seconds (approx. 3972381.793103448 more models.)
+
+GENERATION 33 with 1 breakpoints (~62% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        33/        2018 (33 over all runs) unique models
+Total run time           0 hrs 0 mins 30 seconds
+Throughput                1.10 models/second
+Allocated time remaining 999 hrs 59 mins 30 seconds (approx. 3959967 more models.)
+
+GENERATION 34 with 1 breakpoints (~64% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        34/        2018 (34 over all runs) unique models
+Total run time           0 hrs 0 mins 30 seconds
+Throughput                1.13 models/second
+Allocated time remaining 999 hrs 59 mins 30 seconds (approx. 4079966 more models.)
+
+GENERATION 35 with 1 breakpoints (~66% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        35/        2018 (35 over all runs) unique models
+Total run time           0 hrs 0 mins 31 seconds
+Throughput                1.13 models/second
+Allocated time remaining 999 hrs 59 mins 29 seconds (approx. 4064481.129032258 more models.)
+
+GENERATION 36 with 1 breakpoints (~68% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        36/        2018 (36 over all runs) unique models
+Total run time           0 hrs 0 mins 33 seconds
+Throughput                1.09 models/second
+Allocated time remaining 999 hrs 59 mins 27 seconds (approx. 3927236.727272727 more models.)
+
+GENERATION 37 with 1 breakpoints (~70% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        37/        2018 (37 over all runs) unique models
+Total run time           0 hrs 0 mins 34 seconds
+Throughput                1.09 models/second
+Allocated time remaining 999 hrs 59 mins 26 seconds (approx. 3917610.058823529 more models.)
+
+GENERATION 38 with 1 breakpoints (~72% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        38/        2018 (38 over all runs) unique models
+Total run time           0 hrs 0 mins 35 seconds
+Throughput                1.09 models/second
+Allocated time remaining 999 hrs 59 mins 25 seconds (approx. 3908533.428571428 more models.)
+
+GENERATION 39 with 1 breakpoints (~74% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        39/        2018 (39 over all runs) unique models
+Total run time           0 hrs 0 mins 36 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 59 mins 24 seconds (approx. 3899961 more models.)
+
+GENERATION 40 with 1 breakpoints (~76% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        40/        2018 (40 over all runs) unique models
+Total run time           0 hrs 0 mins 36 seconds
+Throughput                1.11 models/second
+Allocated time remaining 999 hrs 59 mins 24 seconds (approx. 3999960 more models.)
+
+GENERATION 41 with 1 breakpoints (~78% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        41/        2018 (41 over all runs) unique models
+Total run time           0 hrs 0 mins 38 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 59 mins 22 seconds (approx. 3884169.52631579 more models.)
+
+GENERATION 42 with 1 breakpoints (~80% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        42/        2018 (42 over all runs) unique models
+Total run time           0 hrs 0 mins 39 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 59 mins 21 seconds (approx. 3876881.076923077 more models.)
+
+GENERATION 43 with 1 breakpoints (~82% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        44/        2018 (44 over all runs) unique models
+Total run time           0 hrs 0 mins 41 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 59 mins 19 seconds (approx. 3863370.634146342 more models.)
+
+GENERATION 44 with 1 breakpoints (~84% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        45/        2018 (45 over all runs) unique models
+Total run time           0 hrs 0 mins 41 seconds
+Throughput                1.10 models/second
+Allocated time remaining 999 hrs 59 mins 19 seconds (approx. 3951174.512195122 more models.)
+
+GENERATION 45 with 1 breakpoints (~86% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        46/        2018 (46 over all runs) unique models
+Total run time           0 hrs 0 mins 43 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 59 mins 17 seconds (approx. 3851116.790697674 more models.)
+
+GENERATION 46 with 1 breakpoints (~88% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        47/        2018 (47 over all runs) unique models
+Total run time           0 hrs 0 mins 43 seconds
+Throughput                1.09 models/second
+Allocated time remaining 999 hrs 59 mins 17 seconds (approx. 3934836.720930232 more models.)
+
+GENERATION 47 with 1 breakpoints (~90% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        48/        2018 (48 over all runs) unique models
+Total run time           0 hrs 0 mins 44 seconds
+Throughput                1.09 models/second
+Allocated time remaining 999 hrs 59 mins 16 seconds (approx. 3927224.727272727 more models.)
+
+GENERATION 48 with 1 breakpoints (~92% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        49/        2018 (49 over all runs) unique models
+Total run time           0 hrs 0 mins 44 seconds
+Throughput                1.11 models/second
+Allocated time remaining 999 hrs 59 mins 16 seconds (approx. 4009041.909090909 more models.)
+
+GENERATION 49 with 1 breakpoints (~94% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        50/        2018 (50 over all runs) unique models
+Total run time           0 hrs 0 mins 46 seconds
+Throughput                1.09 models/second
+Allocated time remaining 999 hrs 59 mins 14 seconds (approx. 3912993.478260869 more models.)
+
+GENERATION 50 with 1 breakpoints (~96% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        51/        2018 (51 over all runs) unique models
+Total run time           0 hrs 0 mins 46 seconds
+Throughput                1.11 models/second
+Allocated time remaining 999 hrs 59 mins 14 seconds (approx. 3991253.347826087 more models.)
+
+GENERATION 51 with 1 breakpoints (~98% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        52/        2018 (52 over all runs) unique models
+Total run time           0 hrs 0 mins 47 seconds
+Throughput                1.11 models/second
+Allocated time remaining 999 hrs 59 mins 13 seconds (approx. 3982926.723404256 more models.)
+
+GENERATION 52 with 1 breakpoints (~100% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1]
+          0 15316.75
+          1 15316.75        0.000          0 
+GA has considered        53/        2018 (53 over all runs) unique models
+Total run time           0 hrs 0 mins 47 seconds
+Throughput                1.13 models/second
+Allocated time remaining 999 hrs 59 mins 13 seconds (approx. 4059521.468085106 more models.)
+
+GENERATION 2 with 2 breakpoints (~0% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        0/     2035153 (53 over all runs) unique models
+Total run time           0 hrs 0 mins 47 seconds
+Throughput                1.13 models/second
+Allocated time remaining 999 hrs 59 mins 13 seconds (approx. 4059521.468085106 more models.)
+
+GENERATION 3 with 2 breakpoints (~2% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        1/     2035153 (54 over all runs) unique models
+Total run time           0 hrs 0 mins 48 seconds
+Throughput                1.12 models/second
+Allocated time remaining 999 hrs 59 mins 12 seconds (approx. 4049946 more models.)
+
+GENERATION 4 with 2 breakpoints (~4% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        2/     2035153 (55 over all runs) unique models
+Total run time           0 hrs 0 mins 49 seconds
+Throughput                1.12 models/second
+Allocated time remaining 999 hrs 59 mins 11 seconds (approx. 4040761.326530612 more models.)
+
+GENERATION 5 with 2 breakpoints (~6% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        3/     2035153 (56 over all runs) unique models
+Total run time           0 hrs 0 mins 49 seconds
+Throughput                1.14 models/second
+Allocated time remaining 999 hrs 59 mins 11 seconds (approx. 4114229.714285714 more models.)
+
+GENERATION 6 with 2 breakpoints (~8% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        4/     2035153 (57 over all runs) unique models
+Total run time           0 hrs 0 mins 51 seconds
+Throughput                1.12 models/second
+Allocated time remaining 999 hrs 59 mins 9 seconds (approx. 4023472.411764706 more models.)
+
+GENERATION 7 with 2 breakpoints (~10% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        5/     2035153 (58 over all runs) unique models
+Total run time           0 hrs 0 mins 52 seconds
+Throughput                1.12 models/second
+Allocated time remaining 999 hrs 59 mins 8 seconds (approx. 4015326.615384615 more models.)
+
+GENERATION 8 with 2 breakpoints (~12% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        6/     2035153 (59 over all runs) unique models
+Total run time           0 hrs 0 mins 53 seconds
+Throughput                1.11 models/second
+Allocated time remaining 999 hrs 59 mins 7 seconds (approx. 4007488.16981132 more models.)
+
+GENERATION 9 with 2 breakpoints (~14% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        7/     2035153 (60 over all runs) unique models
+Total run time           0 hrs 0 mins 54 seconds
+Throughput                1.11 models/second
+Allocated time remaining 999 hrs 59 mins 6 seconds (approx. 3999940 more models.)
+
+GENERATION 10 with 2 breakpoints (~16% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        8/     2035153 (61 over all runs) unique models
+Total run time           0 hrs 0 mins 57 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 59 mins 3 seconds (approx. 3852570.578947369 more models.)
+
+GENERATION 11 with 2 breakpoints (~18% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        9/     2035153 (62 over all runs) unique models
+Total run time           0 hrs 0 mins 58 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 59 mins 2 seconds (approx. 3848213.862068965 more models.)
+
+GENERATION 12 with 2 breakpoints (~20% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        10/     2035153 (63 over all runs) unique models
+Total run time           0 hrs 0 mins 59 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 59 mins 1 seconds (approx. 3844004.79661017 more models.)
+
+GENERATION 13 with 2 breakpoints (~22% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        11/     2035153 (64 over all runs) unique models
+Total run time           0 hrs 1 mins 1 seconds
+Throughput                1.05 models/second
+Allocated time remaining 999 hrs 58 mins 59 seconds (approx. 3776985.180327869 more models.)
+
+GENERATION 14 with 2 breakpoints (~24% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        12/     2035153 (65 over all runs) unique models
+Total run time           0 hrs 1 mins 1 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 59 seconds (approx. 3836000.573770492 more models.)
+
+GENERATION 15 with 2 breakpoints (~26% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        13/     2035153 (66 over all runs) unique models
+Total run time           0 hrs 1 mins 2 seconds
+Throughput                1.06 models/second
+Allocated time remaining 999 hrs 58 mins 58 seconds (approx. 3832192.064516129 more models.)
+
+GENERATION 16 with 2 breakpoints (~28% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        14/     2035153 (67 over all runs) unique models
+Total run time           0 hrs 1 mins 2 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 58 mins 58 seconds (approx. 3890255.580645161 more models.)
+
+GENERATION 17 with 2 breakpoints (~30% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        15/     2035153 (68 over all runs) unique models
+Total run time           0 hrs 1 mins 3 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 58 mins 57 seconds (approx. 3885646.285714285 more models.)
+
+GENERATION 18 with 2 breakpoints (~32% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        16/     2035153 (69 over all runs) unique models
+Total run time           0 hrs 1 mins 4 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 58 mins 56 seconds (approx. 3881181 more models.)
+
+GENERATION 19 with 2 breakpoints (~34% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        17/     2035153 (70 over all runs) unique models
+Total run time           0 hrs 1 mins 6 seconds
+Throughput                1.06 models/second
+Allocated time remaining 999 hrs 58 mins 54 seconds (approx. 3818111.818181818 more models.)
+
+GENERATION 20 with 2 breakpoints (~36% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        18/     2035153 (71 over all runs) unique models
+Total run time           0 hrs 1 mins 6 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 58 mins 54 seconds (approx. 3872656.272727272 more models.)
+
+GENERATION 21 with 2 breakpoints (~38% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        19/     2035153 (72 over all runs) unique models
+Total run time           0 hrs 1 mins 8 seconds
+Throughput                1.06 models/second
+Allocated time remaining 999 hrs 58 mins 52 seconds (approx. 3811692.705882353 more models.)
+
+GENERATION 22 with 2 breakpoints (~40% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        20/     2035153 (73 over all runs) unique models
+Total run time           0 hrs 1 mins 9 seconds
+Throughput                1.06 models/second
+Allocated time remaining 999 hrs 58 mins 51 seconds (approx. 3808622.652173913 more models.)
+
+GENERATION 23 with 2 breakpoints (~42% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        22/     2035153 (75 over all runs) unique models
+Total run time           0 hrs 1 mins 10 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 50 seconds (approx. 3857067.857142857 more models.)
+
+GENERATION 24 with 2 breakpoints (~44% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        23/     2035153 (76 over all runs) unique models
+Total run time           0 hrs 1 mins 11 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 49 seconds (approx. 3853445.126760563 more models.)
+
+GENERATION 25 with 2 breakpoints (~46% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        24/     2035153 (77 over all runs) unique models
+Total run time           0 hrs 1 mins 12 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 48 seconds (approx. 3849923 more models.)
+
+GENERATION 26 with 2 breakpoints (~48% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        25/     2035153 (78 over all runs) unique models
+Total run time           0 hrs 1 mins 12 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 58 mins 48 seconds (approx. 3899922 more models.)
+
+GENERATION 27 with 2 breakpoints (~50% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        26/     2035153 (79 over all runs) unique models
+Total run time           0 hrs 1 mins 13 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 58 mins 47 seconds (approx. 3895811.410958904 more models.)
+
+GENERATION 28 with 2 breakpoints (~52% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        27/     2035153 (80 over all runs) unique models
+Total run time           0 hrs 1 mins 14 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 58 mins 46 seconds (approx. 3891811.891891892 more models.)
+
+GENERATION 29 with 2 breakpoints (~54% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        28/     2035153 (81 over all runs) unique models
+Total run time           0 hrs 1 mins 15 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 58 mins 45 seconds (approx. 3887919 more models.)
+
+GENERATION 30 with 2 breakpoints (~56% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        29/     2035153 (82 over all runs) unique models
+Total run time           0 hrs 1 mins 15 seconds
+Throughput                1.09 models/second
+Allocated time remaining 999 hrs 58 mins 45 seconds (approx. 3935918 more models.)
+
+GENERATION 31 with 2 breakpoints (~58% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        30/     2035153 (83 over all runs) unique models
+Total run time           0 hrs 1 mins 16 seconds
+Throughput                1.09 models/second
+Allocated time remaining 999 hrs 58 mins 44 seconds (approx. 3931495.947368421 more models.)
+
+GENERATION 32 with 2 breakpoints (~60% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        31/     2035153 (84 over all runs) unique models
+Total run time           0 hrs 1 mins 17 seconds
+Throughput                1.09 models/second
+Allocated time remaining 999 hrs 58 mins 43 seconds (approx. 3927188.727272727 more models.)
+
+GENERATION 33 with 2 breakpoints (~62% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        32/     2035153 (85 over all runs) unique models
+Total run time           0 hrs 1 mins 18 seconds
+Throughput                1.09 models/second
+Allocated time remaining 999 hrs 58 mins 42 seconds (approx. 3922991.923076923 more models.)
+
+GENERATION 34 with 2 breakpoints (~64% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        33/     2035153 (86 over all runs) unique models
+Total run time           0 hrs 1 mins 18 seconds
+Throughput                1.10 models/second
+Allocated time remaining 999 hrs 58 mins 42 seconds (approx. 3969144.769230769 more models.)
+
+GENERATION 35 with 2 breakpoints (~66% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        34/     2035153 (87 over all runs) unique models
+Total run time           0 hrs 1 mins 19 seconds
+Throughput                1.10 models/second
+Allocated time remaining 999 hrs 58 mins 41 seconds (approx. 3964469.962025317 more models.)
+
+GENERATION 36 with 2 breakpoints (~68% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        35/     2035153 (88 over all runs) unique models
+Total run time           0 hrs 1 mins 20 seconds
+Throughput                1.10 models/second
+Allocated time remaining 999 hrs 58 mins 40 seconds (approx. 3959912 more models.)
+
+GENERATION 37 with 2 breakpoints (~70% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        36/     2035153 (89 over all runs) unique models
+Total run time           0 hrs 1 mins 21 seconds
+Throughput                1.10 models/second
+Allocated time remaining 999 hrs 58 mins 39 seconds (approx. 3955466.555555556 more models.)
+
+GENERATION 38 with 2 breakpoints (~72% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        37/     2035153 (90 over all runs) unique models
+Total run time           0 hrs 1 mins 23 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 58 mins 37 seconds (approx. 3903524.457831325 more models.)
+
+GENERATION 39 with 2 breakpoints (~74% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        38/     2035153 (91 over all runs) unique models
+Total run time           0 hrs 1 mins 24 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 58 mins 36 seconds (approx. 3899909 more models.)
+
+GENERATION 40 with 2 breakpoints (~76% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        39/     2035153 (92 over all runs) unique models
+Total run time           0 hrs 1 mins 26 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 34 seconds (approx. 3851070.790697674 more models.)
+
+GENERATION 41 with 2 breakpoints (~78% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        40/     2035153 (93 over all runs) unique models
+Total run time           0 hrs 1 mins 26 seconds
+Throughput                1.08 models/second
+Allocated time remaining 999 hrs 58 mins 34 seconds (approx. 3892930.255813953 more models.)
+
+GENERATION 42 with 2 breakpoints (~80% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        41/     2035153 (94 over all runs) unique models
+Total run time           0 hrs 1 mins 28 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 32 seconds (approx. 3845360.545454545 more models.)
+
+GENERATION 43 with 2 breakpoints (~82% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        43/     2035153 (96 over all runs) unique models
+Total run time           0 hrs 1 mins 30 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 30 seconds (approx. 3839904 more models.)
+
+GENERATION 44 with 2 breakpoints (~84% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        44/     2035153 (97 over all runs) unique models
+Total run time           0 hrs 1 mins 31 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 29 seconds (approx. 3837265.637362637 more models.)
+
+GENERATION 45 with 2 breakpoints (~86% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        45/     2035153 (98 over all runs) unique models
+Total run time           0 hrs 1 mins 32 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 28 seconds (approx. 3834684.608695652 more models.)
+
+GENERATION 46 with 2 breakpoints (~88% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        46/     2035153 (99 over all runs) unique models
+Total run time           0 hrs 1 mins 33 seconds
+Throughput                1.06 models/second
+Allocated time remaining 999 hrs 58 mins 27 seconds (approx. 3832159.064516129 more models.)
+
+GENERATION 47 with 2 breakpoints (~90% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        47/     2035153 (100 over all runs) unique models
+Total run time           0 hrs 1 mins 34 seconds
+Throughput                1.06 models/second
+Allocated time remaining 999 hrs 58 mins 26 seconds (approx. 3829687.234042553 more models.)
+
+GENERATION 48 with 2 breakpoints (~92% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        48/     2035153 (101 over all runs) unique models
+Total run time           0 hrs 1 mins 34 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 26 seconds (approx. 3867984.106382979 more models.)
+
+GENERATION 49 with 2 breakpoints (~94% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        49/     2035153 (102 over all runs) unique models
+Total run time           0 hrs 1 mins 35 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 25 seconds (approx. 3865161.157894737 more models.)
+
+GENERATION 50 with 2 breakpoints (~96% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        50/     2035153 (103 over all runs) unique models
+Total run time           0 hrs 1 mins 36 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 24 seconds (approx. 3862397 more models.)
+
+GENERATION 51 with 2 breakpoints (~98% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        51/     2035153 (104 over all runs) unique models
+Total run time           0 hrs 1 mins 37 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 23 seconds (approx. 3859689.814432989 more models.)
+
+GENERATION 52 with 2 breakpoints (~100% converged)
+Breakpoints    c-AIC  Delta c-AIC [BP      1] [BP      2]
+          0 15316.75
+          1 15316.75        0.000          0 
+          2 15316.75        0.000          0 
+GA has considered        52/     2035153 (105 over all runs) unique models
+Total run time           0 hrs 1 mins 38 seconds
+Throughput                1.07 models/second
+Allocated time remaining 999 hrs 58 mins 22 seconds (approx. 3857037.857142857 more models.)
+Performing the final optimization...
+
+

@@ -1,0 +1,238 @@
+# BLASTN 2.10.0+
+# Query: homSap_GBP5_CCDS722
+# Database: nt_v5					
+# Fields: subject id, ?
+# 359 hits found
+gi|1677499749|ref|NM_001134486.3| Homo sapiens guanylate binding protein 5 (GBP5), transcript variant 2, mRNA
+gi|1677475341|ref|NM_052942.4| Homo sapiens guanylate binding protein 5 (GBP5), transcript variant 1, mRNA
+gi|164693866|dbj|AK315064.1| Homo sapiens cDNA, FLJ96016, Homo sapiens guanylate binding protein 5 (GBP5), mRNA
+gi|23600371|gb|AF430642.1| Homo sapiens GBP-5b mRNA, complete cds; alternatively spliced
+gi|23600376|gb|AF430643.1| Homo sapiens GBP-5a mRNA, complete cds; alternatively spliced
+gi|22749706|gb|BC031639.1| Homo sapiens guanylate binding protein 5, mRNA (cDNA clone MGC:34645 IMAGE:5173241), complete cds
+gi|649113716|gb|KJ895287.1| Synthetic construct Homo sapiens clone ccsbBroadEn_04681 GBP5 gene, encodes complete protein
+gi|157928762|gb|EU176216.1| Synthetic construct Homo sapiens clone IMAGE:100006462; FLH186332.01X; RZPDo839C06250D guanylate binding protein 5 (GBP5) gene, encodes complete protein
+gi|123997948|gb|DQ895650.2| Synthetic construct Homo sapiens clone IMAGE:100010110; FLH186325.01L; RZPDo839D0561D guanylate binding protein 5 (GBP5) gene, encodes complete protein
+gi|15558944|gb|AF288815.1|AF288815 Homo sapiens guanylate binding protein 5 mRNA, complete cds
+gi|37183023|gb|AY358953.1| Homo sapiens clone DNA61875 ALEI2427 (UNQ2427) mRNA, complete cds
+gi|1367107489|ref|XM_003308207.3| PREDICTED: Pan troglodytes guanylate binding protein 5 (GBP5), transcript variant X4, mRNA
+gi|1367107487|ref|XM_024346928.1| PREDICTED: Pan troglodytes guanylate binding protein 5 (GBP5), transcript variant X3, mRNA
+gi|1367107485|ref|XM_003308206.3| PREDICTED: Pan troglodytes guanylate binding protein 5 (GBP5), transcript variant X2, mRNA
+gi|1367107483|ref|XM_016922023.2| PREDICTED: Pan troglodytes guanylate binding protein 5 (GBP5), transcript variant X1, mRNA
+gi|1384945557|ref|XM_024928888.1| PREDICTED: Pan paniscus guanylate binding protein 5 (GBP5), mRNA
+gi|1753026317|ref|XM_004026101.3| PREDICTED: Gorilla gorilla gorilla guanylate binding protein 5 (GBP5), transcript variant X1, mRNA
+gi|1753026318|ref|XM_019027239.2| PREDICTED: Gorilla gorilla gorilla guanylate binding protein 5 (GBP5), transcript variant X2, mRNA
+gi|1351368338|ref|XM_009248130.2| PREDICTED: Pongo abelii guanylate binding protein 5 (GBP5), transcript variant X1, mRNA
+gi|1753026319|ref|XM_019027285.2| PREDICTED: Gorilla gorilla gorilla guanylate binding protein 5 (GBP5), transcript variant X3, mRNA
+gi|1351368344|ref|XR_656340.2| PREDICTED: Pongo abelii guanylate binding protein 5 (GBP5), transcript variant X2, misc_RNA
+gi|22854560|gb|AF328727.1| Homo sapiens CTCL tumor antigen GBP-5ta mRNA, partial cds
+gi|21748645|dbj|AK090479.1| Homo sapiens mRNA for FLJ00401 protein
+gi|21707243|gb|BC033761.1| Homo sapiens, Similar to guanylate binding protein 5, clone IMAGE:3857492, mRNA, partial cds
+gi|1212390229|ref|XM_012464818.2| PREDICTED: Aotus nancymaae guanylate binding protein 5 (GBP5), transcript variant X4, mRNA
+gi|1212390228|ref|XM_012464817.2| PREDICTED: Aotus nancymaae guanylate binding protein 5 (GBP5), transcript variant X3, mRNA
+gi|1212390227|ref|XM_012464816.2| PREDICTED: Aotus nancymaae guanylate binding protein 5 (GBP5), transcript variant X2, mRNA
+gi|1212390226|ref|XM_012464815.2| PREDICTED: Aotus nancymaae guanylate binding protein 5 (GBP5), transcript variant X1, mRNA
+gi|1061012268|ref|XM_009001646.2| PREDICTED: Callithrix jacchus guanylate binding protein 5 (GBP5), transcript variant X2, mRNA
+gi|1061012266|ref|XM_017974906.1| PREDICTED: Callithrix jacchus guanylate binding protein 5 (GBP5), transcript variant X1, mRNA
+gi|1044404413|ref|XM_017498361.1| PREDICTED: Cebus capucinus imitator guanylate binding protein 5 (GBP5), transcript variant X2, mRNA
+gi|1044404411|ref|XM_017498360.1| PREDICTED: Cebus capucinus imitator guanylate binding protein 5 (GBP5), transcript variant X1, mRNA
+gi|725605594|ref|XM_003943256.2| PREDICTED: Saimiri boliviensis boliviensis guanylate binding protein 5 (GBP5), mRNA
+gi|826341199|ref|XM_012661102.1| PREDICTED: Propithecus coquereli guanylate binding protein 5 (GBP5), mRNA
+gi|1149849335|ref|XM_012749234.2| PREDICTED: Microcebus murinus guanylate binding protein 5 (GBP5), transcript variant X5, mRNA
+gi|1149849334|ref|XM_012749233.2| PREDICTED: Microcebus murinus guanylate binding protein 5 (GBP5), transcript variant X4, mRNA
+gi|1149849333|ref|XM_012749232.2| PREDICTED: Microcebus murinus guanylate binding protein 5 (GBP5), transcript variant X3, mRNA
+gi|1149849332|ref|XM_012749231.2| PREDICTED: Microcebus murinus guanylate binding protein 5 (GBP5), transcript variant X2, mRNA
+gi|1149849331|ref|XM_012749230.2| PREDICTED: Microcebus murinus guanylate binding protein 5 (GBP5), transcript variant X1, mRNA
+gi|1327787161|ref|XM_012801701.2| PREDICTED: Otolemur garnettii guanylate binding protein 5 (GBP5), transcript variant X3, mRNA
+gi|1327787160|ref|XM_012801702.2| PREDICTED: Otolemur garnettii guanylate binding protein 5 (GBP5), transcript variant X2, mRNA
+gi|1327787159|ref|XM_012801703.2| PREDICTED: Otolemur garnettii guanylate binding protein 5 (GBP5), transcript variant X1, mRNA
+gi|1212390230|ref|XM_012464819.2| PREDICTED: Aotus nancymaae guanylate binding protein 5 (GBP5), transcript variant X5, mRNA
+gi|1214039555|ref|XM_008065396.2| PREDICTED: Carlito syrichta guanylate-binding protein 5 (LOC103267819), mRNA
+gi|1482591747|ref|XM_023208092.2| PREDICTED: Piliocolobus tephrosceles guanylate-binding protein 1 (LOC111540030), transcript variant X1, mRNA
+gi|60101450|gb|AY920435.1| Cercopithecus aethiops guanylate binding protein 1 mRNA, complete cds
+gi|635106744|ref|XM_007978044.1| PREDICTED: Chlorocebus sabaeus interferon-induced guanylate-binding protein 1 (LOC103224478), transcript variant X3, mRNA
+gi|635106742|ref|XM_007978042.1| PREDICTED: Chlorocebus sabaeus interferon-induced guanylate-binding protein 1 (LOC103224478), transcript variant X2, mRNA
+gi|635106740|ref|XM_007978041.1| PREDICTED: Chlorocebus sabaeus interferon-induced guanylate-binding protein 1 (LOC103224478), transcript variant X1, mRNA
+gi|1622831370|ref|XM_001085311.4| PREDICTED: Macaca mulatta guanylate-binding protein 1 (LOC694538), mRNA
+gi|982227048|ref|XM_005542801.2| PREDICTED: Macaca fascicularis guanylate-binding protein 1 (LOC102147203), mRNA
+gi|795656852|ref|XM_011743156.1| PREDICTED: Macaca nemestrina guanylate-binding protein 1 (LOC105482810), mRNA
+gi|795262811|ref|XM_011956051.1| PREDICTED: Colobus angolensis palliatus guanylate binding protein 1, interferon-inducible (GBP1), mRNA
+gi|1214053685|ref|XM_008055072.2| PREDICTED: Carlito syrichta guanylate-binding protein 1-like (LOC103257344), mRNA
+gi|1751208486|ref|XM_010366147.2| PREDICTED: Rhinopithecus roxellana guanylate-binding protein 1 (LOC104664605), mRNA
+gi|1411083853|ref|XM_025365023.1| PREDICTED: Theropithecus gelada guanylate-binding protein 1 (LOC112611311), mRNA
+gi|826341206|ref|XM_012661104.1| PREDICTED: Propithecus coquereli interferon-induced guanylate-binding protein 1 (LOC105823843), transcript variant X2, mRNA
+gi|826341202|ref|XM_012661103.1| PREDICTED: Propithecus coquereli interferon-induced guanylate-binding protein 1 (LOC105823843), transcript variant X1, mRNA
+gi|1367107470|ref|XM_001146987.4| PREDICTED: Pan troglodytes guanylate binding protein 3 (GBP3), transcript variant X1, mRNA
+gi|1061012250|ref|XM_002751068.4| PREDICTED: Callithrix jacchus guanylate binding protein 1 (GBP1), mRNA
+gi|1351368368|ref|XM_024232855.1| PREDICTED: Pongo abelii guanylate binding protein 1 (GBP1), mRNA
+gi|1519313771|ref|NM_018284.3| Homo sapiens guanylate binding protein 3 (GBP3), transcript variant 1, mRNA
+gi|817299574|ref|XM_012464810.1| PREDICTED: Aotus nancymaae guanylate-binding protein 1 (LOC105725674), mRNA
+gi|1753024400|ref|XM_004026097.3| PREDICTED: Gorilla gorilla gorilla guanylate binding protein 3 (GBP3), transcript variant X1, mRNA
+gi|190691688|gb|EU832447.1| Synthetic construct Homo sapiens clone HAIB:100067476; DKFZo008A0429 guanylate binding protein 3 protein (GBP3) gene, encodes complete protein
+gi|190690314|gb|EU832530.1| Synthetic construct Homo sapiens clone HAIB:100067559; DKFZo004A0430 guanylate binding protein 3 protein (GBP3) gene, encodes complete protein
+gi|60219666|emb|CR936755.1| Homo sapiens mRNA; cDNA DKFZp686E0974 (from clone DKFZp686E0974)
+gi|1212390236|ref|XM_012464809.2| PREDICTED: Aotus nancymaae guanylate binding protein 3 (GBP3), transcript variant X1, mRNA
+gi|795355809|ref|XM_012077027.1| PREDICTED: Cercocebus atys guanylate binding protein 1, interferon-inducible (GBP1), mRNA
+gi|1743153274|ref|XM_003260025.4| PREDICTED: Nomascus leucogenys guanylate-binding protein 1 (LOC100580355), mRNA
+gi|190691702|gb|EU832454.1| Synthetic construct Homo sapiens clone HAIB:100067483; DKFZo008B0229 guanylate binding protein 3 protein (GBP3) gene, encodes complete protein
+gi|190690326|gb|EU832536.1| Synthetic construct Homo sapiens clone HAIB:100067565; DKFZo004B0230 guanylate binding protein 3 protein (GBP3) gene, encodes complete protein
+gi|60219669|emb|CR936758.1| Homo sapiens mRNA; cDNA DKFZp686L15228 (from clone DKFZp686L15228)
+gi|1351368373|ref|XM_024232863.1| PREDICTED: Pongo abelii guanylate binding protein 3 (GBP3), mRNA
+gi|1777244345|ref|XM_003892159.5| PREDICTED: Papio anubis guanylate binding protein 1 (GBP1), mRNA
+gi|1411083849|ref|XM_025365002.1| PREDICTED: Theropithecus gelada guanylate binding protein 3 (GBP3), transcript variant X1, mRNA
+gi|982227046|ref|XM_005542800.2| PREDICTED: Macaca fascicularis guanylate-binding protein 3 (LOC102146847), mRNA
+gi|187954974|gb|BC140837.1| Homo sapiens guanylate binding protein 3, mRNA (cDNA clone MGC:176514 IMAGE:9021705), complete cds
+gi|795145833|ref|XM_011982071.1| PREDICTED: Mandrillus leucophaeus guanylate binding protein 3 (GBP3), transcript variant X1, mRNA
+gi|725605600|ref|XM_003943254.2| PREDICTED: Saimiri boliviensis boliviensis guanylate binding protein 1, interferon-inducible (GBP1), mRNA
+gi|1777244333|ref|XM_031650573.1| PREDICTED: Papio anubis guanylate-binding protein 3 (LOC101016723), transcript variant X3, mRNA
+gi|1777244331|ref|XM_017944367.2| PREDICTED: Papio anubis guanylate-binding protein 3 (LOC101016723), transcript variant X2, mRNA
+gi|1777244330|ref|XM_003892160.5| PREDICTED: Papio anubis guanylate-binding protein 3 (LOC101016723), transcript variant X1, mRNA
+gi|1743153276|ref|XM_030825084.1| PREDICTED: Nomascus leucogenys guanylate binding protein 3 (GBP3), transcript variant X1, mRNA
+gi|795656855|ref|XM_011743158.1| PREDICTED: Macaca nemestrina guanylate-binding protein 3 (LOC105482811), mRNA
+gi|1519241987|ref|NM_002053.3| Homo sapiens guanylate binding protein 1 (GBP1), mRNA
+gi|158256997|dbj|AK291783.1| Homo sapiens cDNA FLJ75884 complete cds, highly similar to Homo sapiens guanylate binding protein 1, interferon-inducible, 67kDa (GBP1), mRNA
+gi|1622831365|ref|XM_001083783.4| PREDICTED: Macaca mulatta guanylate binding protein 3 (GBP3), mRNA
+gi|795355813|ref|XM_012077028.1| PREDICTED: Cercocebus atys guanylate binding protein 3 (GBP3), mRNA
+gi|635106748|ref|XM_007978045.1| PREDICTED: Chlorocebus sabaeus guanylate binding protein 3 (GBP3), mRNA
+gi|1753024406|ref|XM_019026669.2| PREDICTED: Gorilla gorilla gorilla guanylate binding protein 1 (GBP1), transcript variant X1, mRNA
+gi|1367107478|ref|XM_001147994.5| PREDICTED: Pan troglodytes guanylate binding protein 1 (GBP1), mRNA
+gi|60101452|gb|AY920436.1| Homo sapiens guanylate binding protein 1 mRNA, complete cds
+gi|1751208482|ref|XM_010366145.2| PREDICTED: Rhinopithecus roxellana guanylate binding protein 3 (GBP3), transcript variant X2, mRNA
+gi|675696945|ref|XM_003808391.2| PREDICTED: Pan paniscus guanylate-binding protein 1 (LOC100994559), mRNA
+gi|649118879|gb|KJ896869.1| Synthetic construct Homo sapiens clone ccsbBroadEn_06263 GBP1 gene, encodes complete protein
+gi|123994496|gb|DQ893924.2| Synthetic construct Homo sapiens clone IMAGE:100008384; FLH165730.01L; RZPDo839G01159D guanylate binding protein 1, interferon-inducible, 67kDa (GBP1) gene, encodes complete protein
+gi|123979711|gb|DQ890759.2| Synthetic construct clone IMAGE:100003389; FLH165734.01X; RZPDo839G01160D guanylate binding protein 1, interferon-inducible, 67kDa (GBP1) gene, encodes complete protein
+gi|30582532|gb|BT006847.1| Homo sapiens guanylate binding protein 1, interferon-inducible, 67kDa mRNA, complete cds >gi|60655710|gb|AY889628.1| Synthetic construct Homo sapiens clone FLH026312.01X guanylate binding protein 1 interferon-inducible (GBP1) mRNA, complete cds
+gi|33876989|gb|BC002666.2| Homo sapiens guanylate binding protein 1, interferon-inducible, 67kDa, mRNA (cDNA clone MGC:3949 IMAGE:3606865), complete cds
+gi|183001|gb|M55542.1|HUMGBP1 Human guanylate binding protein isoform I (GBP-2) mRNA, complete cds
+gi|1044404419|ref|XM_017498364.1| PREDICTED: Cebus capucinus imitator guanylate-binding protein 1 (LOC108282430), mRNA
+gi|795262846|ref|XM_011956056.1| PREDICTED: Colobus angolensis palliatus guanylate binding protein 3 (GBP3), transcript variant X1, mRNA
+gi|1149849323|ref|XM_012749236.2| PREDICTED: Microcebus murinus guanylate-binding protein 1 (LOC105862726), mRNA
+gi|1059090180|ref|XM_017850852.1| PREDICTED: Rhinopithecus bieti guanylate binding protein 3 (GBP3), mRNA
+gi|1044411778|ref|XM_017501949.1| PREDICTED: Cebus capucinus imitator guanylate-binding protein 3 (LOC108284964), mRNA
+gi|197097933|ref|NM_001132053.1| Pongo abelii guanylate binding protein 1 (GBP1), mRNA >gi|55728349|emb|CR858710.1| Pongo abelii mRNA; cDNA DKFZp468O066 (from clone DKFZp468O066)
+gi|1482591741|ref|XM_026454720.1| PREDICTED: Piliocolobus tephrosceles guanylate-binding protein 3 (LOC111533014), transcript variant X2, mRNA
+gi|826341196|ref|XM_012661100.1| PREDICTED: Propithecus coquereli guanylate binding protein 2, interferon-inducible (GBP2), mRNA
+gi|1099059212|ref|XM_019026713.1| PREDICTED: Gorilla gorilla gorilla guanylate binding protein 1 (GBP1), transcript variant X2, mRNA
+gi|1149849324|ref|XM_012749237.2| PREDICTED: Microcebus murinus guanylate-binding protein 2 (LOC105862727), mRNA
+gi|1751208484|ref|XM_030913773.1| PREDICTED: Rhinopithecus roxellana guanylate binding protein 3 (GBP3), transcript variant X3, mRNA
+gi|1751208480|ref|XM_030913772.1| PREDICTED: Rhinopithecus roxellana guanylate binding protein 3 (GBP3), transcript variant X1, mRNA
+gi|1297587554|ref|XM_023208098.1| PREDICTED: Piliocolobus tephrosceles guanylate-binding protein 1 (LOC111540030), transcript variant X2, mRNA
+gi|1482591743|ref|XM_026454721.1| PREDICTED: Piliocolobus tephrosceles guanylate-binding protein 3 (LOC111533014), transcript variant X3, mRNA
+gi|1482591739|ref|XM_026454719.1| PREDICTED: Piliocolobus tephrosceles guanylate-binding protein 3 (LOC111533014), transcript variant X1, mRNA
+gi|725605601|ref|XM_010331120.1| PREDICTED: Saimiri boliviensis boliviensis guanylate-binding protein 3 (LOC101049043), mRNA
+gi|795262826|ref|XM_011956053.1| PREDICTED: Colobus angolensis palliatus guanylate binding protein 2, interferon-inducible (GBP2), transcript variant X2, mRNA
+gi|795262818|ref|XM_011956052.1| PREDICTED: Colobus angolensis palliatus guanylate binding protein 2, interferon-inducible (GBP2), transcript variant X1, mRNA
+gi|194384107|dbj|AK303893.1| Homo sapiens cDNA FLJ51601 complete cds, highly similar to Interferon-induced guanylate-binding protein 1
+gi|1411083847|ref|XM_025364986.1| PREDICTED: Theropithecus gelada guanylate binding protein 2 (GBP2), mRNA
+gi|831216082|ref|XM_012801626.1| PREDICTED: Otolemur garnettii guanylate-binding protein 1 (LOC100950575), mRNA
+gi|1777244335|ref|XM_021943731.2| PREDICTED: Papio anubis guanylate-binding protein 2 (LOC101017772), mRNA
+gi|795355848|ref|XM_012077034.1| PREDICTED: Cercocebus atys guanylate binding protein 2, interferon-inducible (GBP2), transcript variant X2, mRNA
+gi|795355842|ref|XM_012077033.1| PREDICTED: Cercocebus atys guanylate binding protein 2, interferon-inducible (GBP2), transcript variant X1, mRNA
+gi|1149851135|ref|XM_012759875.2| PREDICTED: Microcebus murinus guanylate-binding protein 1-like (LOC105868762), mRNA
+gi|826341209|ref|XM_012661105.1| PREDICTED: Propithecus coquereli interferon-induced guanylate-binding protein 1 (LOC105823843), transcript variant X3, mRNA
+gi|1044404417|ref|XM_017498363.1| PREDICTED: Cebus capucinus imitator guanylate binding protein 2 (GBP2), transcript variant X2, mRNA
+gi|1044404415|ref|XM_017498362.1| PREDICTED: Cebus capucinus imitator guanylate binding protein 2 (GBP2), transcript variant X1, mRNA
+gi|1622831367|ref|XM_001085895.4| PREDICTED: Macaca mulatta guanylate-binding protein 2 (LOC694684), transcript variant X1, mRNA
+gi|982227047|ref|XM_005542798.2| PREDICTED: Macaca fascicularis guanylate binding protein 2 (GBP2), mRNA
+gi|795121543|ref|XM_011977068.1| PREDICTED: Mandrillus leucophaeus guanylate binding protein 2, interferon-inducible (GBP2), mRNA
+gi|1482591738|ref|XM_023208078.2| PREDICTED: Piliocolobus tephrosceles guanylate binding protein 2 (GBP2), transcript variant X1, mRNA
+gi|1753024842|ref|XM_019026761.2| PREDICTED: Gorilla gorilla gorilla guanylate binding protein 2 (GBP2), mRNA
+gi|1384945553|ref|XM_003808393.4| PREDICTED: Pan paniscus guanylate binding protein 2 (GBP2), transcript variant X1, mRNA
+gi|1351368359|ref|XM_002810632.4| PREDICTED: Pongo abelii guanylate binding protein 2 (GBP2), mRNA
+gi|635106737|ref|XM_007978040.1| PREDICTED: Chlorocebus sabaeus guanylate binding protein 2, interferon-inducible (GBP2), mRNA
+gi|1519314338|ref|NM_004120.5| Homo sapiens guanylate binding protein 2 (GBP2), mRNA
+gi|307686448|dbj|AB591000.1| Synthetic construct DNA, clone: pFN21AE2205, Homo sapiens GBP2 gene for guanylate binding protein 2, interferon-inducible, without stop codon, in Flexi system
+gi|30268253|emb|AL832451.2| Homo sapiens mRNA; cDNA DKFZp451C2311 (from clone DKFZp451C2311); complete cds
+gi|829176|gb|M55543.1|HUMGBP2 Human guanylate binding protein isoform II (GBP-2) mRNA, complete cds
+gi|649118882|gb|KJ896870.1| Synthetic construct Homo sapiens clone ccsbBroadEn_06264 GBP2 gene, encodes complete protein
+gi|110624639|dbj|AK226018.1| Homo sapiens mRNA for Interferon-induced guanylate-binding protein 2 variant, clone: FCC106G05
+gi|48146240|emb|CR457062.1| Homo sapiens full open reading frame cDNA clone RZPDo834E0514D for gene GBP2, guanylate binding protein 2, interferon-inducible; complete cds, incl. stopcodon
+gi|49119633|gb|BC073163.1| Homo sapiens guanylate binding protein 2, interferon-inducible, mRNA (cDNA clone MGC:87973 IMAGE:6151056), complete cds
+gi|795656849|ref|XM_011743155.1| PREDICTED: Macaca nemestrina guanylate binding protein 2 (GBP2), mRNA
+gi|1367107494|ref|XM_009424774.3| PREDICTED: Pan troglodytes guanylate binding protein 2 (GBP2), transcript variant X3, mRNA
+gi|1367107493|ref|XM_009424782.3| PREDICTED: Pan troglodytes guanylate binding protein 2 (GBP2), transcript variant X2, mRNA
+gi|1367107491|ref|XM_024346929.1| PREDICTED: Pan troglodytes guanylate binding protein 2 (GBP2), transcript variant X1, mRNA
+gi|17389966|gb|BC017992.1| Homo sapiens guanylate binding protein 3, mRNA (cDNA clone IMAGE:4249097), partial cds
+gi|164697670|dbj|AK314325.1| Homo sapiens cDNA, FLJ95085, highly similar to Homo sapiens guanylate binding protein 2, interferon-inducible(GBP2), mRNA
+gi|16553959|dbj|AK057968.1| Homo sapiens cDNA FLJ25239 fis, clone STM02435, highly similar to INTERFERON-INDUCED GUANYLATE-BINDING PROTEIN 2
+gi|1367107474|ref|XM_016921993.2| PREDICTED: Pan troglodytes guanylate binding protein 3 (GBP3), transcript variant X5, mRNA
+gi|1367107473|ref|XM_016921990.2| PREDICTED: Pan troglodytes guanylate binding protein 3 (GBP3), transcript variant X4, mRNA
+gi|817299582|ref|XM_012464814.1| PREDICTED: Aotus nancymaae guanylate binding protein 2 (GBP2), mRNA
+gi|983616514|ref|NM_001319179.1| Homo sapiens guanylate binding protein 3 (GBP3), transcript variant 2, mRNA
+gi|767903733|ref|XM_011541233.1| PREDICTED: Homo sapiens guanylate binding protein 3 (GBP3), transcript variant X3, mRNA
+gi|767903732|ref|XM_005270743.2| PREDICTED: Homo sapiens guanylate binding protein 3 (GBP3), transcript variant X2, mRNA
+gi|724837930|ref|XM_010366149.1| PREDICTED: Rhinopithecus roxellana guanylate binding protein 2 (GBP2), mRNA
+gi|1149851144|ref|XM_020285489.1| PREDICTED: Microcebus murinus guanylate-binding protein 1-like (LOC105868765), mRNA
+gi|1327787157|ref|XM_023509931.1| PREDICTED: Otolemur garnettii guanylate-binding protein 1 (LOC100949951), transcript variant X2, mRNA
+gi|1743153280|ref|XM_030825086.1| PREDICTED: Nomascus leucogenys guanylate binding protein 3 (GBP3), transcript variant X3, mRNA
+gi|219521587|gb|BC144650.1| Homo sapiens cDNA clone IMAGE:9053181
+gi|18490137|gb|BC022272.1| Homo sapiens guanylate binding protein 2, interferon-inducible, mRNA (cDNA clone MGC:22351 IMAGE:4688776), complete cds
+gi|1411083851|ref|XM_025365011.1| PREDICTED: Theropithecus gelada guanylate binding protein 3 (GBP3), transcript variant X2, mRNA
+gi|725605598|ref|XM_010331119.1| PREDICTED: Saimiri boliviensis boliviensis guanylate binding protein 2, interferon-inducible (GBP2), mRNA
+gi|1297587543|ref|XM_023208086.1| PREDICTED: Piliocolobus tephrosceles guanylate binding protein 2 (GBP2), transcript variant X2, mRNA
+gi|795145838|ref|XM_011982072.1| PREDICTED: Mandrillus leucophaeus guanylate binding protein 3 (GBP3), transcript variant X2, mRNA
+gi|1384945554|ref|XM_008960476.3| PREDICTED: Pan paniscus guanylate binding protein 2 (GBP2), transcript variant X2, mRNA
+gi|1327787155|ref|XM_003784285.3| PREDICTED: Otolemur garnettii guanylate-binding protein 1 (LOC100949951), transcript variant X1, mRNA
+gi|795262860|ref|XM_011956058.1| PREDICTED: Colobus angolensis palliatus guanylate binding protein 3 (GBP3), transcript variant X3, mRNA
+gi|1367107495|ref|XM_009424787.3| PREDICTED: Pan troglodytes guanylate binding protein 2 (GBP2), transcript variant X4, mRNA
+gi|1327787007|ref|XM_012801625.2| PREDICTED: Otolemur garnettii guanylate-binding protein 1-like (LOC100950270), mRNA
+gi|1061012251|ref|XM_009001643.2| PREDICTED: Callithrix jacchus guanylate-binding protein 2-like (LOC100404432), mRNA
+gi|1061012269|ref|XM_009001649.2| PREDICTED: Callithrix jacchus guanylate-binding protein 2 (LOC100405150), mRNA
+gi|1059090157|ref|XM_017850737.1| PREDICTED: Rhinopithecus bieti guanylate-binding protein 2-like (LOC108514464), mRNA
+gi|1149851138|ref|XM_012759876.2| PREDICTED: Microcebus murinus guanylate-binding protein 1-like (LOC105868763), mRNA
+gi|1370452791|ref|XM_006710574.3| PREDICTED: Homo sapiens guanylate binding protein 3 (GBP3), transcript variant X1, mRNA
+gi|1367107472|ref|XM_009424822.3| PREDICTED: Pan troglodytes guanylate binding protein 3 (GBP3), transcript variant X3, mRNA
+gi|1367107471|ref|XM_009424816.3| PREDICTED: Pan troglodytes guanylate binding protein 3 (GBP3), transcript variant X2, mRNA
+gi|983616518|ref|NM_001319181.1| Homo sapiens guanylate binding protein 3 (GBP3), transcript variant 4, mRNA
+gi|336396656|gb|JF927951.1| Homo sapiens guanylate-binding protein 3 delta C (GBP3) mRNA, complete cds, alternatively spliced
+gi|1753024404|ref|XM_019026597.2| PREDICTED: Gorilla gorilla gorilla guanylate binding protein 3 (GBP3), transcript variant X3, mRNA
+gi|1753024402|ref|XM_019026564.2| PREDICTED: Gorilla gorilla gorilla guanylate binding protein 3 (GBP3), transcript variant X2, mRNA
+gi|1149851142|ref|XM_020285488.1| PREDICTED: Microcebus murinus guanylate-binding protein 1-like (LOC105868764), mRNA
+gi|1384945989|ref|XM_008960475.2| PREDICTED: Pan paniscus guanylate binding protein 3 (GBP3), mRNA
+gi|1743153278|ref|XM_030825085.1| PREDICTED: Nomascus leucogenys guanylate binding protein 3 (GBP3), transcript variant X2, mRNA
+gi|635106718|ref|XM_007978030.1| PREDICTED: Chlorocebus sabaeus interferon-induced guanylate-binding protein 1-like (LOC103224469), mRNA
+gi|1212390237|ref|XM_021666431.1| PREDICTED: Aotus nancymaae guanylate binding protein 3 (GBP3), transcript variant X2, mRNA
+gi|1034557686|ref|XM_017001013.1| PREDICTED: Homo sapiens guanylate binding protein 3 (GBP3), transcript variant X5, mRNA
+gi|983616516|ref|NM_001319180.1| Homo sapiens guanylate binding protein 3 (GBP3), transcript variant 3, mRNA
+gi|795146172|ref|XM_011982143.1| PREDICTED: Mandrillus leucophaeus guanylate binding protein 1, interferon-inducible (GBP1), mRNA
+gi|7023331|dbj|AK001823.1| Homo sapiens cDNA FLJ10961 fis, clone PLACE1000588
+gi|1149851196|ref|XM_020285514.1| PREDICTED: Microcebus murinus guanylate-binding protein 1-like (LOC105862721), mRNA
+gi|795262853|ref|XM_011956057.1| PREDICTED: Colobus angolensis palliatus guanylate binding protein 3 (GBP3), transcript variant X2, mRNA
+gi|1370452789|ref|XM_024446351.1| PREDICTED: Homo sapiens guanylate binding protein 1 (GBP1), transcript variant X1, mRNA
+gi|1743153282|ref|XM_030825087.1| PREDICTED: Nomascus leucogenys guanylate binding protein 3 (GBP3), transcript variant X4, mRNA
+gi|795263914|ref|XR_001003347.1| PREDICTED: Colobus angolensis palliatus interferon-induced guanylate-binding protein 1-like (LOC105521849), misc_RNA
+gi|1622831368|ref|XM_028831637.1| PREDICTED: Macaca mulatta guanylate-binding protein 2 (LOC694684), transcript variant X2, mRNA
+gi|164697811|dbj|AK309096.1| Homo sapiens cDNA, FLJ99137
+gi|1214034380|ref|XM_021714272.1| PREDICTED: Carlito syrichta guanylate-binding protein 1-like (LOC103264090), mRNA
+gi|640806907|ref|XM_008061740.1| PREDICTED: Carlito syrichta guanylate-binding protein 1-like (LOC103264092), mRNA
+gi|34528064|dbj|AK122866.1| Homo sapiens cDNA FLJ16497 fis, clone CTONG3006659, highly  similar to INTERFERON-INDUCED GUANYLATE-BINDING PROTEIN 2
+gi|983616526|ref|NR_135007.1| Homo sapiens guanylate binding protein 3 (GBP3), transcript variant 5, non-coding RNA
+gi|39645497|gb|BC063819.1| Homo sapiens guanylate binding protein 3, mRNA (cDNA clone IMAGE:6183589)
+gi|168742340|emb|CU687254.1| Synthetic construct Homo sapiens gateway clone IMAGE:100023010 5' read GBP2 mRNA
+gi|826340972|ref|XM_012661021.1| PREDICTED: Propithecus coquereli guanylate-binding protein 7-like (LOC105823767), mRNA
+gi|1751208487|ref|XM_010366148.2| PREDICTED: Rhinopithecus roxellana guanylate-binding protein 7 (LOC104664607), mRNA
+gi|1059090173|ref|XM_017850818.1| PREDICTED: Rhinopithecus bieti guanylate binding protein 7 (GBP7), mRNA
+gi|725605627|ref|XM_010331127.1| PREDICTED: Saimiri boliviensis boliviensis guanylate binding protein 7 (GBP7), mRNA
+gi|795121548|ref|XM_011977069.1| PREDICTED: Mandrillus leucophaeus guanylate binding protein 7 (GBP7), mRNA
+gi|795141794|ref|XM_011981223.1| PREDICTED: Mandrillus leucophaeus guanylate binding protein 4 (GBP4), mRNA
+gi|1622831361|ref|XM_015144520.2| PREDICTED: Macaca mulatta guanylate binding protein 7 (GBP7), mRNA
+gi|982227044|ref|XM_005542797.2| PREDICTED: Macaca fascicularis guanylate binding protein 7 (GBP7), mRNA
+gi|795262841|ref|XM_011956054.1| PREDICTED: Colobus angolensis palliatus guanylate binding protein 7 (GBP7), mRNA
+gi|635106735|ref|XM_007978039.1| PREDICTED: Chlorocebus sabaeus guanylate binding protein 7 (GBP7), mRNA
+gi|1777244328|ref|XM_003892161.5| PREDICTED: Papio anubis guanylate-binding protein 7 (LOC101017417), mRNA
+gi|795656871|ref|XM_011743164.1| PREDICTED: Macaca nemestrina guanylate-binding protein 7 (LOC105482816), mRNA
+gi|817299580|ref|XM_012464813.1| PREDICTED: Aotus nancymaae guanylate-binding protein 7 (LOC105725677), transcript variant X2, mRNA
+gi|817299578|ref|XM_012464812.1| PREDICTED: Aotus nancymaae guanylate-binding protein 7 (LOC105725677), transcript variant X1, mRNA
+gi|1411083845|ref|XM_025364973.1| PREDICTED: Theropithecus gelada guanylate-binding protein 7 (LOC112611288), transcript variant X2, mRNA
+gi|795355864|ref|XM_012077037.1| PREDICTED: Cercocebus atys guanylate binding protein 7 (GBP7), transcript variant X2, mRNA
+gi|795355858|ref|XM_012077036.1| PREDICTED: Cercocebus atys guanylate binding protein 7 (GBP7), transcript variant X1, mRNA
+gi|1384945556|ref|XM_014346108.2| PREDICTED: Pan paniscus guanylate binding protein 7 (GBP7), transcript variant X2, mRNA
+gi|1384945555|ref|XM_014346107.2| PREDICTED: Pan paniscus guanylate binding protein 7 (GBP7), transcript variant X1, mRNA
+gi|931564221|ref|XM_008960477.2| PREDICTED: Pan paniscus guanylate binding protein 7 (GBP7), transcript variant X3, mRNA
+gi|1367107481|ref|XM_009424758.3| PREDICTED: Pan troglodytes guanylate binding protein 7 (GBP7), mRNA
+gi|21755556|dbj|AK096141.1| Homo sapiens cDNA FLJ38822 fis, clone LIVER2008706, moderately similar to Mus musculus purine nucleotide binding protein mRNA
+gi|1753026315|ref|XM_019027091.2| PREDICTED: Gorilla gorilla gorilla guanylate binding protein 7 (GBP7), mRNA
+gi|1519312108|ref|NM_207398.3| Homo sapiens guanylate binding protein 7 (GBP7), mRNA
+gi|162318081|gb|BC157015.1| Synthetic construct Homo sapiens clone IMAGE:100062829, MGC:190626 guanylate binding protein 7 (GBP7) mRNA, encodes complete protein
+gi|162317973|gb|BC156123.1| Synthetic construct Homo sapiens clone IMAGE:100062387, MGC:190496 guanylate binding protein 7 (GBP7) mRNA, encodes complete protein
+gi|1351368354|ref|XM_024232838.1| PREDICTED: Pongo abelii guanylate binding protein 7 (GBP7), mRNA

@@ -1,0 +1,100 @@
+2019-10-07 10:23:44,212 - main - INFO - Starting /home/lpicard/DGINN/src/Init.py (v1.0)
+2019-10-07 10:23:44,212 - main - INFO - Reading input file /home/lpicard/2019_validation/20190930/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-10-07 10:23:44,212 - main - INFO - Output directory: /home/lpicard/2019_validation/20190930/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank_results_201910071023/
+2019-10-07 10:23:44,212 - main - INFO - Analysis will begin at the positiveSelection step
+2019-10-07 10:23:44,215 - main - INFO - Starting positive selection analyses.
+2019-10-07 10:23:44,215 - main - INFO - Alignement file: /home/lpicard/2019_validation/20190930/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-10-07 10:23:44,215 - main - INFO - Gene Tree file: /home/lpicard/2019_validation/20190930/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank.phylip_phyml_tree.txt
+2019-10-07 10:23:44,218 - main - INFO - Location of entry files: /home/lpicard/2019_validation/20190930/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank_results_201910071023/positive_selection_results_201910071023/
+2019-10-07 10:23:44,218 - main - INFO - Alignement: /home/lpicard/2019_validation/20190930/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-10-07 10:23:44,218 - main - INFO - Alignement is in Fasta format.
+2019-10-07 10:23:44,218 - main - INFO - Tree: /home/lpicard/2019_validation/20190930/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank.phylip_phyml_tree.txt
+2019-10-07 10:23:44,218 - main - INFO - There are 112 nodes in the provided tree.
+2019-10-07 10:23:44,218 - main - INFO - POSITIVE SELECTION ANALYSIS: 
+2019-10-07 10:23:44,218 - main - INFO - Analysis to be run:
+2019-10-07 10:23:44,218 - main - INFO - Site (Optimization)
+2019-10-07 10:23:44,218 - main - INFO - Site (Results)
+2019-10-07 10:23:44,218 - main - INFO - Site (codeml)
+2019-10-07 10:23:44,218 - main - INFO - Branch
+2019-10-07 10:23:44,218 - main - INFO - Whole-Gene
+2019-10-07 10:23:44,218 - main - INFO - Branch-site
+2019-10-07 10:23:44,218 - main - INFO - Whole Gene (BUSTED, HYPHY)
+2019-10-07 10:23:44,219 - main - INFO - Batch file: /home/lpicard/2019_validation/20190930/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank_results_201910071023/positive_selection_results_201910071023/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank_busted.bf
+2019-10-07 10:39:56,663 - main - INFO - Output: /home/lpicard/2019_validation/20190930/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank_results_201910071023/positive_selection_results_201910071023/busted/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank_busted.bf
+2019-10-07 10:39:56,800 - main - INFO - PAML codeml
+2019-10-07 10:39:56,800 - main - INFO - Running M0
+2019-10-07 13:03:53,972 - main - INFO - Running M1
+2019-10-07 17:39:01,397 - main - INFO - Running M2
+2019-10-08 00:07:49,384 - main - INFO - Running M7
+2019-10-08 15:34:42,020 - main - INFO - Running M8
+2019-10-09 10:50:50,381 - main - INFO - LRT of M1 vs M2 = 1.7649110665943093e-14
+2019-10-09 10:50:50,382 - main - INFO - LRT of M7 vs M8 = 1.6484960623658122e-15
+2019-10-09 10:50:50,382 - main - INFO - Bio++ Site Analysis
+2019-10-09 10:50:50,382 - main - INFO - Models to be run: M0, M1, M2, M7, M8
+2019-10-09 10:50:50,382 - main - INFO - Bppml parameter file: /home/lpicard/params/params_bppml.bpp
+2019-10-09 10:50:50,382 - main - INFO - Bppmixedlilkelihood parameter file: /home/lpicard/params/params_mixedllh.bpp
+2019-10-09 10:50:50,406 - main - INFO - There are 112 nodes in the provided tree.
+2019-10-09 10:50:50,455 - main - INFO - Running M0 optimization
+2019-10-09 10:53:43,983 - main - INFO - Log Likelihood = -12555.85941048465
+2019-10-09 10:53:43,983 - main - INFO - Running M1 optimization
+2019-10-09 11:16:36,136 - main - INFO - Log Likelihood = -12413.909688302847
+2019-10-09 11:16:36,137 - main - INFO - Running M2 optimization
+2019-10-09 12:30:24,499 - main - INFO - Log Likelihood = -12384.627762175933
+2019-10-09 12:30:24,499 - main - INFO - Running M7 optimization
+2019-10-09 16:09:10,930 - main - INFO - Log Likelihood = -12418.389864217012
+2019-10-09 16:09:10,950 - main - INFO - Running M8 optimization
+2019-10-09 20:33:35,807 - main - INFO - Log Likelihood = -12392.868191911839
+2019-10-09 20:33:36,032 - main - INFO - LRT of M1 vs M2: 1.9187617996868858e-13
+2019-10-09 20:33:36,032 - main - INFO - LRT of M7 vs M8: 8.24287186706288e-12
+2019-10-09 20:33:36,032 - main - INFO - M0 is not a mixed model, skipping.
+2019-10-09 20:33:36,032 - main - INFO - Running mixed likelihoods with model M1
+2019-10-09 20:33:50,191 - main - INFO - Running mixed likelihoods with model M2
+2019-10-09 20:34:17,713 - main - INFO - Running mixed likelihoods with model M7
+2019-10-09 20:36:59,581 - main - INFO - Running mixed likelihoods with model M8
+2019-10-09 20:40:20,851 - main - INFO - One Per Branch (BIO++)
+2019-10-09 20:40:20,852 - main - INFO - OPB parameter file: /home/lpicard/2019_validation/20190930/21genes_ZC3HAV1_CCDS_results_201909301500/opb_params.bpp
+2019-10-09 20:40:20,876 - main - INFO - Running Branch optimization
+2019-10-09 21:56:09,429 - main - INFO - Node 7 is interesting (w = 999.000000)
+2019-10-09 21:56:09,430 - main - INFO - Node 15 is interesting (w = 999.000000)
+2019-10-09 21:56:09,430 - main - INFO - Node 18 is interesting (w = 1.571644)
+2019-10-09 21:56:09,430 - main - INFO - Node 19 is interesting (w = 999.000000)
+2019-10-09 21:56:09,430 - main - INFO - Node 20 is interesting (w = 1.052468)
+2019-10-09 21:56:09,430 - main - INFO - Node 24 is interesting (w = 999.000000)
+2019-10-09 21:56:09,430 - main - INFO - Node 25 is interesting (w = 1.050280)
+2019-10-09 21:56:09,430 - main - INFO - Node 27 is interesting (w = 999.000000)
+2019-10-09 21:56:09,430 - main - INFO - Node 29 is interesting (w = 999.000000)
+2019-10-09 21:56:09,430 - main - INFO - Node 31 is interesting (w = 999.000000)
+2019-10-09 21:56:09,430 - main - INFO - Node 33 is interesting (w = 999.000000)
+2019-10-09 21:56:09,431 - main - INFO - Node 35 is interesting (w = 1.379930)
+2019-10-09 21:56:09,431 - main - INFO - Node 36 is interesting (w = 999.000000)
+2019-10-09 21:56:09,431 - main - INFO - Node 37 is interesting (w = 999.000000)
+2019-10-09 21:56:09,431 - main - INFO - Node 38 is interesting (w = 1.097777)
+2019-10-09 21:56:09,431 - main - INFO - Node 40 is interesting (w = 1.577431)
+2019-10-09 21:56:09,431 - main - INFO - Node 41 is interesting (w = 999.000000)
+2019-10-09 21:56:09,431 - main - INFO - Node 45 is interesting (w = 1.201245)
+2019-10-09 21:56:09,431 - main - INFO - Node 47 is interesting (w = 1.121741)
+2019-10-09 21:56:09,431 - main - INFO - Node 48 is interesting (w = 1.586255)
+2019-10-09 21:56:09,431 - main - INFO - Node 51 is interesting (w = 999.000000)
+2019-10-09 21:56:09,431 - main - INFO - Node 55 is interesting (w = 1.044825)
+2019-10-09 21:56:09,431 - main - INFO - Node 58 is interesting (w = 999.000000)
+2019-10-09 21:56:09,431 - main - INFO - Node 59 is interesting (w = 1.192002)
+2019-10-09 21:56:09,431 - main - INFO - Node 60 is interesting (w = 1.254879)
+2019-10-09 21:56:09,431 - main - INFO - Node 61 is interesting (w = 1.683726)
+2019-10-09 21:56:09,431 - main - INFO - Node 62 is interesting (w = 999.000000)
+2019-10-09 21:56:09,432 - main - INFO - Node 67 is interesting (w = 999.000000)
+2019-10-09 21:56:09,432 - main - INFO - Node 68 is interesting (w = 999.000000)
+2019-10-09 21:56:09,432 - main - INFO - Node 74 is interesting (w = 19.961138)
+2019-10-09 21:56:09,432 - main - INFO - Node 75 is interesting (w = 17.669535)
+2019-10-09 21:56:09,432 - main - INFO - Node 76 is interesting (w = 999.000000)
+2019-10-09 21:56:09,432 - main - INFO - Node 77 is interesting (w = 999.000000)
+2019-10-09 21:56:09,432 - main - INFO - Node 81 is interesting (w = 999.000000)
+2019-10-09 21:56:09,432 - main - INFO - Node 84 is interesting (w = 999.000000)
+2019-10-09 21:56:09,432 - main - INFO - Node 88 is interesting (w = 999.000000)
+2019-10-09 21:56:09,432 - main - INFO - Node 95 is interesting (w = 1.201240)
+2019-10-09 21:56:09,432 - main - INFO - Node 103 is interesting (w = 1.010568)
+2019-10-09 21:56:09,432 - main - INFO - Nodes under positive selection [7, 15, 18, 19, 20, 24, 25, 27, 29, 31, 33, 35, 36, 37, 38, 40, 41, 45, 47, 48, 51, 55, 58, 59, 60, 61, 62, 67, 68, 74, 75, 76, 77, 81, 84, 88, 95, 103]
+2019-10-09 21:56:09,432 - main - INFO - Nodes under neutral or negative selection [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 16, 17, 21, 22, 23, 26, 28, 30, 32, 34, 39, 42, 43, 44, 46, 49, 50, 52, 53, 54, 56, 57, 63, 64, 65, 66, 69, 70, 71, 72, 73, 78, 79, 80, 82, 83, 85, 86, 87, 89, 90, 91, 92, 93, 94, 96, 97, 98, 99, 100, 101, 102, 104, 105, 106, 107, 108, 109, 110, 111, 112]
+2019-10-09 21:56:09,433 - main - INFO - Episodic selection (MEME, HYPHY)
+2019-10-09 21:56:09,546 - main - INFO - MEME batch file: /home/lpicard/2019_validation/20190930/21genes_ZC3HAV1_CCDS_results_201909301500/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank_results_201910071023/positive_selection_results_201910071023/meme/ZC3HAV1_sequences_filtered_longestORFs_prank_mincov_prank_meme.bf
+2019-10-09 23:50:56,209 - main - INFO - End analysis
+2019-10-09 23:50:56,209 - main - INFO - Finished positive selection analyses.

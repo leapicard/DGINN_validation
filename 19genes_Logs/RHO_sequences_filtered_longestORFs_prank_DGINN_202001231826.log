@@ -1,0 +1,68 @@
+2020-01-23 18:26:37,312 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2020-01-23 18:26:37,313 - main - INFO - Reading input file /home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/RHO_sequences_filtered_longestORFs_prank.best.fas
+2020-01-23 18:26:37,313 - main - INFO - Output directory: /home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/RHO_sequences_filtered_longestORFs_prank_results_202001231826/
+2020-01-23 18:26:37,313 - main - INFO - Analysis will begin at the positiveSelection step
+2020-01-23 18:26:37,313 - main - WARNING - queryName is not provided, coverage check will not run.
+2020-01-23 18:26:37,313 - main.positiveSelection - INFO - Starting positive selection analyses.
+2020-01-23 18:26:37,313 - main.positiveSelection - INFO - Alignement file: /home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/RHO_sequences_filtered_longestORFs_prank.best.fas
+2020-01-23 18:26:37,313 - main.positiveSelection - INFO - Gene Tree file: /home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/RHO_sequences_filtered_longestORFs_prank.phylip_phyml_tree.txt
+2020-01-23 18:26:37,316 - main.positiveSelection - INFO - Location of entry files: /home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/RHO_sequences_filtered_longestORFs_prank_results_202001231826/positive_selection_results_202001231826/
+2020-01-23 18:26:37,316 - main.positiveSelection - INFO - Alignement: /home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/RHO_sequences_filtered_longestORFs_prank.best.fas
+2020-01-23 18:26:37,316 - main.positiveSelection - INFO - Alignement is in Fasta format.
+2020-01-23 18:26:37,316 - main.positiveSelection - INFO - Tree: /home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/RHO_sequences_filtered_longestORFs_prank.phylip_phyml_tree.txt
+2020-01-23 18:26:37,316 - main.positiveSelection - INFO - There are 44 nodes in the provided tree.
+2020-01-23 18:26:37,317 - main.positiveSelection - INFO - POSITIVE SELECTION ANALYSIS: 
+2020-01-23 18:26:37,317 - main.positiveSelection - INFO - Analysis to be run:
+2020-01-23 18:26:37,317 - main.positiveSelection - INFO - Site (Optimization)
+2020-01-23 18:26:37,317 - main.positiveSelection - INFO - Site (Results)
+2020-01-23 18:26:37,317 - main.positiveSelection - INFO - Site (codeml)
+2020-01-23 18:26:37,317 - main.positiveSelection - INFO - Whole-Gene
+2020-01-23 18:26:37,317 - main.positiveSelection - INFO - Branch-site
+2020-01-23 18:26:37,317 - main.positiveSelection - INFO - Whole Gene (BUSTED, HYPHY)
+2020-01-23 18:26:37,332 - main.positiveSelection - INFO - Batch file: /home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/RHO_sequences_filtered_longestORFs_prank_results_202001231826/positive_selection_results_202001231826/busted/RHO_sequences_filtered_longestORFs_prank_busted.bf
+2020-01-23 18:29:23,888 - main.positiveSelection - INFO - PAML codeml
+2020-01-23 18:29:23,889 - main.positiveSelection - INFO - Running M0
+2020-01-23 18:32:26,294 - main.positiveSelection - INFO - Running M1
+2020-01-23 18:36:50,142 - main.positiveSelection - INFO - Running M2
+2020-01-23 18:45:11,432 - main.positiveSelection - INFO - Running M7
+2020-01-23 19:01:22,035 - main.positiveSelection - INFO - Running M8
+2020-01-23 19:19:31,546 - main.positiveSelection - INFO - LRT of M1 vs M2 = 1
+2020-01-23 19:19:31,547 - main.positiveSelection - INFO - LRT of M7 vs M8 = 0.5655192179537845
+2020-01-23 19:19:31,547 - main.positiveSelection - INFO - /home/lpicard
+2020-01-23 19:19:31,547 - main.positiveSelection - INFO - Bio++ Site Analysis
+2020-01-23 19:19:31,547 - main.positiveSelection - INFO - Models to be run: M0, M1, M2, M7, M8
+2020-01-23 19:19:31,548 - main.positiveSelection - INFO - Bppml parameter file: /home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/bppml_params.bpp
+2020-01-23 19:19:31,548 - main.positiveSelection - INFO - Bppmixedlikelihood parameter file: /home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/mixedlikelihood_params.bpp
+2020-01-23 19:19:31,548 - main.positiveSelection - INFO - There are 44 nodes in the provided tree.
+2020-01-23 19:19:31,632 - main.positiveSelection - INFO - Running M0 optimization
+2020-01-23 19:22:56,897 - main.positiveSelection - INFO - Log Likelihood = -2933.49156187471
+2020-01-23 19:22:56,898 - main.positiveSelection - INFO - Optimization for model M1 uses optimized parameters from model M0
+2020-01-23 19:22:56,901 - main.positiveSelection - INFO - Running M1 optimization
+2020-01-23 19:27:36,846 - main.positiveSelection - INFO - Log Likelihood = -2910.933318148567
+2020-01-23 19:27:36,847 - main.positiveSelection - INFO - Optimization for model M2 uses optimized parameters from model M1
+2020-01-23 19:27:36,848 - main.positiveSelection - INFO - Optimization for model M2 uses optimized parameters from model M0
+2020-01-23 19:27:36,849 - main.positiveSelection - INFO - Running M2 optimization
+2020-01-23 19:38:15,316 - main.positiveSelection - INFO - Log Likelihood = -2910.933318164217
+2020-01-23 19:38:15,317 - main.positiveSelection - INFO - Optimization for model M7 uses optimized parameters from model M2
+2020-01-23 19:38:15,318 - main.positiveSelection - INFO - Optimization for model M7 uses optimized parameters from model M1
+2020-01-23 19:38:15,319 - main.positiveSelection - INFO - Optimization for model M7 uses optimized parameters from model M0
+2020-01-23 19:38:15,320 - main.positiveSelection - INFO - Running M7 optimization
+2020-01-23 19:42:51,521 - main.positiveSelection - INFO - Log Likelihood = -2913.2390055294704
+2020-01-23 19:42:51,521 - main.positiveSelection - INFO - Optimization for model M8 uses optimized parameters from model M7
+2020-01-23 19:42:51,523 - main.positiveSelection - INFO - Optimization for model M8 uses optimized parameters from model M2
+2020-01-23 19:42:51,523 - main.positiveSelection - INFO - Optimization for model M8 uses optimized parameters from model M1
+2020-01-23 19:42:51,524 - main.positiveSelection - INFO - Optimization for model M8 uses optimized parameters from model M0
+2020-01-23 19:42:51,525 - main.positiveSelection - INFO - Running M8 optimization
+2020-01-23 20:07:37,456 - main.positiveSelection - INFO - Log Likelihood = -2908.653125980743
+2020-01-23 20:07:37,457 - main.positiveSelection - INFO - LRT of M1 vs M2: 0.9999999843503248
+2020-01-23 20:07:37,458 - main.positiveSelection - INFO - LRT of M7 vs M8: 0.010194779038291624
+2020-01-23 20:07:37,458 - main.positiveSelection - INFO - M0 is not a mixed model, skipping.
+2020-01-23 20:07:37,458 - main.positiveSelection - INFO - Running mixed likelihoods with model M1
+2020-01-23 20:07:37,535 - main.positiveSelection - INFO - Running mixed likelihoods with model M2
+2020-01-23 20:07:37,562 - main.positiveSelection - INFO - Running mixed likelihoods with model M7
+2020-01-23 20:07:37,588 - main.positiveSelection - INFO - Running mixed likelihoods with model M8
+2020-01-23 20:07:37,615 - main.positiveSelection - INFO - Episodic selection (MEME, HYPHY)
+2020-01-23 20:07:37,645 - main.positiveSelection - INFO - MEME batch file: /home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/RHO_sequences_filtered_longestORFs_prank_results_202001231826/positive_selection_results_202001231826/meme/RHO_sequences_filtered_longestORFs_prank_meme.bf
+2020-01-23 20:32:30,444 - main.positiveSelection - INFO - End analysis
+2020-01-23 20:32:30,444 - main.positiveSelection - INFO -  Ouput in file /home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/RHO_sequences_filtered_longestORFs_prank_results_202001231826/files_list.txt
+2020-01-23 20:32:30,445 - main.positiveSelection - INFO - Finished positive selection analyses.

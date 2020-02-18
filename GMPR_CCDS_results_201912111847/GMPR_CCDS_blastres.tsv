@@ -1,0 +1,262 @@
+# BLASTN 2.10.0+
+# Query: homSap_GMPR_CCDS4537
+# Database: nt_v5					
+# Fields: subject id, ?
+# 331 hits found
+gi|1653961334|ref|NM_006877.4| Homo sapiens guanosine monophosphate reductase (GMPR), mRNA
+gi|14249818|gb|BC008281.1| Homo sapiens guanosine monophosphate reductase, mRNA (cDNA clone MGC:10464 IMAGE:3635871), complete cds
+gi|649118965|gb|KJ896895.1| Synthetic construct Homo sapiens clone ccsbBroadEn_06289 GMPR gene, encodes complete protein
+gi|312151591|gb|HQ447824.1| Synthetic construct Homo sapiens clone IMAGE:100071167; CCSB004795_01 guanosine monophosphate reductase (GMPR) gene, encodes complete protein
+gi|190691280|gb|EU831974.1| Synthetic construct Homo sapiens clone HAIB:100067003; DKFZo008G0323 guanosine monophosphate reductase protein (GMPR) gene, encodes complete protein
+gi|190689908|gb|EU832067.1| Synthetic construct Homo sapiens clone HAIB:100067096; DKFZo004G0324 guanosine monophosphate reductase protein (GMPR) gene, encodes complete protein
+gi|1367305338|ref|XM_518253.7| PREDICTED: Pan troglodytes guanosine monophosphate reductase (GMPR), mRNA
+gi|1753078986|ref|XM_004043308.3| PREDICTED: Gorilla gorilla gorilla guanosine monophosphate reductase (GMPR), transcript variant X1, mRNA
+gi|675773273|ref|XM_008976819.1| PREDICTED: Pan paniscus guanosine monophosphate reductase (GMPR), partial mRNA
+gi|197097709|ref|NM_001131713.1| Pongo abelii guanosine monophosphate reductase (GMPR), mRNA >gi|55727249|emb|CR858142.1| Pongo abelii mRNA; cDNA DKFZp468N2123 (from clone DKFZp468N2123)
+gi|1743226086|ref|XM_003263539.3| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase (GMPR), mRNA
+gi|1751275604|ref|XM_010376389.2| PREDICTED: Rhinopithecus roxellana guanosine monophosphate reductase (GMPR), transcript variant X1, mRNA
+gi|1622935640|ref|XM_015135594.2| PREDICTED: Macaca mulatta guanosine monophosphate reductase (GMPR), mRNA
+gi|1059172287|ref|XM_017887088.1| PREDICTED: Rhinopithecus bieti guanosine monophosphate reductase (GMPR), transcript variant X1, mRNA
+gi|1411150368|ref|XM_025381668.1| PREDICTED: Theropithecus gelada guanosine monophosphate reductase (GMPR), transcript variant X1, mRNA
+gi|795654789|ref|XM_011742596.1| PREDICTED: Macaca nemestrina guanosine monophosphate reductase (GMPR), mRNA
+gi|544430131|ref|XM_005553978.1| PREDICTED: Macaca fascicularis guanosine monophosphate reductase (GMPR), mRNA
+gi|1482599849|ref|XM_023209813.2| PREDICTED: Piliocolobus tephrosceles guanosine monophosphate reductase (GMPR), mRNA
+gi|795449304|ref|XM_012031368.1| PREDICTED: Cercocebus atys guanosine monophosphate reductase (GMPR), transcript variant X1, mRNA
+gi|795305859|ref|XM_011967935.1| PREDICTED: Mandrillus leucophaeus guanosine monophosphate reductase (GMPR), transcript variant X2, mRNA
+gi|795305855|ref|XM_011967934.1| PREDICTED: Mandrillus leucophaeus guanosine monophosphate reductase (GMPR), transcript variant X1, mRNA
+gi|635097159|ref|XM_007973621.1| PREDICTED: Chlorocebus sabaeus guanosine monophosphate reductase (GMPR), mRNA
+gi|1212382877|ref|XM_012476587.2| PREDICTED: Aotus nancymaae guanosine monophosphate reductase (GMPR), transcript variant X1, mRNA
+gi|1411150372|ref|XM_025381670.1| PREDICTED: Theropithecus gelada guanosine monophosphate reductase (GMPR), transcript variant X3, mRNA
+gi|1044342547|ref|XM_017521620.1| PREDICTED: Cebus capucinus imitator guanosine monophosphate reductase (GMPR), transcript variant X1, mRNA
+gi|1753078987|ref|XM_019030109.2| PREDICTED: Gorilla gorilla gorilla guanosine monophosphate reductase (GMPR), transcript variant X2, mRNA
+gi|725566668|ref|XM_003927327.2| PREDICTED: Saimiri boliviensis boliviensis guanosine monophosphate reductase (GMPR), mRNA
+gi|675651094|ref|XM_002806679.2| PREDICTED: Callithrix jacchus guanosine monophosphate reductase (GMPR), mRNA
+gi|168145604|emb|CU678899.1| Synthetic construct Homo sapiens gateway clone IMAGE:100019038 5' read GMPR mRNA
+gi|826290730|ref|XM_012643256.1| PREDICTED: Propithecus coquereli guanosine monophosphate reductase (GMPR), transcript variant X1, mRNA
+gi|640815288|ref|XM_008066216.1| PREDICTED: Carlito syrichta guanosine monophosphate reductase (GMPR), transcript variant X1, mRNA
+gi|795321292|ref|XM_011962740.1| PREDICTED: Colobus angolensis palliatus guanosine monophosphate reductase (GMPR), mRNA
+gi|168145605|emb|CU678900.1| Synthetic construct Homo sapiens gateway clone IMAGE:100019038 3' read GMPR mRNA
+gi|1149774359|ref|XM_012753650.2| PREDICTED: Microcebus murinus guanosine monophosphate reductase (GMPR), mRNA
+gi|831223395|ref|XM_003788321.2| PREDICTED: Otolemur garnettii guanosine monophosphate reductase (GMPR), mRNA
+gi|1059172289|ref|XR_001888194.1| PREDICTED: Rhinopithecus bieti guanosine monophosphate reductase (GMPR), transcript variant X2, misc_RNA
+gi|1212382878|ref|XM_021665334.1| PREDICTED: Aotus nancymaae guanosine monophosphate reductase (GMPR), transcript variant X2, mRNA
+gi|1034649913|ref|XM_011514508.2| PREDICTED: Homo sapiens guanosine monophosphate reductase (GMPR), transcript variant X1, mRNA
+gi|1411150370|ref|XM_025381669.1| PREDICTED: Theropithecus gelada guanosine monophosphate reductase (GMPR), transcript variant X2, mRNA
+gi|795305867|ref|XM_011967936.1| PREDICTED: Mandrillus leucophaeus guanosine monophosphate reductase (GMPR), transcript variant X3, mRNA
+gi|826290734|ref|XM_012643257.1| PREDICTED: Propithecus coquereli guanosine monophosphate reductase (GMPR), transcript variant X2, mRNA
+gi|1214040771|ref|XM_008066217.2| PREDICTED: Carlito syrichta guanosine monophosphate reductase (GMPR), transcript variant X2, mRNA
+gi|795449309|ref|XM_012031369.1| PREDICTED: Cercocebus atys guanosine monophosphate reductase (GMPR), transcript variant X2, mRNA
+gi|1751275605|ref|XM_010376390.2| PREDICTED: Rhinopithecus roxellana guanosine monophosphate reductase (GMPR), transcript variant X2, mRNA
+gi|1044342549|ref|XM_017521621.1| PREDICTED: Cebus capucinus imitator guanosine monophosphate reductase (GMPR), transcript variant X2, mRNA
+gi|1381513063|ref|XM_011734700.2| PREDICTED: Macaca nemestrina guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|1381513062|ref|XM_011734698.2| PREDICTED: Macaca nemestrina guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|795627165|ref|XM_011734699.1| PREDICTED: Macaca nemestrina guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|795627158|ref|XM_011734697.1| PREDICTED: Macaca nemestrina guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|1411168782|ref|XM_025391274.1| PREDICTED: Theropithecus gelada guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|1411168780|ref|XM_025391273.1| PREDICTED: Theropithecus gelada guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|1411168778|ref|XM_025391272.1| PREDICTED: Theropithecus gelada guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1411168776|ref|XM_025391271.1| PREDICTED: Theropithecus gelada guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|1060582183|ref|XM_009211303.2| PREDICTED: Papio anubis guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|982260436|ref|XM_015453649.1| PREDICTED: Macaca fascicularis guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|982260435|ref|XM_005560957.2| PREDICTED: Macaca fascicularis guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|982260434|ref|XM_005560958.2| PREDICTED: Macaca fascicularis guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|982260433|ref|XM_005560956.2| PREDICTED: Macaca fascicularis guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|982260432|ref|XM_005560955.2| PREDICTED: Macaca fascicularis guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|795418720|ref|XM_012091187.1| PREDICTED: Cercocebus atys guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|795418715|ref|XM_012091186.1| PREDICTED: Cercocebus atys guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|795418710|ref|XM_012091185.1| PREDICTED: Cercocebus atys guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|795418705|ref|XM_012091184.1| PREDICTED: Cercocebus atys guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|795361342|ref|XM_011930763.1| PREDICTED: Colobus angolensis palliatus guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|795361334|ref|XM_011930762.1| PREDICTED: Colobus angolensis palliatus guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|795361329|ref|XM_011930761.1| PREDICTED: Colobus angolensis palliatus guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|795361324|ref|XM_011930760.1| PREDICTED: Colobus angolensis palliatus guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|795328288|ref|XM_011970968.1| PREDICTED: Mandrillus leucophaeus guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|795328280|ref|XM_011970967.1| PREDICTED: Mandrillus leucophaeus guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|795328272|ref|XM_011970966.1| PREDICTED: Mandrillus leucophaeus guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|795328265|ref|XM_011970965.1| PREDICTED: Mandrillus leucophaeus guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|635126133|ref|XM_007986314.1| PREDICTED: Chlorocebus sabaeus guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|635126131|ref|XM_007986313.1| PREDICTED: Chlorocebus sabaeus guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|635126129|ref|XM_007986312.1| PREDICTED: Chlorocebus sabaeus guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|635126127|ref|XM_007986311.1| PREDICTED: Chlorocebus sabaeus guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1751277816|ref|XM_010363742.2| PREDICTED: Rhinopithecus roxellana guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|1751277815|ref|XM_010363744.2| PREDICTED: Rhinopithecus roxellana guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|1751277814|ref|XM_010363743.2| PREDICTED: Rhinopithecus roxellana guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|1751277813|ref|XM_010363741.2| PREDICTED: Rhinopithecus roxellana guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1482593714|ref|XM_023227302.2| PREDICTED: Piliocolobus tephrosceles guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|1482593713|ref|XM_023227301.2| PREDICTED: Piliocolobus tephrosceles guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA
+gi|1482593712|ref|XM_023227300.2| PREDICTED: Piliocolobus tephrosceles guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|1297690338|ref|XM_023227298.1| PREDICTED: Piliocolobus tephrosceles guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|1059178625|ref|XM_017890209.1| PREDICTED: Rhinopithecus bieti guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|1059178623|ref|XM_017890208.1| PREDICTED: Rhinopithecus bieti guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|1059178621|ref|XM_017890207.1| PREDICTED: Rhinopithecus bieti guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1059178619|ref|XM_017890206.1| PREDICTED: Rhinopithecus bieti guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|1753041275|ref|XM_019020479.2| PREDICTED: Gorilla gorilla gorilla guanosine monophosphate reductase 2 (GMPR2), transcript variant X9, mRNA
+gi|1753041274|ref|XM_019020477.2| PREDICTED: Gorilla gorilla gorilla guanosine monophosphate reductase 2 (GMPR2), transcript variant X8, mRNA
+gi|1753041273|ref|XM_019020478.2| PREDICTED: Gorilla gorilla gorilla guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|1753041272|ref|XM_019020476.2| PREDICTED: Gorilla gorilla gorilla guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA
+gi|1677538558|ref|NM_001002002.3| Homo sapiens guanosine monophosphate reductase 2 (GMPR2), transcript variant 4, mRNA
+gi|1677529948|ref|NM_016576.5| Homo sapiens guanosine monophosphate reductase 2 (GMPR2), transcript variant 1, mRNA
+gi|1677500913|ref|NM_001002001.3| Homo sapiens guanosine monophosphate reductase 2 (GMPR2), transcript variant 3, mRNA
+gi|1677499215|ref|NM_001002000.3| Homo sapiens guanosine monophosphate reductase 2 (GMPR2), transcript variant 2, mRNA
+gi|1622955185|ref|XM_001113297.4| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|1622955184|ref|XM_001113331.4| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|1622955183|ref|XM_001113269.4| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1622955182|ref|XM_015143439.2| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|1367172408|ref|XM_001168833.6| PREDICTED: Pan troglodytes guanosine monophosphate reductase 2 (GMPR2), transcript variant X10, mRNA
+gi|1367172404|ref|XM_001168884.5| PREDICTED: Pan troglodytes guanosine monophosphate reductase 2 (GMPR2), transcript variant X9, mRNA
+gi|1367172400|ref|XM_024348671.1| PREDICTED: Pan troglodytes guanosine monophosphate reductase 2 (GMPR2), transcript variant X8, mRNA
+gi|1367172396|ref|XM_024348670.1| PREDICTED: Pan troglodytes guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|675700662|ref|XM_003809077.2| PREDICTED: Pan paniscus guanosine monophosphate reductase 2 (GMPR2), transcript variant X10, mRNA
+gi|675700660|ref|XM_003809075.2| PREDICTED: Pan paniscus guanosine monophosphate reductase 2 (GMPR2), transcript variant X9, mRNA
+gi|675700656|ref|XM_008961261.1| PREDICTED: Pan paniscus guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|649108880|gb|KJ893874.1| Synthetic construct Homo sapiens clone ccsbBroadEn_03268 GMPR2 gene, encodes complete protein
+gi|397475394|ref|XM_003809076.1| PREDICTED: Pan paniscus guanosine monophosphate reductase 2 (GMPR2), transcript variant X8, mRNA
+gi|14124987|gb|BC008021.1| Homo sapiens guanosine monophosphate reductase 2, mRNA (cDNA clone MGC:15947 IMAGE:3537989), complete cds
+gi|62202472|gb|BC093039.1| Homo sapiens guanosine monophosphate reductase 2, mRNA (cDNA clone MGC:110960 IMAGE:30347740), complete cds
+gi|23451215|gb|AF419346.1| Homo sapiens guanosine monophosphate reductase 2 mRNA, complete cds
+gi|9956931|gb|AF135159.1|AF135159 Homo sapiens GMP reductase mRNA, complete cds
+gi|33872949|gb|BC009832.2| Homo sapiens guanosine monophosphate reductase 2, mRNA (cDNA clone MGC:15084 IMAGE:3958714), complete cds
+gi|28071053|emb|BX161436.1| human full-length cDNA clone CS0DI014YE13 of Placenta of Homo sapiens (human)
+gi|7384852|dbj|AB032903.1| Homo sapiens GMPR2 mRNA for guanosine monophosphate reductase isolog, complete cds
+gi|1214045707|ref|XM_021718432.1| PREDICTED: Carlito syrichta guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1743193411|ref|XM_030802689.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X11, mRNA
+gi|1743193409|ref|XM_030802688.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X10, mRNA
+gi|1743193407|ref|XM_030802687.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X9, mRNA
+gi|1351429678|ref|XM_024231135.1| PREDICTED: Pongo abelii guanosine monophosphate reductase 2 (GMPR2), transcript variant X9, mRNA
+gi|1351429671|ref|XM_024231134.1| PREDICTED: Pongo abelii guanosine monophosphate reductase 2 (GMPR2), transcript variant X8, mRNA
+gi|1351429666|ref|XM_009248957.2| PREDICTED: Pongo abelii guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|1351429661|ref|XM_009248955.2| PREDICTED: Pongo abelii guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA
+gi|1212372392|ref|XM_012467815.2| PREDICTED: Aotus nancymaae guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|1212372391|ref|XM_012467805.2| PREDICTED: Aotus nancymaae guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1212372390|ref|XM_012467795.2| PREDICTED: Aotus nancymaae guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|48146428|emb|CR457156.1| Homo sapiens full open reading frame cDNA clone RZPDo834D0612D for gene GMPR2, guanosine monophosphate reductase 2; complete cds, incl. stopcodon
+gi|725559248|ref|XM_003924281.2| PREDICTED: Saimiri boliviensis boliviensis guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|725559247|ref|XM_003924280.2| PREDICTED: Saimiri boliviensis boliviensis guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|725559245|ref|XM_010335004.1| PREDICTED: Saimiri boliviensis boliviensis guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|1044390484|ref|XM_017544710.1| PREDICTED: Cebus capucinus imitator guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|1044390482|ref|XM_017544709.1| PREDICTED: Cebus capucinus imitator guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1044390480|ref|XM_017544708.1| PREDICTED: Cebus capucinus imitator guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|197102297|ref|NM_001131259.1| Pongo abelii guanosine monophosphate reductase 2 (GMPR2), mRNA >gi|55725700|emb|CR857336.1| Pongo abelii mRNA; cDNA DKFZp469E2432 (from clone DKFZp469E2432)
+gi|826302106|ref|XM_012647268.1| PREDICTED: Propithecus coquereli guanosine monophosphate reductase 2 (GMPR2), mRNA
+gi|1149864932|ref|XM_012756016.2| PREDICTED: Microcebus murinus guanosine monophosphate reductase 2 (GMPR2), mRNA
+gi|675689051|ref|XM_002753671.3| PREDICTED: Callithrix jacchus guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|675689050|ref|XM_002753669.3| PREDICTED: Callithrix jacchus guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|675689046|ref|XM_009005822.1| PREDICTED: Callithrix jacchus guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|33150541|gb|AF086919.1| Homo sapiens GMP dehydrogenase mRNA, complete cds
+gi|1327821924|ref|XM_023508147.1| PREDICTED: Otolemur garnettii guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1327821922|ref|XM_012812818.2| PREDICTED: Otolemur garnettii guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|1700660510|ref|NR_104265.2| Homo sapiens guanosine monophosphate reductase 2 (GMPR2), transcript variant 8, non-coding RNA
+gi|28071139|emb|BX161518.1| human full-length cDNA clone CS0DL005YG10 of B cells (Ramos cell line) of Homo sapiens (human)
+gi|1381513067|ref|XM_011734703.2| PREDICTED: Macaca nemestrina guanosine monophosphate reductase 2 (GMPR2), transcript variant X8, mRNA
+gi|1381513066|ref|XM_011734704.2| PREDICTED: Macaca nemestrina guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|1381513064|ref|XM_024791559.1| PREDICTED: Macaca nemestrina guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA
+gi|168147466|emb|CU675900.1| Synthetic construct Homo sapiens gateway clone IMAGE:100023352 3' read GMPR2 mRNA
+gi|1622955200|ref|XM_028851449.1| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X13, mRNA
+gi|1622955198|ref|XM_028851448.1| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X12, mRNA
+gi|1622955196|ref|XM_028851447.1| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X11, mRNA
+gi|1622955195|ref|XM_015143442.2| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X10, mRNA
+gi|1622955188|ref|XM_015143443.2| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA
+gi|1622955186|ref|XM_028851443.1| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|1411168792|ref|XM_025391280.1| PREDICTED: Theropithecus gelada guanosine monophosphate reductase 2 (GMPR2), transcript variant X9, mRNA
+gi|1411168790|ref|XM_025391279.1| PREDICTED: Theropithecus gelada guanosine monophosphate reductase 2 (GMPR2), transcript variant X8, mRNA
+gi|1411168788|ref|XM_025391278.1| PREDICTED: Theropithecus gelada guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|1411168786|ref|XM_025391276.1| PREDICTED: Theropithecus gelada guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA
+gi|982260445|ref|XM_005560961.2| PREDICTED: Macaca fascicularis guanosine monophosphate reductase 2 (GMPR2), transcript variant X10, mRNA
+gi|982260443|ref|XM_015453652.1| PREDICTED: Macaca fascicularis guanosine monophosphate reductase 2 (GMPR2), transcript variant X9, mRNA
+gi|982260441|ref|XM_015453651.1| PREDICTED: Macaca fascicularis guanosine monophosphate reductase 2 (GMPR2), transcript variant X8, mRNA
+gi|982260440|ref|XM_005560959.2| PREDICTED: Macaca fascicularis guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|795328294|ref|XM_011970969.1| PREDICTED: Mandrillus leucophaeus guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|1753041276|ref|XM_031001669.1| PREDICTED: Gorilla gorilla gorilla guanosine monophosphate reductase 2 (GMPR2), transcript variant X10, mRNA
+gi|1751277819|ref|XM_030930137.1| PREDICTED: Rhinopithecus roxellana guanosine monophosphate reductase 2 (GMPR2), transcript variant X8, mRNA
+gi|1743193417|ref|XM_030802692.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X14, mRNA
+gi|1743193415|ref|XM_030802691.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X13, mRNA
+gi|1743193413|ref|XM_030802690.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X12, mRNA
+gi|1677531920|ref|NM_001351025.2| Homo sapiens guanosine monophosphate reductase 2 (GMPR2), transcript variant 12, mRNA
+gi|1677530819|ref|NM_001351024.2| Homo sapiens guanosine monophosphate reductase 2 (GMPR2), transcript variant 11, mRNA
+gi|1677530615|ref|NM_001351026.2| Homo sapiens guanosine monophosphate reductase 2 (GMPR2), transcript variant 13, mRNA
+gi|1677500929|ref|NM_001283023.2| Homo sapiens guanosine monophosphate reductase 2 (GMPR2), transcript variant 7, mRNA
+gi|1482593717|ref|XM_023227307.2| PREDICTED: Piliocolobus tephrosceles guanosine monophosphate reductase 2 (GMPR2), transcript variant X12, mRNA
+gi|1482593716|ref|XM_023227306.2| PREDICTED: Piliocolobus tephrosceles guanosine monophosphate reductase 2 (GMPR2), transcript variant X11, mRNA
+gi|1482593715|ref|XM_023227305.2| PREDICTED: Piliocolobus tephrosceles guanosine monophosphate reductase 2 (GMPR2), transcript variant X10, mRNA
+gi|1384953028|ref|XM_024925401.1| PREDICTED: Pan paniscus guanosine monophosphate reductase 2 (GMPR2), transcript variant X11, mRNA
+gi|1367172419|ref|XM_024348674.1| PREDICTED: Pan troglodytes guanosine monophosphate reductase 2 (GMPR2), transcript variant X13, mRNA
+gi|1367172416|ref|XM_024348673.1| PREDICTED: Pan troglodytes guanosine monophosphate reductase 2 (GMPR2), transcript variant X12, mRNA
+gi|1367172410|ref|XM_024348672.1| PREDICTED: Pan troglodytes guanosine monophosphate reductase 2 (GMPR2), transcript variant X11, mRNA
+gi|1059178633|ref|XM_017890215.1| PREDICTED: Rhinopithecus bieti guanosine monophosphate reductase 2 (GMPR2), transcript variant X8, mRNA
+gi|1059178631|ref|XM_017890214.1| PREDICTED: Rhinopithecus bieti guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|795361348|ref|XM_011930764.1| PREDICTED: Colobus angolensis palliatus guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|724826632|ref|XM_010363749.1| PREDICTED: Rhinopithecus roxellana guanosine monophosphate reductase 2 (GMPR2), transcript variant X9, mRNA
+gi|724826629|ref|XM_010363747.1| PREDICTED: Rhinopithecus roxellana guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|28193169|emb|BX247993.1| human full-length cDNA clone CS0DH001YP08 of T cells (Jurkat cell line) of Homo sapiens (human)
+gi|1351429696|ref|XM_024231139.1| PREDICTED: Pongo abelii guanosine monophosphate reductase 2 (GMPR2), transcript variant X12, mRNA
+gi|1351429691|ref|XM_024231138.1| PREDICTED: Pongo abelii guanosine monophosphate reductase 2 (GMPR2), transcript variant X11, mRNA
+gi|1351429685|ref|XM_024231136.1| PREDICTED: Pongo abelii guanosine monophosphate reductase 2 (GMPR2), transcript variant X10, mRNA
+gi|1212372395|ref|XM_021674891.1| PREDICTED: Aotus nancymaae guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|1212372393|ref|XM_021674890.1| PREDICTED: Aotus nancymaae guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|1214045705|ref|XM_021718431.1| PREDICTED: Carlito syrichta guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|1044390490|ref|XM_017544714.1| PREDICTED: Cebus capucinus imitator guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA
+gi|1044390488|ref|XM_017544712.1| PREDICTED: Cebus capucinus imitator guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|675689054|ref|XM_009005824.1| PREDICTED: Callithrix jacchus guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|795627174|ref|XM_011734702.1| PREDICTED: Macaca nemestrina guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|1411168784|ref|XM_025391275.1| PREDICTED: Theropithecus gelada guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|982260438|ref|XM_015453650.1| PREDICTED: Macaca fascicularis guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA
+gi|1751277821|ref|XM_030930138.1| PREDICTED: Rhinopithecus roxellana guanosine monophosphate reductase 2 (GMPR2), transcript variant X10, mRNA
+gi|1059178627|ref|XM_017890210.1| PREDICTED: Rhinopithecus bieti guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|1059178629|ref|XM_017890213.1| PREDICTED: Rhinopithecus bieti guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA
+gi|1622955193|ref|XM_028851445.1| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X9, mRNA
+gi|1622955191|ref|XM_028851444.1| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X8, mRNA
+gi|1622955189|ref|XM_015143441.2| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|1351429702|ref|XM_009248958.2| PREDICTED: Pongo abelii guanosine monophosphate reductase 2 (GMPR2), transcript variant X13, mRNA
+gi|1044390486|ref|XM_017544711.1| PREDICTED: Cebus capucinus imitator guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|675689052|ref|XM_009005823.1| PREDICTED: Callithrix jacchus guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|1743193403|ref|XM_030802685.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|1743193401|ref|XM_030802684.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA
+gi|1743193399|ref|XM_030802683.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|1351429652|ref|XM_024231132.1| PREDICTED: Pongo abelii guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|1351429648|ref|XM_024231131.1| PREDICTED: Pongo abelii guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|1351429644|ref|XM_009248952.2| PREDICTED: Pongo abelii guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1351429639|ref|XM_009248951.2| PREDICTED: Pongo abelii guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|1753041270|ref|XM_019020474.2| PREDICTED: Gorilla gorilla gorilla guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|1753041269|ref|XM_019020472.2| PREDICTED: Gorilla gorilla gorilla guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|1753041268|ref|XM_019020473.2| PREDICTED: Gorilla gorilla gorilla guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1753041267|ref|XM_019020471.2| PREDICTED: Gorilla gorilla gorilla guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|1677556840|ref|NM_001351022.2| Homo sapiens guanosine monophosphate reductase 2 (GMPR2), transcript variant 9, mRNA
+gi|1677500834|ref|NM_001351023.2| Homo sapiens guanosine monophosphate reductase 2 (GMPR2), transcript variant 10, mRNA
+gi|1677499804|ref|NM_001283022.2| Homo sapiens guanosine monophosphate reductase 2 (GMPR2), transcript variant 6, mRNA
+gi|1384953027|ref|XM_008961257.2| PREDICTED: Pan paniscus guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|1384953026|ref|XM_008961256.2| PREDICTED: Pan paniscus guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|1367172385|ref|XM_024348668.1| PREDICTED: Pan troglodytes guanosine monophosphate reductase 2 (GMPR2), transcript variant X4, mRNA
+gi|1367172382|ref|XM_024348667.1| PREDICTED: Pan troglodytes guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|1367172378|ref|XM_024348666.1| PREDICTED: Pan troglodytes guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1367172374|ref|XM_024348665.1| PREDICTED: Pan troglodytes guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|675700650|ref|XM_008961258.1| PREDICTED: Pan paniscus guanosine monophosphate reductase 2 (GMPR2), transcript variant X5, mRNA
+gi|675700642|ref|XM_008961255.1| PREDICTED: Pan paniscus guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|675700638|ref|XM_008961254.1| PREDICTED: Pan paniscus guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|649140705|gb|KJ902577.1| Synthetic construct Homo sapiens clone ccsbBroadEn_11971 GMPR2 gene, encodes complete protein
+gi|312151113|gb|HQ447583.1| Synthetic construct Homo sapiens clone IMAGE:100070926; CCSB014685_02 guanosine monophosphate reductase 2 (GMPR2) gene, encodes complete protein
+gi|45708410|gb|BC003053.1| Homo sapiens guanosine monophosphate reductase 2, mRNA (cDNA clone MGC:830 IMAGE:3546620), complete cds
+gi|1622955202|ref|XR_003731538.1| PREDICTED: Macaca mulatta guanosine monophosphate reductase 2 (GMPR2), transcript variant X14, misc_RNA
+gi|168151820|emb|CU678346.1| Synthetic construct Homo sapiens gateway clone IMAGE:100023064 5' read GMPR2 mRNA
+gi|168147465|emb|CU675899.1| Synthetic construct Homo sapiens gateway clone IMAGE:100023352 5' read GMPR2 mRNA
+gi|1060939292|ref|XM_017977027.1| PREDICTED: Callithrix jacchus guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA
+gi|1044390492|ref|XM_017544715.1| PREDICTED: Cebus capucinus imitator guanosine monophosphate reductase 2 (GMPR2), transcript variant X7, mRNA
+gi|1482640398|ref|XM_026452147.1| PREDICTED: Piliocolobus tephrosceles GMP reductase 2-like (LOC113222490), mRNA
+gi|168151821|emb|CU678347.1| Synthetic construct Homo sapiens gateway clone IMAGE:100023064 3' read GMPR2 mRNA
+gi|1327821926|ref|XM_023508148.1| PREDICTED: Otolemur garnettii guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|795418700|ref|XM_012091183.1| PREDICTED: Cercocebus atys guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|635126125|ref|XM_007986310.1| PREDICTED: Chlorocebus sabaeus guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|1743193405|ref|XM_030802686.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X8, mRNA
+gi|1743193395|ref|XM_030802681.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|1743193393|ref|XM_030802680.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1743193391|ref|XM_030802679.1| PREDICTED: Nomascus leucogenys guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|1751277812|ref|XM_010363738.2| PREDICTED: Rhinopithecus roxellana guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|1482593711|ref|XM_023227297.2| PREDICTED: Piliocolobus tephrosceles guanosine monophosphate reductase 2 (GMPR2), transcript variant X3, mRNA
+gi|1297690334|ref|XM_023227296.1| PREDICTED: Piliocolobus tephrosceles guanosine monophosphate reductase 2 (GMPR2), transcript variant X2, mRNA
+gi|1297690332|ref|XM_023227295.1| PREDICTED: Piliocolobus tephrosceles guanosine monophosphate reductase 2 (GMPR2), transcript variant X1, mRNA
+gi|302486558|ref|NG_026744.1| Homo sapiens guanosine monophosphate reductase pseudogene (LOC100420653) on chromosome X
+gi|281604205|ref|NG_016256.1| Homo sapiens transcription elongation factor A like 8 (TCEAL8), RefSeqGene on chromosome X
+gi|1160468|emb|Z68694.1| Human DNA sequence from clone LL0XNC01-177E8 on chromosome X, complete sequence
+gi|1149877678|ref|XR_002224001.1| PREDICTED: Microcebus murinus GMP reductase 2 pseudogene (LOC109730883), misc_RNA
+gi|194272322|gb|AC202806.3| Pan troglodytes BAC clone CH251-490C19 from chromosome x, complete sequence
+gi|1751277817|ref|XM_030930135.1| PREDICTED: Rhinopithecus roxellana guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA
+gi|635126135|ref|XM_007986316.1| PREDICTED: Chlorocebus sabaeus guanosine monophosphate reductase 2 (GMPR2), transcript variant X6, mRNA

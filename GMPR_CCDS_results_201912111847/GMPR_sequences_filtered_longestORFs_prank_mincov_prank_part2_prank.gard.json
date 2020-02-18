@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-1.070913351454569, 0.1382857825791068, 0.8063132308509652, 0.1263143380244968],
+  [0.1431341526321681, -0.9405258476207378, 0.1597199976394238, 0.6376716973491459],
+  [0.7225830375636805, 0.1382857825791068, -0.9871831581672841, 0.1263143380244968],
+  [0.1431341526321681, 0.6981070484601091, 0.1597199976394238, -1.000961198731701]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_GMPR_CCDS_results_201912111847/GMPR_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas",
+   "number of sequences":34,
+   "number of sites":1284,
+   "partition count":2
+  },
+ "timeElapsed":49,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":1047
+}

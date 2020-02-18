@@ -1,0 +1,55 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.0.1
+
+
+>Loaded a multiple sequence alignment with **24** sequences, **348** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_RHO_CCDS_results_201912111903/RHO_sequences_filtered_longestORFs_prank.best.fas`
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 0.1
+
+
+### Branches to include in the MEME analysis
+Selected 45 branches to include in the MEME analysis: `theGel_RHO_XM_025377237, macFas_RHO_S76579, macNem_RHO_XM_011734526, Node11, macMul_RHO_XM_001094250, Node10, Node8, chlSab_RHO_XM_007985378, Node7, manLeu_RHO_XM_011974200, Node6, colAngPal_RHO_XM_011950692, pilTep_RHO_XM_023215965, rhiBie_RHO_XM_017885138, rhiRox_RHO_XM_010381505, Node21, Node19, Node17, Node5, ponAbe_RHO_XM_002813145, nomLeu_RHO_XM_003265030, Node25, homSap_RHO_CCDS3063, panPan_RHO_XM_003829435, panTro_RHO_XM_516740, Node31, gorGorGor_RHO_XM_004036292, Node30, Node28, Node24, Node4, calJac_RHO_XM_008982215, cebCapImi_RHO_XM_017505088, Node36, aotNan_RHO_XM_012472901, saiBolBol_RHO_XM_003926159, Node39, Node35, Node3, carSyr_RHO_XM_008047820, Node2, micMur_RHO_XM_012785306, Node1, otoCra_RH1_AB112591, otoGar_RHO_XM_003796229`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -3303.49, AIC-c =  6713.21 (53 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -2962.46, AIC-c =  6045.79 (60 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.0399
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -2962.46
+* non-synonymous/synonymous rate ratio for *test* =   0.0399
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|
+|    112     |     1      |    1.813   |   43.927   |    0.076   |    6.943   |      Yes, p =  0.0139      |     2      |
+
+### ** Found _1_ sites under episodic diversifying positive selection at p <= 0.1**

@@ -1,0 +1,23 @@
+alphabet = Codon(letter=DNA)
+input.sequence.file=$(INPUTFILE)
+input.sequence.format=$(FORMAT)
+input.sequence.sites_to_use = all
+input.sequence.max_gap_allowed = 50%
+input.sequence.max_unresolved_allowed = 100%
+input.tree.file = $(TREEFILE)
+input.tree.format = Newick
+nonhomogeneous = general
+nonhomogeneous.number_of_models = 1
+nonhomogeneous.root_freq=F3X4(initFreqs=observed)
+model1 = $(MODEL)
+model1.nodes_id=0:$(NODES)
+likelihood.recursion = simple
+likelihood.recursion_simple.compression = recursive
+optimization = FullD(derivatives=Newton)
+optimization.ignore_parameters = $(IGNORE)
+optimization.max_number_f_eval = 10000
+optimization.tolerance = 0.00001
+output.tree.file = $(OUTTREE)
+output.tree.format = Newick
+output.estimates = $(OUTPARAMS)
+optimization.backup.file = $(BACKUP)

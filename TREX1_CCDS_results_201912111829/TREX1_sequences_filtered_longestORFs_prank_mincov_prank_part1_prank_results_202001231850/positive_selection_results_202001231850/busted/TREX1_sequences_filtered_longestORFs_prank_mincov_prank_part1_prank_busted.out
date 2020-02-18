@@ -1,0 +1,66 @@
+
+Analysis Description
+--------------------
+BUSTED (branch-site unrestricted statistical test of episodic
+diversification) uses a random effects branch-site model fitted jointly
+to all or a subset of tree branches in order to test for alignment-wide
+evidence of episodic diversifying selection. Assuming there is evidence
+of positive selection (i.e. there is an omega > 1), BUSTED will also
+perform a quick evidence-ratio style analysis to explore which
+individual sites may have been subject to selection.
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree (optionally annotated
+with {})
+
+- __Citation__: *Gene-wide identification of episodic selection*, Mol Biol Evol.
+32(5):1365-71
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 1.2
+
+
+>Loaded a multiple sequence alignment with **35** sequences, **691** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_TREX1_CCDS_results_201912111829/TREX1_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas`
+
+
+### Branches to test for selection in the BUSTED analysis
+* Selected 67 branches to test in the BUSTED analysis: `homSap_TREX1_AK315196, homSap_TREX1_NM_007248, Node10, homSap_TREX1_CCDS2769, Node9, homSap_drn3_AJ243797, homSap_TREX1_CR457119, Node14, Node8, homSap_TREX1_AF319569, homSap_TREX1_AL137745, homSap_TREX1_BC019863, Node19, Node17, Node7, panPan_TREX1_XM_008971723, panTro_TREX1_XM_024355458, panTro_TREX1_XM_024355459, Node24, Node22, Node6, gorGorGor_TREX1_XM_031009822, Node5, ponAbe_TREX1_XM_002813784, Node4, nomLeu_TREX1_XM_012497073, Node3, aotNan_TREX1_XM_012467648, calJac_TREX1_XM_008981595, cebCapImi_TREX1_XM_017515007, saiBolBol_TREX1_XM_010337062, Node35, Node33, Node31, rhiBie_TREX1_XM_017868164, rhiRox_TREX1_XM_010370420, Node40, colAngPal_TREX1_XM_011939166, colAngPal_TREX1_XM_011939167, colAngPal_TREX1_XM_011939165, Node46, Node44, pilTep_TREX1_XM_023231427, Node43, Node39, chlSab_TREX1_XM_007984121, macFas_TREX1_XM_005547019, macMul_TREX1_XM_002802809, Node55, macNem_TREX1_XM_011739222, Node54, manLeu_TREX1_XM_011980990, manLeu_TREX1_XM_011980989, Node59, Node53, theGel_TREX1_XM_025377286, theGel_TREX1_XM_025377287, Node62, Node52, Node50, Node38, Node30, Node2, carSyr_TREX1_XM_008058257, Node1, micMur_TREX1_XM_012771177, otoGar_TREX1_XM_003800560`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -5162.50, AIC-c = 10475.16 (75 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -5062.76, AIC-c = 10290.09 (82 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.3148
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -5062.76, AIC-c = 10290.09 (82 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.3152
+
+### Performing the full (dN/dS > 1 allowed) branch-site model fit
+* Log(L) = -5062.10, AIC-c = 10296.82 (86 estimated parameters)
+* For *test* branches, the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.171     |   65.179    |                                   |
+|        Negative selection         |     0.376     |   27.202    |                                   |
+|      Diversifying selection       |     1.413     |    7.619    |                                   |
+
+
+### Performing the constrained (dN/dS > 1 not allowed) model fit
+* Log(L) = -5062.14, AIC-c = 10294.88 (85 estimated parameters)
+* For *test* branches under the null (no dN/dS > 1 model), the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.136     |   65.552    |                                   |
+|        Negative selection         |     0.482     |   21.769    |                                   |
+|         Neutral evolution         |     1.000     |   12.679    |                                   |
+
+----
+## Branch-site unrestricted statistical test of episodic diversification [BUSTED]
+Likelihood ratio test for episodic diversifying positive selection, **p =   0.9636**.

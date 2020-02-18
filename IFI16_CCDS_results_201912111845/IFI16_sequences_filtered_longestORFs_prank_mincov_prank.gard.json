@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9630436885190289, 0.1856663939233609, 0.5900078287070879, 0.1873694658885801],
+  [0.2148783664375747, -0.9960971436511036, 0.1856063575735078, 0.595612419640021],
+  [0.6830580594080637, 0.1856663939233609, -1.056093919220005, 0.1873694658885801],
+  [0.2148783664375747, 0.5901986730126569, 0.1856063575735078, -0.9906833970237394]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_IFI16_CCDS_results_201912111845/IFI16_sequences_filtered_longestORFs_prank_mincov_prank.best.fas",
+   "number of sequences":86,
+   "number of sites":7341,
+   "partition count":2
+  },
+ "timeElapsed":15,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":7130
+}

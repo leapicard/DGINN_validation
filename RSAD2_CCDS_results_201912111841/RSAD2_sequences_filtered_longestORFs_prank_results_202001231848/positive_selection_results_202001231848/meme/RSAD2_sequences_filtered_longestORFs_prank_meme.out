@@ -1,0 +1,62 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.0.1
+
+
+>Loaded a multiple sequence alignment with **51** sequences, **491** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_RSAD2_CCDS_results_201912111841/RSAD2_sequences_filtered_longestORFs_prank.best.fas`
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 0.1
+
+
+### Branches to include in the MEME analysis
+Selected 99 branches to include in the MEME analysis: `homSap_RSAD2_AK300085, homSap_RSAD2_AK312670, Node11, homSap_RSAD2_CCDS1656, homSap_cig5_AF026941, Node14, Node10, homSap_RSAD2_XM_011510415, Node9, homSap_RSAD2_BC017969, Node8, panPan_RSAD2_XM_008964447, panTro_RSAD2_XM_016942853, panPan_RSAD2_XM_003812050, Node23, panTro_RSAD2_JQ437821, Node22, Node20, panTro_RSAD2_XM_009441955, Node19, Node7, gorGorGor_RSAD2_XM_019020595, gorGor_RSAD2_JQ437822, Node28, Node6, ponAbe_RSAD2_XM_009237560, ponAbe_DKFZp468O0611_CR858150, ponPyg_RSAD2_JQ437823, Node33, Node31, Node5, symSyn_RSAD2_JQ437824, hylAgi_RSAD2_JQ437825, Node37, nomLeu_RSAD2_XM_003276541, Node36, Node4, colAngPal_RSAD2_XM_011960946, colGueKik_RSAD2_JQ437832, Node45, pilTep_RSAD2_XM_023198869, pilTep_RSAD2_XM_023198876, Node49, pilTep_RSAD2_XM_023198882, Node48, Node44, rhiBie_RSAD2_XM_017896627, rhiRox_RSAD2_XM_010359224, Node53, Node43, traFra_RSAD2_JQ437831, Node42, chlSab_RSAD2_XM_007971581, chlAet_RSAD2_JQ437826, chlSab_RSAD2_XM_007971580, Node60, Node58, eryPat_RSAD2_JQ437828, papAnu_RSAD2_JQ437829, Node65, macNem_RSAD2_XM_011749452, macFas_RSAD2_XM_005576618, macMul_RSAD2_JQ437830, Node71, Node69, macNem_RSAD2_XM_011749454, Node68, Node64, theGel_RSAD2_XM_025354794, manLeu_RSAD2_XM_011993644, Node75, Node63, Node57, Node41, Node3, aotTri_RSAD2_JQ437836, aotNan_RSAD2_XM_012441947, aotNan_RSAD2_XM_012441946, Node82, Node80, cebCapImi_RSAD2_XM_017542000, cebCapImi_RSAD2_XM_017541999, Node86, calJac_RSAD2_XM_008981185, calJac_RSAD2_XM_002758049, Node90, saiBolBol_RSAD2_XM_003927233, Node89, Node85, Node79, ateGeo_RSAD2_JQ437834, lagLag_RSAD2_JQ437833, Node94, Node78, Node2, carSyr_RSAD2_XM_008051837, Node1, micMur_RSAD2_XM_012763351, otoGar_RSAD2_XM_003803558`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -5055.30, AIC-c = 10324.92 (107 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -4877.81, AIC-c =  9984.68 (114 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.2639
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -4877.81
+* non-synonymous/synonymous rate ratio for *test* =   0.2639
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|
+|    101     |     1      |    0.000   |   27.819   |    0.084   |    3.699   |      Yes, p =  0.0740      |     2      |
+|    107     |     1      |    0.000   |    2.569   |    1.000   |    4.091   |      Yes, p =  0.0603      |     1      |
+|    138     |     1      |    0.000   |    2.828   |    1.000   |    4.278   |      Yes, p =  0.0548      |     2      |
+|    240     |     1      |    0.976   |   15.394   |    0.064   |    3.372   |      Yes, p =  0.0878      |     1      |
+|    285     |     1      |    0.000   |   73.083   |    0.033   |    8.680   |      Yes, p =  0.0057      |     1      |
+|    409     |     1      |    0.000   |  235.023   |    0.022   |    3.863   |      Yes, p =  0.0679      |     1      |
+|    444     |     1      |    0.000   |    8.073   |    0.187   |    3.576   |      Yes, p =  0.0789      |     2      |
+|    481     |     1      |    1.300   |   37.511   |    0.259   |    6.765   |      Yes, p =  0.0152      |     1      |
+
+### ** Found _8_ sites under episodic diversifying positive selection at p <= 0.1**

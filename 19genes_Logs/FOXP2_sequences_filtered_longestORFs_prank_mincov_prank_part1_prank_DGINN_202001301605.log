@@ -1,0 +1,56 @@
+2020-01-30 16:05:04,909 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2020-01-30 16:05:04,910 - main - INFO - Reading input file /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas
+2020-01-30 16:05:04,910 - main - INFO - Output directory: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank_results_202001301605/
+2020-01-30 16:05:04,910 - main - INFO - Analysis will begin at the positiveSelection step
+2020-01-30 16:05:04,910 - main - WARNING - queryName is not provided, coverage check will not run.
+2020-01-30 16:05:04,910 - main.positiveSelection - INFO - Starting positive selection analyses.
+2020-01-30 16:05:04,910 - main.positiveSelection - INFO - Alignement file: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas
+2020-01-30 16:05:04,910 - main.positiveSelection - INFO - Gene Tree file: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.phylip_phyml_tree.txt
+2020-01-30 16:05:04,912 - main.positiveSelection - INFO - Location of entry files: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank_results_202001301605/positive_selection_results_202001301605/
+2020-01-30 16:05:04,912 - main.positiveSelection - INFO - Alignement: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas
+2020-01-30 16:05:04,912 - main.positiveSelection - INFO - Alignement is in Fasta format.
+2020-01-30 16:05:04,912 - main.positiveSelection - INFO - Tree: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.phylip_phyml_tree.txt
+2020-01-30 16:05:04,912 - main.positiveSelection - INFO - There are 150 nodes in the provided tree.
+2020-01-30 16:05:04,912 - main.positiveSelection - INFO - POSITIVE SELECTION ANALYSIS: 
+2020-01-30 16:05:04,912 - main.positiveSelection - INFO - Analysis to be run:
+2020-01-30 16:05:04,912 - main.positiveSelection - INFO - Site (Optimization)
+2020-01-30 16:05:04,912 - main.positiveSelection - INFO - Site (Results)
+2020-01-30 16:05:04,913 - main.positiveSelection - INFO - Branch-site
+2020-01-30 16:05:04,913 - main.positiveSelection - INFO - /home/lpicard/2019_validation
+2020-01-30 16:05:04,913 - main.positiveSelection - INFO - Bio++ Site Analysis
+2020-01-30 16:05:04,913 - main.positiveSelection - INFO - Models to be run: M0, M1, M2, M7, M8
+2020-01-30 16:05:04,913 - main.positiveSelection - INFO - Bppml parameter file: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/bppml_params.bpp
+2020-01-30 16:05:04,913 - main.positiveSelection - INFO - Bppmixedlikelihood parameter file: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/mixedlikelihood_params.bpp
+2020-01-30 16:05:04,913 - main.positiveSelection - INFO - There are 150 nodes in the provided tree.
+2020-01-30 16:05:04,922 - main.positiveSelection - INFO - Running M0 optimization
+2020-01-30 16:13:15,836 - main.positiveSelection - INFO - Log Likelihood = -4001.8521775208533
+2020-01-30 16:13:15,837 - main.positiveSelection - INFO - Optimization for model M1 uses optimized parameters from model M0
+2020-01-30 16:13:15,838 - main.positiveSelection - INFO - Running M1 optimization
+2020-01-30 16:22:40,318 - main.positiveSelection - INFO - Log Likelihood = -3997.2955279706835
+2020-01-30 16:22:40,318 - main.positiveSelection - INFO - Optimization for model M2 uses optimized parameters from model M1
+2020-01-30 16:22:40,319 - main.positiveSelection - INFO - Optimization for model M2 uses optimized parameters from model M0
+2020-01-30 16:22:40,320 - main.positiveSelection - INFO - Running M2 optimization
+2020-01-30 16:35:38,591 - main.positiveSelection - INFO - Log Likelihood = -3995.8540778420265
+2020-01-30 16:35:38,592 - main.positiveSelection - INFO - Optimization for model M7 uses optimized parameters from model M2
+2020-01-30 16:35:38,593 - main.positiveSelection - INFO - Optimization for model M7 uses optimized parameters from model M1
+2020-01-30 16:35:38,593 - main.positiveSelection - INFO - Optimization for model M7 uses optimized parameters from model M0
+2020-01-30 16:35:38,594 - main.positiveSelection - INFO - Running M7 optimization
+2020-01-30 16:45:36,531 - main.positiveSelection - INFO - Log Likelihood = -3999.9648156069525
+2020-01-30 16:45:36,531 - main.positiveSelection - INFO - Optimization for model M8 uses optimized parameters from model M7
+2020-01-30 16:45:36,532 - main.positiveSelection - INFO - Optimization for model M8 uses optimized parameters from model M2
+2020-01-30 16:45:36,533 - main.positiveSelection - INFO - Optimization for model M8 uses optimized parameters from model M1
+2020-01-30 16:45:36,533 - main.positiveSelection - INFO - Optimization for model M8 uses optimized parameters from model M0
+2020-01-30 16:45:36,534 - main.positiveSelection - INFO - Running M8 optimization
+2020-01-30 19:24:43,698 - main.positiveSelection - INFO - Log Likelihood = -3995.976985812579
+2020-01-30 19:24:43,699 - main.positiveSelection - INFO - LRT of M1 vs M2: 0.23658443194377118
+2020-01-30 19:24:43,699 - main.positiveSelection - INFO - LRT of M7 vs M8: 0.018539905899933835
+2020-01-30 19:24:43,699 - main.positiveSelection - INFO - M0 is not a mixed model, skipping.
+2020-01-30 19:24:43,699 - main.positiveSelection - INFO - Running mixed likelihoods with model M1
+2020-01-30 19:24:44,101 - main.positiveSelection - INFO - Running mixed likelihoods with model M2
+2020-01-30 19:24:44,136 - main.positiveSelection - INFO - Running mixed likelihoods with model M7
+2020-01-30 19:24:44,170 - main.positiveSelection - INFO - Running mixed likelihoods with model M8
+2020-01-30 19:24:44,204 - main.positiveSelection - INFO - Episodic selection (MEME, HYPHY)
+2020-01-30 19:24:44,245 - main.positiveSelection - INFO - MEME batch file: /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank_results_202001301605/positive_selection_results_202001301605/meme/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank_meme.bf
+2020-01-30 19:39:13,900 - main.positiveSelection - INFO - End analysis
+2020-01-30 19:39:13,900 - main.positiveSelection - INFO -  Ouput in file /home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank_results_202001301605/files_list.txt
+2020-01-30 19:39:13,900 - main.positiveSelection - INFO - Finished positive selection analyses.

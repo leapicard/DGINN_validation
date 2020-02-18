@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.8579464419684046, 0.1153268196447668, 0.5890204313990116, 0.1535991909246261],
+  [0.1863719672602959, -1.108928139417289, 0.1115576105622946, 0.8109985615946981],
+  [0.9840377182966077, 0.1153268196447668, -1.252963728866001, 0.1535991909246261],
+  [0.1863719672602959, 0.6089217285727357, 0.1115576105622946, -0.9068513063953262]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_RB1_CCDS_results_201912111823/RB1_sequences_filtered_longestORFs_prank.best.fas",
+   "number of sequences":36,
+   "number of sites":3012,
+   "partition count":2
+  },
+ "timeElapsed":98,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":2018
+}

@@ -1,0 +1,14 @@
+# Log likelihood = -6131.36601148009413009277
+# Number of sites = 586
+
+# Substitution model parameters:
+nonhomogeneous=general
+nonhomogeneous.number_of_models=1
+
+model1=YNGP_M2(frequencies=F3X4(1_Full.theta=0.458645008325,1_Full.theta1=0.576709957745,1_Full.theta2=0.467523060307,2_Full.theta=0.482929323565,2_Full.theta1=0.573028643020,2_Full.theta2=0.486160660960,3_Full.theta=0.485374188806,3_Full.theta1=0.493841538686,3_Full.theta2=0.534824126902),kappa=3.476407541543,theta1=0.629638024946,theta2=0.992974122925,omega0=0.141904360998,omega2=10.407967041417)
+model1.nodes_id=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44
+
+# Root frequencies:
+nonhomogeneous.root_freq=F3X4(1_Full.theta=0.546320249233,1_Full.theta1=0.645381197913,1_Full.theta2=0.561809068587,2_Full.theta=0.307801781994,2_Full.theta1=0.587664146628,2_Full.theta2=0.394285571413,3_Full.theta=0.536586291782,3_Full.theta1=0.508749454192,3_Full.theta2=0.602396429907)
+# Rate distribution parameters:
+rate_distribution=Constant()

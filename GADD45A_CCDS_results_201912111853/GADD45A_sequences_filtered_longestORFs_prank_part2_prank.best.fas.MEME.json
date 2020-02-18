@@ -1,0 +1,599 @@
+{
+ "analysis":{
+   "info":"MEME (Mixed Effects Model of Evolution)\n    estimates a site-wise synonymous (&alpha;) and a two-category mixture of non-synonymous\n    (&beta;-, with proportion p-, and &beta;+ with proportion [1-p-]) rates, and\n    uses a likelihood ratio test to determine if &beta;+ > &alpha; at a site.\n    The estimates aggregate information over a proportion of branches at a site,\n    so the signal is derived from\n    episodic diversification, which is a combination of strength of selection [effect size] and\n    the proportion of the tree affected. A subset of branches can be selected\n    for testing as well, in which case an additional (nuisance) parameter will be\n    inferred -- the non-synonymous rate on branches NOT selected for testing. Multiple partitions within a NEXUS file are also supported\n    for recombination - aware analysis.\n    ",
+   "version":"2.0.1",
+   "citation":"Detecting Individual Sites Subject to Episodic Diversifying Selection. _PLoS Genet_ 8(7): e1002764.",
+   "authors":"Sergei L. Kosakovsky Pond, Steven Weaver",
+   "contact":"spond@temple.edu",
+   "requirements":"in-frame codon alignment and a phylogenetic tree"
+  },
+ "fits":{
+   "Nucleotide GTR":{
+     "Log Likelihood":-804.1525297877457,
+     "estimated parameters":13,
+     "AIC-c":1634.496035441179,
+     "Equilibrium frequencies":[
+      [0.2036458333333333],
+      [0.3130208333333333],
+      [0.3317708333333333],
+      [0.1515625]
+      ],
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.08619483671754109,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0,
+       "Substitution rate from nucleotide C to nucleotide G":0.1086550362743511,
+       "Substitution rate from nucleotide C to nucleotide T":1.309735551813159,
+       "Substitution rate from nucleotide G to nucleotide T":0.220040433759298
+      },
+     "display order":0
+    },
+   "Global MG94xREV":{
+     "Log Likelihood":-723.4545449218856,
+     "estimated parameters":20,
+     "AIC-c":1488.266117307422,
+     "Equilibrium frequencies":[
+      [0.004671014543075922],
+      [0.03474165865647126],
+      [0.0348116165777872],
+      [0.00283672574512103],
+      [0.002702716019746017],
+      [0.02010202206340392],
+      [0.020142500720215],
+      [0.001641370208604797],
+      [0.002115714456916542],
+      [0.01573607377988445],
+      [0.01576776089713467],
+      [0.00128488182040806],
+      [0.003791901568126552],
+      [0.0282030699591957],
+      [0.02825986137979489],
+      [0.002302836932335057],
+      [0.005669089239293175],
+      [0.04216505031793402],
+      [0.04224995643314263],
+      [0.003442860485272987],
+      [0.003280216356234622],
+      [0.02439730296635578],
+      [0.02444643086258314],
+      [0.00199208846418413],
+      [0.002567787779402685],
+      [0.01909846473642556],
+      [0.01913692256903791],
+      [0.001559427750580729],
+      [0.004602132615534388],
+      [0.03422933475078034],
+      [0.0342982610254545],
+      [0.002794893476043581],
+      [0.008355292466067105],
+      [0.06214425499089508],
+      [0.06226939245033185],
+      [0.005074202408905473],
+      [0.004834492076496995],
+      [0.03595755738933557],
+      [0.03602996371844697],
+      [0.002936006302594752],
+      [0.003784491120548565],
+      [0.02814795318790932],
+      [0.02820463362201857],
+      [0.002298336537991711],
+      [0.006782776270992411],
+      [0.05044833317835406],
+      [0.05054991901678247],
+      [0.004119207057456479],
+      [0.0240768444580943],
+      [0.001965922387612564],
+      [0.001873050272736577],
+      [0.01393120758279062],
+      [0.01395926031146284],
+      [0.001137510894384611],
+      [0.01090549546081622],
+      [0.0109274554311476],
+      [0.0008904554627887789],
+      [0.002627883290171614],
+      [0.0195454378089062],
+      [0.01958479569373955],
+      [0.001595923993739963]
+      ],
+     "Rate Distributions":{
+       "non-synonymous/synonymous rate ratio for *test*":[
+        [0.05019286429938242, 1]
+        ]
+      },
+     "display order":1
+    }
+  },
+ "timers":{
+   "Total time":{
+     "timer":50,
+     "order":0
+    },
+   "Model fitting":{
+     "timer":4,
+     "order":1
+    },
+   "MEME analysis":{
+     "timer":45,
+     "order":2
+    }
+  },
+ "tested":{
+   "0":{
+     "calJac_Gadd45b_AB863011":"test",
+     "aotNan_GADD45B_XM_012436386":"test",
+     "Node1":"test",
+     "saiBolBol_GADD45B_XM_003928609":"test",
+     "cebCapImi_GADD45B_XM_017507472":"test"
+    }
+  },
+ "input":{
+   "file name":"/home/lpicard/2019_validation/20191211/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs_prank_part2_prank.best.fas",
+   "number of sequences":4,
+   "number of sites":160,
+   "partition count":1,
+   "trees":{
+     "0":"((calJac_Gadd45b_AB863011,aotNan_GADD45B_XM_012436386)Node1,saiBolBol_GADD45B_XM_003928609,cebCapImi_GADD45B_XM_017507472)"
+    }
+  },
+ "data partitions":{
+   "0":{
+     "name":"meme.filter.default",
+     "coverage":[
+      [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159]
+      ]
+    }
+  },
+ "branch attributes":{
+   "0":{
+     "calJac_Gadd45b_AB863011":{
+       "original name":"calJac_Gadd45b_AB863011",
+       "Nucleotide GTR":0.02190196472219599,
+       "Global MG94xREV":0.02369551229574429,
+       "EBF site 2 (partition 1)":1,
+       "EBF site 15 (partition 1)":1,
+       "EBF site 27 (partition 1)":1,
+       "EBF site 29 (partition 1)":1,
+       "EBF site 70 (partition 1)":1,
+       "EBF site 30 (partition 1)":1,
+       "EBF site 39 (partition 1)":1,
+       "EBF site 46 (partition 1)":1,
+       "EBF site 59 (partition 1)":1,
+       "EBF site 62 (partition 1)":1,
+       "EBF site 67 (partition 1)":1,
+       "EBF site 72 (partition 1)":1,
+       "EBF site 76 (partition 1)":1,
+       "EBF site 80 (partition 1)":1,
+       "EBF site 93 (partition 1)":1,
+       "EBF site 124 (partition 1)":1,
+       "EBF site 125 (partition 1)":1,
+       "EBF site 129 (partition 1)":95.47094693614312,
+       "EBF site 133 (partition 1)":18.91537184276546,
+       "EBF site 138 (partition 1)":1,
+       "EBF site 140 (partition 1)":0.02199707079090563,
+       "EBF site 144 (partition 1)":1,
+       "EBF site 146 (partition 1)":1,
+       "EBF site 147 (partition 1)":1,
+       "EBF site 154 (partition 1)":351.8373404816238,
+       "EBF site 159 (partition 1)":20.15817204982477
+      },
+     "cebCapImi_GADD45B_XM_017507472":{
+       "original name":"cebCapImi_GADD45B_XM_017507472",
+       "Nucleotide GTR":0.01421608546004994,
+       "Global MG94xREV":0.01566814649958542,
+       "EBF site 2 (partition 1)":1,
+       "EBF site 15 (partition 1)":1,
+       "EBF site 27 (partition 1)":1,
+       "EBF site 29 (partition 1)":1,
+       "EBF site 70 (partition 1)":1,
+       "EBF site 30 (partition 1)":1,
+       "EBF site 39 (partition 1)":1,
+       "EBF site 46 (partition 1)":1,
+       "EBF site 59 (partition 1)":1,
+       "EBF site 62 (partition 1)":1,
+       "EBF site 67 (partition 1)":1,
+       "EBF site 72 (partition 1)":1,
+       "EBF site 76 (partition 1)":1,
+       "EBF site 80 (partition 1)":1,
+       "EBF site 93 (partition 1)":1,
+       "EBF site 124 (partition 1)":1,
+       "EBF site 125 (partition 1)":1,
+       "EBF site 129 (partition 1)":0.7769876160269522,
+       "EBF site 133 (partition 1)":0.7940979061064549,
+       "EBF site 138 (partition 1)":1,
+       "EBF site 140 (partition 1)":0.05260707392451967,
+       "EBF site 144 (partition 1)":1,
+       "EBF site 146 (partition 1)":1,
+       "EBF site 147 (partition 1)":1,
+       "EBF site 154 (partition 1)":0.7754667321349201,
+       "EBF site 159 (partition 1)":0.7858915038497521
+      },
+     "saiBolBol_GADD45B_XM_003928609":{
+       "original name":"saiBolBol_GADD45B_XM_003928609",
+       "Nucleotide GTR":0.0068443943600901,
+       "Global MG94xREV":0.006268990004668904,
+       "EBF site 2 (partition 1)":1,
+       "EBF site 15 (partition 1)":1,
+       "EBF site 27 (partition 1)":1,
+       "EBF site 29 (partition 1)":1,
+       "EBF site 70 (partition 1)":1,
+       "EBF site 30 (partition 1)":1,
+       "EBF site 39 (partition 1)":1,
+       "EBF site 46 (partition 1)":1,
+       "EBF site 59 (partition 1)":1,
+       "EBF site 62 (partition 1)":1,
+       "EBF site 67 (partition 1)":1,
+       "EBF site 72 (partition 1)":1,
+       "EBF site 76 (partition 1)":1,
+       "EBF site 80 (partition 1)":1,
+       "EBF site 93 (partition 1)":1,
+       "EBF site 124 (partition 1)":1,
+       "EBF site 125 (partition 1)":1,
+       "EBF site 129 (partition 1)":0.9015598611583193,
+       "EBF site 133 (partition 1)":0.9130881042953949,
+       "EBF site 138 (partition 1)":1,
+       "EBF site 140 (partition 1)":656.1278915983993,
+       "EBF site 144 (partition 1)":1,
+       "EBF site 146 (partition 1)":1,
+       "EBF site 147 (partition 1)":1,
+       "EBF site 154 (partition 1)":0.9013303006888637,
+       "EBF site 159 (partition 1)":0.908387993265761
+      },
+     "aotNan_GADD45B_XM_012436386":{
+       "original name":"aotNan_GADD45B_XM_012436386",
+       "Nucleotide GTR":0.01419489302176756,
+       "Global MG94xREV":0.0155294694329513,
+       "EBF site 2 (partition 1)":1,
+       "EBF site 15 (partition 1)":1,
+       "EBF site 27 (partition 1)":1,
+       "EBF site 29 (partition 1)":1,
+       "EBF site 70 (partition 1)":1,
+       "EBF site 30 (partition 1)":1,
+       "EBF site 39 (partition 1)":1,
+       "EBF site 46 (partition 1)":1,
+       "EBF site 59 (partition 1)":1,
+       "EBF site 62 (partition 1)":1,
+       "EBF site 67 (partition 1)":1,
+       "EBF site 72 (partition 1)":1,
+       "EBF site 76 (partition 1)":1,
+       "EBF site 80 (partition 1)":1,
+       "EBF site 93 (partition 1)":1,
+       "EBF site 124 (partition 1)":1,
+       "EBF site 125 (partition 1)":1,
+       "EBF site 129 (partition 1)":0.7835453899624838,
+       "EBF site 133 (partition 1)":0.8121978987042056,
+       "EBF site 138 (partition 1)":1,
+       "EBF site 140 (partition 1)":0.02508004355214042,
+       "EBF site 144 (partition 1)":1,
+       "EBF site 146 (partition 1)":1,
+       "EBF site 147 (partition 1)":1,
+       "EBF site 154 (partition 1)":0.7795433948156004,
+       "EBF site 159 (partition 1)":0.8038481679467059
+      },
+     "Node1":{
+       "Nucleotide GTR":0.002147596353129159,
+       "Global MG94xREV":0.002666654381124897,
+       "EBF site 2 (partition 1)":1,
+       "EBF site 15 (partition 1)":1,
+       "EBF site 27 (partition 1)":1,
+       "EBF site 29 (partition 1)":1,
+       "EBF site 70 (partition 1)":1,
+       "EBF site 30 (partition 1)":1,
+       "EBF site 39 (partition 1)":1,
+       "EBF site 46 (partition 1)":1,
+       "EBF site 59 (partition 1)":1,
+       "EBF site 62 (partition 1)":1,
+       "EBF site 67 (partition 1)":1,
+       "EBF site 72 (partition 1)":1,
+       "EBF site 76 (partition 1)":1,
+       "EBF site 80 (partition 1)":1,
+       "EBF site 93 (partition 1)":1,
+       "EBF site 124 (partition 1)":1,
+       "EBF site 125 (partition 1)":1,
+       "EBF site 129 (partition 1)":0.9623371951819937,
+       "EBF site 133 (partition 1)":0.9775900388852884,
+       "EBF site 138 (partition 1)":1,
+       "EBF site 140 (partition 1)":0.1000860438315548,
+       "EBF site 144 (partition 1)":1,
+       "EBF site 146 (partition 1)":1,
+       "EBF site 147 (partition 1)":1,
+       "EBF site 154 (partition 1)":0.9593213170651718,
+       "EBF site 159 (partition 1)":0.9756902639107186
+      }
+    },
+   "attributes":{
+     "original name":{
+       "attribute type":"node label",
+       "display order":-1
+      },
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "Global MG94xREV":{
+       "attribute type":"branch length",
+       "display order":1
+      },
+     "EBF site 2 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":4
+      },
+     "EBF site 15 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":17
+      },
+     "EBF site 27 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":29
+      },
+     "EBF site 29 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":31
+      },
+     "EBF site 70 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":72
+      },
+     "EBF site 30 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":32
+      },
+     "EBF site 39 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":41
+      },
+     "EBF site 46 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":48
+      },
+     "EBF site 59 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":61
+      },
+     "EBF site 62 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":64
+      },
+     "EBF site 67 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":69
+      },
+     "EBF site 72 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":74
+      },
+     "EBF site 76 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":78
+      },
+     "EBF site 80 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":82
+      },
+     "EBF site 93 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":95
+      },
+     "EBF site 124 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":126
+      },
+     "EBF site 125 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":127
+      },
+     "EBF site 129 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":131
+      },
+     "EBF site 133 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":135
+      },
+     "EBF site 138 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":140
+      },
+     "EBF site 140 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":142
+      },
+     "EBF site 144 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":146
+      },
+     "EBF site 146 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":148
+      },
+     "EBF site 147 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":149
+      },
+     "EBF site 154 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":156
+      },
+     "EBF site 159 (partition 1)":{
+       "attribute type":"branch label",
+       "display order":161
+      }
+    }
+  },
+ "MLE":{
+   "headers":[
+    ["alpha;", "Synonymous substitution rate at a site"],
+    ["&beta;<sup>-</sup>", "Non-synonymous substitution rate at a site for the negative/neutral evolution component"],
+    ["p<sup>-</sup>", "Mixture distribution weight allocated to &beta;<sup>-</sup>; loosely -- the proportion of the tree evolving neutrally or under negative selection"],
+    ["&beta;<sup>+</sup>", "Non-synonymous substitution rate at a site for the positive/neutral evolution component"],
+    ["p<sup>+</sup>", "Mixture distribution weight allocated to &beta;<sup>+</sup>; loosely -- the proportion of the tree evolving neutrally or under positive selection"],
+    ["LRT", "Likelihood ratio test statistic for episodic diversification, i.e., p<sup>+</sup> &gt; 0 <emph>and<emph> &beta;<sup>+</sup> &gt; &alpha;"],
+    ["p-value", "Asymptotic p-value for episodic diversification, i.e., p<sup>+</sup> &gt; 0 <emph>and<emph> &beta;<sup>+</sup> &gt; &alpha;"],
+    ["# branches under selection", "The (very approximate and rough) estimate of how many branches may have been under selection at this site, i.e., had an empirical Bayes factor of 100 or more for the &beta;<sup>+</sup> rate"],
+    ["Total branch length", "The total length of branches contributing to inference at this site, and used to scale dN-dS"]
+    ],
+   "content":{
+     "0":[
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [150.47078131546, 0, 0.03681004871458421, 0, 0.9631899512854158, 0, 0.6666666666666666, 0, 7.68642765899196],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [79.40253321284393, 0, 0.2474883513214478, 0, 0.7525116486785522, 0, 0.6666666666666666, 0, 4.056081999080603],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [3.949878177614392, 0, 0.1406244357866675, 0, 0.8593755642133325, 0, 0.6666666666666666, 0, 0.2017697562852001],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [10.10820125676702, 0, 0.1433534646795546, 0, 0.8566465353204453, 0, 0.6666666666666666, 0, 0.5163524575564125],
+      [1.380769990784906, 0, 0.04088205395389502, 0, 0.959117946046105, 0, 0.6666666666666666, 0, 0.07053321950674769],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [8.725472800311787, 0, 0.1929514018175767, 0, 0.8070485981824232, 0, 0.6666666666666666, 0, 0.4457191946753565],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [2.991835291214057, 0, 0.05207845777700684, 0, 0.9479215422229932, 0, 0.6666666666666666, 0, 0.1528305052482188],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [2.991835291214057, 0, 0.05207845777700684, 0, 0.9479215422229932, 0, 0.6666666666666666, 0, 0.1528305052482188],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [23.32368973516415, 0, 0.05209586618961451, 0, 0.9479041338103855, 0, 0.6666666666666666, 0, 1.191432996644465],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [1.541828041670245, 1.174028276734541, 1.386182958290771e-08, 1.161415743546259, 0.9999999861381704, 0, 0.6666666666666666, 0, 0.373696639022279],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [10.10820125676702, 0, 0.1433534646795546, 0, 0.8566465353204453, 0, 0.6666666666666666, 0, 0.5163524575564125],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [2.14089931598453, 0, 0.05137530896678845, 0, 0.9486246910332116, 0, 0.6666666666666666, 0, 0.1093625458287543],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [8.725472558952589, 0, 0.1188300451010137, 0, 0.8811699548989863, 0, 0.6666666666666666, 0, 0.4457191823461189],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [6.368692188900945, 0, 0.05176284060434969, 0, 0.9482371593956503, 0, 0.6666666666666666, 0, 0.325328886873698],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [8.417044065851202, 0, 0.05157833176460961, 0, 0.9484216682353904, 0, 0.6666666666666666, 0, 0.4299638757047217],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [640.1540970435196, 0, 0.05094777371974603, 0, 0.949052226280254, 0, 0.6666666666666666, 0, 32.7006885623633],
+      [1.381421164773644, 0, 0.01783116326233941, 0, 0.9821688367376606, 0, 0.6666666666666666, 0, 0.07056648311921848],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [4.876158981054299e-15, 4.873322872786775e-15, 1.006625420819865e-08, 1.325124677703777, 0.9999999899337458, 0.2028156435474369, 0.5270442726703181, 0, 0.3365092921465339],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [4.389954481836938e-14, 4.38572532536673e-14, 1.003384402729716e-08, 1.999338352042298, 0.999999989966156, 0.1924682260695807, 0.5312865653340429, 0, 0.5077227410743147],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [1.801035748066936, 0, 0.05216326052905634, 0, 0.9478367394709437, 0, 0.6666666666666666, 0, 0.09200145614816863],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [2.084549500007805e-14, 1.630046855168598e-17, 0.7906391521761251, 96.34762476284237, 0.2093608478238749, 0.8076900493390582, 0.3554820070432995, 1, 5.122439107057839],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [163.9838450002946, 0, 0.05146012135766566, 0, 0.9485398786423344, 0, 0.6666666666666666, 0, 8.376709091418871],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [6.768313779160724, 0, 0.05087117242305726, 0, 0.9491288275769427, 0, 0.6666666666666666, 0, 0.3457425673081967],
+      [3.951128509192657, 0, 0.05100241172570546, 0, 0.9489975882742946, 0, 0.6666666666666666, 0, 0.2018336263810558],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [2.210404238682489e-14, 2.209118606741394e-14, 1.027192299323472e-08, 1.393312375807781, 0.999999989728077, 0.1406456135493706, 0.5540593993833631, 1, 0.3538252430994752],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0],
+      [1.586626194450284e-15, 1.585703368987653e-15, 1.151279856864906e-08, 1.884608131543401, 0.9999999884872014, 1.454335600936613, 0.2455511841796643, 0, 0.4785875307226441],
+      [0, 0, 1, 0, 0, 0, 1, 0, 0]
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+
+Analysis Description
+--------------------
+BUSTED (branch-site unrestricted statistical test of episodic
+diversification) uses a random effects branch-site model fitted jointly
+to all or a subset of tree branches in order to test for alignment-wide
+evidence of episodic diversifying selection. Assuming there is evidence
+of positive selection (i.e. there is an omega > 1), BUSTED will also
+perform a quick evidence-ratio style analysis to explore which
+individual sites may have been subject to selection.
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree (optionally annotated
+with {})
+
+- __Citation__: *Gene-wide identification of episodic selection*, Mol Biol Evol.
+32(5):1365-71
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 1.2
+
+
+>Loaded a multiple sequence alignment with **77** sequences, **1153** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas`
+
+
+### Branches to test for selection in the BUSTED analysis
+* Selected 151 branches to test in the BUSTED analysis: `papAnu_FOXP2_NM_001168922, macMul_FOXP2_XM_028844760, macMul_FOXP2_XM_028844761, theGel_FOXP2_XM_025380562, macMul_FOXP2_XM_015134718, theGel_FOXP2_XM_025380565, Node21, macMul_FOXP2_XM_015134717, Node20, theGel_FOXP2_XM_025380564, Node19, Node17, Node15, Node13, Node11, theGel_FOXP2_XM_025380561, Node10, macMul_FOXP2_XM_015134716, Node9, theGel_FOXP2_XM_025380560, Node8, macNem_FOXP2_XM_011731314, Node7, macFas_FOXP2_XM_015447961, Node6, manLeu_FOXP2_XM_011967097, manLeu_FOXP2_XM_011967099, manLeu_FOXP2_XM_011967098, manLeu_FOXP2_XM_011967100, manLeu_FOXP2_XM_011967102, Node37, Node35, Node33, Node31, Node5, colAngPal_FOXP2_XM_011955953, pilTep_FOXP2_XM_023228234, pilTep_FOXP2_XM_023228233, pilTep_FOXP2_XM_023228235, pilTep_FOXP2_XM_023228239, Node49, Node47, Node45, pilTep_FOXP2_XM_023228236, Node44, pilTep_FOXP2_XM_023228238, pilTep_FOXP2_XM_023228237, Node53, Node43, rhiBie_FOXP2_XM_017864605, rhiRox_FOXP2_XM_030933310, Node56, Node42, Node40, Node4, chlSab_FOXP2_XM_007982645, chlSab_FOXP2_XM_007982646, chlSab_FOXP2_XM_007982648, chlSab_FOXP2_XM_007982650, chlSab_FOXP2_XM_007982649, chlSab_FOXP2_XM_007982653, chlSab_FOXP2_XM_007982659, chlSab_FOXP2_XM_007982654, Node72, Node70, Node68, Node66, chlSab_FOXP2_XM_007982643, Node65, Node63, Node61, Node59, Node3, ponAbe_FOXP2_XM_024250289, ponPyg_FOXP2_AY143181, ponPyg_FOXP2_AF512949, Node80, Node78, ponPyg_FOXP2_AY064615, Node77, nomLeu_FOXP2_XM_030826322, nomLeu_FOXP2_XM_003261215, Node85, gorGorGor_FOXP2_XM_031012626, gorGorGor_FOXP2_XM_031012627, gorGorGor_FOXP2_XM_031012628, gorGor_FOXP2_AY143180, gorGorGor_FOXP2_XM_031012629, gorGorGor_FOXP2_XM_031012630, Node98, Node96, Node94, Node92, Node90, gorGor_FOXP2_AF512948, gorGor_FOXP2_AY064598, Node101, Node89, homSap_FOXP2_CCDS43635, homSap_FOXP2_AK296957, homSap_FOXP2_AF337817, homSap_FOXP2_NM_001172766, homSap_FOXP2_NM_001172767, homSap_FOXP2_KJ535086, Node116, homSap_FOXP2_AY144615, homSap_FOXP2_AF467259, homSap_FOXP2_NR_033767, Node121, Node119, Node115, Node113, Node111, Node109, homSap_FOXP2_BC143867, Node108, Node106, homSap_FOXP2_KJ535079, Node105, panTro_FOXP2_AY143178, panPan_FOXP2_XM_024929371, panPan_FOXP2_AY143179, Node129, panTro_FOXP2_XM_009454010, panTro_FOXP2_XM_016956790, panTro_FOXP2_XM_009454011, panTro_FOXP2_AY064549, panTro_FOXP2_XM_009454013, Node138, Node136, Node134, Node132, Node128, Node126, Node104, Node88, Node84, Node76, Node2, calJac_FOXP2_XM_017975473, saiBolBol_FOXP2_XM_003921067, saiBolBol_FOXP2_XM_003921068, Node145, Node143, aotNan_FOXP2_XM_012456997, Node142, cebCapImi_FOXP2_XM_017535042, Node141, Node1, micMur_FOXP2_XM_020289760, otoGar_FOXP2_XM_023513202`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -6116.37, AIC-c = 12550.92 (159 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -5826.26, AIC-c = 11985.15 (166 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.0389
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -5826.26, AIC-c = 11985.15 (166 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.0389
+
+### Performing the full (dN/dS > 1 allowed) branch-site model fit
+* Log(L) = -5820.97, AIC-c = 11982.60 (170 estimated parameters)
+* For *test* branches, the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.020     |   93.660    |                                   |
+|        Negative selection         |     0.065     |    6.290    |                                   |
+|      Diversifying selection       |    61.947     |    0.050    |                                   |
+
+
+### Performing the constrained (dN/dS > 1 not allowed) model fit
+* Log(L) = -5823.12, AIC-c = 11984.89 (169 estimated parameters)
+* For *test* branches under the null (no dN/dS > 1 model), the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.000     |   25.797    |                                   |
+|        Negative selection         |     0.000     |   70.476    |       Collapsed rate class        |
+|         Neutral evolution         |     1.000     |    3.728    |                                   |
+
+----
+## Branch-site unrestricted statistical test of episodic diversification [BUSTED]
+Likelihood ratio test for episodic diversifying positive selection, **p =   0.1164**.

@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9259415509326819, 0.1157553904583732, 0.6671294210569527, 0.143056739417356],
+  [0.1852753388954258, -1.033339358676964, 0.1335741202299625, 0.7144898995515762],
+  [0.9253486331082749, 0.1157553904583732, -1.184160762984004, 0.143056739417356],
+  [0.1852753388954258, 0.5781346453022994, 0.1335741202299625, -0.8969841044276877]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_SMC6_CCDS_results_201912111851/SMC6_sequences_filtered_longestORFs_prank_mincov_prank.best.fas",
+   "number of sequences":57,
+   "number of sites":5613,
+   "partition count":2
+  },
+ "timeElapsed":167,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":4735
+}

@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9784390376414741, 0.1617683373102312, 0.6812755660165476, 0.1353951343146954],
+  [0.186606443535662, -0.9181672018511414, 0.161932668818258, 0.5696280894972213],
+  [0.785081919354861, 0.1617683373102312, -1.082245390979788, 0.1353951343146954],
+  [0.186606443535662, 0.6805841981661787, 0.161932668818258, -1.029123310520099]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_MX1_CCDS_results_201912111855/MX1_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas",
+   "number of sequences":60,
+   "number of sites":2685,
+   "partition count":2
+  },
+ "timeElapsed":287,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":2327
+}

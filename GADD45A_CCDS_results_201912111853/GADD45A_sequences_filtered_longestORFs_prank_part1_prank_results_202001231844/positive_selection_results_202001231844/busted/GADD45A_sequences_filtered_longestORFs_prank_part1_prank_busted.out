@@ -1,0 +1,57 @@
+
+Analysis Description
+--------------------
+BUSTED (branch-site unrestricted statistical test of episodic
+diversification) uses a random effects branch-site model fitted jointly
+to all or a subset of tree branches in order to test for alignment-wide
+evidence of episodic diversifying selection. Assuming there is evidence
+of positive selection (i.e. there is an omega > 1), BUSTED will also
+perform a quick evidence-ratio style analysis to explore which
+individual sites may have been subject to selection.
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree (optionally annotated
+with {})
+
+- __Citation__: *Gene-wide identification of episodic selection*, Mol Biol Evol.
+32(5):1365-71
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 1.2
+
+
+>Loaded a multiple sequence alignment with **30** sequences, **171** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_GADD45A_CCDS_results_201912111853/GADD45A_sequences_filtered_longestORFs_prank_part1_prank.best.fas`
+
+
+### Branches to test for selection in the BUSTED analysis
+* Selected 57 branches to test in the BUSTED analysis: `panTro_GADD45A_XM_513476, panPan_GADD45A_XM_003807870, homSap_GADD45A_DQ008445, panTro_GADD45A_XM_001164496, Node15, Node13, Node11, homSap_GADD45A_CCDS640, Node10, gorGorGor_GADD45A_XM_004025945, Node9, nomLeu_GADD45A_XM_003260166, Node8, ponAbe_GADD45A_XM_002810715, Node7, chlSab_GADD45A_XM_007978352, macFas_GADD45A_XM_005543072, macNem_GADD45A_XM_011770509, theGel_GADD45A_XM_025364922, theGel_GADD45A_XM_025364933, papAnu_GADD45A_XM_003892033, Node33, Node31, Node29, Node27, manLeu_GADD45A_XM_011994991, manLeu_GADD45A_XM_011994990, Node36, Node26, macMul_GADD45A_NM_001261305, Node25, pilTep_GADD45A_XM_023209754, rhiRox_GADD45A_XM_010357070, rhiBie_GADD45A_XM_017877148, Node43, Node41, colAngPal_GADD45A_XM_011936879, colAngPal_GADD45A_XM_011936878, Node46, Node40, Node24, Node22, Node6, cebCapImi_GADD45A_XM_017532269, Node5, aotNan_GADD45A_XM_012442688, Node4, saiBolBol_GADD45A_XM_003921437, Node3, calJac_GADD45A_XM_009001461, calJac_GADD45A_XM_002750938, Node52, Node2, micMur_GADD45A_XM_012767243, Node1, otoGar_GADD45A_XM_003784233, carSyr_LOC103266579_XM_021715630`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -1378.63, AIC-c =  2887.82 (65 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -1279.72, AIC-c =  2705.51 (72 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.0911
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -1279.72, AIC-c =  2705.52 (72 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.0911
+
+### Performing the full (dN/dS > 1 allowed) branch-site model fit
+* Log(L) = -1279.72, AIC-c =  2713.75 (76 estimated parameters)
+* For *test* branches, the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.091     |   100.000   |                                   |
+|        Negative selection         |     0.124     |    0.000    |       Not supported by data       |
+|      Diversifying selection       |     1.002     |    0.000    |       Not supported by data       |
+
+
+### No evidence for episodic diversifying positive selection under the unconstrained model, skipping constrained model fitting
+----
+## Branch-site unrestricted statistical test of episodic diversification [BUSTED]
+Likelihood ratio test for episodic diversifying positive selection, **p =   1.0000**.

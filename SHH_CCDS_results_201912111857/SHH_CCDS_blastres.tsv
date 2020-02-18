@@ -1,0 +1,82 @@
+# BLASTN 2.10.0+
+# Query: homSap_SHH_CCDS5942
+# Database: nt_v5					
+# Fields: subject id, ?
+# 611 hits found
+gi|1519245148|ref|NM_000193.4| Homo sapiens sonic hedgehog signaling molecule (SHH), transcript variant 1, mRNA
+gi|663156|gb|L38518.1|HUMSHH Homo sapiens sonic hedgehog protein (SHH) mRNA, complete cds
+gi|208967465|dbj|AB464234.1| Synthetic construct DNA, clone: pF1KB7188, Homo sapiens SHH gene for sonic hedgehog homolog, without stop codon, in Flexi system
+gi|108752131|gb|BC111925.1| Synthetic construct Homo sapiens clone IMAGE:40080739, MGC:133452 SHH protein (SHH) mRNA, encodes complete protein
+gi|1367318809|ref|XM_001147185.5| PREDICTED: Pan troglodytes sonic hedgehog (SHH), mRNA
+gi|1753081489|ref|XM_004046549.3| PREDICTED: Gorilla gorilla gorilla sonic hedgehog signaling molecule (SHH), transcript variant X1, mRNA
+gi|1351510105|ref|XM_002818721.2| PREDICTED: Pongo abelii sonic hedgehog (SHH), transcript variant X1, mRNA
+gi|1743155098|ref|XM_003280860.2| PREDICTED: Nomascus leucogenys sonic hedgehog signaling molecule (SHH), transcript variant X1, mRNA
+gi|1482610482|ref|XM_023225522.2| PREDICTED: Piliocolobus tephrosceles sonic hedgehog (SHH), mRNA
+gi|1751285803|ref|XM_030932987.1| PREDICTED: Rhinopithecus roxellana sonic hedgehog signaling molecule (SHH), mRNA
+gi|1381503875|ref|XM_011729914.2| PREDICTED: Macaca nemestrina sonic hedgehog (SHH), mRNA
+gi|1411147289|ref|XM_025380081.1| PREDICTED: Theropithecus gelada sonic hedgehog (SHH), transcript variant X1, mRNA
+gi|795453671|ref|XM_012032153.1| PREDICTED: Cercocebus atys sonic hedgehog (SHH), mRNA
+gi|635117576|ref|XM_007983598.1| PREDICTED: Chlorocebus sabaeus sonic hedgehog (SHH), mRNA
+gi|1622927933|ref|XM_001106515.4| PREDICTED: Macaca mulatta sonic hedgehog signaling molecule (SHH), mRNA
+gi|982242387|ref|XM_005551269.2| PREDICTED: Macaca fascicularis sonic hedgehog (SHH), mRNA
+gi|725601976|ref|XM_010329567.1| PREDICTED: Saimiri boliviensis boliviensis sonic hedgehog (SHH), mRNA
+gi|1044341973|ref|XM_017519603.1| PREDICTED: Cebus capucinus imitator sonic hedgehog (SHH), mRNA
+gi|1059128333|ref|XM_017860555.1| PREDICTED: Rhinopithecus bieti sonic hedgehog (SHH), mRNA
+gi|1061014622|ref|XM_002807047.4| PREDICTED: Callithrix jacchus sonic hedgehog (SHH), mRNA
+gi|1034656586|ref|XM_011516480.2| PREDICTED: Homo sapiens sonic hedgehog signaling molecule (SHH), transcript variant X2, mRNA
+gi|1034656585|ref|XM_011516479.2| PREDICTED: Homo sapiens sonic hedgehog signaling molecule (SHH), transcript variant X1, mRNA
+gi|795162591|ref|XM_011941594.1| PREDICTED: Colobus angolensis palliatus sonic hedgehog (SHH), mRNA
+gi|829874078|ref|XM_012786262.1| PREDICTED: Microcebus murinus sonic hedgehog (SHH), mRNA
+gi|1327802324|ref|XM_012806501.2| PREDICTED: Otolemur garnettii sonic hedgehog (SHH), mRNA
+gi|1384971160|ref|XM_008969436.2| PREDICTED: Pan paniscus sonic hedgehog (SHH), mRNA
+gi|893579206|ref|NG_007504.2| Homo sapiens sonic hedgehog signaling molecule (SHH), RefSeqGene on chromosome 7
+gi|302313186|gb|HM015597.1| Homo sapiens sonic hedgehog homolog (Drosophila) (SHH) gene, complete cds
+gi|13992722|gb|AC078834.5| Homo sapiens BAC clone RP11-69O3 from 7, complete sequence
+gi|36968309|gb|AY422195.1| Homo sapiens sonic hedgehog homolog (Drosophila) (SHH) gene, complete cds
+gi|2341017|gb|AC002484.1|AC002484 Human cosmid clone LL157A05 from 7q36, complete sequence
+gi|826321566|ref|XM_012654149.1| PREDICTED: Propithecus coquereli sonic hedgehog (SHH), mRNA
+gi|55820060|gb|AC147335.2| Pan troglodytes BAC clone RP43-4C1 from chromosome 7, complete sequence
+gi|330369917|gb|HQ437695.1| Gorilla gorilla sonic hedgehog (SHH) mRNA, complete cds
+gi|330369919|gb|HQ437696.1| Pongo pygmaeus sonic hedgehog (SHH) mRNA, complete cds
+gi|330369931|gb|HQ437702.1| Hylobates lar sonic hedgehog (SHH) mRNA, complete cds
+gi|307589959|gb|HM803971.1| Colobus guereza sonic hedgehog (Shh) mRNA, partial cds
+gi|307589961|gb|HM803972.1| Pygathrix nemaeus sonic hedgehog (Shh) mRNA, partial cds
+gi|56122353|gb|AY665290.1| Pan troglodytes sonic hedgehog mRNA, partial cds
+gi|307589977|gb|HM803980.1| Semnopithecus entellus sonic hedgehog (Shh) mRNA, partial cds
+gi|55846701|gb|AY650323.1| Macaca fascicularis sonic hedgehog mRNA, partial cds
+gi|307589965|gb|HM803974.1| Trachypithecus francoisi sonic hedgehog (Shh) mRNA, partial cds
+gi|56122263|gb|AY665245.1| Saimiri boliviensis sonic hedgehog mRNA, partial cds
+gi|330369921|gb|HQ437697.1| Aotus vociferans sonic hedgehog (SHH) mRNA, complete cds
+gi|307589971|gb|HM803977.1| Callithrix geoffroyi sonic hedgehog (Shh) mRNA, partial cds
+gi|307589999|gb|HM803991.1| Ateles geoffroyi sonic hedgehog (Shh) mRNA, partial cds
+gi|330369911|gb|HQ437692.1| Varecia variegata variegata sonic hedgehog (SHH) mRNA, complete cds
+gi|307589969|gb|HM803976.1| Otolemur garnettii sonic hedgehog (Shh) mRNA, partial cds
+gi|307589967|gb|HM803975.1| Galago senegalensis sonic hedgehog (Shh) mRNA, partial cds
+gi|1777253874|ref|XM_017947005.3| PREDICTED: Papio anubis Indian hedgehog signaling molecule (IHH), mRNA
+gi|1411098684|ref|XM_025405060.1| PREDICTED: Theropithecus gelada indian hedgehog (IHH), mRNA
+gi|223460383|gb|BC136588.1| Homo sapiens Indian hedgehog homolog (Drosophila), mRNA (cDNA clone MGC:168201 IMAGE:9020578), complete cds
+gi|223459665|gb|BC136587.1| Homo sapiens Indian hedgehog homolog (Drosophila), mRNA (cDNA clone MGC:168200 IMAGE:9020577), complete cds
+gi|1622851813|ref|XM_001092385.4| PREDICTED: Macaca mulatta Indian hedgehog signaling molecule (IHH), mRNA
+gi|1519313484|ref|NM_002181.4| Homo sapiens Indian hedgehog signaling molecule (IHH), mRNA
+gi|1351489340|ref|XM_024243601.1| PREDICTED: Pongo abelii indian hedgehog (IHH), mRNA
+gi|1059121126|ref|XM_017856903.1| PREDICTED: Rhinopithecus bieti indian hedgehog (IHH), mRNA
+gi|795647906|ref|XM_011740687.1| PREDICTED: Macaca nemestrina indian hedgehog (IHH), mRNA
+gi|795369572|ref|XM_011932236.1| PREDICTED: Colobus angolensis palliatus indian hedgehog (IHH), mRNA
+gi|795280473|ref|XM_011964693.1| PREDICTED: Mandrillus leucophaeus indian hedgehog (IHH), partial mRNA
+gi|675749553|ref|XM_008972046.1| PREDICTED: Pan paniscus indian hedgehog (IHH), mRNA
+gi|544477775|ref|XM_005574335.1| PREDICTED: Macaca fascicularis indian hedgehog (IHH), mRNA
+gi|1482581322|ref|XM_023217456.2| PREDICTED: Piliocolobus tephrosceles indian hedgehog (IHH), mRNA
+gi|1149880203|ref|XM_012740314.2| PREDICTED: Microcebus murinus indian hedgehog (IHH), mRNA
+gi|1753061219|ref|XM_031008417.1| PREDICTED: Gorilla gorilla gorilla Indian hedgehog signaling molecule (IHH), mRNA
+gi|1751218165|ref|XM_010360263.2| PREDICTED: Rhinopithecus roxellana Indian hedgehog signaling molecule (IHH), mRNA
+gi|1367263029|ref|XM_526034.7| PREDICTED: Pan troglodytes indian hedgehog (IHH), mRNA
+gi|795611418|ref|XM_012062875.1| PREDICTED: Cercocebus atys indian hedgehog (IHH), mRNA
+gi|635060828|ref|XM_007966333.1| PREDICTED: Chlorocebus sabaeus indian hedgehog (IHH), mRNA
+gi|725562377|ref|XM_003925517.2| PREDICTED: Saimiri boliviensis boliviensis indian hedgehog (IHH), mRNA
+gi|1743194744|ref|XM_030803137.1| PREDICTED: Nomascus leucogenys Indian hedgehog signaling molecule (IHH), mRNA
+gi|826288523|ref|XM_012642492.1| PREDICTED: Propithecus coquereli indian hedgehog (IHH), mRNA
+gi|1212439121|ref|XM_012446381.2| PREDICTED: Aotus nancymaae indian hedgehog (IHH), mRNA
+gi|1044370866|ref|XM_017535196.1| PREDICTED: Cebus capucinus imitator indian hedgehog (IHH), mRNA
+gi|1061006563|ref|XM_002749801.4| PREDICTED: Callithrix jacchus indian hedgehog (IHH), mRNA
+gi|1214030472|ref|XM_021712801.1| PREDICTED: Carlito syrichta indian hedgehog (IHH), mRNA
+gi|1327788749|ref|XM_003784940.3| PREDICTED: Otolemur garnettii indian hedgehog (IHH), mRNA

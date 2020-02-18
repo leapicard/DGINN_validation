@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-1.03603815210403, 0.1127712389637188, 0.7963962366099937, 0.1268706765303171],
+  [0.1405542014843314, -1.000000739694505, 0.1405472696074549, 0.718899268602718],
+  [0.7964355153570829, 0.1127712389637188, -1.036077430851119, 0.1268706765303171],
+  [0.1405542014843314, 0.6390062970229924, 0.1405472696074549, -0.9201077681147788]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_RSAD2_CCDS_results_201912111841/RSAD2_sequences_filtered_longestORFs_prank.best.fas",
+   "number of sequences":51,
+   "number of sites":1473,
+   "partition count":2
+  },
+ "timeElapsed":82,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":939
+}

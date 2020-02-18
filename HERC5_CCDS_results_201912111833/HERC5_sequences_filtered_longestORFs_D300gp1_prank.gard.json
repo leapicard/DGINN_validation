@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-0.9609129105975968, 0.1556438907499103, 0.6291311995598866, 0.1761378202877999],
+  [0.1913944122771176, -1.031454121335316, 0.1638828644429204, 0.6761768446152778],
+  [0.7347454939494389, 0.1556438907499103, -1.066527204987149, 0.1761378202877999],
+  [0.1913944122771176, 0.597502539539539, 0.1638828644429204, -0.9527798162595772]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_D300gp1_prank.best.fas",
+   "number of sequences":27,
+   "number of sites":4917,
+   "partition count":2
+  },
+ "timeElapsed":69,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":3764
+}

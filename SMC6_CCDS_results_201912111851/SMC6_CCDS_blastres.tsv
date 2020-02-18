@@ -1,0 +1,102 @@
+# BLASTN 2.10.0+
+# Query: homSap_SMC6_CCDS1690
+# Database: nt_v5					
+# Fields: subject id, ?
+# 292 hits found
+gi|1519314689|ref|NM_001142286.2| Homo sapiens structural maintenance of chromosomes 6 (SMC6), transcript variant 1, mRNA
+gi|1389445370|gb|MF624758.1| Homo sapiens cell line HepG2 structural maintenance of chromosomes 6 (SMC6) mRNA, complete cds
+gi|1370479008|ref|XM_017004915.2| PREDICTED: Homo sapiens structural maintenance of chromosomes 6 (SMC6), transcript variant X4, mRNA
+gi|214010214|ref|NM_024624.5| Homo sapiens structural maintenance of chromosomes 6 (SMC6), transcript variant 2, mRNA
+gi|21733567|emb|AL832979.1| Homo sapiens mRNA; cDNA DKFZp666P102 (from clone DKFZp666P102)
+gi|12052725|emb|AL136544.1| Homo sapiens mRNA; cDNA DKFZp761N0411 (from clone DKFZp761N0411)
+gi|24980981|gb|BC039828.1| Homo sapiens structural maintenance of chromosomes 6, mRNA (cDNA clone MGC:48735 IMAGE:5724409), complete cds
+gi|1389445376|gb|MF624761.1| Homo sapiens cell line 293T structural maintenance of chromosomes 6 (SMC6) mRNA, complete cds
+gi|158258273|dbj|AK292421.1| Homo sapiens cDNA FLJ78755 complete cds, highly similar to Homo sapiens SMC6 structural maintenance of chromosomes 6-like 1(SMC6L1), mRNA
+gi|208965581|dbj|AB463292.1| Synthetic construct DNA, clone: pF1KB8642, Homo sapiens SMC6 gene for protein for structural maintenance of chromosomes 6, without stop codon, in Flexi system
+gi|117646593|emb|AM392534.1| Synthetic construct Homo sapiens clone IMAGE:100001751 for hypothetical protein (SMC6 gene)
+gi|14250919|emb|AJ310551.1| Homo sapiens mRNA for SMC6 protein
+gi|1367248724|ref|XM_001136387.5| PREDICTED: Pan troglodytes structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|675786123|ref|XM_008952337.1| PREDICTED: Pan paniscus structural maintenance of chromosomes 6 (SMC6), mRNA
+gi|1753059690|ref|XM_031008069.1| PREDICTED: Gorilla gorilla gorilla structural maintenance of chromosomes 6 (SMC6), mRNA
+gi|1351484820|ref|XM_002812267.4| PREDICTED: Pongo abelii structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1743178121|ref|XM_003275952.3| PREDICTED: Nomascus leucogenys structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|1743178119|ref|XM_030799869.1| PREDICTED: Nomascus leucogenys structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|795517070|ref|XM_012044539.1| PREDICTED: Cercocebus atys structural maintenance of chromosomes 6 (SMC6), transcript variant X3, mRNA
+gi|795517065|ref|XM_012044538.1| PREDICTED: Cercocebus atys structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|795517056|ref|XM_012044537.1| PREDICTED: Cercocebus atys structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1777273484|ref|XM_017947300.2| PREDICTED: Papio anubis structural maintenance of chromosomes 6 (SMC6), transcript variant X6, mRNA
+gi|1777273482|ref|XM_031654940.1| PREDICTED: Papio anubis structural maintenance of chromosomes 6 (SMC6), transcript variant X4, mRNA
+gi|1777273480|ref|XM_031654939.1| PREDICTED: Papio anubis structural maintenance of chromosomes 6 (SMC6), transcript variant X3, mRNA
+gi|1777273479|ref|XM_003908303.4| PREDICTED: Papio anubis structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1751248276|ref|XM_030921040.1| PREDICTED: Rhinopithecus roxellana structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|1751248275|ref|XM_010354839.2| PREDICTED: Rhinopithecus roxellana structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1220168241|ref|XM_021924602.1| PREDICTED: Papio anubis structural maintenance of chromosomes 6 (SMC6), transcript variant X5, mRNA
+gi|1220168240|ref|XM_009183732.3| PREDICTED: Papio anubis structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|982291523|ref|XM_005576496.2| PREDICTED: Macaca fascicularis structural maintenance of chromosomes 6 (SMC6), transcript variant X3, mRNA
+gi|982291521|ref|XM_015433965.1| PREDICTED: Macaca fascicularis structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|982291520|ref|XM_005576497.2| PREDICTED: Macaca fascicularis structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1622856452|ref|XM_015111756.2| PREDICTED: Macaca mulatta structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|1622856450|ref|XM_015111754.2| PREDICTED: Macaca mulatta structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1297604155|ref|XM_023199436.1| PREDICTED: Piliocolobus tephrosceles structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1389445372|gb|MF624759.1| Chlorocebus tantalus cell line Cos7 structural maintenance of chromosomes 6 (SMC6) mRNA, complete cds
+gi|1389445364|gb|MF624755.1| Chlorocebus pygerythrus cell line Vero structural maintenance of chromosomes 6 (SMC6) mRNA, complete cds
+gi|635082385|ref|XM_007971395.1| PREDICTED: Chlorocebus sabaeus structural maintenance of chromosomes 6 (SMC6), transcript variant X3, mRNA
+gi|635082383|ref|XM_007971394.1| PREDICTED: Chlorocebus sabaeus structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|635082381|ref|XM_007971393.1| PREDICTED: Chlorocebus sabaeus structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1059132742|ref|XM_017871423.1| PREDICTED: Rhinopithecus bieti structural maintenance of chromosomes 6 (SMC6), mRNA
+gi|1212436853|ref|XM_021669005.1| PREDICTED: Aotus nancymaae structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1389445366|gb|MF624756.1| Aotus trivirgatus cell line OMK structural maintenance of chromosomes 6 (SMC6) mRNA, complete cds
+gi|1389445374|gb|MF624760.1| Saguinus oedipus cell line B95a structural maintenance of chromosomes 6 (SMC6) mRNA, complete cds
+gi|1044332562|ref|XM_017526152.1| PREDICTED: Cebus capucinus imitator structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|725585505|ref|XM_010345747.1| PREDICTED: Saimiri boliviensis boliviensis structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|403288135|ref|XM_003935220.1| PREDICTED: Saimiri boliviensis boliviensis structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1060952962|ref|XM_008981110.2| PREDICTED: Callithrix jacchus structural maintenance of chromosomes 6 (SMC6), mRNA
+gi|1411101899|ref|XM_025354290.1| PREDICTED: Theropithecus gelada structural maintenance of chromosomes 6 (SMC6), mRNA
+gi|1044332564|ref|XM_017526160.1| PREDICTED: Cebus capucinus imitator structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|795106881|ref|XM_011951319.1| PREDICTED: Colobus angolensis palliatus structural maintenance of chromosomes 6 (SMC6), mRNA
+gi|1351484821|ref|XM_024242304.1| PREDICTED: Pongo abelii structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|1743178122|ref|XM_030799870.1| PREDICTED: Nomascus leucogenys structural maintenance of chromosomes 6 (SMC6), transcript variant X3, mRNA
+gi|1370479007|ref|XM_011533107.3| PREDICTED: Homo sapiens structural maintenance of chromosomes 6 (SMC6), transcript variant X3, mRNA
+gi|1370479006|ref|XM_017004913.2| PREDICTED: Homo sapiens structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1034616573|ref|XM_017004914.1| PREDICTED: Homo sapiens structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|1777273487|ref|XM_021924604.2| PREDICTED: Papio anubis structural maintenance of chromosomes 6 (SMC6), transcript variant X9, mRNA
+gi|795517075|ref|XM_012044540.1| PREDICTED: Cercocebus atys structural maintenance of chromosomes 6 (SMC6), transcript variant X4, mRNA
+gi|1367248723|ref|XM_016947633.2| PREDICTED: Pan troglodytes structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1212436862|ref|XM_021669009.1| PREDICTED: Aotus nancymaae structural maintenance of chromosomes 6 (SMC6), transcript variant X6, mRNA
+gi|1777273486|ref|XM_017947301.3| PREDICTED: Papio anubis structural maintenance of chromosomes 6 (SMC6), transcript variant X8, mRNA
+gi|1751248279|ref|XM_030921041.1| PREDICTED: Rhinopithecus roxellana structural maintenance of chromosomes 6 (SMC6), transcript variant X4, mRNA
+gi|1777273485|ref|XR_001893895.2| PREDICTED: Papio anubis structural maintenance of chromosomes 6 (SMC6), transcript variant X7, misc_RNA
+gi|1751248278|ref|XR_004054311.1| PREDICTED: Rhinopithecus roxellana structural maintenance of chromosomes 6 (SMC6), transcript variant X3, misc_RNA
+gi|1381516846|ref|XM_011738227.2| PREDICTED: Macaca nemestrina structural maintenance of chromosomes 6 (SMC6), partial mRNA
+gi|982291527|ref|XM_015433967.1| PREDICTED: Macaca fascicularis structural maintenance of chromosomes 6 (SMC6), transcript variant X6, mRNA
+gi|982291526|ref|XR_001484641.1| PREDICTED: Macaca fascicularis structural maintenance of chromosomes 6 (SMC6), transcript variant X5, misc_RNA
+gi|1622856455|ref|XR_001438932.2| PREDICTED: Macaca mulatta structural maintenance of chromosomes 6 (SMC6), transcript variant X4, misc_RNA
+gi|1297604161|ref|XM_023199444.1| PREDICTED: Piliocolobus tephrosceles structural maintenance of chromosomes 6 (SMC6), transcript variant X3, mRNA
+gi|1297604158|ref|XM_023199441.1| PREDICTED: Piliocolobus tephrosceles structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|1149883799|ref|XM_012755437.2| PREDICTED: Microcebus murinus structural maintenance of chromosomes 6 (SMC6), transcript variant X4, mRNA
+gi|1149883798|ref|XM_012755436.2| PREDICTED: Microcebus murinus structural maintenance of chromosomes 6 (SMC6), transcript variant X3, mRNA
+gi|1149883797|ref|XM_012755434.2| PREDICTED: Microcebus murinus structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|1149883796|ref|XM_012755433.2| PREDICTED: Microcebus murinus structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1212436860|ref|XM_021669008.1| PREDICTED: Aotus nancymaae structural maintenance of chromosomes 6 (SMC6), transcript variant X5, mRNA
+gi|1370479010|ref|XM_017004916.2| PREDICTED: Homo sapiens structural maintenance of chromosomes 6 (SMC6), transcript variant X6, mRNA
+gi|1212436855|ref|XM_021669006.1| PREDICTED: Aotus nancymaae structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|1212436858|ref|XM_021669007.1| PREDICTED: Aotus nancymaae structural maintenance of chromosomes 6 (SMC6), transcript variant X4, mRNA
+gi|1212436857|ref|XR_002478238.1| PREDICTED: Aotus nancymaae structural maintenance of chromosomes 6 (SMC6), transcript variant X3, misc_RNA
+gi|1743178124|ref|XM_030799871.1| PREDICTED: Nomascus leucogenys structural maintenance of chromosomes 6 (SMC6), transcript variant X4, mRNA
+gi|1327793499|ref|XM_023511862.1| PREDICTED: Otolemur garnettii structural maintenance of chromosomes 6 (SMC6), transcript variant X4, mRNA
+gi|1327793497|ref|XM_023511861.1| PREDICTED: Otolemur garnettii structural maintenance of chromosomes 6 (SMC6), transcript variant X3, mRNA
+gi|1327793495|ref|XM_023511860.1| PREDICTED: Otolemur garnettii structural maintenance of chromosomes 6 (SMC6), transcript variant X2, mRNA
+gi|1327793494|ref|XM_003787408.3| PREDICTED: Otolemur garnettii structural maintenance of chromosomes 6 (SMC6), transcript variant X1, mRNA
+gi|1214028415|ref|XM_008057485.2| PREDICTED: Carlito syrichta structural maintenance of chromosomes 6 (SMC6), mRNA
+gi|982291524|ref|XM_015433966.1| PREDICTED: Macaca fascicularis structural maintenance of chromosomes 6 (SMC6), transcript variant X4, mRNA
+gi|1622856454|ref|XM_015111757.2| PREDICTED: Macaca mulatta structural maintenance of chromosomes 6 (SMC6), transcript variant X3, mRNA
+gi|1044332566|ref|XM_017526170.1| PREDICTED: Cebus capucinus imitator structural maintenance of chromosomes 6 (SMC6), transcript variant X3, mRNA
+gi|21758317|dbj|AK098325.1| Homo sapiens cDNA FLJ41006 fis, clone UTERU2017632, weakly similar to DNA REPAIR PROTEIN RAD18
+gi|1370479009|ref|XM_011533108.3| PREDICTED: Homo sapiens structural maintenance of chromosomes 6 (SMC6), transcript variant X5, mRNA
+gi|1367248725|ref|XM_016947646.2| PREDICTED: Pan troglodytes structural maintenance of chromosomes 6 (SMC6), transcript variant X3, mRNA
+gi|795086318|ref|XM_011971451.1| PREDICTED: Mandrillus leucophaeus structural maintenance of chromosomes 6 (SMC6), mRNA
+gi|21618574|gb|BC032675.1| Homo sapiens structural maintenance of chromosomes 6, mRNA (cDNA clone IMAGE:5575553), partial cds
+gi|10438386|dbj|AK025769.1| Homo sapiens cDNA: FLJ22116 fis, clone HEP18520
+gi|826318611|ref|XM_012653102.1| PREDICTED: Propithecus coquereli structural maintenance of chromosomes protein 6 (LOC105817416), mRNA
+gi|1370479011|ref|XR_939716.3| PREDICTED: Homo sapiens structural maintenance of chromosomes 6 (SMC6), transcript variant X7, misc_RNA
+gi|343961298|dbj|AK305245.1| Pan troglodytes mRNA for SMC6 protein, complete cds, clone: PtsC-2-5_E01

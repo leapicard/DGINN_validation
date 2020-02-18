@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-1.04539725379853, 0.1860916576279051, 0.7329246252565803, 0.1263809709140442],
+  [0.1048815774053415, -0.9141160069092146, 0.1379950762733846, 0.6712393532304884],
+  [0.5570509679913489, 0.1860916576279051, -0.8695235965332981, 0.1263809709140442],
+  [0.1048815774053415, 0.9883769922348615, 0.1379950762733846, -1.231253645913588]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_RHO_CCDS_results_201912111903/RHO_sequences_filtered_longestORFs_prank.best.fas",
+   "number of sequences":24,
+   "number of sites":1044,
+   "partition count":2
+  },
+ "timeElapsed":25,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":173
+}

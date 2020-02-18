@@ -1,0 +1,47 @@
+2019-12-11 18:25:26,589 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2019-12-11 18:25:26,590 - main - INFO - Reading input file /home/lpicard/2019_validation/21genes_FOXP2_CCDS.fasta
+2019-12-11 18:25:26,590 - main - INFO - Output directory: /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/
+2019-12-11 18:25:26,590 - main - INFO - Analysis will begin at the blast step
+2019-12-11 18:25:26,627 - main - INFO - Running Blast
+2019-12-11 18:25:26,627 - main - INFO - Database search on nr will be limited to Primates[Organism]
+2019-12-11 19:23:15,846 - main - INFO - Blast results written to: /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/21genes_FOXP2_CCDS_blastres.tsv, 207 sequences retrieved.
+2019-12-11 19:23:15,865 - main - INFO - Extracted gene accessions from blast results
+2019-12-11 19:23:15,865 - main - INFO - Wrote all accessions to /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/FOXP2_accns.txt
+2019-12-11 19:23:21,524 - main - INFO - Remote option on, downloaded gene IDs and sequences from NCBI databases (28 different species represented in the retrieved sequences).
+2019-12-11 19:23:21,524 - main - INFO - Deleted 0 sequences due to excessive length.
+2019-12-11 19:23:21,858 - main - INFO - Deleted 47 sequences as duplicates
+2019-12-11 19:23:21,862 - main - INFO - Extracted longest ORFs: /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs.fasta
+2019-12-11 19:23:21,863 - main - INFO - Started Prank codon alignment
+2019-12-11 21:04:19,544 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank.best.fas
+2019-12-11 21:04:19,684 - main - INFO - Discarding sequences with less than 50% coverage of query.
+2019-12-11 21:04:19,728 - main - INFO - Discarded 4 sequences
+2019-12-11 21:04:19,732 - main - INFO - Started Prank codon alignment
+2019-12-11 22:23:01,487 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank.best.fas
+2019-12-11 22:23:01,544 - main - INFO - Running PhyML to produce gene phylogenetic tree
+2019-12-11 22:28:22,557 - main - INFO - Reconstructed tree using PhyML: /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank.phylip_phyml_tree.txt
+2019-12-11 22:28:22,627 - main - INFO - Looking for long branches.
+2019-12-11 22:28:22,652 - main - INFO - 1 long branches found, separating alignments.
+2019-12-11 22:28:22,750 - main - INFO - Reconstructing alignments and phylogenies following long branch parsing.
+2019-12-11 22:28:22,753 - main - INFO - Started Prank codon alignment
+2019-12-11 23:05:46,494 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas
+2019-12-11 23:06:20,365 - main - INFO - Reconstructing alignments and phylogenies following long branch parsing.
+2019-12-11 23:06:20,366 - main - INFO - Started Prank codon alignment
+2019-12-11 23:44:40,859 - main - INFO - Finished Prank codon alignment: /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas
+2019-12-11 23:44:57,379 - main - INFO - Cleaning the tree
+2019-12-11 23:44:57,379 - main - INFO - Running Treerecs
+2019-12-11 23:44:57,964 - main - INFO - 54 duplications detected by Treerecs, extracting 0 groups of at least 8 orthologs.
+2019-12-11 23:44:58,017 - main - INFO - Cleaning the tree
+2019-12-11 23:44:58,017 - main - INFO - Running Treerecs
+2019-12-11 23:44:58,354 - main - INFO - 44 duplications detected by Treerecs, extracting 0 groups of at least 8 orthologs.
+2019-12-11 23:44:58,354 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas
+2019-12-11 23:49:28,077 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-11 23:49:59,662 - main - INFO - Extracted GARD results.
+2019-12-11 23:49:59,663 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part1_prank.best.fas.
+2019-12-11 23:49:59,663 - main - INFO - Parsed GARD results.
+2019-12-11 23:49:59,663 - main - INFO - No fragments of recombination identified.
+2019-12-11 23:49:59,663 - main - INFO - Running GARD on /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas
+2019-12-11 23:51:51,325 - main - INFO - Checked for recombination using HYPHY GARD.
+2019-12-11 23:51:59,220 - main - INFO - Extracted GARD results.
+2019-12-11 23:51:59,221 - main - INFO - There are no significant breakpoints in alignement /home/lpicard/2019_validation/21genes_FOXP2_CCDS_results_201912111825/FOXP2_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas.
+2019-12-11 23:51:59,221 - main - INFO - Parsed GARD results.
+2019-12-11 23:51:59,221 - main - INFO - No fragments of recombination identified.

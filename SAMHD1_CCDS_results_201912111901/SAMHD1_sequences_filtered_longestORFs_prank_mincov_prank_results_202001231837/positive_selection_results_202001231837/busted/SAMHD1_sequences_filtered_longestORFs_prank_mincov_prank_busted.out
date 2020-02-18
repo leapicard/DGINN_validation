@@ -1,0 +1,66 @@
+
+Analysis Description
+--------------------
+BUSTED (branch-site unrestricted statistical test of episodic
+diversification) uses a random effects branch-site model fitted jointly
+to all or a subset of tree branches in order to test for alignment-wide
+evidence of episodic diversifying selection. Assuming there is evidence
+of positive selection (i.e. there is an omega > 1), BUSTED will also
+perform a quick evidence-ratio style analysis to explore which
+individual sites may have been subject to selection.
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree (optionally annotated
+with {})
+
+- __Citation__: *Gene-wide identification of episodic selection*, Mol Biol Evol.
+32(5):1365-71
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 1.2
+
+
+>Loaded a multiple sequence alignment with **82** sequences, **741** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_SAMHD1_CCDS_results_201912111901/SAMHD1_sequences_filtered_longestORFs_prank_mincov_prank.best.fas`
+
+
+### Branches to test for selection in the BUSTED analysis
+* Selected 161 branches to test in the BUSTED analysis: `manLeu_SAMHD1_JQ231131, manSph_SAMHD1_JN936897, Node11, manSph_SAMHD1_JQ231130, Node10, cerChr_SAMHD1_JN936898, cerChr_SAMHD1_JN936899, Node16, cerTor_SAMHD1_JQ231133, Node15, Node9, papHam_SAMHD1_JN936890, papAnu_SAMHD1_XM_021944145, papAnu_SAMHD1_XM_021944146, Node24, papAnu_SAMHD1_JQ231134, Node23, Node21, theGel_SAMHD1_XM_025399036, theGel_SAMHD1_JN936896, Node28, Node20, Node8, macMul_SAMHD1_XM_028827318, macMul_SAMHD1_JQ231135, macMul_SAMHD1_JN936895, macMul_SAMHD1_JN936894, Node36, Node34, Node32, macFas_SAMHD1_JN936893, Node31, Node7, cerWol_SAMHD1_JQ231140, cerDia_SAMHD1_JN936902, cerNeg_SAMHD1_JQ231141, Node44, Node42, allNig_SAMHD1_JQ231142, allNig_SAMHD1_JN936900, Node47, Node41, eryPat_SAMHD1_JQ231138, chlSab_SAMHD1_XM_007964147, chlSab_SAMHD1_KF741043, chlAet_SAMHD1_KF741045, Node55, chlAet_SAMHD1_KF741046, chlAet_SAMHD1_KF741041, Node58, Node54, Node52, Node50, Node40, Node6, rhiRox_SAMHD1_XM_030914206, rhiRox_SAMHD1_XM_010355318, Node65, rhiBie_SAMHD1_XM_017859095, Node64, nasLar_SAMHD1_JQ231144, pygNemNem_SAMHD1_JN936903, Node70, traFra_SAMHD1_JN936904, traFra_SAMHD1_JQ231143, Node73, Node69, Node63, colAngPal_SAMHD1_JN936905, colGue_SAMHD1_JQ231145, Node76, Node62, pilTep_SAMHD1_XM_026455277, Node61, Node5, nomLeu_SAMHD1_XM_030825201, nomLeu_SAMHD1_XM_030825200, nomLeu_SAMHD1_JQ231129, Node84, Node82, symSyn_SAMHD1_JQ231128, hylAgi_SAMHD1_JQ231127, hylLar_SAMHD1_JN936889, Node89, Node87, Node81, ponPyg_SAMHD1_JN936888, ponPyg_SAMHD1_JQ231126, ponAbe_SAMHD1_XM_002830274, Node95, Node93, homSap_SAMHD1_AB208944, homSap_SAMHD1_AF228421, homSap_SAMHD1_BC036450, homSap_SAMHD1_AK304187, Node108, homSap_SAMHD1_CCDS13288, Node107, homSap_SAMHD1_NM_001363729, Node106, Node104, homSap_SAMHD1_NM_001363733, Node103, homSap_potSAMHD1_AK315169, Node102, Node100, panTro_SAMHD1_XM_016937135, panPan_SAMHD1_XM_014343008, panTro_SAMHD1_XM_016937134, panPan_SAMHD1_JQ231124, panTro_SAMHD1_JQ085409, panTro_SAMHD1_JN936887, Node123, Node121, Node119, Node117, Node115, Node99, gorGor_SAMHD1_JQ231125, Node98, Node92, Node80, Node4, aloPal_SAMHD1_JN936912, lagLag_SAMHD1_JQ231150, ateGeo_SAMHD1_JN936911, ateGeo_SAMHD1_JQ231149, Node133, Node131, Node129, sagLab_SAMHD1_JQ231147, sagOed_SAMHD1_JN936908, Node138, calJac_SAMHD1_JN936906, calJac_SAMHD1_XM_008995428, calJac_SAMHD1_XR_619632, Node143, Node141, Node137, aotTri_SAMHD1_JQ231148, aotTri_SAMHD1_JN936907, Node148, aotNan_SAMHD1_XM_021665753, Node147, cebCapImi_SAMHD1_XM_017511281, saiSci_SAMHD1_JN936909, saiBolBol_SAMHD1_XM_010342629, Node154, Node152, Node146, Node136, Node128, pitPit_SAMHD1_JQ231151, Node127, Node3, carSyr_SAMHD1_XM_021708371, Node2, varVarVar_SAMHD1_JN936913, Node1, micMur_SAMHD1_XM_012754872, micMur_SAMHD1_JN936914`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -8477.41, AIC-c = 17293.13 (169 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -8278.06, AIC-c = 16909.15 (176 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.3739
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -8278.06, AIC-c = 16909.15 (176 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.3737
+
+### Performing the full (dN/dS > 1 allowed) branch-site model fit
+* Log(L) = -8255.18, AIC-c = 16871.43 (180 estimated parameters)
+* For *test* branches, the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.028     |   71.731    |                                   |
+|        Negative selection         |     0.164     |   19.875    |                                   |
+|      Diversifying selection       |     4.557     |    8.395    |                                   |
+
+
+### Performing the constrained (dN/dS > 1 not allowed) model fit
+* Log(L) = -8266.13, AIC-c = 16891.32 (179 estimated parameters)
+* For *test* branches under the null (no dN/dS > 1 model), the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.000     |   22.989    |                                   |
+|        Negative selection         |     0.000     |   40.604    |                                   |
+|         Neutral evolution         |     1.000     |   36.407    |                                   |
+
+----
+## Branch-site unrestricted statistical test of episodic diversification [BUSTED]
+Likelihood ratio test for episodic diversifying positive selection, **p =   0.0000**.

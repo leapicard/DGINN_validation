@@ -1,0 +1,66 @@
+
+Analysis Description
+--------------------
+BUSTED (branch-site unrestricted statistical test of episodic
+diversification) uses a random effects branch-site model fitted jointly
+to all or a subset of tree branches in order to test for alignment-wide
+evidence of episodic diversifying selection. Assuming there is evidence
+of positive selection (i.e. there is an omega > 1), BUSTED will also
+perform a quick evidence-ratio style analysis to explore which
+individual sites may have been subject to selection.
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree (optionally annotated
+with {})
+
+- __Citation__: *Gene-wide identification of episodic selection*, Mol Biol Evol.
+32(5):1365-71
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 1.2
+
+
+>Loaded a multiple sequence alignment with **74** sequences, **738** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_NT5C3A_CCDS_results_201912111839/NT5C3A_sequences_filtered_longestORFs_prank_mincov_prank.best.fas`
+
+
+### Branches to test for selection in the BUSTED analysis
+* Selected 145 branches to test in the BUSTED analysis: `macFas_NT5C3A_XM_005549838, macNem_NT5C3A_XM_011731397, Node13, macMul_NT5C3A_XM_015133736, Node12, macFas_NT5C3A_XM_005549836, Node11, macNem_NT5C3A_XM_011731394, Node10, macFas_NT5C3A_XM_005549835, Node9, macMul_NT5C3A_NM_001261493, Node8, chlSab_NT5C3A_XM_007981652, chlSab_NT5C3A_XM_007981650, Node21, Node7, papAnu_NT5C3A_XM_003896121, manLeu_NT5C3A_XM_011966344, manLeu_NT5C3A_XM_011966341, Node29, manLeu_NT5C3A_XM_011966345, Node28, Node26, theGel_NT5C3A_XM_025379107, theGel_NT5C3A_XM_025379104, Node34, theGel_NT5C3A_XM_025379110, Node33, Node25, papAnu_NT5C3A_XM_003896120, Node24, Node6, rhiRox_NT5C3A_XM_030922430, rhiBie_NT5C3A_XM_017864660, rhiRox_NT5C3A_XM_010383454, rhiBie_NT5C3A_XM_017864659, rhiRox_NT5C3A_XM_010383456, rhiBie_NT5C3A_XM_017864657, Node48, Node46, Node44, Node42, Node40, colAngPal_NT5C3A_XM_011953921, pilTep_NT5C3A_XM_023188405, pilTep_NT5C3A_XM_023188401, pilTep_NT5C3A_XM_023188402, pilTep_NT5C3A_XM_023188407, Node59, Node57, pilTep_NT5C3A_XM_023188403, Node56, Node54, Node52, colAngPal_NT5C3A_XM_011953920, Node51, Node39, Node5, panTro_LOC739661_XR_002943471, nomLeu_NT5C3A_XM_003279184, nomLeu_NT5C3A_XM_004090973, Node68, ponAbe_NT5C3A_XM_003777057, ponAbe_NT5C3A_XM_002818071, Node71, Node67, gorGorGor_NT5C3A_XM_019030895, gorGorGor_NT5C3A_XM_019030892, Node75, panPan_NT5C3A_XM_003811965, panTro_NT5C3A_XM_001167622, panTro_NT5C3A_XM_527718, panTro_NT5C3A_XM_016957251, panPan_NT5C3A_XM_008964338, Node86, panTro_NT5C3A_XM_001167593, Node85, Node83, Node81, Node79, homSap_NT5C3_CR533518, homSap_NT5C3A_NM_001002010, homSap_NT5C3_BC015856, homSap_NT5C3A_AF151067, Node97, homSap_NT5C3A_AK314109, Node96, homSap_NT5C3A_NM_001374338, homSap_NT5C3A_NM_001002009, homSap_NT5C3A_NM_001374335, homSap_NT5C3A_NM_001374339, Node106, Node104, Node102, homSap_NT5C3A_NM_001356996, Node101, Node95, Node93, Node91, homSap_NT5C3A_CCDS34616, Node90, Node78, Node74, Node66, Node64, Node4, aotNan_NT5C3A_XM_021669366, aotNan_NT5C3A_XM_012461316, Node113, aotNan_NT5C3A_XM_012461321, Node112, cebCapImi_NT5C3A_XM_017527146, cebCapImi_NT5C3A_XM_017527144, cebCapImi_NT5C3A_XM_017527147, cebCapImi_NT5C3A_XM_017527140, Node123, Node121, Node119, calJac_NT5C3A_XM_002751314, calJac_NT5C3A_XM_009002014, calJac_NT5C3A_XM_009002013, Node129, calJac_NT5C3A_XM_017975109, Node128, Node126, Node118, saiBolBol_NT5C3A_XM_003930726, Node117, Node111, Node3, carSyr_NT5C3A_XM_008051196, carSyr_NT5C3A_XM_021709182, carSyr_NT5C3A_XM_021709181, Node136, Node134, Node2, micMur_NT5C3A_XM_012741277, micMur_NT5C3A_XM_012741273, Node140, micMur_NT5C3A_XM_012741272, Node139, Node1, otoGar_NT5C3A_XM_023512474, otoGar_NT5C3A_XM_003788566`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -4575.27, AIC-c =  9456.82 (153 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -4407.66, AIC-c =  9136.27 (160 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.1452
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -4407.66, AIC-c =  9136.27 (160 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.1453
+
+### Performing the full (dN/dS > 1 allowed) branch-site model fit
+* Log(L) = -4390.04, AIC-c =  9109.07 (164 estimated parameters)
+* For *test* branches, the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.000     |   85.651    |                                   |
+|         Neutral evolution         |     1.000     |   14.328    |                                   |
+|      Diversifying selection       |   5712.169    |    0.022    |                                   |
+
+
+### Performing the constrained (dN/dS > 1 not allowed) model fit
+* Log(L) = -4400.14, AIC-c =  9127.27 (163 estimated parameters)
+* For *test* branches under the null (no dN/dS > 1 model), the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.000     |   85.500    |                                   |
+|         Neutral evolution         |     1.000     |    0.856    |                                   |
+|         Neutral evolution         |     1.000     |   13.643    |       Collapsed rate class        |
+
+----
+## Branch-site unrestricted statistical test of episodic diversification [BUSTED]
+Likelihood ratio test for episodic diversifying positive selection, **p =   0.0000**.

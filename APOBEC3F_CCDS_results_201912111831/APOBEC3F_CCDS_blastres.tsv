@@ -1,0 +1,264 @@
+# BLASTN 2.10.0+
+# Query: homSap_APOBEC3F_CCDS33648
+# Database: nt_v5					
+# Fields: subject id, ?
+# 582 hits found
+gi|1519312460|ref|NM_145298.6| Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant 1, mRNA
+gi|1370481977|ref|XM_024452179.1| PREDICTED: Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X2, mRNA
+gi|470266492|gb|KC329530.1| Homo sapiens apolipoprotein B editing enzyme catalytic polypeptide-like 3F (APOBEC3F) mRNA, complete cds
+gi|24416442|gb|BC038808.1| Homo sapiens apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3F, mRNA (cDNA clone MGC:46498 IMAGE:5227163), complete cds
+gi|649130398|gb|KJ900411.1| Synthetic construct Homo sapiens clone ccsbBroadEn_09805 APOBEC3F gene, encodes complete protein
+gi|327239525|gb|JF262037.1| Homo sapiens apolipoprotein B mRNA editing enzyme cytidine deaminase (APOBEC3F) mRNA, complete cds
+gi|1367245566|ref|XM_525658.6| PREDICTED: Pan troglodytes DNA dC->dU-editing enzyme APOBEC-3F (LOC470275), transcript variant X1, mRNA
+gi|343480245|gb|JN247640.1| Gorilla gorilla Apobec3F (Apobec3F) mRNA, partial cds
+gi|1351481604|ref|XM_024239693.1| PREDICTED: Pongo abelii apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X3, mRNA
+gi|1753016489|ref|XM_031006182.1| PREDICTED: Gorilla gorilla gorilla DNA dC->dU-editing enzyme APOBEC-3F (LOC101134601), mRNA
+gi|795332084|ref|XM_011964207.1| PREDICTED: Colobus angolensis palliatus DNA dC->dU-editing enzyme APOBEC-3F (LOC105527770), transcript variant X1, mRNA
+gi|108796654|ref|NM_001042373.1| Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), mRNA >gi|98961533|gb|DQ514917.1| Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3F (apobec3F) mRNA, complete cds
+gi|1751214469|ref|XM_010389268.2| PREDICTED: Rhinopithecus roxellana apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X3, mRNA
+gi|982272060|ref|XM_005567253.2| PREDICTED: Macaca fascicularis apolipoprotein B mRNA editing enzyme catalytic polypeptide like 3F (APOBEC3F), transcript variant X2, mRNA
+gi|1059129824|ref|XM_017861318.1| PREDICTED: Rhinopithecus bieti DNA dC->dU-editing enzyme APOBEC-3F (LOC108521467), transcript variant X2, mRNA
+gi|1049297734|gb|KX583651.1| Macaca leonina Apobec3F mRNA, complete cds
+gi|795130314|ref|XM_011978842.1| PREDICTED: Mandrillus leucophaeus apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3F (APOBEC3F), transcript variant X4, mRNA
+gi|1622837251|ref|XM_028827471.1| PREDICTED: Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X2, mRNA
+gi|1238807743|ref|NM_001345941.2| Papio anubis apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), mRNA
+gi|806638557|ref|NM_001305910.1| Macaca nemestrina apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), mRNA >gi|315284484|gb|HM991860.1| Macaca nemestrina apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3F mRNA, complete cds
+gi|1622837255|ref|XM_015150346.2| PREDICTED: Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X4, mRNA
+gi|1411086491|ref|XM_025398712.1| PREDICTED: Theropithecus gelada DNA dC->dU-editing enzyme APOBEC-3G (LOC112632746), transcript variant X4, mRNA
+gi|982272058|ref|XM_015457184.1| PREDICTED: Macaca fascicularis apolipoprotein B mRNA editing enzyme catalytic polypeptide like 3F (APOBEC3F), transcript variant X1, mRNA
+gi|1622837249|ref|XM_028827470.1| PREDICTED: Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X1, mRNA
+gi|795337070|ref|XR_001000076.1| PREDICTED: Colobus angolensis palliatus DNA dC->dU-editing enzyme APOBEC-3F pseudogene (LOC105500770), misc_RNA
+gi|1384961352|ref|XM_024927035.1| PREDICTED: Pan paniscus apolipoprotein B mRNA editing enzyme catalytic subunit 3B (APOBEC3B), transcript variant X1, mRNA
+gi|1351481602|ref|XM_024239691.1| PREDICTED: Pongo abelii apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X2, mRNA
+gi|795224125|ref|XM_012032002.1| PREDICTED: Cercocebus atys apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3F (APOBEC3F), mRNA
+gi|1482626186|ref|XM_023221962.2| PREDICTED: Piliocolobus tephrosceles DNA dC->dU-editing enzyme APOBEC-3F-like (LOC111548999), transcript variant X1, mRNA
+gi|795332070|ref|XM_011964204.1| PREDICTED: Colobus angolensis palliatus DNA dC->dU-editing enzyme APOBEC-3F-like (LOC105527769), transcript variant X2, mRNA
+gi|1482626188|ref|XM_023221963.2| PREDICTED: Piliocolobus tephrosceles DNA dC->dU-editing enzyme APOBEC-3F-like (LOC111548999), transcript variant X2, mRNA
+gi|1753016491|ref|XM_031006183.1| PREDICTED: Gorilla gorilla gorilla DNA dC->dU-editing enzyme APOBEC-3F (LOC115932647), mRNA
+gi|168745882|emb|CU691600.1| Synthetic construct Homo sapiens gateway clone IMAGE:100021125 5' read APOBEC3F mRNA
+gi|334383066|gb|JF714488.1| Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3DE transcript variant 2 (APOBEC3DE) mRNA, complete cds
+gi|1351481608|ref|XM_024239695.1| PREDICTED: Pongo abelii apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X5, mRNA
+gi|1753057661|ref|XM_031005504.1| PREDICTED: Gorilla gorilla gorilla DNA dC->dU-editing enzyme APOBEC-3B-like (LOC115930115), transcript variant X1, mRNA
+gi|1743221322|ref|XM_030815531.1| PREDICTED: Nomascus leucogenys apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), transcript variant X2, mRNA
+gi|1751214467|ref|XM_030915810.1| PREDICTED: Rhinopithecus roxellana apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X2, mRNA
+gi|1751214465|ref|XM_030915809.1| PREDICTED: Rhinopithecus roxellana apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X1, mRNA
+gi|1059129822|ref|XM_017861317.1| PREDICTED: Rhinopithecus bieti DNA dC->dU-editing enzyme APOBEC-3F (LOC108521467), transcript variant X1, mRNA
+gi|1067605044|ref|NM_001346002.1| Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), mRNA
+gi|1381471696|ref|XM_011712336.2| PREDICTED: Macaca nemestrina apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), transcript variant X1, mRNA
+gi|982272057|ref|XM_005567249.2| PREDICTED: Macaca fascicularis DNA dC->dU-editing enzyme APOBEC-3F (LOC102127357), transcript variant X2, mRNA
+gi|1059129832|ref|XM_017861322.1| PREDICTED: Rhinopithecus bieti DNA dC->dU-editing enzyme APOBEC-3B-like (LOC108521469), transcript variant X3, mRNA
+gi|1049297738|gb|KX583653.1| Macaca leonina Apobec3D mRNA, complete cds
+gi|1622837253|ref|XM_028827472.1| PREDICTED: Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X3, mRNA
+gi|1743221320|ref|XM_030815530.1| PREDICTED: Nomascus leucogenys apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), transcript variant X1, mRNA
+gi|1751214470|ref|XM_010389269.2| PREDICTED: Rhinopithecus roxellana apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), mRNA
+gi|1519243196|ref|NM_152426.4| Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), transcript variant 1, mRNA
+gi|16877535|gb|BC017022.1| Homo sapiens apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3D, mRNA (cDNA clone IMAGE:3915193), **** WARNING: chimeric clone ****
+gi|649129715|gb|KJ900194.1| Synthetic construct Homo sapiens clone ccsbBroadEn_09588 APOBEC3D gene, encodes complete protein
+gi|1753057837|ref|XM_031005550.1| PREDICTED: Gorilla gorilla gorilla DNA dC->dU-editing enzyme APOBEC-3D-like (LOC115931935), mRNA
+gi|170773923|gb|EU527884.1| Homo sapiens apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3DE (APOBEC3DE) mRNA, complete cds
+gi|795332064|ref|XM_011964203.1| PREDICTED: Colobus angolensis palliatus DNA dC->dU-editing enzyme APOBEC-3F-like (LOC105527769), transcript variant X1, mRNA
+gi|343480264|gb|JN247649.1| Gorilla gorilla Apobec3DE (Apobec3DE) mRNA, partial cds
+gi|334383029|gb|JF714487.1| Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3DE transcript variant 1 (APOBEC3DE) mRNA, complete cds
+gi|1066571530|ref|NM_001345951.1| Chlorocebus sabaeus apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), mRNA
+gi|635102324|ref|XM_007975803.1| PREDICTED: Chlorocebus sabaeus DNA dC->dU-editing enzyme APOBEC-3F (LOC103223331), transcript variant X12, mRNA
+gi|635102340|ref|XM_007975812.1| PREDICTED: Chlorocebus sabaeus DNA dC->dU-editing enzyme APOBEC-3F (LOC103223331), transcript variant X20, mRNA
+gi|1066551746|ref|NM_001345966.1| Pan troglodytes apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), mRNA
+gi|1482626190|ref|XM_026448476.1| PREDICTED: Piliocolobus tephrosceles DNA dC->dU-editing enzyme APOBEC-3F-like (LOC111548999), transcript variant X3, mRNA
+gi|343480249|gb|JN247642.1| Pan troglodytes Apobec3DE (Apobec3DE) mRNA, partial cds
+gi|1622836698|ref|XM_015150378.2| PREDICTED: Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), transcript variant X1, mRNA
+gi|1066537309|ref|NM_001345940.1| Macaca nemestrina apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), mRNA
+gi|982272056|ref|XM_005567248.2| PREDICTED: Macaca fascicularis DNA dC->dU-editing enzyme APOBEC-3F (LOC102127357), transcript variant X1, mRNA
+gi|635102302|ref|XM_007975791.1| PREDICTED: Chlorocebus sabaeus DNA dC->dU-editing enzyme APOBEC-3F (LOC103223331), transcript variant X1, mRNA
+gi|635102308|ref|XM_007975794.1| PREDICTED: Chlorocebus sabaeus DNA dC->dU-editing enzyme APOBEC-3F (LOC103223331), transcript variant X4, mRNA
+gi|635102306|ref|XM_007975793.1| PREDICTED: Chlorocebus sabaeus DNA dC->dU-editing enzyme APOBEC-3F (LOC103223331), transcript variant X3, mRNA
+gi|635102304|ref|XM_007975792.1| PREDICTED: Chlorocebus sabaeus DNA dC->dU-editing enzyme APOBEC-3F (LOC103223331), transcript variant X2, mRNA
+gi|635102312|ref|XM_007975796.1| PREDICTED: Chlorocebus sabaeus DNA dC->dU-editing enzyme APOBEC-3F (LOC103223331), transcript variant X6, mRNA
+gi|343480262|gb|JN247647.1| Nomascus leucogenys Apobec3DE (Apobec3DE) mRNA, partial cds
+gi|1370481975|ref|XM_024452178.1| PREDICTED: Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X1, mRNA
+gi|1212398817|ref|XM_021668768.1| PREDICTED: Aotus nancymaae DNA dC->dU-editing enzyme APOBEC-3C-like (LOC105721802), transcript variant X1, mRNA
+gi|725579943|ref|XM_010343450.1| PREDICTED: Saimiri boliviensis boliviensis DNA dC->dU-editing enzyme APOBEC-3F (LOC101036333), transcript variant X2, mRNA
+gi|725579941|ref|XM_003932986.2| PREDICTED: Saimiri boliviensis boliviensis DNA dC->dU-editing enzyme APOBEC-3F (LOC101036333), transcript variant X1, mRNA
+gi|1370481860|ref|XM_017028596.2| PREDICTED: Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), transcript variant X1, mRNA
+gi|725579947|ref|XM_010343452.1| PREDICTED: Saimiri boliviensis boliviensis DNA dC->dU-editing enzyme APOBEC-3F (LOC101036333), transcript variant X4, mRNA
+gi|168745883|emb|CU691601.1| Synthetic construct Homo sapiens gateway clone IMAGE:100021125 3' read APOBEC3F mRNA
+gi|1370481980|ref|XM_017028642.2| PREDICTED: Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X4, mRNA
+gi|1370481979|ref|XR_002958675.1| PREDICTED: Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3F (APOBEC3F), transcript variant X3, misc_RNA
+gi|194378357|dbj|AK294810.1| Homo sapiens cDNA FLJ60505 complete cds, highly similar to Apolipoprotein B mRNA-editing enzyme catalytic polypeptide-like 3F
+gi|1212398819|ref|XM_021668769.1| PREDICTED: Aotus nancymaae DNA dC->dU-editing enzyme APOBEC-3C-like (LOC105721802), transcript variant X2, mRNA
+gi|725579945|ref|XM_010343451.1| PREDICTED: Saimiri boliviensis boliviensis DNA dC->dU-editing enzyme APOBEC-3F (LOC101036333), transcript variant X3, mRNA
+gi|1059129826|ref|XM_017861319.1| PREDICTED: Rhinopithecus bieti DNA dC->dU-editing enzyme APOBEC-3F-like (LOC108521468), mRNA
+gi|1777280316|ref|XM_031656117.1| PREDICTED: Papio anubis apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), mRNA
+gi|683523996|ref|NM_001301766.1| Pan paniscus apolipoprotein B mRNA editing enzyme catalytic subunit 3B (APOBEC3B), mRNA >gi|573016666|gb|KF651169.1| Pan paniscus apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3B (APOBEC3B) mRNA, complete cds
+gi|575771854|ref|NM_001289639.1| Pan troglodytes apolipoprotein B mRNA editing enzyme catalytic subunit 3B (APOBEC3B), mRNA >gi|573016664|gb|KF651168.1| Pan troglodytes apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3B (APOBEC3B) mRNA, complete cds
+gi|573016662|gb|KF651167.1| Homo sapiens apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3B (APOBEC3B) mRNA, complete cds
+gi|261859411|dbj|AB528064.1| Synthetic construct DNA, clone: pF1KE0553, Homo sapiens APOBEC3B gene for apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3B, without stop codon, in Flexi system
+gi|109451619|emb|CU013239.1| Homo sapiens APOBEC3B, mRNA (cDNA clone IMAGE:100000477), complete cds, without stop codon, in Gateway system
+gi|109451041|emb|CU012951.1| Homo sapiens APOBEC3B, mRNA (cDNA clone IMAGE:100000573), complete cds, with stop codon, in Gateway system
+gi|90403027|emb|CT841510.1| Homo sapiens bK150C2.2 full length open reading frame (ORF) cDNA clone (cDNA clone C22ORF:pGEM.bK150C2.2.V6)
+gi|56900899|gb|AY743217.1| Homo sapiens apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3B (APOBEC3B) mRNA, complete cds
+gi|10437262|dbj|AK024854.1| Homo sapiens cDNA: FLJ21201 fis, clone COL00275, highly similar to HSU61084 Homo sapiens phorbolin-1-related protein mRNA
+gi|1676317111|ref|NM_001270411.2| Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3B (APOBEC3B), transcript variant 2, mRNA
+gi|1519312406|ref|NM_004900.5| Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3B (APOBEC3B), transcript variant 1, mRNA
+gi|1753057839|ref|XM_019018606.2| PREDICTED: Gorilla gorilla gorilla DNA dC->dU-editing enzyme APOBEC-3B (LOC101133558), mRNA
+gi|649138251|gb|KJ901997.1| Synthetic construct Homo sapiens clone ccsbBroadEn_11391 APOBEC3B gene, encodes complete protein
+gi|168743585|emb|CU691044.1| Synthetic construct Homo sapiens gateway clone IMAGE:100021636 5' read APOBEC3B mRNA
+gi|31753107|gb|BC053859.1| Homo sapiens apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3B, mRNA (cDNA clone MGC:61606 IMAGE:6174285), complete cds
+gi|1753057665|ref|XM_031005506.1| PREDICTED: Gorilla gorilla gorilla DNA dC->dU-editing enzyme APOBEC-3B-like (LOC115930115), transcript variant X3, mRNA
+gi|1753057663|ref|XM_031005505.1| PREDICTED: Gorilla gorilla gorilla DNA dC->dU-editing enzyme APOBEC-3B-like (LOC115930115), transcript variant X2, mRNA
+gi|1066543277|ref|NM_001345954.1| Chlorocebus sabaeus apolipoprotein B mRNA editing enzyme catalytic subunit 3B (APOBEC3B), mRNA
+gi|1751214472|ref|XM_030915811.1| PREDICTED: Rhinopithecus roxellana apolipoprotein B mRNA editing enzyme catalytic subunit 3B (APOBEC3B), mRNA
+gi|1059129828|ref|XM_017861320.1| PREDICTED: Rhinopithecus bieti DNA dC->dU-editing enzyme APOBEC-3B-like (LOC108521469), transcript variant X1, mRNA
+gi|4097432|gb|U61084.1|HSU61084 Homo sapiens phorbolin-1-related protein mRNA, complete cds
+gi|4097432|gb|U61084.1|HSU61084 Homo sapiens phorbolin-1-related protein mRNA, complete cds
+gi|982272062|ref|XM_005567246.2| PREDICTED: Macaca fascicularis apolipoprotein B mRNA editing enzyme catalytic polypeptide like 3B (APOBEC3B), mRNA
+gi|334382966|gb|JF714485.1| Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3B (APOBEC3B) mRNA, complete cds
+gi|1381472252|ref|XM_024787593.1| PREDICTED: Macaca nemestrina DNA dC->dU-editing enzyme APOBEC-3B-like (LOC105464550), mRNA
+gi|1371545248|ref|NM_001246230.2| Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic subunit 3B (APOBEC3B), mRNA
+gi|1067605028|ref|NM_001346001.1| Papio anubis apolipoprotein B mRNA editing enzyme catalytic subunit 3B (APOBEC3B), mRNA
+gi|1049297736|gb|KX583652.1| Macaca leonina Apobec3B mRNA, complete cds
+gi|795224139|ref|XM_012032024.1| PREDICTED: Cercocebus atys apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3B (APOBEC3B), mRNA
+gi|795130340|ref|XM_011978847.1| PREDICTED: Mandrillus leucophaeus apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3B (APOBEC3B), transcript variant X2, mRNA
+gi|795130335|ref|XM_011978846.1| PREDICTED: Mandrillus leucophaeus apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3B (APOBEC3B), transcript variant X1, mRNA
+gi|1370481862|ref|XR_001755170.2| PREDICTED: Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3D (APOBEC3D), transcript variant X3, misc_RNA
+gi|1214018059|ref|XM_021708335.1| PREDICTED: Carlito syrichta DNA dC->dU-editing enzyme APOBEC-3C-like (LOC103250986), mRNA
+gi|116062038|dbj|AB266487.1| Homo sapiens mRNA for apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G, complete cds
+gi|10197639|gb|AF182420.1|AF182420 Homo sapiens MDS019 (MDS019) mRNA, complete cds
+gi|1519314687|ref|NM_021822.4| Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant 1, mRNA
+gi|1214018061|ref|XM_021708336.1| PREDICTED: Carlito syrichta DNA dC->dU-editing enzyme APOBEC-3F-like (LOC103250987), mRNA
+gi|1034629299|ref|XM_017028903.1| PREDICTED: Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant X1, mRNA
+gi|649110910|gb|KJ894495.1| Synthetic construct Homo sapiens clone ccsbBroadEn_03889 APOBEC3G gene, encodes complete protein
+gi|208967634|dbj|AB462950.1| Synthetic construct DNA, clone: pF1KB4735, Homo sapiens APOBEC3G gene for apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G, without stop codon, in Flexi system
+gi|168743123|emb|CU692904.1| Synthetic construct Homo sapiens gateway clone IMAGE:100021905 5' read APOBEC3G mRNA
+gi|164696434|dbj|AK315650.1| Homo sapiens cDNA, FLJ96740, Homo sapiens apolipoprotein B mRNA editing enzyme, catalyticpolypeptide-like 3G (APOBEC3G), mRNA
+gi|109451761|emb|CU013310.1| Homo sapiens APOBEC3G, mRNA (cDNA clone IMAGE:100000088), complete cds, without stop codon, in Gateway system
+gi|109451183|emb|CU013022.1| Homo sapiens APOBEC3G, mRNA (cDNA clone IMAGE:100000184), complete cds, with stop codon, in Gateway system
+gi|18999452|gb|BC024268.1| Homo sapiens apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G, mRNA (cDNA clone MGC:39116 IMAGE:4877863), complete cds
+gi|47678474|emb|CR456472.1| Homo sapiens dJ494G10.1 full length open reading frame (ORF) cDNA clone (cDNA clone C22ORF:pGEM.dJ494G10.1)
+gi|527478701|gb|JX915801.1| Homo sapiens clone HSG apolipoprotein B mRNA-editing enzyme catalytic polypeptide 3G (A3G) mRNA, complete cds
+gi|470266512|gb|KC329531.1| Homo sapiens apolipoprotein B editing enzyme catalytic polypeptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|16307189|gb|BC009683.1| Homo sapiens cDNA clone IMAGE:3905749, containing frame-shift errors
+gi|50254063|gb|AY639867.1| Pan paniscus APOBEC3G (APOBEC3G) mRNA, partial cds
+gi|931610661|ref|XM_008975100.2| PREDICTED: Pan paniscus apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant X1, mRNA
+gi|327239523|gb|JF262036.1| Homo sapiens apolipoprotein B mRNA editing enzyme cytidine deaminase (APOBEC3G) mRNA, complete cds
+gi|1676440238|ref|NM_001349438.2| Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant 4, mRNA
+gi|1367240723|ref|XM_024352477.1| PREDICTED: Pan troglodytes apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant X2, mRNA
+gi|1065449470|ref|NM_001009001.2| Pan troglodytes apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA
+gi|75766639|gb|DQ185513.1| Pan troglodytes apolipoprotein B mRNA editing enzyme 3G (APOBEC 3G) mRNA, partial cds
+gi|1753058042|ref|XM_031005603.1| PREDICTED: Gorilla gorilla gorilla apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant X1, mRNA
+gi|32491963|gb|AY331715.1| Pan troglodytes apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G (APOBEC3G) mRNA, partial cds
+gi|725580246|ref|XM_010343584.1| PREDICTED: Saimiri boliviensis boliviensis DNA dC->dU-editing enzyme APOBEC-3G-like (LOC101036011), mRNA
+gi|164692065|dbj|AK310279.1| Homo sapiens cDNA, FLJ17321
+gi|50254065|gb|AY639868.1| Gorilla gorilla APOBEC3G (APOBEC3G) mRNA, complete cds
+gi|1159731398|ref|NM_001349436.1| Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant 2, mRNA
+gi|1384961578|ref|XM_008975101.3| PREDICTED: Pan paniscus apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant X2, mRNA
+gi|1367240719|ref|XM_016939191.2| PREDICTED: Pan troglodytes apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant X1, mRNA
+gi|1411086487|ref|XM_025398709.1| PREDICTED: Theropithecus gelada DNA dC->dU-editing enzyme APOBEC-3G (LOC112632746), transcript variant X2, mRNA
+gi|1411086485|ref|XM_025398708.1| PREDICTED: Theropithecus gelada DNA dC->dU-editing enzyme APOBEC-3G (LOC112632746), transcript variant X1, mRNA
+gi|50254067|gb|AY639869.1| Pongo pygmaeus APOBEC3G (APOBEC3G) mRNA, complete cds
+gi|1743220360|ref|XM_030815180.1| PREDICTED: Nomascus leucogenys apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA
+gi|1351481611|ref|XM_024239696.1| PREDICTED: Pongo abelii apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant X1, mRNA
+gi|819231690|ref|NM_001308530.1| Aotus nancymaae apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G (APOBEC3G), mRNA >gi|223673492|gb|FJ638412.1| Aotus nancymaae cytidine deaminase (APOBEC3G) mRNA, complete cds
+gi|1060961661|ref|XM_002760788.3| PREDICTED: Callithrix jacchus DNA dC->dU-editing enzyme APOBEC-3G-like (LOC100386727), mRNA
+gi|725579939|ref|XM_010343449.1| PREDICTED: Saimiri boliviensis boliviensis DNA dC->dU-editing enzyme APOBEC-3G-like (LOC101035696), mRNA
+gi|447656515|gb|KC176178.1| Cercopithecus cephus haplotype 1 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|447656535|gb|KC176188.1| Cercopithecus wolfi haplotype 2 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|447656533|gb|KC176187.1| Cercopithecus wolfi haplotype 1 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|1212391412|ref|XM_012465897.2| PREDICTED: Aotus nancymaae DNA dC->dU-editing enzyme APOBEC-3G-like (LOC105726431), mRNA
+gi|447656545|gb|KC176193.1| Cercopithecus petaurista haplotype 1 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|447656513|gb|KC176177.1| Cercopithecus cephus haplotype 2 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|447656509|gb|KC176175.1| Cercopithecus neglectus haplotype 1 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|373838925|gb|JN662546.1| Chlorocebus tantalus haplotype 3 apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|391851971|ref|NM_001267742.1| Callithrix jacchus apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA >gi|223673494|gb|FJ638413.1| Callithrix jacchus cytidine deaminase (APOBEC3G) mRNA, complete cds
+gi|373838927|gb|JN662547.1| Chlorocebus tantalus haplotype 4 apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|32491961|gb|AY331714.1| Cercopithecus aethiops apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G (APOBEC3G) mRNA, partial cds
+gi|447656505|gb|KC176173.1| Allenopithecus nigroviridis apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|1519475024|ref|NG_029290.2| Homo sapiens DNA dC->dU-editing enzyme APOBEC-3G-like (LOC196469) pseudogene on chromosome 12
+gi|19774332|gb|AC009729.14| Homo sapiens 12 BAC RP11-1K3 (Roswell Park Cancer Institute Human BAC Library) complete sequence
+gi|821003137|ref|XM_012509720.1| PREDICTED: Nomascus leucogenys DNA dC->dU-editing enzyme APOBEC-3G-like (LOC100583627), mRNA
+gi|447656511|gb|KC176176.1| Cercopithecus neglectus haplotype 2 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|447656519|gb|KC176180.1| Erythrocebus patas haplotype 2 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|447656517|gb|KC176179.1| Erythrocebus patas haplotype 1 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|373838923|gb|JN662545.1| Chlorocebus pygerythrus haplotype 2 apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|447656547|gb|KC176194.1| Cercopithecus petaurista haplotype 2 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|447656523|gb|KC176182.1| Cercocebus torquatus haplotype 2 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|447656507|gb|KC176174.1| Papio anubis apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|1049297740|gb|KX583654.1| Macaca leonina Apobec3G mRNA, complete cds
+gi|447656527|gb|KC176184.1| Macaca mulatta haplotype 2 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|373838921|gb|JN662544.1| Chlorocebus pygerythrus haplotype 1 apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|1064244144|ref|NM_001345883.1| Papio anubis apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA
+gi|1367162983|ref|XM_016924823.2| PREDICTED: Pan troglodytes DNA dC->dU-editing enzyme APOBEC-3G-like (LOC467121), mRNA
+gi|447656525|gb|KC176183.1| Macaca mulatta haplotype 1 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|373838931|gb|JN662549.1| Chlorocebus sabaeus haplotype 8 apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|373838929|gb|JN662548.1| Chlorocebus sabaeus haplotype 6 apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|68726634|gb|DQ093376.1| Macaca nemestrina apolipoprotein B editing enzyme catalytic polypeptide-like 3G mRNA, partial cds
+gi|931581423|ref|XM_014347286.1| PREDICTED: Pan paniscus DNA dC->dU-editing enzyme APOBEC-3G-like (LOC100975653), mRNA
+gi|550826493|gb|KF020491.1| Cercocebus atys APOBEC3G (APOBEC3G) mRNA, APOBEC3G-sm5 allele, complete cds
+gi|550826489|gb|KF020489.1| Cercocebus atys APOBEC3G (APOBEC3G) mRNA, APOBEC3G-sm3 allele, complete cds
+gi|447656531|gb|KC176186.1| Cercocebus atys haplotype 2 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|447656521|gb|KC176181.1| Cercocebus torquatus haplotype 1 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|1064244116|ref|NM_001305908.1| Macaca nemestrina apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA
+gi|725559087|ref|XM_010334944.1| PREDICTED: Saimiri boliviensis boliviensis DNA dC->dU-editing enzyme APOBEC-3G-like (LOC101047325), mRNA
+gi|1044390268|ref|XM_017544591.1| PREDICTED: Cebus capucinus imitator DNA dC->dU-editing enzyme APOBEC-3G-like (LOC108315302), transcript variant X1, mRNA
+gi|550826497|gb|KF169801.1| Macaca nemestrina APOBEC3G mRNA, complete cds
+gi|550826483|gb|KF020486.1| Macaca mulatta APOBEC3G (APOBEC3G) mRNA, APOBEC3G-rh6 allele, complete cds
+gi|725579937|ref|XM_010343448.1| PREDICTED: Saimiri boliviensis boliviensis DNA dC->dU-editing enzyme APOBEC-3G-like (LOC101035383), mRNA
+gi|1066567595|ref|NM_001345916.1| Mandrillus leucophaeus apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA
+gi|1044390270|ref|XM_017544592.1| PREDICTED: Cebus capucinus imitator DNA dC->dU-editing enzyme APOBEC-3G-like (LOC108315302), transcript variant X2, mRNA
+gi|550826495|gb|KF020492.1| Cercocebus atys APOBEC3G (APOBEC3G) mRNA, APOBEC3G-sm6 allele, complete cds
+gi|550826491|gb|KF020490.1| Cercocebus atys APOBEC3G (APOBEC3G) mRNA, APOBEC3G-sm4 allele, complete cds
+gi|1066524846|ref|NM_001292076.2| Chlorocebus sabaeus apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA
+gi|635102344|ref|XM_007975814.1| PREDICTED: Chlorocebus sabaeus apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G (APOBEC3G), mRNA
+gi|116062036|dbj|AB266486.1| Chlorocebus aethiops mRNA for apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G, complete cds
+gi|1066532838|ref|NM_001305962.1| Cercocebus atys apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA
+gi|447656529|gb|KC176185.1| Cercocebus atys haplotype 1 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|1236772661|gb|KX636169.1| Macaca leonina truncated APOBEC3G gene, complete cds, alternatively spliced
+gi|550826487|gb|KF020488.1| Cercocebus atys APOBEC3G (APOBEC3G) mRNA, APOBEC3G-sm2 allele, complete cds
+gi|550826485|gb|KF020487.1| Cercocebus atys APOBEC3G (APOBEC3G) mRNA, APOBEC3G-sm1 allele, complete cds
+gi|527478699|gb|JX915800.1| Macaca nemestrina clone MNG apolipoprotein B mRNA-editing enzyme catalytic polypeptide 3G (A3G) mRNA, complete cds
+gi|1635704551|ref|NM_001198693.2| Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA
+gi|550826477|gb|KF020483.1| Macaca mulatta APOBEC3G (APOBEC3G) mRNA, APOBEC3G-rh3 allele, complete cds
+gi|527478695|gb|JX915798.1| Macaca mulatta clone MMG apolipoprotein B mRNA-editing enzyme catalytic polypeptide 3G (A3G) mRNA, complete cds >gi|550826473|gb|KF020481.1| Macaca mulatta APOBEC3G (APOBEC3G) mRNA, APOBEC3G-rh1 allele, complete cds
+gi|1411086489|ref|XM_025398711.1| PREDICTED: Theropithecus gelada DNA dC->dU-editing enzyme APOBEC-3G (LOC112632746), transcript variant X3, mRNA
+gi|1381471694|ref|XM_011712327.2| PREDICTED: Macaca nemestrina apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant X2, mRNA
+gi|1381471693|ref|XM_011712326.2| PREDICTED: Macaca nemestrina apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant X1, mRNA
+gi|550826479|gb|KF020484.1| Macaca mulatta APOBEC3G (APOBEC3G) mRNA, APOBEC3G-rh4 allele, complete cds
+gi|550826475|gb|KF020482.1| Macaca mulatta APOBEC3G (APOBEC3G) mRNA, APOBEC3G-rh2 allele, complete cds
+gi|116062040|dbj|AB266488.1| Macaca fascicularis mRNA for apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G, complete cds
+gi|447656543|gb|KC176192.1| Trachypithecus francoisi haplotype 2 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|795224110|ref|XM_012031978.1| PREDICTED: Cercocebus atys apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G (APOBEC3G), transcript variant X4, mRNA
+gi|982272051|ref|XM_005567251.2| PREDICTED: Macaca fascicularis apolipoprotein B mRNA editing enzyme catalytic polypeptide like 3G (APOBEC3G), transcript variant X1, mRNA
+gi|1064244156|ref|NM_001284084.1| Macaca fascicularis apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA
+gi|1044390272|ref|XM_017544593.1| PREDICTED: Cebus capucinus imitator DNA dC->dU-editing enzyme APOBEC-3G-like (LOC108315302), transcript variant X3, mRNA
+gi|550826481|gb|KF020485.1| Macaca mulatta APOBEC3G (APOBEC3G) mRNA, APOBEC3G-rh5 allele, complete cds
+gi|795224095|ref|XM_012031960.1| PREDICTED: Cercocebus atys apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G (APOBEC3G), transcript variant X2, mRNA
+gi|795224088|ref|XM_012031952.1| PREDICTED: Cercocebus atys apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G (APOBEC3G), transcript variant X1, mRNA
+gi|447656541|gb|KC176191.1| Trachypithecus francoisi haplotype 1 apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|32491965|gb|AY331716.1| Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G (APOBEC3G) mRNA, partial cds
+gi|527478697|gb|JX915799.1| Macaca fascicularis clone MFG apolipoprotein B mRNA-editing enzyme catalytic polypeptide 3G (A3G) mRNA, complete cds
+gi|542472765|gb|KF591585.1| Cercocebus atys isolate smmA3G-III cytidine deaminase (APOBEC3G) mRNA, partial cds
+gi|542472763|gb|KF591584.1| Cercocebus atys isolate smmA3G-II cytidine deaminase (APOBEC3G) mRNA, partial cds
+gi|542472761|gb|KF591583.1| Cercocebus atys isolate smmA3G-I cytidine deaminase (APOBEC3G) mRNA, partial cds
+gi|315284482|gb|HM991859.1| Macaca nemestrina apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G mRNA, complete cds
+gi|1190246007|gb|KU058147.2| Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G transcript variant X1 (APOBEC3G) mRNA, complete cds
+gi|542472767|gb|KF591586.1| Cercocebus atys isolate smmA3G-IV cytidine deaminase (APOBEC3G) mRNA, partial cds
+gi|447656537|gb|KC176189.1| Colobus guereza apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|1482626161|ref|XM_026448467.1| PREDICTED: Piliocolobus tephrosceles DNA dC->dU-editing enzyme APOBEC-3G-like (LOC111530206), transcript variant X1, mRNA
+gi|114324735|gb|DQ913683.1| Macaca mulatta clone 98020 apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G (APOBEC3G) mRNA, partial cds
+gi|114324707|gb|DQ913669.1| Macaca mulatta clone 95114 apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G (APOBEC3G) mRNA, partial cds
+gi|1027901732|gb|KU058146.1| Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G transcript variant X1 (APOBEC3G) mRNA, complete cds
+gi|114324669|gb|DQ913650.1| Macaca mulatta clone 2065 apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G (APOBEC3G) mRNA, partial cds
+gi|447656539|gb|KC176190.1| Nasalis larvatus apolipoprotein B mRNA editing enzyme, catalytic peptide-like 3G (APOBEC3G) mRNA, complete cds
+gi|817256101|ref|XR_001107992.1| PREDICTED: Aotus nancymaae DNA dC->dU-editing enzyme APOBEC-3G pseudogene (LOC105719513), misc_RNA
+gi|114324705|gb|DQ913668.1| Macaca mulatta clone 95112 apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G (APOBEC3G) mRNA, partial cds
+gi|114324663|gb|DQ913647.1| Macaca mulatta clone 01064 apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G (APOBEC3G) mRNA, partial cds
+gi|1066519371|ref|NM_001345905.1| Rhinopithecus roxellana apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA
+gi|1482626180|ref|XM_026448474.1| PREDICTED: Piliocolobus tephrosceles DNA dC->dU-editing enzyme APOBEC-3G-like (LOC111530206), transcript variant X8, mRNA
+gi|795332749|ref|XM_011964326.1| PREDICTED: Colobus angolensis palliatus DNA dC->dU-editing enzyme APOBEC-3G-like (LOC105527837), mRNA
+gi|1482626183|ref|XM_026448475.1| PREDICTED: Piliocolobus tephrosceles DNA dC->dU-editing enzyme APOBEC-3G-like (LOC111530206), transcript variant X9, mRNA
+gi|1482626177|ref|XM_026448473.1| PREDICTED: Piliocolobus tephrosceles DNA dC->dU-editing enzyme APOBEC-3G-like (LOC111530206), transcript variant X7, mRNA
+gi|1482626175|ref|XM_026448472.1| PREDICTED: Piliocolobus tephrosceles DNA dC->dU-editing enzyme APOBEC-3G-like (LOC111530206), transcript variant X6, mRNA
+gi|1482626172|ref|XM_026448471.1| PREDICTED: Piliocolobus tephrosceles DNA dC->dU-editing enzyme APOBEC-3G-like (LOC111530206), transcript variant X5, mRNA
+gi|1482626170|ref|XM_026448470.1| PREDICTED: Piliocolobus tephrosceles DNA dC->dU-editing enzyme APOBEC-3G-like (LOC111530206), transcript variant X4, mRNA
+gi|1482626167|ref|XM_026448469.1| PREDICTED: Piliocolobus tephrosceles DNA dC->dU-editing enzyme APOBEC-3G-like (LOC111530206), transcript variant X3, mRNA
+gi|1482626164|ref|XM_026448468.1| PREDICTED: Piliocolobus tephrosceles DNA dC->dU-editing enzyme APOBEC-3G-like (LOC111530206), transcript variant X2, mRNA
+gi|1751208917|ref|XM_030913860.1| PREDICTED: Rhinopithecus roxellana apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript variant X1, mRNA

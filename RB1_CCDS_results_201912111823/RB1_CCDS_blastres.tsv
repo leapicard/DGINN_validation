@@ -1,0 +1,55 @@
+# BLASTN 2.10.0+
+# Query: homSap_RB1_CCDS31973
+# Database: nt_v5					
+# Fields: subject id, ?
+# 232 hits found
+gi|108773786|ref|NM_000321.2| Homo sapiens RB transcriptional corepressor 1 (RB1), mRNA
+gi|24660139|gb|BC039060.1| Homo sapiens retinoblastoma 1, mRNA (cDNA clone MGC:29887 IMAGE:5142020), complete cds
+gi|26252119|gb|BC040540.1| Homo sapiens retinoblastoma 1, mRNA (cDNA clone MGC:39656 IMAGE:5267622), complete cds
+gi|793994|gb|L41870.1|HUMRB1MRNA Homo sapiens retinoblastoma susceptibility protein (RB1) mRNA and mutations
+gi|190962|gb|M28419.1|HUMRBSA Human retinoblastoma susceptibility protein mRNA, complete cds
+gi|190945|gb|M33647.1|HUMRBA1RA Human retinoblastoma associated (RB1) mRNA, complete cds
+gi|649120884|gb|KJ897452.1| Synthetic construct Homo sapiens clone ccsbBroadEn_06846 RB1 gene, encodes complete protein
+gi|123996152|gb|DQ894752.2| Synthetic construct Homo sapiens clone IMAGE:100009212; FLH178099.01L; RZPDo839H07125D retinoblastoma 1 (including osteosarcoma) (RB1) gene, encodes complete protein
+gi|123981321|gb|DQ891564.2| Synthetic construct clone IMAGE:100004194; FLH178103.01X; RZPDo839H07126D retinoblastoma 1 (including osteosarcoma) (RB1) gene, encodes complete protein
+gi|675712994|ref|XM_003811422.2| PREDICTED: Pan paniscus RB transcriptional corepressor 1 (RB1), mRNA
+gi|62087155|dbj|AB208788.1| Homo sapiens mRNA for Retinoblastoma-associated protein variant protein
+gi|158255951|dbj|AK291258.1| Homo sapiens cDNA FLJ75028 complete cds, highly similar to Homo sapiens retinoblastoma 1 (including osteosarcoma) (RB1), mRNA
+gi|168275723|dbj|AB384726.1| Synthetic construct DNA, clone: pF1KB3021, Homo sapiens RB1 gene for retinoblastoma-associated protein, complete cds, without stop codon, in Flexi system
+gi|694953960|ref|XM_509777.4| PREDICTED: Pan troglodytes RB transcriptional corepressor 1 (RB1), transcript variant X1, mRNA
+gi|1753039717|ref|XM_031001306.1| PREDICTED: Gorilla gorilla gorilla RB transcriptional corepressor 1 (RB1), mRNA
+gi|190958|gb|M15400.1|HUMRBS Human retinoblastoma susceptibility mRNA, complete cds
+gi|1743215433|ref|XM_003270074.4| PREDICTED: Nomascus leucogenys RB transcriptional corepressor 1 (RB1), mRNA
+gi|1351426287|ref|XM_002824264.2| PREDICTED: Pongo abelii RB transcriptional corepressor 1 (RB1), mRNA
+gi|194390565|dbj|AK300284.1| Homo sapiens cDNA FLJ51085 complete cds, highly similar to Retinoblastoma-associated protein
+gi|194387623|dbj|AK299179.1| Homo sapiens cDNA FLJ52431 complete cds, highly similar to Retinoblastoma-associated protein
+gi|795397651|ref|XM_011756559.1| PREDICTED: Macaca nemestrina RB transcriptional corepressor 1 (RB1), transcript variant X1, mRNA
+gi|635025545|ref|XM_007960381.1| PREDICTED: Chlorocebus sabaeus retinoblastoma 1 (RB1), mRNA
+gi|386782128|ref|NM_001261047.1| Macaca mulatta RB transcriptional corepressor 1 (RB1), mRNA
+gi|982308321|ref|XM_005585835.2| PREDICTED: Macaca fascicularis retinoblastoma 1 (RB1), transcript variant X1, mRNA
+gi|1411122828|ref|XM_025364229.1| PREDICTED: Theropithecus gelada RB transcriptional corepressor 1 (RB1), mRNA
+gi|1297711207|ref|XM_023187397.1| PREDICTED: Piliocolobus tephrosceles RB transcriptional corepressor 1 (RB1), mRNA
+gi|1751251284|ref|XM_010363858.2| PREDICTED: Rhinopithecus roxellana RB transcriptional corepressor 1 (RB1), mRNA
+gi|1777278968|ref|XM_031655844.1| PREDICTED: Papio anubis RB transcriptional corepressor 1 (RB1), mRNA
+gi|795260534|ref|XM_012064314.1| PREDICTED: Cercocebus atys retinoblastoma 1 (RB1), transcript variant X1, mRNA
+gi|817300257|ref|XM_012465151.1| PREDICTED: Aotus nancymaae RB transcriptional corepressor 1 (RB1), mRNA
+gi|1044372464|ref|XM_017535956.1| PREDICTED: Cebus capucinus imitator RB transcriptional corepressor 1 (RB1), transcript variant X1, mRNA
+gi|795098727|ref|XM_011939655.1| PREDICTED: Colobus angolensis palliatus retinoblastoma 1 (RB1), mRNA
+gi|1060933807|ref|XM_008992037.2| PREDICTED: Callithrix jacchus RB transcriptional corepressor 1 (RB1), mRNA
+gi|725603084|ref|XM_003942219.2| PREDICTED: Saimiri boliviensis boliviensis retinoblastoma 1 (RB1), mRNA
+gi|795260541|ref|XM_012064315.1| PREDICTED: Cercocebus atys retinoblastoma 1 (RB1), transcript variant X2, mRNA
+gi|1034584744|ref|XM_011535171.2| PREDICTED: Homo sapiens RB transcriptional corepressor 1 (RB1), transcript variant X1, mRNA
+gi|1034103020|ref|XM_016925689.1| PREDICTED: Pan troglodytes RB transcriptional corepressor 1 (RB1), transcript variant X2, mRNA
+gi|1149770639|ref|XM_020290393.1| PREDICTED: Microcebus murinus RB transcriptional corepressor 1 (RB1), transcript variant X2, mRNA
+gi|795397657|ref|XM_011756560.1| PREDICTED: Macaca nemestrina RB transcriptional corepressor 1 (RB1), transcript variant X2, mRNA
+gi|982308322|ref|XM_015439274.1| PREDICTED: Macaca fascicularis retinoblastoma 1 (RB1), transcript variant X2, mRNA
+gi|795260549|ref|XM_012064317.1| PREDICTED: Cercocebus atys retinoblastoma 1 (RB1), transcript variant X3, mRNA
+gi|795260564|ref|XM_012064319.1| PREDICTED: Cercocebus atys retinoblastoma 1 (RB1), transcript variant X5, mRNA
+gi|795260558|ref|XM_012064318.1| PREDICTED: Cercocebus atys retinoblastoma 1 (RB1), transcript variant X4, mRNA
+gi|1327811508|ref|XM_003796681.3| PREDICTED: Otolemur garnettii RB transcriptional corepressor 1 (RB1), mRNA
+gi|1214027696|ref|XM_008056952.2| PREDICTED: Carlito syrichta RB transcriptional corepressor 1 (RB1), mRNA
+gi|164693293|dbj|AK307730.1| Homo sapiens cDNA, FLJ97678
+gi|1149770636|ref|XM_020290392.1| PREDICTED: Microcebus murinus RB transcriptional corepressor 1 (RB1), transcript variant X1, mRNA
+gi|795245890|ref|XM_011998626.1| PREDICTED: Mandrillus leucophaeus retinoblastoma 1 (RB1), mRNA
+gi|1044372466|ref|XM_017535957.1| PREDICTED: Cebus capucinus imitator RB transcriptional corepressor 1 (RB1), transcript variant X2, mRNA
+gi|1059137295|ref|XM_017873723.1| PREDICTED: Rhinopithecus bieti RB transcriptional corepressor 1 (RB1), mRNA

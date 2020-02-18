@@ -1,0 +1,18 @@
+{
+ "rateMatrix":[
+  [-1.031591458112323, 0.1845208177715257, 0.695280910827086, 0.1517897295137117],
+  [0.1696598329731386, -0.9337459885468773, 0.1809947952914115, 0.5830913602823273],
+  [0.6517383166207131, 0.1845208177715257, -0.9880488639059505, 0.1517897295137117],
+  [0.1696598329731386, 0.7088259197740195, 0.1809947952914115, -1.05948054803857]
+  ],
+ "input":{
+   "file name":"/home/lpicard/2019_validation/21genes_TREX1_CCDS_results_201912111829/TREX1_sequences_filtered_longestORFs_prank_mincov_prank_part2_prank.best.fas",
+   "number of sequences":14,
+   "number of sites":2658,
+   "partition count":2
+  },
+ "timeElapsed":10,
+ "rvChoice":0,
+ "rvRates":0,
+ "potentialBreakpoints":1730
+}

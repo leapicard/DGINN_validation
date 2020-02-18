@@ -1,0 +1,107 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.0.1
+
+
+>Loaded a multiple sequence alignment with **59** sequences, **2019** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_HERC5_CCDS_results_201912111833/HERC5_sequences_filtered_longestORFs_prank_mincov_prank.best.fas`
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 0.1
+
+
+### Branches to include in the MEME analysis
+Selected 115 branches to include in the MEME analysis: `homSap_Ceb1_AB027289, homSap_HERC5_AY337518, Node12, homSap_HERC5_BC140716, Node11, homSap_HERC5_CCDS3630, homSap_HERC5_XM_011532022, Node17, homSap_HERC5_AK302142, Node16, Node10, panPan_HERC5_XM_008963661, panTro_HERC5_XM_024356173, panTro_HERC5_XM_024356172, panTro_HERC5_XM_024356171, Node25, Node23, Node21, Node9, gorGorGor_HERC5_XM_019025377, Node8, ponAbe_HERC5_XM_024246044, Node7, nomLeu_HERC5_XM_012499355, Node6, rhiRox_HERC5_XM_010356902, colAngPal_HERC5_XM_011932393, pilTep_HERC5_XR_002727109, pilTep_HERC5_XM_023195421, Node36, Node34, Node32, chlSab_HERC5_XM_007999226, theGel_HERC5_XM_025386515, macNem_HERC5_XM_011737802, macFas_HERC5_XM_005555394, macMul_HERC5_XM_015138772, Node46, Node44, macFas_HERC5_AB168451, Node43, Node41, Node39, Node31, Node5, aotNan_HERC5_XM_021673251, aotNan_HERC5_XM_021673250, Node52, cebCapImi_HERC5_XM_017545101, cebCapImi_HERC5_XM_017545100, Node56, saiBolBol_HERC5_XM_003924006, Node55, Node51, calJac_HERC5_XM_017970425, calJac_HERC5_XM_002745602, Node60, Node50, Node4, carSyr_HERC5_XM_021712041, Node3, otoGar_HERC5_XM_012805298, Node2, otoGar_HERC6_XM_012805332, Node1, ponAbe_HERC6_XM_024246004, nomLeu_HERC6_XM_003265890, Node69, gorGorGor_HERC6_XM_019025378, panTro_HERC6_XM_001160851, panTro_HERC6_XM_016951853, Node76, panPan_HERC6_XM_008963658, panPan_HERC6_XM_008963657, Node79, Node75, homSap_HERC6_XM_017008333, homSap_HERC6_AK097168, homSap_DKFZp686G2453_BX647121, homSap_HERC6_AK295832, Node87, homSap_DKFZp686G2453_AF336798, homSap_HERC6_XM_005263083, Node90, Node86, Node84, Node82, Node74, Node72, Node68, chlSab_HERC6_XM_007999221, macFas_HERC6_XM_015450598, macMul_HERC6_XM_028848618, Node98, macNem_HERC6_XM_011737721, macNem_HERC6_XM_024792195, Node101, Node97, manLeu_HERC6_XM_011990765, theGel_HERC6_XM_025386516, Node104, Node96, Node94, pilTep_HERC6_XM_026448058, Node93, Node67, cebCapImi_HERC6_XM_017545102, aotNan_HERC6_XM_012437683, calJac_HERC6_XM_008992998, Node111, Node109, saiBolBol_HERC6_XM_003924004, Node108, Node66, carSyr_HERC6_XM_008057501`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -23388.35, AIC-c = 47022.79 (123 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -23023.46, AIC-c = 46307.20 (130 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.5056
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -23023.46
+* non-synonymous/synonymous rate ratio for *test* =   0.5055
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|
+|    285     |     1      |    0.000   |   50.862   |    0.064   |    4.320   |      Yes, p =  0.0536      |     0      |
+|    308     |     1      |    0.000   |  124.557   |    0.056   |    7.654   |      Yes, p =  0.0097      |     1      |
+|    794     |     1      |    0.000   |   79.490   |    0.052   |    6.464   |      Yes, p =  0.0178      |     1      |
+|    829     |     1      |    0.000   |  505.390   |    0.035   |    3.674   |      Yes, p =  0.0750      |     1      |
+|    836     |     1      |    0.000   |   10.517   |    0.109   |    3.142   |      Yes, p =  0.0991      |     0      |
+|    851     |     1      |    0.000   |   10.510   |    0.960   |    5.680   |      Yes, p =  0.0266      |     1      |
+|    876     |     1      |    0.000   |    9.198   |    0.205   |    3.756   |      Yes, p =  0.0718      |     2      |
+|    940     |     1      |    0.000   |    5.698   |    1.000   |    3.851   |      Yes, p =  0.0684      |     0      |
+|    947     |     1      |    0.000   |   11.875   |    0.213   |    4.897   |      Yes, p =  0.0398      |     1      |
+|    1018    |     1      |    0.000   |   82.068   |    0.085   |    3.948   |      Yes, p =  0.0650      |     1      |
+|    1071    |     1      |    0.000   |  230.663   |    0.031   |    7.855   |      Yes, p =  0.0087      |     1      |
+|    1074    |     1      |    0.000   |    2.180   |    1.000   |    3.360   |      Yes, p =  0.0884      |     0      |
+|    1120    |     1      |    1.179   |   75.634   |    0.124   |    3.651   |      Yes, p =  0.0759      |     0      |
+|    1129    |     1      |    0.000   |   10.900   |    0.176   |    6.941   |      Yes, p =  0.0139      |     2      |
+|    1186    |     1      |    1.157   |   24.466   |    0.174   |    4.005   |      Yes, p =  0.0631      |     3      |
+|    1215    |     1      |    0.000   |   25.664   |    0.158   |    3.159   |      Yes, p =  0.0982      |     1      |
+|    1238    |     1      |    0.000   |   67.207   |    0.056   |    3.183   |      Yes, p =  0.0970      |     1      |
+|    1314    |     1      |    0.000   |   76.703   |    0.045   |    8.853   |      Yes, p =  0.0053      |     1      |
+|    1378    |     1      |    0.000   |  358.009   |    0.023   |    5.241   |      Yes, p =  0.0333      |     1      |
+|    1387    |     1      |    0.000   |   54.816   |    0.033   |    3.136   |      Yes, p =  0.0994      |     1      |
+|    1439    |     1      |    0.000   |    7.403   |    0.360   |    5.785   |      Yes, p =  0.0252      |     1      |
+|    1442    |     1      |    0.000   |   12.838   |    0.132   |    4.639   |      Yes, p =  0.0454      |     3      |
+|    1473    |     1      |    0.000   |    3.753   |    0.374   |    4.154   |      Yes, p =  0.0584      |     0      |
+|    1514    |     1      |    1.590   |   13.248   |    0.316   |    3.524   |      Yes, p =  0.0811      |     3      |
+|    1517    |     1      |    0.000   |    6.276   |    0.217   |    3.671   |      Yes, p =  0.0751      |     2      |
+|    1524    |     1      |    0.765   |  119.268   |    0.043   |    5.687   |      Yes, p =  0.0265      |     1      |
+|    1566    |     1      |    0.000   |    4.473   |    1.000   |    9.786   |      Yes, p =  0.0033      |     1      |
+|    1573    |     1      |    0.000   |    2.764   |    1.000   |    6.095   |      Yes, p =  0.0215      |     3      |
+|    1579    |     1      |    0.000   |    1.997   |    1.000   |    3.769   |      Yes, p =  0.0713      |     0      |
+|    1600    |     1      |    0.000   |    5.707   |    0.633   |    5.669   |      Yes, p =  0.0267      |     2      |
+|    1612    |     1      |    6.302   |   59.246   |    0.107   |    3.739   |      Yes, p =  0.0725      |     0      |
+|    1616    |     1      |    0.000   |   31.723   |    0.141   |    7.253   |      Yes, p =  0.0119      |     3      |
+|    1622    |     1      |    0.719   |   40.461   |    0.054   |    7.296   |      Yes, p =  0.0116      |     2      |
+|    1626    |     1      |    0.000   |    5.314   |    0.581   |    6.633   |      Yes, p =  0.0163      |     3      |
+|    1628    |     1      |    0.000   |    2.191   |    0.707   |    3.438   |      Yes, p =  0.0848      |     1      |
+|    1642    |     1      |    0.000   |    7.351   |    0.336   |    3.247   |      Yes, p =  0.0938      |     2      |
+|    1646    |     1      |    0.000   |   26.836   |    0.126   |    9.868   |      Yes, p =  0.0031      |     4      |
+|    1675    |     1      |    0.000   |    5.458   |    0.201   |    4.606   |      Yes, p =  0.0462      |     2      |
+|    1691    |     1      |    0.000   |    1.491   |    1.000   |    4.194   |      Yes, p =  0.0572      |     1      |
+|    1790    |     1      |    0.000   |    3.113   |    0.113   |    3.580   |      Yes, p =  0.0788      |     1      |
+|    1799    |     1      |    0.656   |   12.050   |    0.315   |    4.629   |      Yes, p =  0.0457      |     1      |
+|    1801    |     1      |    0.000   |    3.386   |    0.121   |    3.626   |      Yes, p =  0.0769      |     1      |
+|    1839    |     1      |    0.000   |    8.599   |    0.124   |    6.571   |      Yes, p =  0.0168      |     2      |
+|    1863    |     1      |    0.000   |    2.383   |    1.000   |    3.422   |      Yes, p =  0.0856      |     0      |
+|    1898    |     1      |    0.000   |    1.380   |    1.000   |    3.417   |      Yes, p =  0.0858      |     1      |
+|    1907    |     1      |    0.000   |    1.386   |    1.000   |    4.293   |      Yes, p =  0.0543      |     0      |
+|    1931    |     1      |    0.000   |    3.612   |    0.310   |    3.823   |      Yes, p =  0.0694      |     3      |
+|    1949    |     1      |    0.000   |    7.302   |    0.066   |    5.768   |      Yes, p =  0.0254      |     1      |
+|    1958    |     1      |    0.000   |   11.371   |    0.230   |    4.357   |      Yes, p =  0.0526      |     5      |
+|    1959    |     1      |    0.000   |   20.281   |    0.074   |    4.109   |      Yes, p =  0.0598      |     2      |
+|    1961    |     1      |    0.000   |    2.552   |    1.000   |    4.398   |      Yes, p =  0.0515      |     1      |
+|    1965    |     1      |    0.262   |   40.154   |    0.145   |    8.364   |      Yes, p =  0.0067      |     0      |
+|    1999    |     1      |    0.000   |   45.583   |    0.122   |    4.012   |      Yes, p =  0.0629      |     2      |
+
+### ** Found _53_ sites under episodic diversifying positive selection at p <= 0.1**

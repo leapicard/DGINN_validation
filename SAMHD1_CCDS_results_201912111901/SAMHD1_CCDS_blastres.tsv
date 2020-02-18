@@ -1,0 +1,110 @@
+# BLASTN 2.10.0+
+# Query: homSap_SAMHD1_CCDS13288
+# Database: nt_v5					
+# Fields: subject id, ?
+# 170 hits found
+gi|1777425440|ref|NM_015474.4| Homo sapiens SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant 1, mRNA
+gi|14042765|dbj|AK027811.1| Homo sapiens cDNA FLJ14905 fis, clone PLACE1005739, moderately similar to INTERFERON-GAMMA INDUCIBLE PROTEIN MG11
+gi|11610569|dbj|AB013847.1| Homo sapiens mRNA for MOP-5, complete cds
+gi|164693971|dbj|AK315169.1| Homo sapiens cDNA, FLJ96144
+gi|34783273|gb|BC036450.2| Homo sapiens SAM domain and HD domain 1, mRNA (cDNA clone MGC:33043 IMAGE:4816438), complete cds
+gi|649124480|gb|KJ898573.1| Synthetic construct Homo sapiens clone ccsbBroadEn_07967 SAMHD1 gene, encodes complete protein
+gi|325463532|gb|JF432320.1| Synthetic construct Homo sapiens clone IMAGE:100073506 SAM domain and HD domain 1 (SAMHD1) gene, encodes complete protein
+gi|62087467|dbj|AB208944.1| Homo sapiens mRNA for SAM domain- and HD domain-containing protein 1 variant protein
+gi|1433535926|gb|AF228421.2| Homo sapiens hypothetical protein SBBI88 mRNA, complete cds
+gi|4886492|emb|AL050267.1| Homo sapiens mRNA; cDNA DKFZp564A032 (from clone DKFZp564A032)
+gi|525344363|ref|NM_001280510.1| Pan troglodytes SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA >gi|377652531|gb|JQ231123.1| Pan troglodytes SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds >gi|387538821|gb|JQ085410.1| Pan troglodytes SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds >gi|387538823|gb|JQ085411.1| Pan troglodytes SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds >gi|408743666|gb|JN936887.1| Pan troglodytes SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|525313708|ref|NM_001279186.1| Pan paniscus SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA >gi|377652533|gb|JQ231124.1| Pan paniscus SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|387538819|gb|JQ085409.1| Pan troglodytes SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|525342781|ref|NM_001279619.1| Gorilla gorilla SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA >gi|377652535|gb|JQ231125.1| Gorilla gorilla SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|1351478559|ref|XM_002830274.4| PREDICTED: Pongo abelii SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA
+gi|408743668|gb|JN936888.1| Pongo pygmaeus SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|377652537|gb|JQ231126.1| Pongo pygmaeus SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|408743670|gb|JN936889.1| Hylobates lar SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|377652541|gb|JQ231128.1| Symphalangus syndactylus SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|525342661|ref|NM_001280119.1| Nomascus leucogenys SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA >gi|377652543|gb|JQ231129.1| Nomascus leucogenys SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|377652539|gb|JQ231127.1| Hylobates agilis SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|1677501418|ref|NM_001363733.2| Homo sapiens SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant 3, mRNA
+gi|1034135123|ref|XM_016937135.1| PREDICTED: Pan troglodytes SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X2, mRNA
+gi|931609410|ref|XM_014343008.1| PREDICTED: Pan paniscus SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X1, mRNA
+gi|567316067|ref|NM_001287721.1| Macaca fascicularis SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA >gi|408743678|gb|JN936893.1| Macaca fascicularis SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|377652575|gb|JQ231145.1| Colobus guereza SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|408743694|gb|JN936901.1| Miopithecus talapoin SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|408743680|gb|JN936894.1| Macaca mulatta SAM domain and HD domain-containing protein variant 1 (SAMHD1) mRNA, complete cds
+gi|410442523|ref|NM_001271642.1| Macaca mulatta SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA >gi|402513685|gb|JQ425163.1| Macaca mulatta SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds >gi|408743682|gb|JN936895.1| Macaca mulatta SAM domain and HD domain-containing protein variant 2 (SAMHD1) mRNA, complete cds
+gi|377652571|gb|JQ231143.1| Trachypithecus francoisi SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|377652555|gb|JQ231135.1| Macaca mulatta SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|802083998|ref|NM_001305839.1| Colobus angolensis palliatus SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA >gi|408743702|gb|JN936905.1| Colobus angolensis palliatus SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|408743698|gb|JN936903.1| Pygathrix nemaeus nemaeus SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|377652573|gb|JQ231144.1| Nasalis larvatus SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|377652563|gb|JQ231139.1| Miopithecus talapoin SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|1059125443|ref|XM_017859095.1| PREDICTED: Rhinopithecus bieti SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA
+gi|560223682|gb|KF741041.1| Chlorocebus aethiops haplotype 1 SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|377652551|gb|JQ231133.1| Cercocebus torquatus SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|1411087090|ref|XM_025399035.1| PREDICTED: Theropithecus gelada SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X1, mRNA
+gi|560223694|gb|KF741047.1| Chlorocebus pygerythrus haplotype 7 SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|560223692|gb|KF741046.1| Chlorocebus aethiops haplotype 6 SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|408743692|gb|JN936900.1| Allenopithecus nigroviridis SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|408743690|gb|JN936899.1| Cercocebus chrysogaster SAM domain and HD domain-containing protein variant 2 (SAMHD1) mRNA, complete cds
+gi|408743684|gb|JN936896.1| Theropithecus gelada SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|408743674|gb|JN936891.1| Chlorocebus tantalus SAM domain and HD domain-containing protein variant 1 (SAMHD1) mRNA, complete cds >gi|560223684|gb|KF741042.1| Chlorocebus tantalus haplotype 2 SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|377652569|gb|JQ231142.1| Allenopithecus nigroviridis SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|377652559|gb|JQ231137.1| Chlorocebus pygerythrus SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|1751209917|ref|XM_010355318.2| PREDICTED: Rhinopithecus roxellana SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X1, mRNA
+gi|560223690|gb|KF741045.1| Chlorocebus aethiops haplotype 5 SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|408743700|gb|JN936904.1| Trachypithecus francoisi SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|408743688|gb|JN936898.1| Cercocebus chrysogaster SAM domain and HD domain-containing protein variant 1 (SAMHD1) mRNA, complete cds
+gi|408743676|gb|JN936892.1| Chlorocebus tantalus SAM domain and HD domain-containing protein variant 2 (SAMHD1) mRNA, complete cds >gi|560223688|gb|KF741044.1| Chlorocebus tantalus haplotype 4 SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|408743672|gb|JN936890.1| Papio hamadryas SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|806638539|ref|NM_001305948.1| Cercocebus atys SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA >gi|377652549|gb|JQ231132.1| Cercocebus atys SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|377652545|gb|JQ231130.1| Mandrillus sphinx SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|636576904|ref|NM_001292080.1| Chlorocebus sabaeus SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA >gi|560223686|gb|KF741043.1| Chlorocebus sabaeus haplotype 3 SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|408743686|gb|JN936897.1| Mandrillus sphinx SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|525344817|ref|NM_001279525.1| Papio anubis SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA >gi|377652553|gb|JQ231134.1| Papio anubis SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|802083984|ref|NM_001305824.1| Mandrillus leucophaeus SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA >gi|377652547|gb|JQ231131.1| Mandrillus leucophaeus SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|377652567|gb|JQ231141.1| Cercopithecus neglectus SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|377652565|gb|JQ231140.1| Cercopithecus wolfi SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|377652561|gb|JQ231138.1| Erythrocebus patas SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|408743696|gb|JN936902.1| Cercopithecus diana SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|377652557|gb|JQ231136.1| Chlorocebus tantalus SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|1381462825|ref|XM_024797464.1| PREDICTED: Macaca nemestrina SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA
+gi|1751209919|ref|XM_030914206.1| PREDICTED: Rhinopithecus roxellana SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X2, mRNA
+gi|377652587|gb|JQ231151.1| Pithecia pithecia SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|408743716|gb|JN936912.1| Alouatta palliata SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|377652583|gb|JQ231149.1| Ateles geoffroyi SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|408743714|gb|JN936911.1| Ateles geoffroyi SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|725577951|ref|XM_010342629.1| PREDICTED: Saimiri boliviensis boliviensis SAM domain and HD domain 1 (SAMHD1), mRNA
+gi|408743710|gb|JN936909.1| Saimiri sciureus SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|408743704|gb|JN936906.1| Callithrix jacchus SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|377652589|gb|JQ231152.1| Callicebus moloch SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|377652577|gb|JQ231146.1| Callithrix pygmaea SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|408743708|gb|JN936908.1| Saguinus oedipus SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|1677529912|ref|NM_001363729.2| Homo sapiens SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant 2, mRNA
+gi|1212384306|ref|XM_021665753.1| PREDICTED: Aotus nancymaae SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X2, mRNA
+gi|1212384305|ref|XM_012455058.2| PREDICTED: Aotus nancymaae SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X1, mRNA
+gi|1060991084|ref|XM_008995428.2| PREDICTED: Callithrix jacchus SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X1, mRNA
+gi|377652585|gb|JQ231150.1| Lagothrix lagotricha SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|377652579|gb|JQ231147.1| Saguinus labiatus SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|408743706|gb|JN936907.1| Aotus trivirgatus SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|408743712|gb|JN936910.1| Cebus apella SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|377652581|gb|JQ231148.1| Aotus trivirgatus SAM domain and HD domain-containing protein 1 (SAMHD1) mRNA, complete cds
+gi|1367230733|ref|XM_016937134.2| PREDICTED: Pan troglodytes SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X1, mRNA
+gi|194385379|dbj|AK304187.1| Homo sapiens cDNA FLJ54403 complete cds, highly similar to SAM domain and HD domain-containing protein 1
+gi|1622836778|ref|XM_028827318.1| PREDICTED: Macaca mulatta SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X1, mRNA
+gi|635022759|ref|XM_007964147.1| PREDICTED: Chlorocebus sabaeus SAM domain and HD domain 1 (SAMHD1), transcript variant X2, mRNA
+gi|1743153703|ref|XM_030825201.1| PREDICTED: Nomascus leucogenys SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X2, mRNA
+gi|1743153701|ref|XM_030825200.1| PREDICTED: Nomascus leucogenys SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X1, mRNA
+gi|1060991093|ref|XM_017971776.1| PREDICTED: Callithrix jacchus SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X5, mRNA
+gi|1060991091|ref|XR_619632.2| PREDICTED: Callithrix jacchus SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X4, misc_RNA
+gi|1060991089|ref|XR_001911381.1| PREDICTED: Callithrix jacchus SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X3, misc_RNA
+gi|1060991086|ref|XM_017971775.1| PREDICTED: Callithrix jacchus SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X2, mRNA
+gi|1411087092|ref|XM_025399036.1| PREDICTED: Theropithecus gelada SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X2, mRNA
+gi|1220153889|ref|XM_021944146.1| PREDICTED: Papio anubis SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X2, mRNA
+gi|408743718|gb|JN936913.1| Varecia variegata variegata SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|836938628|ref|NM_001309948.1| Microcebus murinus SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA >gi|408743720|gb|JN936914.1| Microcebus murinus SAM domain and HD domain-containing protein (SAMHD1) mRNA, complete cds
+gi|1220153887|ref|XM_021944145.1| PREDICTED: Papio anubis SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X1, mRNA
+gi|1149820151|ref|XM_012754872.2| PREDICTED: Microcebus murinus SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), transcript variant X1, mRNA
+gi|1214018158|ref|XM_021708371.1| PREDICTED: Carlito syrichta SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA
+gi|1482594914|ref|XM_026455277.1| PREDICTED: Piliocolobus tephrosceles SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA
+gi|1044340245|ref|XM_017511281.1| PREDICTED: Cebus capucinus imitator SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 (SAMHD1), mRNA
+gi|168740122|emb|CU690349.1| Synthetic construct Homo sapiens gateway clone IMAGE:100020353 3' read SAMHD1 mRNA

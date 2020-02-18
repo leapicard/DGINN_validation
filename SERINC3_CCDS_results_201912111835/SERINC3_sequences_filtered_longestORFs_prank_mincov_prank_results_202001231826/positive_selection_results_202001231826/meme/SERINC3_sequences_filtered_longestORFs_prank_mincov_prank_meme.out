@@ -1,0 +1,68 @@
+
+Analysis Description
+--------------------
+MEME (Mixed Effects Model of Evolution) estimates a site-wise synonymous
+(&alpha;) and a two-category mixture of non-synonymous (&beta;-, with
+proportion p-, and &beta;+ with proportion [1-p-]) rates, and uses a
+likelihood ratio test to determine if &beta;+ > &alpha; at a site. The
+estimates aggregate information over a proportion of branches at a site,
+so the signal is derived from episodic diversification, which is a
+combination of strength of selection [effect size] and the proportion of
+the tree affected. A subset of branches can be selected for testing as
+well, in which case an additional (nuisance) parameter will be inferred
+-- the non-synonymous rate on branches NOT selected for testing.
+Multiple partitions within a NEXUS file are also supported for
+recombination - aware analysis. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Detecting Individual Sites Subject to Episodic Diversifying Selection.
+_PLoS Genet_ 8(7): e1002764.
+
+- __Written by__: Sergei L. Kosakovsky Pond, Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.0.1
+
+
+>Loaded a multiple sequence alignment with **35** sequences, **622** codons, and **1** partitions from `/home/lpicard/2019_validation/20191211/21genes_SERINC3_CCDS_results_201912111835/SERINC3_sequences_filtered_longestORFs_prank_mincov_prank.best.fas`
+
+>Select the p-value threshold to use when testing for selection (permissible range = [0,1], default value = 0.1): 0.1
+
+
+### Branches to include in the MEME analysis
+Selected 67 branches to include in the MEME analysis: `manLeu_SERINC3_XM_011997639, chlSab_LOC103221298_XM_007972183, macNem_SERINC3_XM_011766801, Node12, Node10, macMul_SERINC3_XR_001447470, macMul_SERINC3_NM_001260972, Node15, Node9, theGel_SERINC3_XM_025399647, papAnu_SERINC3_XR_652310, Node18, Node8, macFas_SERINC3_XR_281514, macFas_SERINC3_AB170249, Node21, Node7, chlSab_SERINC3_XM_008016556, chlSab_SERINC3_XM_008016564, Node24, Node6, pilTep_SERINC3_XR_002734884, rhiRox_SERINC3_XM_010384274, rhiBie_SERINC3_XM_017878010, Node30, colAngPal_SERINC3_XM_011928996, Node29, Node27, Node5, nomLeu_SERINC3_XM_030826652, ponAbe_DKFZp459N1015_CR861044, gorGorGor_SERINC3_XM_004062199, panPan_SERINC3_XM_003825928, panTro_SERINC3_AK305000, panTro_SERINC3_XM_009437223, Node43, Node41, Node39, homSap_Diff33_AK300618, homSap_LOC111529521_AK295120, homSap_SERINC3_AF153979, homSap_SERINC3_AK222923, Node52, Node50, Node48, homSap_Diff33_AK309993, Node47, homSap_SERINC3_CCDS13333, Node46, Node38, Node36, Node34, Node4, calJac_SERINC3_XM_002747577, aotNan_SERINC3_XM_012467237, Node58, cebCapImi_SERINC3_XM_017541180, saiBolBol_SERINC3_XM_003936404, Node61, Node57, Node3, carSyr_SERINC3_XM_008059822, Node2, otoGar_SERINC3_XM_012803803, Node1, micMur_LOC105881582_XR_002223657, micMur_SERINC3_XM_012780823`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -5565.60, AIC-c = 11281.38 (75 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -5427.83, AIC-c = 11020.29 (82 estimated parameters)
+* non-synonymous/synonymous rate ratio for *test* =   0.3310
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -5427.83
+* non-synonymous/synonymous rate ratio for *test* =   0.3310
+
+### For partition 1 these sites are significant at p <=0.1
+
+|   Codon    | Partition  |   alpha    |   beta+    |     p+     |    LRT     |Episodic selection detected?| # branches |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------------------:|:----------:|
+|     72     |     1      |    0.000   |   14.089   |    0.083   |    4.516   |      Yes, p =  0.0484      |     1      |
+|    146     |     1      |    0.000   |   19.837   |    0.133   |    6.134   |      Yes, p =  0.0211      |     2      |
+|    207     |     1      |    1.293   |   70.190   |    0.077   |    7.549   |      Yes, p =  0.0102      |     2      |
+|    210     |     1      |    0.000   |   13.420   |    0.480   |    5.183   |      Yes, p =  0.0343      |     0      |
+|    214     |     1      |    0.000   |   12.821   |    0.307   |    4.563   |      Yes, p =  0.0473      |     1      |
+|    235     |     1      |    0.000   |  132.125   |    0.031   |    3.171   |      Yes, p =  0.0976      |     1      |
+|    270     |     1      |    0.000   |  244.038   |    0.025   |    3.657   |      Yes, p =  0.0757      |     1      |
+|    370     |     1      |    0.000   |   19.095   |    0.085   |    3.891   |      Yes, p =  0.0670      |     0      |
+|    375     |     1      |    1.578   |  1492.676  |    0.023   |   10.102   |      Yes, p =  0.0028      |     1      |
+|    377     |     1      |    1.386   |   84.355   |    0.110   |    3.752   |      Yes, p =  0.0720      |     2      |
+|    397     |     1      |    0.000   |    5.797   |    0.658   |    3.539   |      Yes, p =  0.0805      |     0      |
+|    407     |     1      |    0.000   |   80.317   |    0.039   |    8.471   |      Yes, p =  0.0064      |     1      |
+|    431     |     1      |    0.000   |   28.986   |    0.326   |    7.258   |      Yes, p =  0.0118      |     1      |
+|    526     |     1      |    0.000   |  829.968   |    0.024   |    3.768   |      Yes, p =  0.0714      |     0      |
+
+### ** Found _14_ sites under episodic diversifying positive selection at p <= 0.1**

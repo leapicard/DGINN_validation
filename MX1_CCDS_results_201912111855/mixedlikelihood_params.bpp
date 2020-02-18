@@ -1,0 +1,10 @@
+alphabet = Codon(letter=DNA)
+input.sequence.file=$(INPUTFILE)
+input.sequence.format=$(FORMAT)
+input.sequence.sites_to_use = all
+input.sequence.max_gap_allowed = 50%
+input.sequence.max_unresolved_allowed = 100%
+input.tree.file = $(TREEFILE)
+input.tree.format = Newick
+params = $(PARAMS)
+output.likelihoods.file = $(OUTINFO)
