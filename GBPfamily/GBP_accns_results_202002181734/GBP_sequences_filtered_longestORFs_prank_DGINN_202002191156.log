@@ -1,0 +1,25 @@
+2020-02-19 11:56:22,896 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2020-02-19 11:56:22,897 - main - INFO - Reading input file /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank.best.fas
+2020-02-19 11:56:22,897 - main - INFO - Output directory: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank_results_202002191156/
+2020-02-19 11:56:22,897 - main - INFO - Analysis will begin at the duplication step
+2020-02-19 11:56:22,902 - main.duplication - INFO - Alignement file: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank.best.fas
+2020-02-19 11:56:22,902 - main.duplication - INFO - Gene Tree file: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank.phylip_phyml_tree.txt
+2020-02-19 11:56:22,968 - main.duplication - INFO - Looking for long branches.
+2020-02-19 11:56:22,979 - main.duplication - INFO - No long branches found.
+2020-02-19 11:56:23,298 - main.duplication - INFO - Cleaning the tree
+2020-02-19 11:56:23,298 - main.duplication - INFO - Running Treerecs
+2020-02-19 11:56:31,199 - main.duplication - INFO - 106 duplications detected by Treerecs, extracting 7 groups of at least 8 orthologs.
+2020-02-19 11:56:31,199 - main.alignment - INFO - Started Prank codon alignment
+2020-02-19 12:00:33,772 - main.alignment - INFO - Finished Prank codon alignment: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank_results_202002191156/GBP_sequences_filtered_longestORFs_prank_D387gp1_prank.best.fas
+2020-02-19 12:00:40,204 - main.alignment - INFO - Started Prank codon alignment
+2020-02-19 12:03:10,527 - main.alignment - INFO - Finished Prank codon alignment: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank_results_202002191156/GBP_sequences_filtered_longestORFs_prank_D387gp2_prank.best.fas
+2020-02-19 12:03:12,245 - main.alignment - INFO - Started Prank codon alignment
+2020-02-19 12:14:54,575 - main.alignment - INFO - Finished Prank codon alignment: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank_results_202002191156/GBP_sequences_filtered_longestORFs_prank_D741gp1_prank.best.fas
+2020-02-19 12:15:10,558 - main.alignment - INFO - Started Prank codon alignment
+2020-02-19 12:20:23,706 - main.alignment - INFO - Finished Prank codon alignment: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank_results_202002191156/GBP_sequences_filtered_longestORFs_prank_D741gp2_prank.best.fas
+2020-02-19 12:20:32,353 - main.alignment - INFO - Started Prank codon alignment
+2020-02-19 12:36:35,614 - main.alignment - INFO - Finished Prank codon alignment: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank_results_202002191156/GBP_sequences_filtered_longestORFs_prank_D1034gp1_prank.best.fas
+2020-02-19 12:37:14,938 - main.alignment - INFO - Started Prank codon alignment
+2020-02-19 12:45:34,221 - main.alignment - INFO - Finished Prank codon alignment: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank_results_202002191156/GBP_sequences_filtered_longestORFs_prank_D1034gp2_prank.best.fas
+2020-02-19 12:45:57,762 - main.alignment - INFO - Started Prank codon alignment
+2020-02-19 12:53:58,036 - main.alignment - INFO - Finished Prank codon alignment: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank_results_202002191156/GBP_sequences_filtered_longestORFs_prank_duplication_remainingsequences_prank.best.fas

@@ -1,0 +1,13 @@
+2020-02-18 17:34:58,074 - main - INFO - Starting /home/lpicard/DGINN/lib/Init.py (v1.0)
+2020-02-18 17:34:58,075 - main - INFO - Reading input file /home/lpicard/2020_GBP/GBP_accns.txt
+2020-02-18 17:34:58,075 - main - INFO - Output directory: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/
+2020-02-18 17:34:58,075 - main - INFO - Analysis will begin at the fasta step
+2020-02-18 17:35:18,754 - main.accessions - INFO - Remote option on, downloaded gene IDs and sequences from NCBI databases (29 different species represented in the retrieved sequences).
+2020-02-18 17:35:18,755 - main.accessions - INFO - Deleted 0 sequences due to excessive length.
+2020-02-18 17:35:19,266 - main.orf - INFO - Deleted 33 sequences as duplicates
+2020-02-18 17:35:19,270 - main.orf - INFO - Extracted longest ORFs: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs.fasta
+2020-02-18 17:35:19,271 - main.alignment - INFO - Started Prank codon alignment
+2020-02-18 18:59:04,700 - main.alignment - INFO - Finished Prank codon alignment: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank.best.fas
+2020-02-18 18:59:04,719 - main.alignment - WARNING - Provided query name not found in the alignment, skipping coverage check.
+2020-02-18 18:59:04,719 - main.tree - INFO - Running PhyML to produce gene phylogenetic tree
+2020-02-18 19:17:31,647 - main.tree - INFO - Reconstructed tree using PhyML: /home/lpicard/2020_GBP/GBP_accns_results_202002181734/GBP_sequences_filtered_longestORFs_prank.phylip_phyml_tree.txt
